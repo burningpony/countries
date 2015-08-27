@@ -1,7 +1,6 @@
 module ISO3166; end
 
 class ISO3166::Country
-  Setup = ISO3166::Setup.new
 
   AttrReaders = [
     :number,
@@ -66,7 +65,7 @@ class ISO3166::Country
   end
 
   def <=>(other)
-    self.to_s <=> other.to_s
+    to_s <=> other.to_s
   end
 
   def currency
@@ -96,7 +95,7 @@ class ISO3166::Country
   end
 
   def translation(locale = 'en')
-    @data['translations'][locale.downcase]
+    @data['translations'][locale.to_s.downcase]
   end
 
   private
@@ -109,12 +108,12 @@ class ISO3166::Country
     end
 
     def codes
-      Setup.codes
+      ISO3166::Data.codes
     end
 
     def all(&blk)
-      blk ||= proc {|alpha2, d| ISO3166::Country.new(d)}
-      Setup.data.map(&blk)
+      blk ||= proc { |_alpha2, d| ISO3166::Country.new(d) }
+      ISO3166::Data.cache.map(&blk)
     end
 
     alias_method :countries, :all
@@ -123,7 +122,7 @@ class ISO3166::Country
       translations(locale).values
     end
 
-    def all_names_with_codes(locale = 'en')
+    def all_names_with_codes(_locale = 'en')
       ISO3166::Country.all.map do |c|
         [(c.translation(locale) || c.name ).html_safe, c.alpha2]
       end.sort_by { |d| d[0] }
@@ -153,7 +152,7 @@ class ISO3166::Country
     def find_all_by(attribute, val)
       attributes, value = parse_attributes(attribute, val)
 
-      Setup.data.select do |_, v|
+      ISO3166::Data.cache.select do |_, v|
         attributes.map do |attr|
           Array(v[attr]).any? { |n| value === n.to_s.downcase }
         end.include?(true)
