@@ -122,7 +122,7 @@ class ISO3166::Country
       translations(locale).values
     end
 
-    def all_names_with_codes(_locale = 'en')
+    def all_names_with_codes(locale = 'en')
       ISO3166::Country.all.map do |c|
         [(c.translation(locale) || c.name ).html_safe, c.alpha2]
       end.sort_by { |d| d[0] }

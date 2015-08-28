@@ -239,7 +239,7 @@ describe ISO3166::Country do
       countries = ISO3166::Country.all_names_with_codes(:es)
       expect(countries).to be_an(Array)
       expect(countries.first[0]).to be_a(String)
-      expect(countries.first[0]).to eq('Afghanistan')
+      expect(countries.first[0]).to eq('Afganistán')
       expect(countries.size).to eq(250)
     end
   end
