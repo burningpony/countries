@@ -1,5 +1,7 @@
-
+require "codeclimate-test-reporter"
+CodeClimate::TestReporter.start
 require 'iso3166'
+
 RSpec.configure do |config|
 
   # config.after(:each) do
