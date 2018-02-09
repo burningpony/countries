@@ -59,6 +59,8 @@ AC:
     vi: Aceh
     zh: 亞齊
     zu: Aceh
+    sr_Latn: Aćeh
+    ccp: "\U00011103\U0001110C\U0001112C\U00011126\U00011134"
   geo:
     latitude: 4.695135
     longitude: 96.7493993
@@ -99,6 +101,8 @@ BA:
     sv: Bali
     sw: Bali
     vi: Bali
+    ccp: "\U0001111D\U00011123\U00011128"
+    zu: Bali
   geo:
     latitude: -8.4095178
     longitude: 115.188916
@@ -155,6 +159,9 @@ BB:
     ur: بانگکا بیلیٹنگ
     vi: Quần đảo Bangka-Belitung
     zh: 邦加-勿里洞省
+    sr_Latn: Bangka Belitung
+    ccp: "\U0001111D\U00011101\U00011107-\U0001111D\U0001112C\U00011123\U00011128\U00011111\U00011101
+      \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
   geo:
     latitude: -2.7410513
     longitude: 106.4405872
@@ -211,6 +218,8 @@ BE:
     ur: بنگکولو
     vi: Bengkulu
     zh: 明古魯省
+    sr_Latn: Bengkulu
+    ccp: "\U0001111D\U0001112C\U00011101\U00011107\U0001112A\U00011123\U0001112A"
   geo:
     latitude: -3.792845099999999
     longitude: 102.2607641
@@ -267,6 +276,8 @@ BT:
     ur: بانٹین
     vi: Banten
     zh: 万丹省
+    sr_Latn: Banten
+    ccp: "\U0001111D\U0001111A\U00011134\U00011111\U0001112C\U0001111A\U00011134"
   geo:
     latitude: -6.4058172
     longitude: 106.0640179
@@ -320,6 +331,8 @@ GO:
     ur: گورونٹالو (صوبہ)
     vi: Gorontalo
     zh: 哥伦打洛省
+    sr_Latn: Gorontalo
+    ccp: "\U00011109\U0001112E\U00011122\U0001112E\U0001111A\U00011134\U00011111\U00011123\U0001112E"
   geo:
     latitude: 0.533333
     longitude: 123.066667
@@ -375,6 +388,8 @@ JA:
     ur: جمبی
     vi: Jambi
     zh: 占碑省
+    sr_Latn: Džambi
+    ccp: "\U0001110E\U0001111F\U00011134\U0001111D\U00011128"
   geo:
     latitude: -1.59
     longitude: 103.61
@@ -430,6 +445,8 @@ JB:
     ur: مغربی جاوا
     vi: Tây Java
     zh: 西爪哇省
+    sr_Latn: Zapadna Java
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001110E\U0001111E"
   geo:
     latitude: -7.090910999999999
     longitude: 107.668887
@@ -487,6 +504,8 @@ JI:
     ur: مشرقی جاوا
     vi: Đông Java
     zh: 东爪哇省
+    sr_Latn: Istočna Java
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U0001110E\U0001111E"
   geo:
     latitude: -7.5360639
     longitude: 112.2384017
@@ -563,6 +582,8 @@ JK:
     ur: جکارتہ
     vi: Jakarta
     zh: 雅加达
+    sr_Latn: Džakarta
+    ccp: "\U0001110E\U00011107\U00011122\U00011134\U00011116"
   geo:
     latitude: -6.1744651
     longitude: 106.822745
@@ -628,6 +649,10 @@ JT:
     ur: وسطی جاوا
     vi: Trung Java
     zh: 中爪哇省
+    sr_Latn: Centralna Java
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001110E\U0001111E"
+    zu: Jawa Tengah
   geo:
     latitude: -7.150975
     longitude: 110.1402594
@@ -682,6 +707,8 @@ KB:
     ur: مغربی کالیمانتان
     vi: Tây Kalimantan
     zh: 西加里曼丹省
+    sr_Latn: Zapadni Kalimantan
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011107\U00011123\U00011128\U0001111F\U0001111A\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: -0.2787808
     longitude: 111.4752851
@@ -736,6 +763,8 @@ KI:
     ur: مشرقی کالیمانتان
     vi: Đông Kalimantan
     zh: 東加里曼丹省
+    sr_Latn: Istočni Kalimantan
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011107\U00011123\U00011128\U0001111F\U0001111A\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: 0.5386586
     longitude: 116.419389
@@ -791,6 +820,8 @@ KR:
     ur: ریاو جزائر صوبہ
     vi: Quần đảo Riau
     zh: 廖内群岛省
+    sr_Latn: Ostrva Rijau
+    ccp: "\U00011122\U0001112D\U00011105\U0001112A \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
   geo:
     latitude: 3.9456514
     longitude: 108.1428669
@@ -844,6 +875,8 @@ KS:
     ur: جنوبی کالیمانتان
     vi: Nam Kalimantan
     zh: 南加里曼丹省
+    sr_Latn: Južni Kalimantan
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011107\U00011123\U00011128\U0001111F\U0001111A\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: -3.0926415
     longitude: 115.2837585
@@ -898,6 +931,9 @@ KT:
     ur: وسطی کالیمانتان
     vi: Trung Kalimantan
     zh: 中加里曼丹省
+    sr_Latn: Centralni Kalimantan
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U00011107\U00011123\U00011128\U0001111F\U0001111A\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: -1.6814878
     longitude: 113.3823545
@@ -953,6 +989,8 @@ LA:
     ur: لامپونگ
     vi: Lampung
     zh: 楠榜省
+    sr_Latn: Lampung
+    ccp: "\U00011123\U0001111F\U00011134\U0001111B\U0001112A\U00011101"
   geo:
     latitude: -4.5585849
     longitude: 105.4068079
@@ -1012,6 +1050,8 @@ MA:
     ur: مالوکو (صوبہ)
     vi: Maluku
     zh: 马鲁古省
+    sr_Latn: Moluci
+    ccp: "\U0001111F\U00011123\U0001112A\U00011107\U0001112A"
   geo:
     latitude: -3.2384616
     longitude: 130.1452734
@@ -1065,6 +1105,8 @@ MU:
     ur: شمالی مالوکو
     vi: Bắc Maluku
     zh: 北马鲁古省
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111F\U00011123\U0001112A\U00011107\U0001112A"
   geo:
     latitude: 1.5709993
     longitude: 127.8087693
@@ -1117,6 +1159,9 @@ NB:
     ur: مغربی نوسا ٹنگارہ
     vi: Nusa Tenggara Barat
     zh: 西努沙登加拉省
+    sr_Latn: Zapadna Nusa Tengara
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111A\U0001112A\U00011125
+      \U00011111\U0001112C\U0001111A\U00011134\U00011109\U00011122"
   geo:
     latitude: -8.6529334
     longitude: 117.3616476
@@ -1171,6 +1216,9 @@ NT:
     ur: مشرقی نوسا ٹنگارہ
     vi: Đông Nusa Tenggara
     zh: 東努沙登加拉省
+    sr_Latn: Istočna Nusa Tengara
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U0001111A\U0001112A\U00011125
+      \U00011111\U0001112C\U0001111A\U00011134\U00011109\U00011122"
   geo:
     latitude: -8.657381899999999
     longitude: 121.0793705
@@ -1226,6 +1274,8 @@ PA:
     ur: پاپوا (صوبہ)
     vi: Papua
     zh: 巴布亚省
+    sr_Latn: Papua
+    ccp: "\U0001111B\U0001111B\U0001112A\U00011120"
   geo:
     latitude: -4.269928
     longitude: 138.0803529
@@ -1280,6 +1330,8 @@ RI:
     ur: ریاو
     vi: Riau
     zh: 廖內省
+    sr_Latn: Rijau
+    ccp: "\U00011122\U0001112D\U00011105\U0001112A"
   geo:
     latitude: 0.2933469
     longitude: 101.7068294
@@ -1333,6 +1385,9 @@ SA:
     ur: شمالی سولاویسی
     vi: Bắc Sulawesi
     zh: 北苏拉威西省
+    sr_Latn: Severni Sulavesi
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011125\U0001112A\U00011123\U00011120\U0001112C\U00011125\U00011128"
   geo:
     latitude: 0.6246932
     longitude: 123.9750018
@@ -1388,6 +1443,8 @@ SB:
     ur: مغربی سماٹرا
     vi: Tây Sumatera
     zh: 西苏门答腊省
+    sr_Latn: Zapadna Sumatra
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011125\U0001112A\U0001111F\U00011116\U00011133\U00011122\U00011134"
   geo:
     latitude: -0.7399397
     longitude: 100.8000051
@@ -1440,6 +1497,9 @@ SG:
     ur: جنوب مشرقی سولاویسی
     vi: Đông Nam Sulawesi
     zh: 东南苏拉威西省
+    sr_Latn: Jugoistočni Sulavesi
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U00011125\U0001112A\U00011123\U00011120\U0001112C\U00011125\U00011128"
   geo:
     latitude: -1.4300254
     longitude: 121.4456179
@@ -1492,6 +1552,8 @@ SN:
     ur: جنوبی سولاویسی
     vi: Nam Sulawesi
     zh: 南苏拉威西省
+    sr_Latn: Južni Sulavesi
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011125\U0001112A\U00011123\U00011120\U0001112C\U00011125\U00011128"
   geo:
     latitude: -3.6687994
     longitude: 119.9740534
@@ -1545,6 +1607,8 @@ SR:
     ur: مغربی سولاویسی
     vi: Tây Sulawesi
     zh: 西苏拉威西省
+    sr_Latn: Zapadni Sulavesi
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011125\U0001112A\U00011123\U00011120\U0001112C\U00011125\U00011128"
   geo:
     latitude: -2.8441371
     longitude: 119.2320784
@@ -1600,6 +1664,8 @@ SS:
     ur: جنوبی سماٹرا
     vi: Nam Sumatera
     zh: 南苏门答腊省
+    sr_Latn: Južna Sumatra
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011125\U0001112A\U0001111F\U00011116\U00011133\U00011122\U00011134"
   geo:
     latitude: -3.3194374
     longitude: 103.914399
@@ -1654,6 +1720,9 @@ ST:
     ur: وسطی سولاویسی
     vi: Trung Sulawesi
     zh: 中苏拉威西省
+    sr_Latn: Centralni Sulavesi
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U00011125\U0001112A\U00011123\U00011120\U0001112C\U00011125\U00011128"
   geo:
     latitude: -1.4300254
     longitude: 121.4456179
@@ -1709,6 +1778,9 @@ SU:
     ur: شمالی سماٹرا
     vi: Bắc Sumatera
     zh: 北苏门答腊省
+    sr_Latn: Severna Sumatra
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011125\U0001112A\U0001111F\U00011116\U00011133\U00011122\U00011134"
   geo:
     latitude: 2.0108563
     longitude: 98.9784887
@@ -1784,6 +1856,9 @@ YO:
     ur: خصوصی علاقہ یوگیاکارتا
     vi: Yogyakarta
     zh: 日惹特区
+    sr_Latn: Džogdžakarta
+    ccp: "\U00011121\U0001112E\U00011109\U00011107\U00011122\U00011134\U00011116"
+    zu: Yogyakarta
   geo:
     latitude: -7.7955798
     longitude: 110.3694896
@@ -1854,6 +1929,8 @@ JW:
     ur: جاوا
     vi: Java
     zh: 爪哇岛
+    sr_Latn: Java
+    ccp: "\U0001110E\U0001111E"
 ML:
   translations:
     af: Molukke
@@ -1904,6 +1981,8 @@ ML:
     ur: جزائر ملوک
     vi: Quần đảo Maluku
     zh: 摩鹿加群岛
+    sr_Latn: Molučka ostrva
+    ccp: "\U0001111F\U00011123\U0001112A\U00011107\U0001112A \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
 NU:
   translations:
     af: Klein Sunda-eilande
@@ -1953,6 +2032,9 @@ NU:
     ur: سونڈای جزائر کوچک
     vi: Quần đảo Sunda Nhỏ
     zh: 小巽他群岛
+    sr_Latn: Mala Sundska ostrva
+    ccp: "\U00011123\U0001112C\U00011125\U00011122\U00011134 \U00011125\U0001112A\U0001111A\U00011134\U00011113
+      \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
 SL:
   translations:
     af: Sulawesi
@@ -2006,6 +2088,8 @@ SL:
     ur: سولاویسی
     vi: Sulawesi
     zh: 苏拉威西岛
+    sr_Latn: Sulavesi
+    ccp: "\U00011125\U0001112A\U00011123\U00011103\U0001112E\U00011120\U0001112C\U00011125\U00011128"
 SM:
   translations:
     af: Sumatra
@@ -2063,6 +2147,8 @@ SM:
     ur: سماٹرا
     vi: Sumatra
     zh: 蘇門答臘
+    sr_Latn: Sumatra
+    ccp: "\U00011125\U0001112A\U0001111F\U00011116\U00011133\U00011122\U00011134"
 KA:
   translations:
     ar: كليمنتان
@@ -2099,6 +2185,7 @@ KA:
     ur: کالیمانتان
     vi: Kalimantan
     zh: 加里曼丹
+    ccp: "\U00011107\U00011123\U00011128\U0001111F\U0001111A\U00011134\U00011111\U0001111A\U00011134"
 KU:
   translations:
     ar: كالمنتان الشمالية
@@ -2129,6 +2216,9 @@ KU:
     ur: شمالی کالیمانتان
     vi: Bắc Kalimantan
     zh: 北加里曼丹省
+    sr_Latn: Severni Kalimantan
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011107\U00011123\U00011128\U0001111F\U0001111A\U00011134\U00011111\U0001111A\U00011134"
 PB:
   translations:
     ar: بابوا الغربية
@@ -2174,6 +2264,8 @@ PB:
     ur: مغربی پاپوا (صوبہ)
     vi: Tây Papua
     zh: 西巴布亞省
+    sr_Latn: Zapadna Papua
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111B\U0001111B\U0001112A\U00011120"
 PP:
   translations:
     ar: غرب غينيا الجديدة
@@ -2220,3 +2312,4 @@ PP:
     ur: مغربی پاپوا (علاقہ)
     vi: Tây New Guinea
     zh: 西新几内亚
+    ccp: "\U0001111B\U0001111B\U0001112A\U00011120 \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"

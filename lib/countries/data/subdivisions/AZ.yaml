@@ -54,6 +54,8 @@ ABS:
     ur: آب شیرون ضلع
     vi: Absheron
     zh: 阿布歇隆區
+    sr_Latn: Apšeronski rejon
+    ccp: "\U00011103\U0001111B\U00011134\U00011125\U0001112C\U00011122\U00011127\U0001111A\U00011134"
   geo:
     latitude: 40.3629693
     longitude: 49.2736815
@@ -103,6 +105,9 @@ AGA:
     tr: Ağstafa Rayonu
     ur: اغستافا ضلع
     vi: Aghstafa
+    sr_Latn: Akstafinski rejon
+    zh: 阿克斯塔法區
+    ccp: "\U00011103\U00011107\U00011134\U00011125\U00011133\U00011111\U0001111C"
   geo:
     latitude: 41.118889
     longitude: 45.453889
@@ -153,6 +158,9 @@ AGC:
     uk: Агджабединський район
     ur: اغجابادی ضلع
     vi: Aghjabedi
+    sr_Latn: Agdžabedinski rejon
+    zh: 阿格賈貝迪區
+    ccp: "\U00011103\U00011107\U00011134\U0001110E\U0001111D\U00011118\U00011128"
   geo:
     latitude: 40.0257239
     longitude: 47.3290937
@@ -202,6 +210,9 @@ AGM:
     tr: Ağdam Rayonu
     ur: اغدام ضلع
     vi: Quận Agdam
+    sr_Latn: Agdamski rejon
+    zh: 阿格達姆區
+    ccp: "\U00011103\U00011107\U00011134\U00011118\U0001111F\U00011134"
   geo:
     latitude: 39.5554533
     longitude: 46.9507608
@@ -252,6 +263,9 @@ AGS:
     uk: Агдаський район
     ur: آقداش ضلع
     vi: Aghdash
+    sr_Latn: Agdaški rejon
+    zh: 阿格達什區
+    ccp: "\U00011103\U00011107\U00011134\U00011118\U00011133\U00011120\U0001110C\U00011134"
   geo:
     latitude: 40.6335427
     longitude: 47.467431
@@ -301,6 +315,9 @@ AGU:
     tr: Ağsu Rayonu
     ur: اغسو ضلع
     vi: Aghsu
+    sr_Latn: Ahsujski rejon
+    zh: 阿赫蘇區
+    ccp: "\U00011103\U00011107\U00011134\U00011125\U0001112A"
   geo:
     latitude: 40.569167
     longitude: 48.400833
@@ -350,6 +367,9 @@ AST:
     tr: Astara Rayonu
     ur: آستارا ضلع
     vi: Astara
+    sr_Latn: Astarinski rejon
+    zh: 阿斯塔拉區
+    ccp: "\U00011103\U0001110C\U00011134\U00011116\U00011122"
   geo:
     latitude: 38.45611100000001
     longitude: 48.878611
@@ -422,6 +442,9 @@ BA:
     uk: Баку
     ur: باکو
     vi: Baku
+    sr_Latn: Baku
+    zh: 巴库
+    ccp: "\U0001111D\U00011107\U0001112A"
   geo:
     latitude: 40.40926169999999
     longitude: 49.8670924
@@ -470,6 +493,9 @@ BAB:
     uk: Бабецький район
     ur: بابک ضلع
     vi: Babek
+    sr_Latn: Babečki rejon
+    zh: 巴貝克區
+    ccp: "\U0001111D\U0001111D\U0001112C\U00011107\U00011134"
   geo:
     latitude: 39.1507613
     longitude: 45.4485368
@@ -519,6 +545,9 @@ BAL:
     tr: Balaken Rayonu
     ur: بالاکن ضلع
     vi: Balaken
+    sr_Latn: Belokanski rejon
+    zh: 巴拉肯區
+    ccp: "\U0001111D\U00011127\U00011123\U00011107\U0001111A\U00011134"
   geo:
     latitude: 41.725833
     longitude: 46.408333
@@ -566,6 +595,9 @@ BAR:
     tr: Berde Rayonu
     ur: بردع ضلع
     vi: Barda
+    sr_Latn: Bardinski rejon
+    zh: 巴爾達區
+    ccp: "\U0001111D\U00011122\U00011134\U00011118"
   geo:
     latitude: 40.3667
     longitude: 47.11669999999999
@@ -613,6 +645,9 @@ BEY:
     tr: Beylegan Rayonu
     ur: بیلقان ضلع
     vi: Beilagan
+    sr_Latn: Bejlaganski rejon
+    zh: 貝拉甘區
+    ccp: "\U0001111D\U0001112C\U00011123\U00011127\U00011109\U00011127\U0001111A\U00011134"
   geo:
     latitude: 39.766667
     longitude: 47.616667
@@ -661,6 +696,9 @@ BIL:
     uk: Білясуварський район
     ur: بیلاسوار ضلع
     vi: Bilasuvar
+    sr_Latn: Biljasuvarski rejon
+    zh: 比利亞蘇瓦爾區
+    ccp: "\U0001111D\U00011128\U00011123\U00011125\U0001112A\U0001111E\U00011122\U00011134"
   geo:
     latitude: 39.45
     longitude: 48.533333
@@ -709,6 +747,9 @@ CAB:
     uk: Джебраїльський район
     ur: جبراییل ضلع
     vi: Jebrail
+    sr_Latn: Džebrajiljski rejon
+    zh: 傑布拉伊爾區
+    ccp: "\U0001110E\U0001111D\U00011133\U00011122\U0001112D\U00011123\U00011134"
   geo:
     latitude: 39.2645544
     longitude: 46.9621561
@@ -757,6 +798,9 @@ CAL:
     tr: Celilabad Rayonu
     ur: جلیل آباد ضلع (آذربائیجان)
     vi: Jalilabad
+    sr_Latn: Džalilabadski rejon
+    zh: 賈利拉巴德區
+    ccp: "\U0001110E\U00011123\U00011128\U00011123\U0001111D\U00011116\U00011134"
   geo:
     latitude: 39.218442
     longitude: 48.4295146
@@ -805,6 +849,9 @@ CUL:
     uk: Джульфінський район
     ur: جلفا ضلع
     vi: Julfa
+    sr_Latn: Džulfinski rejon
+    zh: 朱利法區
+    ccp: "\U0001110E\U0001112A\U00011123\U00011134\U0001111C"
   geo:
     latitude: 38.955833
     longitude: 45.630833
@@ -853,6 +900,9 @@ DAS:
     tr: Daşkesen Rayonu
     ur: داشکسن ضلع
     vi: Dashkasan
+    sr_Latn: Daškesanski rejon
+    zh: 達什卡桑區
+    ccp: "\U00011113\U00011133\U00011120\U0001110C\U00011134\U00011107\U00011125\U0001111A\U00011134"
   geo:
     latitude: 40.5202257
     longitude: 46.0779304
@@ -913,6 +963,9 @@ FUZ:
     tr: Füzuli Rayonu
     ur: فضولی ضلع
     vi: Fuzuli
+    sr_Latn: Fizulinski rejon
+    zh: 菲祖利區
+    ccp: "\U0001111C\U0001112D\U0001110E\U0001112A\U00011123\U00011129"
   geo:
     latitude: 39.6003
     longitude: 47.1431
@@ -976,6 +1029,9 @@ GA:
     uk: Гянджа
     ur: گنجہ
     vi: Ganca
+    sr_Latn: Gandža
+    zh: 占贾
+    ccp: "\U00011109\U0001111A\U00011134\U0001110E"
   geo:
     latitude: 40.682778
     longitude: 46.360556
@@ -1025,6 +1081,9 @@ GAD:
     uk: Кедабекський район
     ur: گدابے ضلع
     vi: Gadabey
+    sr_Latn: Kedabečki rejon
+    zh: 凱達貝克區
+    ccp: "\U00011109\U00011118\U0001111D\U00011133\U00011120"
   geo:
     latitude: 40.5087904
     longitude: 45.67288509999999
@@ -1072,6 +1131,9 @@ GOR:
     uk: Геранбойський район
     ur: گورانبوئے ضلع
     vi: Geranboy
+    sr_Latn: Geranbojski rejon
+    zh: 戈蘭博伊區
+    ccp: "\U00011109\U00011127\U00011122\U0001111A\U00011134\U0001111D\U00011127\U00011120\U00011134"
   geo:
     latitude: 40.610278
     longitude: 46.789722
@@ -1118,6 +1180,9 @@ GOY:
     tr: Göyçay Rayonu
     ur: گوئچے ضلع
     vi: Goychay
+    sr_Latn: Geokčajski rejon
+    zh: 蓋奧克恰伊區
+    ccp: "\U00011109\U00011127\U00011120\U00011134\U0001110C\U00011127\U00011120\U00011134"
   geo:
     latitude: 40.65309999999999
     longitude: 47.7406
@@ -1166,6 +1231,9 @@ HAC:
     tr: Hacıkabul Rayonu
     ur: حاجی قبول ضلع
     vi: Hacuqabul
+    sr_Latn: Adžigabuljski rejon
+    zh: 卡齊穆罕默德區
+    ccp: "\U00011126\U0001110E\U00011128\U00011109\U0001111D\U0001112A\U00011123\U00011134"
   geo:
     latitude: 40.043333
     longitude: 48.935556
@@ -1212,6 +1280,9 @@ IMI:
     uk: Імішлінський район
     ur: ایمیشلی ضلع
     vi: Imishli (quận)
+    sr_Latn: Imišlinski rejon
+    zh: 伊米什利區
+    ccp: "\U00011103\U00011128\U0001111F\U00011128\U0001110C\U00011134\U00011123\U00011128"
   geo:
     latitude: 39.8692
     longitude: 48.06
@@ -1259,6 +1330,9 @@ ISM:
     uk: Ісмаїллінський район
     ur: اسماعیلی ضلع
     vi: Ismailly (quận)
+    sr_Latn: Ismajilinski rejon
+    zh: 伊斯梅爾雷區
+    ccp: "\U00011103\U00011128\U0001110C\U00011134\U0001111F\U0001112D\U00011123\U00011129"
   geo:
     latitude: 40.79
     longitude: 48.151944
@@ -1306,6 +1380,9 @@ KAL:
     tr: Kelbecer Rayonu
     ur: کلباجار ضلع
     vi: Kelbajar
+    sr_Latn: Keljbadžarski rejon
+    zh: 克爾巴賈爾區
+    ccp: "\U00011107\U00011123\U00011134\U0001111D\U0001110E\U00011122\U00011134"
   geo:
     latitude: 40.1315615
     longitude: 46.1674645
@@ -1351,6 +1428,9 @@ KUR:
     tr: Kürdemir Rayonu
     ur: کردامیر ضلع
     vi: Kyurdamir
+    sr_Latn: Kjurdamirski rejon
+    zh: 丘爾達米爾區
+    ccp: "\U00011107\U0001112A\U00011122\U00011134\U00011113\U0001111F\U00011128\U00011122\U00011134"
   geo:
     latitude: 40.34
     longitude: 48.16
@@ -1398,6 +1478,9 @@ LA:
     uk: Ленкоранський район
     ur: لنکران ضلع
     vi: Lenkaran
+    sr_Latn: Lenkoranski rejon
+    zh: 連科蘭區
+    ccp: "\U00011123\U00011127\U00011101\U00011107\U00011122\U0001111A\U00011134"
   geo:
     latitude: 38.753611
     longitude: 48.851111
@@ -1433,6 +1516,9 @@ LAC:
     tr: Laçın Rayonu
     ur: لاچین ضلع
     vi: Lachin
+    sr_Latn: Lačinski rejon
+    zh: 拉欽區
+    ccp: "\U00011123\U00011127\U0001110C\U00011128\U0001111A\U00011134"
   geo:
     latitude: 39.633333
     longitude: 46.55
@@ -1492,6 +1578,8 @@ LAN:
     uk: Ленкорань
     ur: لنکران
     vi: Lankaran
+    zh: 連科蘭
+    ccp: "\U00011123\U00011127\U00011101\U00011107\U00011122\U0001111A\U00011134 \U0001110E\U0001112C\U00011123"
   geo:
     latitude: 38.753611
     longitude: 48.851111
@@ -1537,6 +1625,9 @@ LER:
     tr: Lerik Rayonu
     ur: لیرک ضلع
     vi: Lerik
+    sr_Latn: Lerički rejon
+    zh: 列里克區
+    ccp: "\U00011123\U0001112C\U00011122\U00011128\U00011107\U00011134"
   geo:
     latitude: 38.7736192
     longitude: 48.4151483
@@ -1582,6 +1673,9 @@ MAS:
     tr: Masallı Rayonu
     ur: ماسالی ضلع
     vi: Masally
+    sr_Latn: Masalinski rejon
+    zh: 馬薩雷區
+    ccp: "\U0001111F\U00011125\U00011123\U00011129"
   geo:
     latitude: 39.033333
     longitude: 48.65
@@ -1637,6 +1731,9 @@ MI:
     uk: Мінгечаур
     ur: منگچویر
     vi: Mingachevir
+    sr_Latn: Mingečevir
+    zh: 明盖恰乌尔
+    ccp: "\U0001111F\U00011128\U00011101\U00011109\U0001110C\U0001112C\U0001111E\U00011128\U00011122\U00011134"
   geo:
     latitude: 40.7702563
     longitude: 47.0496015
@@ -1651,6 +1748,7 @@ NA:
     en: Naftalan
     de: Naftalan
     sv: Naftalan Şəhəri
+    ccp: "\U0001111A\U0001111B\U00011134\U00011111\U00011123\U00011127\U0001111A\U00011134"
   geo:
     latitude: 40.506667
     longitude: 46.825
@@ -1696,6 +1794,9 @@ NEF:
     tr: Neftçala Rayonu
     ur: نفتچالا ضلع
     vi: Neftchala
+    sr_Latn: Neftečalinski rejon
+    zh: 涅夫捷恰拉區
+    ccp: "\U0001111A\U0001112C\U0001111B\U00011134\U0001110C\U00011127\U00011123"
   geo:
     latitude: 39.358611
     longitude: 49.246944
@@ -1761,6 +1862,10 @@ NX:
     uk: Нахічеванська Автономна Республіка
     ur: ناخچیوان خود مختار جمہوریہ
     vi: Nakhchivan²
+    sr_Latn: Nahčivan²
+    zh: 纳希切万自治共和国
+    ccp: "\U0001111A\U00011107\U00011134\U0001110C\U00011128\U0001111E\U00011127\U0001111A\U00011134
+      \U00011103\U0001112C\U00011103\U00011122\U00011134"
   geo:
     latitude: 39.208889
     longitude: 45.412222
@@ -1808,6 +1913,9 @@ OGU:
     tr: Oğuz Rayonu
     ur: اغوز ضلع
     vi: Oghuz
+    sr_Latn: Oguški rejon
+    zh: 奧古茲區
+    ccp: "\U00011103\U00011127\U0001110A\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 41.070833
     longitude: 47.458333
@@ -1856,6 +1964,9 @@ ORD:
     uk: Ордубадський район
     ur: اردوباد ضلع
     vi: Ordubad
+    sr_Latn: Ordubadski rejon
+    zh: 奧爾杜巴德區
+    ccp: "\U00011103\U00011127\U00011122\U00011134\U00011113\U00011128\U0001111D\U00011116\U00011134"
   geo:
     latitude: 38.9
     longitude: 46.033333
@@ -1905,6 +2016,9 @@ QAB:
     tr: Kabala Rayonu
     ur: قابالا ضلع
     vi: Gabala
+    sr_Latn: Gabalinski rejon
+    zh: 蓋貝萊區
+    ccp: "\U00011107\U00011127\U0001111D\U00011127\U00011123"
   geo:
     latitude: 40.9981633
     longitude: 47.8699826
@@ -1952,6 +2066,9 @@ QAX:
     tr: Kah rayonu
     ur: کاخ ضلع
     vi: Gakh
+    sr_Latn: Kaški rejon
+    zh: 卡希區
+    ccp: "\U00011107\U00011127\U00011107\U00011134"
   geo:
     latitude: 41.4225
     longitude: 46.924167
@@ -2001,6 +2118,9 @@ QAZ:
     tr: Kazah Rayonu
     ur: قازاخ ضلع
     vi: Gazakh
+    sr_Latn: Kazaški rejon
+    zh: 哈薩克區
+    ccp: "\U00011107\U00011127\U0001110E\U00011107\U00011134"
   geo:
     latitude: 41.093333
     longitude: 45.366111
@@ -2047,6 +2167,9 @@ QBA:
     tr: Kuba Rayonu
     ur: قوبا ضلع
     vi: Guba
+    sr_Latn: Kubinski rejon
+    zh: 庫巴區
+    ccp: "\U00011107\U0001112A\U0001111D"
   geo:
     latitude: 41.359722
     longitude: 48.5125
@@ -2093,6 +2216,9 @@ QBI:
     tr: Kubadlı Rayonu
     ur: قوبادلی ضلع
     vi: Gubadly
+    sr_Latn: Kubatlinski rejon
+    zh: 庫巴特雷區
+    ccp: "\U00011107\U0001112A\U0001111D\U00011116\U00011134\U00011123\U00011128"
   geo:
     latitude: 39.2713996
     longitude: 46.6354312
@@ -2141,6 +2267,9 @@ QOB:
     uk: Гобустанський район
     ur: قوبوستان ضلع
     vi: Gobustan
+    sr_Latn: Gobustanski rejon
+    zh: 戈布斯坦區
+    ccp: "\U00011109\U00011127\U0001111D\U0001112A\U0001110C\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: 40.0877962
     longitude: 49.4030219
@@ -2187,6 +2316,9 @@ QUS:
     tr: Kusar Rayonu
     ur: قوسار ضلع
     vi: Gusar
+    sr_Latn: Kusarski rejon
+    zh: 庫薩雷區
+    ccp: "\U00011107\U0001112A\U00011125\U00011122\U00011134"
   geo:
     latitude: 41.426389
     longitude: 48.435556
@@ -2244,6 +2376,9 @@ SA:
     uk: Шекі
     ur: شکی
     vi: Şəki
+    sr_Latn: Šaki
+    zh: 舍基
+    ccp: "\U00011125\U00011107\U00011128"
   geo:
     latitude: 34.0489281
     longitude: -111.0937311
@@ -2291,6 +2426,9 @@ SAB:
     uk: Сабірабадський район
     ur: سبیر آباد ضلع
     vi: Sabirabad
+    sr_Latn: Sabirabadski rejon
+    zh: 薩比拉巴德區
+    ccp: "\U00011125\U00011127\U0001111D\U00011128\U00011122\U0001111D\U00011116\U00011134"
   geo:
     latitude: 40.012778
     longitude: 48.478889
@@ -2339,6 +2477,9 @@ SAD:
     uk: Садарацький район
     ur: صدرک ضلع
     vi: Sedarak
+    sr_Latn: Sadarački rejon
+    zh: 薩達拉克區
+    ccp: "\U00011125\U00011113\U00011122\U00011107\U00011134"
   geo:
     latitude: 39.7175
     longitude: 44.876389
@@ -2386,6 +2527,9 @@ SAH:
     uk: Шахбузький район
     ur: شاحبوز ضلع
     vi: Shahbuz (quận)
+    sr_Latn: Šahbuški rejon
+    zh: 沙赫布茲區
+    ccp: "\U00011125\U00011126\U00011134\U0001111D\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 39.407222
     longitude: 45.57388900000001
@@ -2434,6 +2578,9 @@ SAK:
     tr: Şeki Rayonu
     ur: شکی ضلع
     vi: Sheki
+    sr_Latn: Šekinski rejon
+    zh: 舍基區
+    ccp: "\U00011125\U00011107\U00011128 \U0001110E\U0001112C\U00011123"
   geo:
     latitude: 41.1134662
     longitude: 47.13169269999999
@@ -2479,6 +2626,9 @@ SAL:
     tr: Salyan Rayonu
     ur: سالیان ضلع
     vi: Salyan
+    sr_Latn: Saljanski rejon
+    zh: 薩利揚區
+    ccp: "\U00011125\U00011123\U0001112D\U0001111A\U00011134"
   geo:
     latitude: 39.595
     longitude: 48.979167
@@ -2514,6 +2664,9 @@ SAR:
     tr: Şerur Rayonu
     uk: Шарурський район
     vi: Sherur (quận)
+    sr_Latn: Šarurski rejon
+    zh: 沙魯爾區
+    ccp: "\U00011125\U00011122\U0001112A\U00011122\U00011134"
   geo:
     latitude: 39.5687523
     longitude: 45.0823321
@@ -2559,6 +2712,9 @@ SAT:
     tr: Saatlı Rayonu
     ur: سااتلی ضلع
     vi: Saatly
+    sr_Latn: Satlinski rejon
+    zh: 薩特雷區
+    ccp: "\U00011125\U00011116\U00011123\U00011129"
   geo:
     latitude: 39.930833
     longitude: 48.36944399999999
@@ -2605,6 +2761,9 @@ SIY:
     tr: Siyezen Rayonu
     ur: سیاہ زن ضلع
     vi: Siazan
+    sr_Latn: Sijazanski rejon
+    zh: 錫阿贊區
+    ccp: "\U00011125\U00011128\U00011120\U0001110E\U00011127\U0001111A\U00011134"
   geo:
     latitude: 41.0783833
     longitude: 49.1118478
@@ -2654,6 +2813,9 @@ SKR:
     uk: Шамкірський район
     ur: شمخور ضلع
     vi: Shamkir
+    sr_Latn: Šamkirski rejon
+    zh: 沙姆基爾區
+    ccp: "\U00011125\U0001111F\U00011134\U00011107\U00011128\U00011122\U00011134"
   geo:
     latitude: 40.88123969999999
     longitude: 46.0179009
@@ -2717,6 +2879,9 @@ SM:
     uk: Сумгаїт
     ur: سومقاییت
     vi: Sumqayit
+    sr_Latn: Sumgajit
+    zh: 苏姆盖特
+    ccp: "\U00011125\U0001112A\U0001111F\U00011107\U0001112E\U00011103\U00011128\U00011116\U00011134"
   geo:
     latitude: 40.5854765
     longitude: 49.6317411
@@ -2755,6 +2920,9 @@ SMI:
     tr: Şamahı Rayonu
     uk: Шамахинський район
     vi: Shamakhy
+    sr_Latn: Šemahinski rejon
+    zh: 沙馬基區
+    ccp: "\U00011125\U0001111F\U00011108\U00011128"
   geo:
     latitude: 40.63187310000001
     longitude: 48.6363801
@@ -2801,6 +2969,9 @@ SMX:
     tr: Samuh Rayonu
     ur: ساموخ ضلع
     vi: Samuh
+    sr_Latn: Samuški rejon
+    zh: 薩穆赫區
+    ccp: "\U00011125\U0001111F\U0001112A\U00011107\U00011134"
   geo:
     latitude: 40.765833
     longitude: 46.40888899999999
@@ -2861,6 +3032,9 @@ SUS:
     tr: Şuşa Rayonu
     ur: شوشا ضلع
     vi: Shusha
+    sr_Latn: Šušinski rejon
+    zh: 舒沙區
+    ccp: "\U00011125\U0001112A\U00011125"
   geo:
     latitude: 39.7537438
     longitude: 46.7464755
@@ -2907,6 +3081,9 @@ TAR:
     tr: Terter Rayonu
     ur: تارتار ضلع
     vi: Terter
+    sr_Latn: Terterski rejon
+    zh: 泰爾泰爾區
+    ccp: "\U00011111\U00011122\U00011134\U00011111\U00011122\U00011134"
   geo:
     latitude: 40.333333
     longitude: 46.916667
@@ -2954,6 +3131,9 @@ TOV:
     tr: Tovuz Rayonu
     ur: توووز ضلع
     vi: Tovuz
+    sr_Latn: Tovuški rejon
+    zh: 塔烏茲區
+    ccp: "\U00011111\U00011127\U0001111E\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 40.9922
     longitude: 45.62889999999999
@@ -2999,6 +3179,9 @@ UCA:
     tr: Ucar Rayonu
     ur: اجڑ ضلع
     vi: Ujar
+    sr_Latn: Udžarski rejon
+    zh: 烏賈雷區
+    ccp: "\U00011105\U0001112A\U0001110E\U00011122\U00011134"
   geo:
     latitude: 40.518333
     longitude: 47.654167
@@ -3062,6 +3245,8 @@ XA:
     uk: Степанакерт
     ur: خان کندی
     vi: Khankendy
+    zh: 斯捷潘納克特
+    ccp: "\U0001110C\U00011133\U00011111\U0001112C\U0001111B\U0001111A\U00011134\U00011107\U00011122\U00011133\U00011111\U00011134"
   geo:
     latitude: 39.8196258
     longitude: 46.7594431
@@ -3108,6 +3293,9 @@ XAC:
     tr: Haçmaz Rayonu
     ur: خاشماز ضلع
     vi: Khachmaz
+    sr_Latn: Hačmaški rejon
+    zh: 哈奇馬斯區
+    ccp: "\U00011108\U0001110C\U00011134\U0001111F\U0001110C\U00011134"
   geo:
     latitude: 41.470833
     longitude: 48.809722
@@ -3168,6 +3356,9 @@ XCI:
     tr: Hocalı Rayonu
     ur: خوجالی ضلع
     vi: Khojaly
+    sr_Latn: Hodžalinski rejon
+    zh: 霍賈雷區
+    ccp: "\U00011108\U00011127\U0001110E\U00011127\U00011123\U00011128"
   geo:
     latitude: 39.9132553
     longitude: 46.794305
@@ -3201,6 +3392,9 @@ XIZ:
     sv: Khizi Rayon
     tr: Hızı Rayonu
     vi: Khyzy
+    sr_Latn: Hizinski rejon
+    zh: 基茲區
+    ccp: "\U00011108\U00011128\U0001110F\U00011128"
   geo:
     latitude: 40.9
     longitude: 49.066667
@@ -3235,6 +3429,9 @@ XVD:
     sv: Chodzjavänd
     tr: Hocavend Rayonu
     vi: Khojavend
+    sr_Latn: Hodžavendski rejon
+    zh: 霍賈文德區
+    ccp: "\U00011108\U00011127\U0001110E\U0001111E\U0001112C\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 39.7060287
     longitude: 47.064533
@@ -3282,6 +3479,9 @@ YAR:
     uk: Ярдимлинський район
     ur: یارڈیملی ضلع
     vi: Yardymly
+    sr_Latn: Jardimlinski rejon
+    zh: 亞爾德姆雷區
+    ccp: "\U00011103\U00011128\U00011120\U00011122\U00011134\U00011113\U00011128\U0001111F\U00011134\U00011123\U00011128"
   geo:
     latitude: 38.9058917
     longitude: 48.24961270000001
@@ -3321,6 +3521,9 @@ YE:
     tr: Yevlah
     uk: Євлах
     ur: یولاخ
+    sr_Latn: Jevlah
+    zh: 葉夫拉赫
+    ccp: "\U00011103\U00011128\U00011120\U0001112C\U0001111B\U00011134\U00011123\U00011107\U00011134"
   geo:
     latitude: 40.617222
     longitude: 47.15
@@ -3367,6 +3570,10 @@ YEV:
     uk: Євлахський район
     ur: ییولاخ ضلع
     vi: Yevlakh
+    sr_Latn: Jevlaški rejon
+    zh: 葉夫拉赫區
+    ccp: "\U00011103\U00011128\U00011120\U0001112C\U0001111B\U00011134\U00011123\U00011107\U00011134
+      \U0001110E\U0001112C\U00011123"
   geo:
     latitude: 40.617222
     longitude: 47.15
@@ -3414,6 +3621,9 @@ ZAN:
     uk: Зангеланський район
     ur: زنگلان ضلع
     vi: Zangilan (quận)
+    sr_Latn: Zangelanski rejon
+    zh: 贊格蘭區
+    ccp: "\U0001110E\U0001110B\U00011134\U00011109\U00011128\U00011123\U0001111A\U00011134"
   geo:
     latitude: 39.0318935
     longitude: 46.6265379
@@ -3462,6 +3672,9 @@ ZAQ:
     tr: Zakatala Rayonu
     ur: زاقاتالا ضلع
     vi: Zagatala (quận)
+    sr_Latn: Zakataljski rejon
+    zh: 扎卡塔雷區
+    ccp: "\U0001110E\U00011107\U00011111\U00011123\U00011134"
   geo:
     latitude: 41.63361099999999
     longitude: 46.643333
@@ -3507,6 +3720,9 @@ ZAR:
     tr: Zerdab Rayonu
     ur: زارداب ضلع
     vi: Zerdab (quận)
+    sr_Latn: Zerdapski rejon
+    zh: 扎爾多布區
+    ccp: "\U0001110E\U00011122\U00011134\U00011113\U0001111B\U00011134"
   geo:
     latitude: 40.218333
     longitude: 47.708333
@@ -3568,6 +3784,9 @@ NV:
     uk: Нахічевань
     ur: ناخچیوان (شہر)
     vi: Nakhchivan
+    sr_Latn: Nahčivan
+    zh: 納希切萬
+    ccp: "\U0001111A\U00011107\U00011134\U0001110C\U00011128\U0001111E\U00011127\U0001111A\U00011134"
 KAN:
   translations:
     ar: كنجة
@@ -3606,6 +3825,9 @@ KAN:
     uk: Кенгерлінський район
     ur: کانجارلی ضلع
     vi: Kangarli
+    sr_Latn: Kengerlinski rejon
+    zh: 坎加利區
+    ccp: "\U00011107\U0001110B\U00011134\U00011109\U00011122\U00011134\U00011123\U00011128"
 SBN:
   translations:
     ar: مقاطعة شابران
@@ -3645,6 +3867,9 @@ SBN:
     tr: Şabran rayonu
     ur: شابران ضلع
     vi: Quận Shabran
+    sr_Latn: Šabranski rejon
+    zh: 迪維奇區
+    ccp: "\U00011125\U0001111B\U00011134\U00011122\U0001111A\U00011134"
 SR:
   translations:
     ar: شيروان
@@ -3678,6 +3903,9 @@ SR:
     tr: Şirvan
     uk: Ширван
     ur: شیروان
+    sr_Latn: Širvan
+    zh: 希爾萬
+    ccp: "\U00011125\U00011128\U00011122\U0001111E\U00011127\U0001111A\U00011134"
 GYG:
   translations:
     az: Göygöl
@@ -3702,3 +3930,6 @@ GYG:
     sv: Xanlar Rayonu
     tr: Göygöl Rayonu
     vi: Goygol
+    sr_Latn: Gogoljski rejon
+    zh: 漢拉爾區
+    ccp: "\U00011109\U00011127\U00011120\U00011134\U00011109\U0001112E\U00011123\U00011134"

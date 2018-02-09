@@ -62,6 +62,8 @@ BR:
     ur: بریسٹ علاقہ
     vi: Khu vực Brest
     zh: 布列斯特州
+    sr_Latn: Brestska oblast
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U00011125\U00011133\U00011111\U00011134"
   geo:
     latitude: 52.5296641
     longitude: 25.460648
@@ -133,6 +135,8 @@ HO:
     ur: گومل علاقہ
     vi: Khu vực Gomel
     zh: 戈梅利州
+    sr_Latn: Gomeljska oblast
+    ccp: "\U00011126\U0001112E\U0001111F\U0001112C\U00011123\U00011134"
   geo:
     latitude: 52.1648754
     longitude: 29.1333251
@@ -203,6 +207,8 @@ HR:
     ur: گرودنو علاقہ
     vi: Khu vực Grodno
     zh: 格羅德諾州
+    sr_Latn: Grodnjenska oblast
+    ccp: "\U00011126\U00011127\U00011122\U00011127\U0001111A\U00011134\U00011113"
   geo:
     latitude: 
     longitude: 
@@ -280,6 +286,8 @@ MA:
     ur: موگیلیف علاقہ
     vi: Khu vực Mogilev
     zh: 莫吉廖夫州
+    sr_Latn: Mogiljovska oblast
+    ccp: "\U0001111F\U00011133\U00011120\U00011109\U00011128\U00011123\U00011128\U00011105\U0001112A"
   geo:
     latitude: 
     longitude: 
@@ -347,6 +355,9 @@ MI:
     ur: منسک علاقہ
     vi: Khu vực Minsk
     zh: 明斯克州
+    sr_Latn: Minska oblast
+    ccp: "\U0001111F\U00011128\U0001111A\U00011134\U00011125\U00011133\U00011107\U00011134
+      \U00011122\U0001112C\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.4718561
     longitude: 27.6969909
@@ -417,6 +428,8 @@ VI:
     ur: ویٹبسک علاقہ
     vi: Khu vực Vitebsk
     zh: 维捷布斯克州
+    sr_Latn: Vitepska oblast
+    ccp: "\U0001111E\U0001112D\U00011111\U0001112C\U0001111B\U00011134\U00011125\U00011133\U00011107\U00011134"
   geo:
     latitude: 
     longitude: 
@@ -504,3 +517,5 @@ HM:
     vi: Minsk
     zh: 明斯克
     zu: Minsk
+    sr_Latn: Minsk
+    ccp: "\U0001111F\U0001111A\U00011134\U00011125\U00011133\U00011107\U00011134"

@@ -40,6 +40,7 @@ BTH:
     ur: محافظہ بیت لحم
     vi: Tỉnh Bethlehem
     zh: 伯利恒省
+    ccp: "\U0001111D\U0001112C\U00011117\U0001112C\U00011123\U00011134\U00011126\U0001111F\U00011134"
 DEB:
   translations:
     ar: الوسطى
@@ -76,6 +77,9 @@ DEB:
     tr: Deir al-Balah Yönetimi
     ur: محافظہ دیر البلح
     vi: Tỉnh Deir al-Balah
+    zh: 代尔拜莱赫省
+    ccp: "\U00011113\U0001112C\U00011103\U00011128\U00011122\U00011134 \U00011103\U00011123\U00011134
+      \U0001111D\U00011123\U00011126\U00011134"
 GZA:
   translations:
     ar: محافظة غزة
@@ -95,6 +99,8 @@ GZA:
     ru: Газа
     tr: Gazze valiliği
     ur: محافظہ غزہ
+    zh: 加沙省
+    ccp: "\U00011109\U0001110E"
 HBN:
   translations:
     ar: محافظة الخليل
@@ -135,6 +141,8 @@ HBN:
     uk: Хеврон (провінція)
     ur: محافظہ الخلیل
     vi: Tỉnh Hebron
+    zh: 希布伦省
+    ccp: "\U00011126\U0001112C\U0001111D\U00011133\U00011122\U00011127\U0001111A\U00011134"
 JEM:
   translations:
     ar: القدس
@@ -155,6 +163,8 @@ JEM:
     ru: Иерусалим
     sv: Jerusalems provins
     ur: محافظہ یروشلم
+    zh: 耶路撒冷省
+    ccp: "\U0001110E\U0001112C\U00011122\U0001112A\U0001110E\U00011123\U0001112C\U0001111F\U00011134"
 JEN:
   translations:
     ar: جنين
@@ -177,6 +187,8 @@ JEN:
     ru: Джанин
     tr: Cenin valiliği
     ur: محافظہ جنین
+    zh: 杰宁省
+    ccp: "\U0001110E\U0001112C\U0001111A\U00011128\U0001111A\U00011134"
 JRH:
   translations:
     ar: أريحا
@@ -195,6 +207,8 @@ JRH:
     ro: Guvernoratul Ierihon
     ru: Иерихон
     ur: محافظہ اریحا
+    zh: 杰里科省
+    ccp: "\U0001110E\U0001112C\U00011122\U00011128\U00011107\U0001112E"
 KYS:
   translations:
     ar: محافظة خان يونس
@@ -214,6 +228,8 @@ KYS:
     ru: Хан-Юнис
     tr: Han Yunus valiliği
     ur: محافظہ خان یونس
+    zh: 汉尤尼斯省
+    ccp: "\U00011108\U0001111A\U00011134 \U00011103\U00011128\U00011105\U0001112A\U0001111A\U0001112A\U0001110C\U00011134"
 NBS:
   translations:
     ar: محافظة نابلس
@@ -254,6 +270,8 @@ NBS:
     tr: Nablus Yönetimi
     ur: محافظہ نابلس
     vi: Tỉnh Nablus
+    zh: 纳布卢斯省
+    ccp: "\U0001111A\U0001111B\U00011134\U00011123\U0001110C\U00011134"
 NGZ:
   translations:
     ar: شمال غزة
@@ -292,6 +310,9 @@ NGZ:
     tr: Kuzey Gazze valiliği
     ur: محافظہ شمالی غزہ
     vi: Tỉnh Bắc Gaza
+    zh: 北加沙省
+    ccp: "\U00011105\U00011127\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011109\U0001110E"
 QQA:
   translations:
     ar: محافظة قلقيلية
@@ -331,6 +352,8 @@ QQA:
     tr: Qalqilya District
     ur: محافظہ قلقیلیہ
     vi: Tỉnh Qalqilya
+    zh: 盖勒吉利耶省
+    ccp: "\U00011107\U0001112A\U00011120\U00011123\U00011134\U00011107\U0001112A\U00011123\U00011128\U00011120"
 RBH:
   translations:
     ar: رام الله والبيرة
@@ -369,6 +392,9 @@ RBH:
     tr: Ramallah ve al-Bireh Valiliği
     ur: محافظہ رام الله اور البیرہ
     vi: Tỉnh Ramallah và al-Bireh
+    zh: 拉马拉和比雷赫省
+    ccp: "\U00011122\U0001111F\U00011123\U00011133\U00011123\U00011126\U00011134 \U00011103\U00011133\U00011103
+      \U00011103\U00011123\U00011134-\U0001111D\U00011128\U00011122\U0001112C\U00011126\U00011134"
 RFH:
   translations:
     ar: محافظة رفح الفلسطينية
@@ -390,6 +416,8 @@ RFH:
     ru: Рафах
     uk: Рафах
     ur: محافظہ رفح
+    zh: 拉法省
+    ccp: "\U00011122\U0001111C\U00011126\U00011134"
 SLT:
   translations:
     ar: محافظة سلفيت
@@ -429,6 +457,8 @@ SLT:
     tr: Salfint Yönetimi
     ur: محافظہ سلفیت
     vi: Tỉnh Salfit
+    zh: 萨尔费特省
+    ccp: "\U00011125\U00011123\U00011134\U0001111C\U00011128\U00011116\U00011134"
 TBS:
   translations:
     ar: محافظة طوباس
@@ -449,6 +479,8 @@ TBS:
     ru: Тубас
     tr: Tubas valiliği
     ur: محافظہ طوباس
+    zh: 图巴斯省
+    ccp: "\U00011111\U0001112A\U0001111D\U0001110C\U00011134"
 TKM:
   translations:
     ar: محافظة طولكرم
@@ -488,3 +520,5 @@ TKM:
     tr: Tulkarm Yönetimi
     ur: محافظہ طولکرم
     vi: Tỉnh Tulkarm
+    zh: 图勒凯尔姆省
+    ccp: "\U00011111\U0001112A\U00011123\U00011134\U00011107\U00011122\U00011134\U0001111F\U00011134"

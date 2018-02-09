@@ -110,6 +110,8 @@
     sw: Wilaya ya Kisumu
     ur: کسیمو کاؤنٹی
     vi: Kisumu
+    zh: 基蘇木郡
+    ccp: "\U00011107\U00011128\U00011125\U0001112A\U0001111F\U0001112A"
 '30':
   translations:
     ar: مقاطعة نايروبي
@@ -145,6 +147,8 @@
     tr: Nairobi County
     ur: نیروبی کاؤنٹی
     vi: Hạt Nairobi
+    zh: 內羅畢郡
+    ccp: "\U0001111A\U0001112D\U00011122\U0001112E\U0001111D\U00011128 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
 '20':
   translations:
     bg: Лаикипиа
@@ -161,6 +165,8 @@
     sw: Wilaya ya Laikipia
     ur: لائکی پیا کاؤنٹی
     vi: Laikipia
+    zh: 萊基皮亞郡
+    ccp: "\U00011123\U0001112D\U00011107\U00011128\U0001111B\U00011128\U00011120"
 '37':
   translations:
     bg: Самбуру
@@ -176,6 +182,8 @@
     sw: Wilaya ya Samburu
     ur: سامبورو کاؤنٹی
     vi: Samburu
+    zh: 桑布盧郡
+    ccp: "\U00011125\U0001111F\U00011134\U0001111D\U0001112A\U00011122\U0001112A"
 '45':
   translations:
     bg: Вихига
@@ -190,6 +198,8 @@
     sw: Wilaya ya Vihiga
     ur: ویہیگا کاؤنٹی
     vi: Vihiga
+    zh: 韋希加郡
+    ccp: "\U0001111E\U00011128\U00011126\U00011128\U00011109"
 '07':
   translations:
     ca: Comtat de Garissa
@@ -206,6 +216,8 @@
     sw: Wilaya ya Garissa
     ur: گاریسا کاؤنٹی
     vi: Garissa
+    zh: 加里薩郡
+    ccp: "\U00011109\U00011122\U00011128\U00011125"
 '21':
   translations:
     ca: Districte de Lamu
@@ -221,6 +233,8 @@
     sw: Wilaya ya Lamu
     ur: لامو کاؤنٹی
     vi: Lamu
+    zh: 拉穆郡
+    ccp: "\U00011123\U0001111F\U00011134\U0001111D\U0001112A"
 '18':
   translations:
     da: Kitui
@@ -236,6 +250,8 @@
     sw: Wilaya ya Kitui
     ur: کیتوئی کاؤنٹی
     vi: Kitui
+    zh: 基圖伊郡
+    ccp: "\U00011107\U00011128\U00011111\U0001112D\U0001112A"
 '01':
   translations:
     de: Baringo County
@@ -251,6 +267,7 @@
     ur: بارنگو کاؤنٹی
     vi: Baringo
     zh: 巴林戈郡
+    ccp: "\U0001111D\U00011122\U00011128\U00011101\U00011109\U0001112E"
 '02':
   translations:
     de: Bomet County
@@ -264,6 +281,8 @@
     sw: Wilaya ya Bomet
     ur: بومت کاؤنٹی
     vi: Bomet
+    zh: 博美特郡
+    ccp: "\U0001111D\U00011127\U0001111F\U0001112C\U00011116\U00011134"
 '03':
   translations:
     de: Bungoma County
@@ -279,6 +298,8 @@
     sw: Wilaya ya Bungoma
     ur: بونگوما کاؤنٹی
     vi: Bungoma
+    zh: 邦戈馬郡
+    ccp: "\U0001111D\U0001111A\U00011134\U00011109\U0001112E\U0001111F"
 '04':
   translations:
     de: Busia County
@@ -294,6 +315,8 @@
     sw: Wilaya ya Busia, Kenya
     ur: بوسیا کاؤنٹی
     vi: Busia
+    zh: 布希亞郡
+    ccp: "\U0001111D\U00011128\U00011105\U0001112A\U00011125\U00011128\U00011120"
 '05':
   translations:
     de: Elgeyo-Marakwet County
@@ -303,6 +326,8 @@
     nb: Elgeyo-Marakwet fylke
     nl: Elgeyo-Marakwet County
     ur: ایلگیو-ماراکوت کاؤنٹی
+    zh: 埃爾格約-馬拉奎特郡
+    ccp: "\U00011103\U0001112C\U00011123\U00011134\U00011109\U0001112C\U00011103\U0001112E-\U0001111F\U00011122\U00011107\U00011134\U00011124\U0001112C\U00011116\U00011134"
 '06':
   translations:
     de: Embu County
@@ -318,6 +343,8 @@
     sw: Wilaya ya Embu
     ur: عمبو کاؤنٹی
     vi: Embu
+    zh: 恩布郡
+    ccp: "\U00011103\U0001112C\U0001111F\U00011134\U0001111D\U0001112A"
 '08':
   translations:
     de: Homa Bay County
@@ -331,6 +358,8 @@
     sw: Wilaya ya Homa Bay
     ur: ہوما بے کاؤنٹی
     vi: Homa Bay
+    zh: 霍馬灣郡
+    ccp: "\U00011126\U0001112E\U0001111F \U0001111D\U0001112C"
 '09':
   translations:
     de: Isiolo County
@@ -345,6 +374,8 @@
     sw: Wilaya ya Isiolo
     ur: اسیولو کاؤنٹی
     vi: Isiolo
+    zh: 伊希約洛郡
+    ccp: "\U00011103\U0001112D\U00011125\U00011128\U00011103\U0001112E\U00011123\U0001112E"
 '10':
   translations:
     de: Kajiado County
@@ -359,6 +390,8 @@
     sw: Wilaya ya Kajiado
     ur: کاجیادو کاؤنٹی
     vi: Kajiado
+    zh: 卡耶亞多郡
+    ccp: "\U00011107\U0001110E\U00011128\U00011120\U00011113\U0001112E"
 '11':
   translations:
     de: Kakamega County
@@ -374,6 +407,8 @@
     sw: Wilaya ya Kakamega
     ur: کاکامیگا کاؤنٹی
     vi: Kakamega
+    zh: 卡卡梅加郡
+    ccp: "\U00011107\U00011107\U0001111F\U0001112C\U00011109"
 '12':
   translations:
     de: Kericho County
@@ -388,6 +423,8 @@
     sw: Wilaya ya Kericho
     ur: کیریچو کاؤنٹی
     vi: Kericho
+    zh: 凱里喬郡
+    ccp: "\U00011107\U0001112C\U00011122\U00011128\U0001110C\U0001112E"
 '13':
   translations:
     de: Kiambu County
@@ -403,6 +440,8 @@
     sw: Wilaya ya Kiambu
     ur: کیامبو کاؤنٹی
     vi: Kiambu
+    zh: 基安布郡
+    ccp: "\U00011107\U00011128\U00011120\U0001111F\U00011134\U0001111D\U0001112A"
 '14':
   translations:
     de: Kilifi County
@@ -419,6 +458,8 @@
     sw: Wilaya ya Kilifi
     ur: کیلیفی کاؤنٹی
     vi: Kilifi
+    zh: 基利菲县
+    ccp: "\U00011107\U00011128\U00011123\U00011128\U0001111C\U00011128"
 '15':
   translations:
     de: Kirinyaga County
@@ -433,6 +474,8 @@
     sv: Kirinyaga
     sw: Wilaya ya Kirinyaga
     ur: کیرینیاگا کاؤنٹی
+    zh: 基里尼亞加郡
+    ccp: "\U00011107\U00011128\U00011122\U00011128\U0001111A\U00011128\U00011120\U00011109"
 '16':
   translations:
     de: Kisii County
@@ -449,6 +492,8 @@
     sv: Kisii (distrikt)
     sw: Wilaya ya Kisii Kati
     ur: کیسیی کاؤنٹی
+    zh: 基西郡
+    ccp: "\U00011107\U00011128\U00011125\U00011133\U00011126\U00011128"
 '19':
   translations:
     de: Kwale County
@@ -464,6 +509,8 @@
     sw: Wilaya ya Kwale
     ur: کوالے کاؤنٹی
     vi: Kwale
+    zh: 夸勒郡
+    ccp: "\U00011107\U0001112C\U00011124\U00011123\U0001112C"
 '22':
   translations:
     de: Machakos District
@@ -478,6 +525,8 @@
     sw: Wilaya ya Machakos
     ur: ماچاکوس کاؤنٹی
     vi: Machakos
+    zh: 馬查科斯郡
+    ccp: "\U0001111F\U00011133\U00011120\U0001110C\U00011107\U0001112E\U0001110C\U00011134"
 '23':
   translations:
     de: Makueni District
@@ -491,6 +540,8 @@
     sw: Wilaya ya Makueni
     ur: ماکوینی کاؤنٹی
     vi: Makueni
+    zh: 馬瓜尼郡
+    ccp: "\U0001111F\U00011107\U0001112A\U00011120\U0001112C\U0001111A\U00011128"
 '24':
   translations:
     de: Mandera District
@@ -506,6 +557,8 @@
     sw: Wilaya ya Mandera
     ur: ماندیرا کاؤنٹی
     vi: Mandera
+    zh: 曼德拉郡
+    ccp: "\U0001111F\U0001111A\U00011134\U00011113\U0001112C\U00011122"
 '25':
   translations:
     de: Marsabit District
@@ -521,6 +574,8 @@
     sw: Wilaya ya Marsabit
     ur: مارسابیت کاؤنٹی
     vi: Marsabit
+    zh: 馬薩比特郡
+    ccp: "\U0001111F\U00011122\U00011134\U00011125\U0001111D\U00011128\U00011116\U00011134"
 '27':
   translations:
     de: Migori District
@@ -535,6 +590,8 @@
     sw: Wilaya ya Migori
     ur: میگوری کاؤنٹی
     vi: Migori
+    zh: 米戈利郡
+    ccp: "\U0001111F\U00011128\U00011109\U0001112E\U00011122\U00011128"
 '28':
   translations:
     de: Mombasa District
@@ -551,6 +608,8 @@
     sw: Wilaya ya Mombasa
     ur: ممباسا کاؤنٹی
     vi: Mombasa
+    zh: 蒙巴萨县
+    ccp: "\U0001111F\U00011127\U0001111F\U00011134\U0001111D\U00011125"
 '29':
   translations:
     de: Murang’a District
@@ -565,6 +624,8 @@
     sw: Wilaya ya Murang’a
     ur: مورانگا کاؤنٹی
     vi: Murang’a
+    zh: 穆蘭卡郡
+    ccp: "\U0001111F\U0001112A\U00011122\U00011101‘\U00011103"
 '31':
   translations:
     de: Nakuru District
@@ -580,6 +641,8 @@
     sw: Wilaya ya Nakuru
     ur: ناکورو کاؤنٹی
     vi: Nakuru
+    zh: 納庫魯郡
+    ccp: "\U0001111A\U00011107\U0001112A\U00011122\U0001112A"
 '32':
   translations:
     de: Nandi District
@@ -597,6 +660,8 @@
     sw: Wilaya ya Nandi
     ur: ناندی کاؤنٹی
     vi: Nandi
+    zh: 南迪郡
+    ccp: "\U0001111A\U0001111A\U00011134\U00011113\U00011128"
 '33':
   translations:
     de: Narok District
@@ -610,6 +675,8 @@
     sw: Wilaya ya Narok
     ur: ناروک کاؤنٹی
     vi: Narok
+    zh: 納羅克郡
+    ccp: "\U0001111A\U00011122\U0001112E\U00011107\U00011134"
 '34':
   translations:
     de: Nyamira District
@@ -623,6 +690,8 @@
     sw: Wilaya ya Nyamira
     ur: نیامیرا کاؤنٹی
     vi: Nyamira
+    zh: 尼亞米拉郡
+    ccp: "\U0001111A\U00011128\U00011120\U0001111F\U00011128\U00011122"
 '35':
   translations:
     de: Nyandarua District
@@ -639,6 +708,8 @@
     sw: Wilaya ya Nyandarua
     ur: نیانداروا کاؤنٹی
     vi: Nyandarua
+    zh: 年達魯阿郡
+    ccp: "\U0001111A\U00011120\U0001111A\U00011134\U00011113\U00011122\U0001112A\U00011120"
 '36':
   translations:
     de: Nyeri District
@@ -656,6 +727,8 @@
     sw: Wilaya ya Nyeri
     ur: نیئری کاؤنٹی
     vi: Nyeri
+    zh: 涅里郡
+    ccp: "\U0001111A\U00011128\U00011120\U00011122\U00011128"
 '38':
   translations:
     de: Siaya County
@@ -671,6 +744,8 @@
     sw: Wilaya ya Siaya
     ur: سیایا کاؤنٹی
     vi: Siaya
+    zh: 夏亞郡
+    ccp: "\U00011125\U00011128\U00011120\U00011133\U00011126"
 '40':
   translations:
     de: Tana River District
@@ -685,6 +760,8 @@
     sw: Wilaya ya Mto Tana
     ur: دریائے تانا کاؤنٹی
     vi: Tana River
+    zh: 塔納河郡
+    ccp: "\U00011111\U0001111A\U00011134 \U00011122\U00011128\U0001111E\U00011122\U00011134"
 '42':
   translations:
     de: Trans-Nzoia District
@@ -700,6 +777,8 @@
     sw: Wilaya ya Trans-Nzoia
     ur: ٹرانس-نزویا کاؤنٹی
     vi: Trans Nzoia
+    zh: 特蘭斯-恩佐亞郡
+    ccp: "\U00011111\U00011133\U00011122\U0001111A\U00011134\U00011125\U00011134 \U0001110E\U0001112E\U00011103\U00011128\U00011120"
 '43':
   translations:
     de: Turkana District
@@ -715,6 +794,8 @@
     sw: Wilaya ya Turkana
     ur: ترکانا کاؤنٹی
     vi: Turkana
+    zh: 圖爾卡納郡
+    ccp: "\U00011111\U0001112A\U00011122\U00011134\U00011107\U0001111A"
 '44':
   translations:
     de: Uasin Gishu District
@@ -730,6 +811,8 @@
     sw: Wilaya ya Uasin Gishu
     ur: یواسین گیشو گاؤنٹی
     vi: Uasin Gishu
+    zh: 瓦辛基蘇郡
+    ccp: "\U00011105\U0001112A\U00011120\U00011125\U00011128\U0001111A\U00011134 \U00011109\U00011128\U00011125\U0001112A"
 '46':
   translations:
     de: Wajir District
@@ -744,6 +827,8 @@
     sw: Wilaya ya Wajir
     ur: واجیر کاؤنٹی
     vi: Wajir
+    zh: 瓦吉爾郡
+    ccp: "\U00011124\U0001110E\U00011128\U00011122\U00011134"
 '47':
   translations:
     de: West Pokot District
@@ -757,6 +842,8 @@
     sw: Wilaya ya Pokot Magharibi
     ur: مغربی پوکوت کاؤنٹی
     vi: West Pokot
+    zh: 西波克特郡
+    ccp: "\U00011124\U00011120\U0001112C\U0001110C\U00011134 \U0001111B\U00011127\U00011107\U0001112E\U00011116\U00011134"
 '26':
   translations:
     en: Meru
@@ -769,6 +856,8 @@
     nl: Meru County
     sv: Meru (län)
     ur: میرو کاؤنٹی
+    zh: 梅魯郡
+    ccp: "\U0001111F\U0001112C\U00011122\U0001112A"
 '39':
   translations:
     en: Taita-Taveta
@@ -781,6 +870,8 @@
     sv: Taita-Taveta
     sw: Wilaya ya Taita-Taveta
     ur: تائتا-تاویتا کاؤنٹی
+    zh: 泰塔塔維塔郡
+    ccp: "\U00011111\U0001112D\U00011111-\U00011111\U0001111E\U0001112C\U00011111"
 '41':
   translations:
     en: Tharaka-Nithi
@@ -793,3 +884,5 @@
     sw: Wilaya ya Tharaka
     ur: تھاراکا-نیتھی کاؤنٹی
     vi: Tharaka
+    zh: 薩拉卡尼蒂郡
+    ccp: "\U00011117\U00011122\U00011107-\U0001111A\U00011128\U00011117\U00011128"

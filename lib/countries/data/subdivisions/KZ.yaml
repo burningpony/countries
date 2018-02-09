@@ -55,6 +55,8 @@ AKM:
     ur: اقمولا صوبہ
     vi: Akmola
     zh: 阿克莫拉州
+    sr_Latn: Akmolinska oblast
+    ccp: "\U00011103\U00011107\U00011134\U0001111F\U00011127\U00011123"
   geo:
     latitude: 51.916532
     longitude: 69.4110493
@@ -117,6 +119,8 @@ AKT:
     ur: اقتوبے صوبہ
     vi: Aktobe
     zh: 阿克托貝州
+    sr_Latn: Aktjubinska oblast
+    ccp: "\U00011103\U00011107\U00011134\U00011111\U0001112E\U0001111D\U0001112C"
   geo:
     latitude: 48.7797078
     longitude: 57.9974377
@@ -192,6 +196,8 @@ ALA:
     vi: Almaty
     zh: 阿拉木圖
     zu: Almaty
+    sr_Latn: Almati
+    ccp: "\U00011103\U00011123\U00011134\U0001111F\U00011111\U00011128"
   geo:
     latitude: 43.2220146
     longitude: 76.8512485
@@ -252,6 +258,8 @@ ALM:
     ur: الماتی صوبہ
     vi: Almaty²
     zh: 阿拉木圖州
+    sr_Latn: Almatinska oblast
+    ccp: "\U00011103\U00011123\U00011134\U0001111F\U00011111\U00011128 \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
   geo:
     latitude: 45.0119227
     longitude: 78.4229392
@@ -326,6 +334,8 @@ AST:
     ur: آستانہ
     vi: Astana
     zh: 阿斯塔納
+    sr_Latn: Astana
+    ccp: "\U00011103\U0001110C\U00011134\U00011111\U0001111A"
   geo:
     latitude: 51.16052269999999
     longitude: 71.4703558
@@ -390,6 +400,8 @@ ATY:
     ur: اتیراؤ صوبہ
     vi: Atyrau
     zh: 阿特勞州
+    sr_Latn: Atirauska oblast
+    ccp: "\U00011103\U00011111\U00011128\U00011120\U00011122\U00011105\U0001112A"
   geo:
     latitude: 47.9053152
     longitude: 51.3780767
@@ -452,6 +464,8 @@ BAY:
     ur: بایکونور
     vi: Baikonur
     zh: 拜科努爾
+    sr_Latn: Bajkonur
+    ccp: "\U0001111D\U0001112C\U00011107\U00011127\U00011101\U00011109\U00011120\U00011122\U00011134"
   geo:
     latitude: 45.6232258
     longitude: 63.31398289999999
@@ -517,6 +531,8 @@ KAR:
     ur: قاراغاندی صوبہ
     vi: Karagandy
     zh: 卡拉干達州
+    sr_Latn: Karagandinska oblast
+    ccp: "\U00011107\U00011122\U00011109\U0001111A\U00011134\U00011113\U00011128"
   geo:
     latitude: 47.90221820000001
     longitude: 71.77068059999999
@@ -581,6 +597,8 @@ KUS:
     ur: قوستانای صوبہ
     vi: Kostanay
     zh: 庫斯塔奈州
+    sr_Latn: Kostanajska oblast
+    ccp: "\U00011107\U0001112E\U0001110C\U00011134\U00011111\U0001111A\U0001112C"
   geo:
     latitude: 51.5077096
     longitude: 64.04790729999999
@@ -647,6 +665,8 @@ KZY:
     ur: قیزیلوردا صوبہ
     vi: Kyzylorda
     zh: 克孜勒奧爾達州
+    sr_Latn: Kizilordinska oblast
+    ccp: "\U00011107\U0001112D\U0001110E\U0001112D\U00011123\U00011127\U00011122\U00011134\U00011113"
   geo:
     latitude: 44.6922613
     longitude: 62.6571885
@@ -707,6 +727,8 @@ MAN:
     ur: مانغیستاؤ صوبہ
     vi: Mangistau
     zh: 曼格斯套州
+    sr_Latn: Mangistauska oblast
+    ccp: "\U0001111F\U00011101\U00011109\U00011128\U0001110C\U00011134\U00011111\U00011105\U0001112A"
   geo:
     latitude: 44.590802
     longitude: 53.84995079999999
@@ -765,6 +787,8 @@ PAV:
     ur: پاؤلودار صوبہ
     vi: Pavlodar
     zh: 巴甫洛達爾州
+    sr_Latn: Pavlodarska oblast
+    ccp: "\U0001111B\U0001111B\U00011134\U00011123\U0001112E\U00011113\U00011122\U00011134"
   geo:
     latitude: 52.65085440000001
     longitude: 76.7773224
@@ -827,6 +851,9 @@ SEV:
     ur: شمالی قازقستان صوبہ
     vi: Bắc Kazakhstan
     zh: 北哈薩克斯坦州
+    sr_Latn: Severnokazahstanska oblast
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011107\U0001110E\U00011108\U0001110C\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: 53.2948229
     longitude: 69.4047872
@@ -888,6 +915,8 @@ VOS:
     ur: مشرقی قازقستان صوبہ
     vi: Đông Kazakhstan
     zh: 東哈薩克斯坦州
+    sr_Latn: Istočnokazahstanska oblast
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011107\U0001110E\U00011108\U0001110C\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: 48.4884873
     longitude: 82.7103185
@@ -951,6 +980,8 @@ YUZ:
     ur: جنوبی قازقستان صوبہ
     vi: Nam Kazakhstan
     zh: 南哈薩克斯坦州
+    sr_Latn: Južno-kazahstanska oblast
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011107\U0001110E\U00011108\U0001110C\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: 49.56797270000001
     longitude: 50.8066617
@@ -1014,6 +1045,8 @@ ZAP:
     ur: مغربی قازقستان صوبہ
     vi: Tây Kazakhstan
     zh: 西哈薩克斯坦州
+    sr_Latn: Zapadnokazahstanska oblast
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011107\U0001110E\U00011108\U0001110C\U00011134\U00011111\U0001111A\U00011134"
   geo:
     latitude: 49.56797270000001
     longitude: 50.8066617
@@ -1070,6 +1103,8 @@ ZHA:
     ur: جمبیل پراونس
     vi: Zhambyl
     zh: 江布爾州
+    sr_Latn: Žambilska oblast
+    ccp: "\U0001110E\U0001111F\U00011134\U0001111D\U00011128\U00011123\U00011134"
   geo:
     latitude: 44.2220308
     longitude: 72.36579669999999

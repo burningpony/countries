@@ -88,6 +88,8 @@ AK:
     ur: الاسکا
     vi: Alaska
     zh: 阿拉斯加州
+    sr_Latn: Aljaska
+    ccp: "\U00011103\U00011123\U0001110C\U00011134\U00011107"
   geo:
     latitude: 64.2008413
     longitude: -149.4936733
@@ -160,6 +162,8 @@ AL:
     ur: الاباما
     vi: Alabama
     zh: 亚拉巴马州
+    sr_Latn: Alabama
+    ccp: "\U00011103\U00011123\U0001111D\U0001111F"
   geo:
     latitude: 32.3182314
     longitude: -86.902298
@@ -243,6 +247,8 @@ AR:
     ur: آرکنساس
     vi: Arkansas
     zh: 阿肯色州
+    sr_Latn: Arkanzas
+    ccp: "\U00011103\U00011122\U00011134\U00011107\U0001111A\U00011134\U00011125\U0001110C\U00011134"
   geo:
     latitude: 35.20105
     longitude: -91.8318334
@@ -255,6 +261,8 @@ AS:
   unofficial_names: American Samoa
   translations:
     en: American Samoa
+    ccp: "\U00011103\U0001111F\U0001112C\U00011122\U00011128\U00011107\U0001111A\U00011134
+      \U00011125\U0001112A\U0001111F\U0001112E\U00011120"
   geo:
     latitude: 21.3239718
     longitude: -157.876498
@@ -328,6 +336,8 @@ AZ:
     vi: Arizona
     zh: 亞利桑那州
     zu: Arizona
+    sr_Latn: Arizona
+    ccp: "\U00011103\U0001112C\U00011122\U00011128\U0001110E\U0001112E\U0001111A"
   geo:
     latitude: 34.0489281
     longitude: -111.0937311
@@ -401,6 +411,9 @@ CA:
     ur: کیلی فورنیا
     vi: California
     zh: 加利福尼亚州
+    sr_Latn: Kalifornija
+    ccp: "\U00011107\U00011133\U00011120\U00011123\U00011128\U0001111C\U0001112E\U00011122\U00011134\U0001111A\U00011128\U00011120"
+    zu: California
   geo:
     latitude: 36.778261
     longitude: -119.4179324
@@ -473,6 +486,9 @@ CO:
     ur: کولوراڈو
     vi: Colorado
     zh: 科羅拉多州
+    sr_Latn: Kolorado
+    ccp: "\U00011107\U00011127\U00011123\U00011127\U00011122\U00011113\U0001112E"
+    zu: Colorado
   geo:
     latitude: 39.5500507
     longitude: -105.7820674
@@ -544,6 +560,9 @@ CT:
     ur: کنیکٹیکٹ
     vi: Connecticut
     zh: 康乃狄克州
+    sr_Latn: Konektikat
+    ccp: "\U00011107\U0001111A\U0001112C\U00011107\U00011134\U00011111\U00011128\U00011107\U0001112A\U00011116\U00011134"
+    zu: Connecticut
   geo:
     latitude: 41.6032207
     longitude: -73.087749
@@ -617,6 +636,9 @@ DC:
     ur: واشنگٹن ڈی سی
     vi: Washington
     zh: 華盛頓哥倫比亞特區
+    sr_Latn: Vašington
+    ccp: "\U00011124\U00011125\U00011128\U00011101\U00011111\U00011127\U0001111A\U00011134
+      \U00011113\U00011128\U00011125\U00011128"
   geo:
     latitude: 38.9071923
     longitude: -77.0368707
@@ -688,6 +710,8 @@ DE:
     ur: ڈیلاویئر
     vi: Delaware
     zh: 特拉华州
+    sr_Latn: Delaver
+    ccp: "\U00011113\U0001112C\U00011123\U00011134\U00011124\U00011122\U00011134"
   geo:
     latitude: 38.9108325
     longitude: -75.52766989999999
@@ -760,6 +784,9 @@ FL:
     ur: فلوریڈا
     vi: Florida
     zh: 佛罗里达州
+    sr_Latn: Florida
+    ccp: "\U0001111C\U00011133\U00011123\U0001112E\U00011122\U00011128\U00011113"
+    zu: Florida
   geo:
     latitude: 27.6648274
     longitude: -81.5157535
@@ -831,6 +858,8 @@ GA:
     ur: ریاست جارجیا
     vi: Georgia
     zh: 喬治亞州
+    sr_Latn: Džordžija
+    ccp: "\U0001110E\U00011127\U00011122\U00011134\U0001110E\U00011128\U00011120"
   geo:
     latitude: 32.1656221
     longitude: -82.9000751
@@ -843,6 +872,7 @@ GU:
   unofficial_names: Guam
   translations:
     en: Guam
+    ccp: "\U00011109\U0001112A\U00011120\U0001111F\U00011134"
   geo:
     latitude: 36.90194
     longitude: -89.82361
@@ -916,6 +946,9 @@ HI:
     ur: ہوائی
     vi: Hawaii
     zh: 夏威夷州
+    sr_Latn: Havaji
+    ccp: "\U00011126\U00011127\U00011124\U00011103\U00011129"
+    zu: Hawaii
   geo:
     latitude: 19.8967662
     longitude: -155.5827818
@@ -987,6 +1020,8 @@ IA:
     ur: آئیووا
     vi: Iowa
     zh: 艾奥瓦州
+    sr_Latn: Ajova
+    ccp: "\U00011103\U0001112D\U00011124"
   geo:
     latitude: 41.8780025
     longitude: -93.097702
@@ -1058,6 +1093,9 @@ ID:
     ur: ایڈاہو
     vi: Idaho
     zh: 爱达荷州
+    sr_Latn: Ajdaho
+    ccp: "\U00011103\U0001112D\U00011113\U00011126\U0001112E"
+    zu: Idaho
   geo:
     latitude: 44.0682019
     longitude: -114.7420408
@@ -1129,6 +1167,8 @@ IL:
     ur: الینوائے
     vi: Illinois
     zh: 伊利诺伊州
+    sr_Latn: Ilinois
+    ccp: "\U00011123\U00011128\U00011123\U00011133\U00011126\U00011128\U0001111A\U0001112E\U00011103\U00011128\U0001110C\U00011134"
   geo:
     latitude: 40.6331249
     longitude: -89.3985283
@@ -1200,6 +1240,9 @@ IN:
     ur: انڈیانا
     vi: Indiana
     zh: 印第安纳州
+    sr_Latn: Indijana
+    ccp: "\U00011103\U00011128\U0001111A\U00011134\U00011113\U00011128\U00011120\U0001111A"
+    zu: Indiana
   geo:
     latitude: 40.2671941
     longitude: -86.1349019
@@ -1271,6 +1314,8 @@ KS:
     ur: کنساس
     vi: Kansas
     zh: 堪薩斯州
+    sr_Latn: Kanzas
+    ccp: "\U00011107\U0001111A\U00011134\U00011125\U0001110C\U00011134"
   geo:
     latitude: 39.011902
     longitude: -98.4842465
@@ -1342,6 +1387,8 @@ KY:
     ur: کینٹکی
     vi: Kentucky
     zh: 肯塔基州
+    sr_Latn: Kentaki
+    ccp: "\U00011107\U0001112C\U0001111A\U00011134\U00011111\U0001112A\U00011107\U00011128"
   geo:
     latitude: 37.8393332
     longitude: -84.2700179
@@ -1413,6 +1460,8 @@ LA:
     ur: لوزیانا
     vi: Louisiana
     zh: 路易斯安那州
+    sr_Latn: Luizijana
+    ccp: "\U00011123\U0001112D\U0001112A\U0001110E\U00011128\U00011120\U0001111A"
   geo:
     latitude: 30.9842977
     longitude: -91.96233269999999
@@ -1484,6 +1533,9 @@ MA:
     ur: میساچوسٹس
     vi: Massachusetts
     zh: 麻薩諸塞州
+    sr_Latn: Masačusets
+    ccp: "\U0001111F\U00011125\U0001110C\U0001112A\U00011125\U0001112C\U00011116\U00011134\U0001110C\U00011134"
+    zu: Massachusetts
   geo:
     latitude: 42.4072107
     longitude: -71.3824374
@@ -1555,6 +1607,9 @@ MD:
     ur: میری لینڈ
     vi: Maryland
     zh: 马里兰州
+    sr_Latn: Merilend
+    ccp: "\U0001111F\U0001112C\U00011122\U00011128\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
+    zu: Maryland
   geo:
     latitude: 39.0457549
     longitude: -76.64127119999999
@@ -1626,6 +1681,8 @@ ME:
     ur: مینے
     vi: Maine
     zh: 缅因州
+    sr_Latn: Mejn
+    ccp: "\U0001111F\U0001112D\U0001111A\U0001112C"
   geo:
     latitude: 45.253783
     longitude: -69.4454689
@@ -1698,6 +1755,8 @@ MI:
     ur: مشی گن
     vi: Michigan
     zh: 密歇根州
+    sr_Latn: Mičigen
+    ccp: "\U0001111F\U00011128\U00011125\U00011128\U00011109\U0001111A\U00011134"
   geo:
     latitude: 44.3148443
     longitude: -85.60236429999999
@@ -1769,6 +1828,8 @@ MN:
     ur: مینیسوٹا
     vi: Minnesota
     zh: 明尼蘇達州
+    sr_Latn: Minesota
+    ccp: "\U0001111F\U00011128\U0001111A\U0001112C\U00011125\U0001112E\U00011111"
   geo:
     latitude: 46.729553
     longitude: -94.6858998
@@ -1840,6 +1901,8 @@ MO:
     ur: مسوری
     vi: Missouri
     zh: 密蘇里州
+    sr_Latn: Misuri
+    ccp: "\U0001111F\U00011128\U00011125\U0001112F\U00011122\U00011128"
   geo:
     latitude: 37.9642529
     longitude: -91.8318334
@@ -1852,6 +1915,8 @@ MP:
   unofficial_names: Northern Mariana Islands
   translations:
     en: Northern Mariana Islands
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U0001111F\U0001112C\U00011122\U00011128\U00011120\U0001111A \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
   geo:
     latitude: 15.1466435
     longitude: 145.7023038
@@ -1924,6 +1989,8 @@ MS:
     ur: مسیسپی
     vi: Mississippi
     zh: 密西西比州
+    sr_Latn: Misisipi
+    ccp: "\U0001111F\U00011128\U00011125\U00011128\U00011125\U00011128\U0001111B\U00011128"
   geo:
     latitude: 32.3546679
     longitude: -89.3985283
@@ -1994,6 +2061,8 @@ MT:
     ur: مونٹانا
     vi: Montana
     zh: 蒙大拿州
+    sr_Latn: Montana
+    ccp: "\U0001111F\U00011127\U0001111A\U00011134\U00011111\U0001111A"
   geo:
     latitude: 46.8796822
     longitude: -110.3625658
@@ -2064,6 +2133,9 @@ NC:
     ur: شمالی کیرولینا
     vi: Bắc Carolina
     zh: 北卡罗来纳州
+    sr_Latn: Severna Karolina
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011107\U00011133\U00011120\U00011122\U0001112E\U00011123\U00011128\U0001111A"
   geo:
     latitude: 35.7595731
     longitude: -79.01929969999999
@@ -2135,6 +2207,9 @@ ND:
     ur: شمالی ڈکوٹا
     vi: Bắc Dakota
     zh: 北达科他州
+    sr_Latn: Severna Dakota
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011113\U00011107\U0001112E\U00011111"
   geo:
     latitude: 47.5514926
     longitude: -101.0020119
@@ -2206,6 +2281,8 @@ NE:
     ur: نیبراسکا
     vi: Nebraska
     zh: 內布拉斯加州
+    sr_Latn: Nebraska
+    ccp: "\U0001111A\U0001112C\U0001111D\U00011133\U00011122\U0001110C\U00011134\U00011107"
   geo:
     latitude: 41.4925374
     longitude: -99.9018131
@@ -2277,6 +2354,8 @@ NH:
     ur: نیو ہیمپشائر
     vi: New Hampshire
     zh: 新罕布什尔州
+    sr_Latn: Nju Hempšir
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A \U00011126\U0001111F\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 43.1938516
     longitude: -71.5723953
@@ -2347,6 +2426,9 @@ NJ:
     ur: نیو جرسی
     vi: New Jersey
     zh: 新泽西州
+    sr_Latn: Nju Džerzi
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A \U0001110E\U00011122\U00011134\U00011125\U00011128"
+    zu: New Jersey
   geo:
     latitude: 40.0583238
     longitude: -74.4056612
@@ -2418,6 +2500,8 @@ NM:
     ur: نیو میکسیکو
     vi: New Mexico
     zh: 新墨西哥州
+    sr_Latn: Novi Meksiko
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A \U0001111F\U0001112C\U00011107\U00011134\U00011125\U00011128\U00011107\U0001112E"
   geo:
     latitude: 34.5199402
     longitude: -105.8700901
@@ -2489,6 +2573,9 @@ NV:
     ur: نیواڈا
     vi: Nevada
     zh: 内华达州
+    sr_Latn: Nevada
+    ccp: "\U0001111A\U0001112C\U0001111E\U00011113"
+    zu: Nevada
   geo:
     latitude: 38.8026097
     longitude: -116.419389
@@ -2566,6 +2653,9 @@ NY:
     ur: نیویارک
     vi: Tiểu bang New York
     zh: 纽约州
+    sr_Latn: Njujork
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A \U00011103\U00011128\U00011120\U00011127\U00011122\U00011134\U00011107\U00011134"
+    zu: New York Isifunda
   geo:
     latitude: 43.2994285
     longitude: -74.21793260000001
@@ -2637,6 +2727,8 @@ OH:
     ur: اوہائیو
     vi: Ohio
     zh: 俄亥俄州
+    sr_Latn: Ohajo
+    ccp: "\U00011103\U0001112E\U00011126\U00011128\U00011103\U0001112E"
   geo:
     latitude: 40.4172871
     longitude: -82.90712300000001
@@ -2708,6 +2800,8 @@ OK:
     ur: اوکلاہوما
     vi: Oklahoma
     zh: 奧克拉荷馬州
+    sr_Latn: Oklahoma
+    ccp: "\U00011103\U00011107\U00011134\U00011123\U00011126\U0001112E\U0001111F"
   geo:
     latitude: 35.0077519
     longitude: -97.092877
@@ -2779,6 +2873,8 @@ OR:
     ur: اوریگون
     vi: Oregon
     zh: 俄勒冈州
+    sr_Latn: Oregon
+    ccp: "\U00011103\U00011122\U00011128\U00011109\U00011127\U0001111A\U00011134"
   geo:
     latitude: 43.8041334
     longitude: -120.5542012
@@ -2850,6 +2946,9 @@ PA:
     ur: پنسلوانیا
     vi: Pennsylvania
     zh: 宾夕法尼亚州
+    sr_Latn: Pensilvanija
+    ccp: "\U0001111B\U0001112C\U0001111A\U00011128\U0001111A\U00011134\U00011125\U00011128\U00011123\U00011134\U0001111E\U0001111A\U00011128\U00011120"
+    zu: Pennsylvania
   geo:
     latitude: 41.2033216
     longitude: -77.1945247
@@ -2862,6 +2961,7 @@ PR:
   unofficial_names: Puerto Rico
   translations:
     en: Puerto Rico
+    ccp: "\U0001111B\U0001112E\U00011122\U00011134\U00011111\U0001112E \U00011122\U00011128\U00011107\U0001112E"
   geo:
     latitude: 32.7290818
     longitude: -117.1517016
@@ -2934,6 +3034,8 @@ RI:
     ur: رہوڈ آئی لینڈ
     vi: Rhode Island
     zh: 羅德島州
+    sr_Latn: Roud Ajland
+    ccp: "\U00011122\U0001112E\U00011116\U00011134 \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 41.5800945
     longitude: -71.4774291
@@ -3004,6 +3106,8 @@ SC:
     ur: جنوبی کیرولینا
     vi: Nam Carolina
     zh: 南卡罗来纳州
+    sr_Latn: Južna Karolina
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011107\U00011133\U00011120\U00011122\U0001112E\U00011123\U00011128\U0001111A"
   geo:
     latitude: 33.836081
     longitude: -81.1637245
@@ -3075,6 +3179,8 @@ SD:
     ur: جنوبی ڈکوٹا
     vi: Nam Dakota
     zh: 南达科他州
+    sr_Latn: Južna Dakota
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011113\U00011107\U0001112E\U00011111"
   geo:
     latitude: 43.9695148
     longitude: -99.9018131
@@ -3146,6 +3252,8 @@ TN:
     ur: ٹینیسی
     vi: Tennessee
     zh: 田纳西州
+    sr_Latn: Tenesi
+    ccp: "\U00011111\U0001112C\U0001111A\U00011129\U00011125\U00011129"
   geo:
     latitude: 35.5174913
     longitude: -86.5804473
@@ -3218,6 +3326,9 @@ TX:
     ur: ٹیکساس
     vi: Texas
     zh: 得克萨斯州
+    sr_Latn: Teksas
+    ccp: "\U00011111\U0001112C\U00011107\U00011134\U00011125\U0001110C\U00011134"
+    zu: Texas
   geo:
     latitude: 31.9685988
     longitude: -99.9018131
@@ -3230,6 +3341,9 @@ UM:
   unofficial_names: United States Minor Outlying Islands
   translations:
     en: U.S. Outlying Islands
+    ccp: "\U00011103\U00011128\U00011105\U0001112A. \U00011103\U0001112C\U0001110C\U00011134.
+      \U00011103\U00011105\U0001112A\U00011116\U00011134\U00011123\U0001112D\U00011103\U00011128\U00011101
+      \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 28.2021222
     longitude: -177.3804525
@@ -3302,6 +3416,9 @@ UT:
     ur: یوٹاہ
     vi: Utah
     zh: 犹他州
+    sr_Latn: Juta
+    ccp: "\U00011105\U0001112A\U00011111\U00011126\U00011134"
+    zu: Utah
   geo:
     latitude: 39.3209801
     longitude: -111.0937311
@@ -3373,6 +3490,9 @@ VA:
     ur: ورجینیا
     vi: Virginia
     zh: 弗吉尼亚州
+    sr_Latn: Virdžinija
+    ccp: "\U0001111E\U00011122\U00011134\U0001110E\U00011128\U0001111A\U00011128\U00011120"
+    zu: Virginia
   geo:
     latitude: 37.4315734
     longitude: -78.6568942
@@ -3385,6 +3505,8 @@ VI:
   unofficial_names: Virgin Islands, U.S.
   translations:
     en: U.S. Virgin Islands
+    ccp: "\U00011103\U00011128\U00011105\U0001112A. \U00011103\U0001112C\U0001110C\U00011134
+      \U0001111E\U00011122\U00011134\U0001110E\U00011128\U0001111A\U00011134 \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 33.8569878
     longitude: -84.5904089
@@ -3457,6 +3579,9 @@ VT:
     ur: ورمونٹ
     vi: Vermont
     zh: 佛蒙特州
+    sr_Latn: Vermont
+    ccp: "\U0001111E\U00011122\U00011134\U0001111F\U0001111A\U00011134\U00011111\U00011134"
+    zu: Vermont
   geo:
     latitude: 44.5588028
     longitude: -72.57784149999999
@@ -3527,6 +3652,10 @@ WA:
     ur: ریاست واشنگٹن
     vi: Washington²
     zh: 华盛顿州
+    sr_Latn: Vašington²
+    ccp: "\U00011124\U00011125\U00011128\U00011101\U00011111\U00011127\U0001111A\U00011134"
+    zu: Washington
+    ne: वाशिङ्गटन डि.सि.
   geo:
     latitude: 47.7510741
     longitude: -120.7401386
@@ -3599,6 +3728,8 @@ WI:
     ur: وسکونسن
     vi: Wisconsin
     zh: 威斯康辛州
+    sr_Latn: Viskonsin
+    ccp: "\U00011105\U0001112A\U00011103\U00011128\U0001110C\U00011134\U00011107\U00011127\U0001111A\U00011134\U00011125\U00011128\U0001111A\U00011134"
   geo:
     latitude: 43.7844397
     longitude: -88.7878678
@@ -3670,6 +3801,8 @@ WV:
     ur: مغربی ورجینیا
     vi: Tây Virginia
     zh: 西維吉尼亞州
+    sr_Latn: Zapadna Virdžinija
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111E\U00011122\U00011134\U0001110E\U00011128\U0001111A\U00011128\U00011120"
   geo:
     latitude: 38.5976262
     longitude: -80.4549026
@@ -3742,6 +3875,9 @@ WY:
     ur: وائیومنگ
     vi: Wyoming
     zh: 怀俄明州
+    sr_Latn: Vajoming
+    ccp: "\U00011103\U00011128\U00011120\U0001112E\U0001111F\U00011128\U00011101"
+    zu: Wyoming
   geo:
     latitude: 43.0759678
     longitude: -107.2902839

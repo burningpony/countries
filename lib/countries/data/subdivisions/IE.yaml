@@ -39,6 +39,8 @@ C:
     uk: Коннахт
     ur: کوناکٹ
     zh: 康諾特省
+    sr_Latn: Konot
+    ccp: "\U00011107\U0001112E\U0001111A\U0001110C\U00011134\U00011111\U00011134"
   geo:
     latitude: 51.8968917
     longitude: -8.4863157
@@ -99,6 +101,9 @@ CE:
     uk: Клер
     ur: کاؤنٹی کلیئر
     vi: Hạt Clare
+    sr_Latn: Kler
+    zh: 克莱尔郡
+    ccp: "\U00011107\U00011133\U00011123\U00011122\U0001112C"
   geo:
     latitude: 52.86245280000001
     longitude: -9.0471645
@@ -157,6 +162,9 @@ CN:
     uk: Каван
     ur: کاؤنٹی کاوان
     vi: Hạt Cavan
+    sr_Latn: Kavan
+    zh: 卡文郡
+    ccp: "\U00011107\U00011133\U00011120\U0001111E\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.9897186
     longitude: -7.3633319
@@ -217,6 +225,9 @@ CW:
     uk: Карлоу
     ur: کاؤنٹی کارلو
     vi: Hạt Carlow
+    sr_Latn: Karlou
+    zh: 卡洛郡
+    ccp: "\U00011107\U00011122\U00011134\U00011123\U0001112E"
   geo:
     latitude: 52.7189747
     longitude: -6.8503703
@@ -265,6 +276,9 @@ D:
     tr: Dublin ili
     uk: Дублін
     ur: کاؤنٹی ڈبلن
+    sr_Latn: Dablin
+    zh: 都柏林地區
+    ccp: "\U00011113\U0001112A\U0001111B\U00011134\U00011123\U00011128\U0001111A\U00011134"
   geo:
     latitude: 53.3498053
     longitude: -6.2603097
@@ -327,6 +341,9 @@ DL:
     uk: Донегол
     ur: کاؤنٹی ڈانیگول
     vi: Hạt Donegal
+    sr_Latn: Donegol
+    zh: 多尼戈爾郡
+    ccp: "\U00011113\U00011127\U0001111A\U00011134\U00011109\U00011133\U00011120\U00011123\U00011134"
   geo:
     latitude: 54.6541972
     longitude: -8.110546
@@ -386,6 +403,9 @@ G:
     uk: Голвей
     ur: کاؤنٹی گالوے
     vi: Hạt Galway
+    sr_Latn: Golvej
+    zh: 戈尔韦郡
+    ccp: "\U00011109\U00011127\U00011123\U00011134\U00011103\U0001112E\U00011120\U0001112C"
   geo:
     latitude: 53.270668
     longitude: -9.0567905
@@ -445,6 +465,9 @@ KE:
     uk: Кілдер
     ur: کاؤنٹی کلڈیئر
     vi: Hạt Kildare
+    sr_Latn: Kilder
+    zh: 基尔代尔郡
+    ccp: "\U00011107\U00011128\U00011123\U00011134\U00011113\U00011122\U0001112C"
   geo:
     latitude: 53.1589342
     longitude: -6.9095683
@@ -505,6 +528,9 @@ KK:
     uk: Кілкенні
     ur: کاؤنٹی کلکینی
     vi: Hạt Kilkenny
+    sr_Latn: Kilkeni
+    zh: 基爾肯尼郡
+    ccp: "\U00011107\U00011128\U00011123\U00011134\U00011107\U0001112C\U0001111A\U00011128"
   geo:
     latitude: 52.6541454
     longitude: -7.2447879
@@ -566,6 +592,9 @@ KY:
     uk: Керрі
     ur: کاؤنٹی کیری
     vi: Hạt Kerry
+    sr_Latn: Keri
+    zh: 凱里郡
+    ccp: "\U00011107\U0001112C\U00011122\U00011128"
   geo:
     latitude: 52.15446069999999
     longitude: -9.5668632
@@ -626,6 +655,9 @@ LD:
     uk: Лонгфорд
     ur: کاؤنٹی لونگفرڈ
     vi: Hạt Longford
+    sr_Latn: Longford
+    zh: 朗福德郡
+    ccp: "\U00011123\U00011127\U00011101\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 53.7275564
     longitude: -7.793108999999999
@@ -685,6 +717,9 @@ LH:
     uk: Лаут
     ur: کاؤنٹی لاوتھ
     vi: Hạt Louth
+    sr_Latn: Laud
+    zh: 劳斯郡
+    ccp: "\U00011123\U0001112E\U00011116\U00011134"
   geo:
     latitude: 53.8969758
     longitude: -6.467097099999999
@@ -745,6 +780,9 @@ LK:
     uk: Лімерик
     ur: کاؤنٹی لیمرک
     vi: Hạt Limerick
+    sr_Latn: Limerik
+    zh: 利默里克郡
+    ccp: "\U00011123\U00011128\U0001111F\U0001112C\U00011122\U00011128\U00011107\U00011134"
   geo:
     latitude: 52.6680204
     longitude: -8.630497499999999
@@ -802,6 +840,9 @@ LM:
     uk: Літрім
     ur: کاؤنٹی لیٹریم
     vi: Hạt Leitrim
+    sr_Latn: Litrim
+    zh: 利特里姆郡
+    ccp: "\U00011123\U0001112C\U0001112D\U00011111\U00011133\U00011122\U00011128\U0001111F\U00011134"
   geo:
     latitude: 53.9926007
     longitude: -8.0655852
@@ -859,6 +900,9 @@ LS:
     uk: Ліїш
     ur: کاؤنٹی لیش
     vi: Hạt Laois
+    sr_Latn: Liš
+    zh: 萊伊什郡
+    ccp: "\U00011123\U0001112D\U00011120\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 52.994295
     longitude: -7.332300699999999
@@ -917,6 +961,9 @@ MH:
     uk: Міт
     ur: کاؤنٹی میدھ
     vi: Hạt Meath
+    sr_Latn: Mid
+    zh: 米斯郡
+    ccp: "\U0001111F\U0001112C\U00011116\U00011134"
   geo:
     latitude: 53.60554800000001
     longitude: -6.6564169
@@ -975,6 +1022,9 @@ MN:
     uk: Монахан
     ur: کاؤنٹی مونیہین
     vi: Hạt Monaghan
+    sr_Latn: Monahan
+    zh: 莫纳亨郡
+    ccp: "\U0001111F\U00011127\U0001111A\U0001110A\U0001111A\U00011134"
   geo:
     latitude: 54.2492046
     longitude: -6.9683132
@@ -1035,6 +1085,9 @@ MO:
     uk: Мейо
     ur: کاؤنٹی میو
     vi: Hạt Mayo
+    sr_Latn: Mejo
+    zh: 梅奧郡
+    ccp: "\U0001111F\U0001112C\U00011120\U0001112E"
   geo:
     latitude: 53.93458099999999
     longitude: -9.351645600000001
@@ -1095,6 +1148,9 @@ OY:
     uk: Оффалі
     ur: کاؤنٹی اوفلی
     vi: Hạt Offaly
+    sr_Latn: Ofali
+    zh: 奧法利郡
+    ccp: "\U00011103\U00011127\U0001111C\U00011123\U00011128"
   geo:
     latitude: 53.2356871
     longitude: -7.7122229
@@ -1154,6 +1210,9 @@ RN:
     uk: Роскоммон
     ur: کاؤنٹی راسکومن
     vi: Hạt Roscommon
+    sr_Latn: Roskomon
+    zh: 羅斯康芒郡
+    ccp: "\U00011122\U0001112E\U0001110C\U00011134\U00011107\U0001112E\U0001111F\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.6275906
     longitude: -8.189095499999999
@@ -1215,6 +1274,9 @@ SO:
     uk: Слайго
     ur: کاؤنٹی سلایگوہ
     vi: Hạt Sligo
+    sr_Latn: Slajgo
+    zh: 斯萊戈郡
+    ccp: "\U00011125\U00011133\U00011123\U00011128\U00011109\U0001112E"
   geo:
     latitude: 54.27661029999999
     longitude: -8.4760888
@@ -1273,6 +1335,9 @@ TA:
     uk: Тіпперері
     ur: کاؤنٹی ٹپاریری
     vi: Hạt Tipperary
+    sr_Latn: Tiperari
+    zh: 蒂珀雷里郡
+    ccp: "\U00011111\U00011128\U0001111B\U00011122\U00011134\U00011122\U00011128"
   geo:
     latitude: 52.47378940000001
     longitude: -8.1618514
@@ -1333,6 +1398,9 @@ WD:
     uk: Вотерфорд
     ur: کاؤنٹی واٹرفرڈ
     vi: Hạt Waterford
+    sr_Latn: Voterford
+    zh: 沃特福德郡
+    ccp: "\U00011103\U0001112E\U00011120\U00011111\U00011122\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 52.256667
     longitude: -7.129167
@@ -1389,6 +1457,9 @@ WH:
     uk: Західний Міт
     ur: کاؤنٹی ویسٹمیدھ
     vi: Hạt Westmeath
+    sr_Latn: Vestmid
+    zh: 韋斯特米斯郡
+    ccp: "\U00011103\U00011127\U00011120\U0001112C\U0001110C\U00011134\U0001111F\U0001112C\U00011116\U00011134"
   geo:
     latitude: 53.5345308
     longitude: -7.4653217
@@ -1450,6 +1521,9 @@ WW:
     uk: Віклоу
     ur: کاؤنٹی ویکلو
     vi: Hạt Wicklow
+    sr_Latn: Viklou
+    zh: 威克洛郡
+    ccp: "\U00011105\U0001112A\U00011103\U00011128\U00011107\U00011134\U00011123\U0001112E"
   geo:
     latitude: 52.9808207
     longitude: -6.044588999999999
@@ -1508,6 +1582,9 @@ WX:
     uk: Вексфорд
     ur: کاؤنٹی ویکسفرڈ
     vi: Wexford
+    sr_Latn: Veksford
+    zh: 韦克斯福德郡
+    ccp: "\U00011103\U0001112E\U00011120\U0001112C\U00011107\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 52.336916
     longitude: -6.4633381
@@ -1569,6 +1646,9 @@ CO:
     uk: Корк
     ur: کاؤنٹی کورک
     vi: Hạt Cork
+    sr_Latn: Kork
+    zh: 科克郡
+    ccp: "\U00011107\U00011127\U00011122\U00011134\U00011107\U00011134"
 L:
   translations:
     ar: لاينستر
@@ -1605,6 +1685,9 @@ L:
     sv: Leinster
     uk: Ленстер
     ur: لینسٹر
+    sr_Latn: Lenster
+    zh: 倫斯特省
+    ccp: "\U00011123\U0001112C\U0001112D\U0001111A\U00011134\U0001110C\U00011133\U00011111\U00011122\U00011134"
 M:
   translations:
     ar: مونستر
@@ -1641,6 +1724,9 @@ M:
     sv: Munster
     uk: Манстер
     ur: مونسٹر
+    sr_Latn: Manster
+    zh: 芒斯特省
+    ccp: "\U0001111F\U0001112A\U0001111A\U00011134\U0001110C\U00011133\U00011111\U00011122\U00011134"
 U:
   translations:
     ar: أولستر
@@ -1684,3 +1770,6 @@ U:
     uk: Ольстер
     ur: السٹر
     vi: Ulster
+    sr_Latn: Alster
+    zh: 阿爾斯特省
+    ccp: "\U00011103\U00011123\U00011134\U0001110C\U00011133\U00011111\U00011122\U00011134"

@@ -47,6 +47,8 @@ AB:
     ur: ابیا ریاست
     vi: Bang Abia
     zh: 阿比亚州
+    sr_Latn: Abija
+    ccp: "\U00011103\U0001111D\U00011128\U00011120"
   geo:
     latitude: 5.430892099999999
     longitude: 7.524724300000001
@@ -102,6 +104,9 @@ AD:
     uk: Адамава
     ur: اداماوا ریاست
     vi: Bang Adamawa
+    sr_Latn: Adamava
+    zh: 阿達馬瓦
+    ccp: "\U00011103\U00011113\U0001111F\U00011134\U00011124"
   geo:
     latitude: 9.3250497
     longitude: 12.4380581
@@ -154,6 +159,9 @@ AK:
     uk: Аква-Ібом
     ur: اکوا ایبوم ریاست
     vi: Bang Akwa Ibom
+    sr_Latn: Akva Ibom
+    zh: 阿夸伊博姆州
+    ccp: "\U00011103\U00011127\U00011107\U00011134\U00011124 \U00011103\U00011128\U0001111D\U00011127\U0001111F\U00011134"
   geo:
     latitude: 4.929986899999999
     longitude: 7.872159999999999
@@ -205,6 +213,9 @@ AN:
     tr: Anambra Eyaleti
     ur: انامبرا ریاست
     vi: Bang Anambra
+    sr_Latn: Anambra
+    zh: 阿南布拉州
+    ccp: "\U00011103\U0001111A\U0001111F\U00011134\U0001111D\U00011133\U00011122"
   geo:
     latitude: 6.2757656
     longitude: 7.0068393
@@ -256,6 +267,9 @@ BA:
     tr: Bauchi Eyaleti
     ur: باوچی ریاست
     vi: Bang Bauchi
+    sr_Latn: Bauči
+    zh: 包奇州
+    ccp: "\U0001111D\U0001112F\U0001110C\U00011128"
   geo:
     latitude: 10.315833
     longitude: 9.844166999999999
@@ -307,6 +321,9 @@ BE:
     tr: Benue Eyaleti
     ur: بینوے ریاست
     vi: Bang Benue
+    sr_Latn: Benue
+    zh: 贝努埃州
+    ccp: "\U0001111D\U0001112C\U0001111A\U0001112A\U00011120\U00011128"
   geo:
     latitude: 7.350825899999999
     longitude: 8.8362755
@@ -361,6 +378,9 @@ BO:
     tr: Borno Eyaleti
     ur: بورنو ریاست
     vi: Borno
+    sr_Latn: Borno
+    zh: 博尔诺州
+    ccp: "\U0001111D\U00011127\U00011122\U00011134\U0001111A\U0001112E"
   geo:
     latitude: 11.5097479
     longitude: 12.9789121
@@ -412,6 +432,9 @@ BY:
     tr: Bayelsa Eyaleti
     ur: بایلسا ریاست
     vi: Bang Bayelsa
+    sr_Latn: Bajelsa
+    zh: 巴耶尔萨州
+    ccp: "\U0001111D\U0001112C\U00011120\U0001112C\U00011123\U00011134\U00011125"
   geo:
     latitude: 4.867776699999999
     longitude: 5.898713900000001
@@ -463,6 +486,9 @@ CR:
     uk: Крос-Рівер
     ur: کراس ریور ریاست
     vi: Bang Cross River
+    sr_Latn: Kros River
+    zh: 克里斯河州
+    ccp: "\U00011107\U00011133\U00011122\U00011127\U0001110C\U00011134 \U00011122\U00011128\U0001111E\U00011122\U00011134"
   geo:
     latitude: 6.167031499999999
     longitude: 8.6600586
@@ -516,6 +542,9 @@ DE:
     uk: Дельта
     ur: ڈیلٹا ریاست
     vi: Bang Delta
+    sr_Latn: Delta
+    zh: 三角州
+    ccp: "\U00011113\U0001112C\U00011123\U00011134\U00011111"
   geo:
     latitude: 5.5324624
     longitude: 5.898713900000001
@@ -567,6 +596,9 @@ EB:
     tr: Ebonyi Eyaleti
     ur: عبونئی ریاست
     vi: Bang Ebonyi
+    sr_Latn: Ebonji
+    zh: 埃邦伊州
+    ccp: "\U00011103\U00011128\U0001111D\U00011127\U0001111A\U00011128"
   geo:
     latitude: 6.177973
     longitude: 7.959286299999999
@@ -621,6 +653,9 @@ ED:
     tr: Edo Eyaleti
     ur: عدو ریاست
     vi: Bang Edo
+    sr_Latn: Edo
+    zh: 埃多州
+    ccp: "\U00011103\U00011128\U00011113\U0001112E"
   geo:
     latitude: 6.5438101
     longitude: 5.898713900000001
@@ -671,6 +706,9 @@ EK:
     tr: Ekiti Eyaleti
     ur: عکیتی ریاست
     vi: Bang Ekiti
+    sr_Latn: Ekiti
+    zh: 埃基蒂州
+    ccp: "\U00011103\U00011128\U00011107\U00011128\U00011111\U00011128"
   geo:
     latitude: 7.665581299999999
     longitude: 5.3102505
@@ -721,6 +759,9 @@ EN:
     tr: Enugu Eyaleti
     ur: عنوگو ریاست
     vi: Bang Enugu
+    sr_Latn: Enugu
+    zh: 埃努古州
+    ccp: "\U00011103\U0001112C\U0001111A\U0001112A\U00011109\U0001112A"
   geo:
     latitude: 6.452667
     longitude: 7.510332999999998
@@ -769,6 +810,9 @@ FC:
     tr: Federal Başkent Bölgesi
     ur: وفاقی دارالحکومت علاقہ، نائجیریا
     vi: Lãnh thổ Thủ đô liên bang
+    zh: 聯邦首都特區
+    ccp: "\U0001111C\U0001112C\U00011113\U00011122\U0001112C\U00011123\U00011134 \U00011107\U00011133\U00011120\U0001111B\U00011128\U00011111\U00011123\U00011134
+      \U00011111\U0001112C\U00011122\U00011128\U00011111\U0001112E\U00011122\U00011128"
   geo:
     latitude: 8.8556838
     longitude: 7.179025999999999
@@ -821,6 +865,9 @@ GO:
     tr: Gombe Eyaleti
     ur: گومبے ریاست
     vi: Bang Gombe
+    sr_Latn: Gombe
+    zh: 贡贝州
+    ccp: "\U00011109\U0001112E\U0001111F\U00011134\U0001111D\U0001112C"
   geo:
     latitude: 10.283333
     longitude: 11.166667
@@ -871,6 +918,9 @@ IM:
     tr: Imo Eyaleti
     ur: امو ریاست
     vi: Bang Imo
+    sr_Latn: Imo
+    zh: 伊莫州
+    ccp: "\U00011103\U00011128\U0001111F\U0001112E"
   geo:
     latitude: 5.5214533
     longitude: 6.920913499999999
@@ -921,6 +971,9 @@ JI:
     tr: Jigawa Eyaleti
     ur: جیگاوا ریاست
     vi: Bang Jigawa
+    sr_Latn: Džigava
+    zh: 吉加瓦州
+    ccp: "\U0001110E\U00011128\U00011109\U00011124"
   geo:
     latitude: 12.5700315
     longitude: 8.9400589
@@ -970,6 +1023,9 @@ KD:
     tr: Kaduna Eyaleti
     ur: کادونا اسٹیٹ
     vi: Bang Kaduna
+    sr_Latn: Kaduna
+    zh: 卡杜纳州
+    ccp: "\U00011107\U00011113\U0001112A\U0001111A"
   geo:
     latitude: 10.516667
     longitude: 7.433332999999999
@@ -1020,6 +1076,9 @@ KE:
     tr: Kebbi Eyaleti
     ur: کیبی ریاست
     vi: Bang Kebbi
+    sr_Latn: Kebi
+    zh: 凯比州
+    ccp: "\U00011107\U0001112C\U0001111D\U00011133\U00011126\U00011128"
   geo:
     latitude: 11.6781241
     longitude: 4.0695454
@@ -1070,6 +1129,9 @@ KN:
     tr: Kano Devleti
     ur: کانو ریاست
     vi: Bang Kano
+    sr_Latn: Kano
+    zh: 卡诺州
+    ccp: "\U00011107\U0001111A\U0001112E"
   geo:
     latitude: 12.0021794
     longitude: 8.591956099999999
@@ -1121,6 +1183,9 @@ KO:
     uk: Когі
     ur: کوگی ریاست
     vi: Bang Kogi
+    sr_Latn: Kogi
+    zh: 科吉州
+    ccp: "\U00011107\U0001112E\U00011109\U00011128"
   geo:
     latitude: 7.561891
     longitude: 6.5783387
@@ -1171,6 +1236,9 @@ KT:
     tr: Katsina Eyaleti
     ur: کاتسینا ریاست
     vi: Bang Katsina
+    sr_Latn: Kacina
+    zh: 卡齐纳州
+    ccp: "\U00011107\U00011116\U00011134\U00011125\U00011128\U0001111A"
   geo:
     latitude: 12.983333
     longitude: 7.6
@@ -1221,6 +1289,9 @@ KW:
     tr: Kwara Eyaleti
     ur: کوارا ریاست
     vi: Bang Kwara
+    sr_Latn: Kvara
+    zh: 夸拉州
+    ccp: "\U00011107\U00011127\U00011124\U00011122"
   geo:
     latitude: 8.9847995
     longitude: 4.5624426
@@ -1261,6 +1332,9 @@ LA:
     sw: Jimbo la Lagos
     tr: Lagos Eyaleti
     ur: لاگوس ریاست
+    sr_Latn: Lagos
+    zh: 拉各斯州
+    ccp: "\U00011123\U00011109\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 6.5243793
     longitude: 3.3792057
@@ -1313,6 +1387,9 @@ NA:
     tr: Nasarawa Eyaleti
     ur: نصراوا ریاست
     vi: Bang Nasarawa
+    sr_Latn: Nasarava
+    zh: 纳萨拉瓦州
+    ccp: "\U0001111A\U00011125\U00011122\U00011127\U00011124"
   geo:
     latitude: 8.5705151
     longitude: 8.3088441
@@ -1363,6 +1440,9 @@ NI:
     tr: Niger Eyaleti
     ur: نائیجر ریاست
     vi: Bang Niger
+    sr_Latn: Niger
+    zh: 尼日尔州
+    ccp: "\U0001111A\U0001112D\U0001110E\U00011122\U00011134"
   geo:
     latitude: 9.081999
     longitude: 8.675277
@@ -1413,6 +1493,9 @@ OG:
     tr: Ogun Eyaleti
     ur: اوگون ریاست
     vi: Bang Ogun
+    sr_Latn: Ogun
+    zh: 奥贡州
+    ccp: "\U00011103\U0001112E\U00011109\U0001111A\U00011134"
   geo:
     latitude: 6.9098333
     longitude: 3.2583626
@@ -1464,6 +1547,9 @@ OG:
     tr: Ondo Eyaleti
     ur: اوندو ریاست
     vi: Bang Ondo
+    sr_Latn: Ondo
+    zh: 翁多州
+    ccp: "\U00011103\U0001111A\U00011134\U00011113\U0001112E"
   geo:
     latitude: 7.083333
     longitude: 4.833333
@@ -1514,6 +1600,9 @@ OS:
     tr: Osun Eyaleti
     ur: اوسون ریاست
     vi: Bang Osun
+    sr_Latn: Osun
+    zh: 奥孙州
+    ccp: "\U00011103\U0001112E\U00011125\U0001111A\U00011134"
   geo:
     latitude: 7.5875843
     longitude: 4.5624426
@@ -1555,6 +1644,9 @@ OY:
     tr: Oyo Eyaleti
     uk: Ойо (штат)
     ur: اویو ریاست
+    sr_Latn: Ojo
+    zh: 奥约州
+    ccp: "\U00011103\U0001112E\U00011120\U0001112E"
   geo:
     latitude: 7.85
     longitude: 3.933
@@ -1607,6 +1699,9 @@ PL:
     uk: Плато
     ur: پلیٹئو ریاست
     vi: Bang Plateau
+    sr_Latn: Plato
+    zh: 高原州
+    ccp: "\U0001111B\U00011133\U00011123\U00011111\U00011128\U00011105\U0001112A"
   geo:
     latitude: 9.2350817
     longitude: 9.7232673
@@ -1660,6 +1755,9 @@ RI:
     uk: Ріверс
     ur: ریورز ریاست
     vi: Bang Rivers
+    sr_Latn: Rivers
+    zh: 河流州
+    ccp: "\U00011122\U00011128\U0001111E\U00011122\U00011134\U0001110C\U00011134"
   geo:
     latitude: 4.8580767
     longitude: 6.920913499999999
@@ -1712,6 +1810,9 @@ SO:
     uk: Сокото
     ur: سوکوتو ریاست
     vi: Bang Sokoto
+    sr_Latn: Sokoto
+    zh: 索科托州
+    ccp: "\U00011125\U0001112E\U00011107\U0001112E\U00011111\U0001112E"
   geo:
     latitude: 13.066667
     longitude: 5.233333
@@ -1763,6 +1864,9 @@ TA:
     uk: Тараба
     ur: تارابا ریاست
     vi: Taraba
+    sr_Latn: Taraba
+    zh: 塔拉巴州
+    ccp: "\U00011111\U00011122\U0001111D"
   geo:
     latitude: 7.9868755
     longitude: 10.9807003
@@ -1814,6 +1918,9 @@ YO:
     uk: Йобе
     ur: یوبے اسٹیٹ
     vi: Bang Yobe
+    sr_Latn: Jobe
+    zh: 约贝州
+    ccp: "\U00011103\U00011128\U00011120\U0001112E\U0001111D\U0001112C"
   geo:
     latitude: 12.1871412
     longitude: 11.7068294
@@ -1865,6 +1972,9 @@ ZA:
     uk: Замфара
     ur: زمفارا ریاست
     vi: Bang Zamfara
+    sr_Latn: Zamfara
+    zh: 扎姆法拉州
+    ccp: "\U0001110E\U0001111F\U00011134\U0001111C\U00011122"
   geo:
     latitude: 12.1844159
     longitude: 6.2375947

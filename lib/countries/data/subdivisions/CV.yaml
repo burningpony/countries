@@ -34,6 +34,8 @@ BR:
     tr: Brava
     ur: براوا
     vi: Brava
+    zh: 布拉瓦島縣
+    ccp: "\U0001111D\U00011133\U00011122\U0001111E"
   geo:
     latitude: 14.8661257
     longitude: -24.7024179
@@ -77,6 +79,8 @@ BV:
     tr: Boa Vista
     ur: بوا وسٹا
     vi: Boa Vista
+    zh: 博阿維斯塔島縣
+    ccp: "\U0001111D\U0001112E\U00011120 \U0001111E\U00011128\U0001110C\U00011134\U00011111"
   geo:
     latitude: 16.1372504
     longitude: -22.858217
@@ -122,6 +126,8 @@ CA:
     tr: Santa Catarina
     ur: سنتا کاتارینا
     vi: Santa Catarina
+    zh: 聖卡塔琳娜縣
+    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011107\U00011133\U00011120\U00011111\U00011122\U00011128\U0001111A"
   geo:
     latitude: 15.0992532
     longitude: -23.6918783
@@ -168,6 +174,8 @@ CR:
     tr: Santa Cruz
     ur: سنتا کروز
     vi: Santa Cruz
+    zh: 聖克魯斯縣
+    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011107\U00011133\U00011122\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 15.1027292
     longitude: -23.5609459
@@ -201,6 +209,8 @@ MA:
     ko: 마이우 시
     nl: Maio
     pt: Maio
+    zh: 馬約島縣
+    ccp: "\U0001111F\U0001112D\U00011103\U0001112E"
   geo:
     latitude: 15.2003098
     longitude: -23.1679793
@@ -245,6 +255,8 @@ MO:
     tr: Mosteiros
     ur: موستییروس
     vi: Mosteiros
+    zh: 莫什泰魯什縣
+    ccp: "\U0001111F\U00011127\U0001110C\U00011134\U00011111\U0001112C\U0001112D\U00011122\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 15.034
     longitude: -24.325
@@ -290,6 +302,8 @@ PA:
     tr: Paul
     ur: پال
     vi: Paul
+    zh: 保爾縣
+    ccp: "\U0001111B\U00011127\U00011123\U00011134"
   geo:
     latitude: 17.1005359
     longitude: -24.9872821
@@ -335,6 +349,8 @@ PN:
     tr: Porto Novo
     ur: پورٹو نووو
     vi: Porto Novo
+    zh: 波多諾伏縣
+    ccp: "\U0001111B\U00011127\U00011122\U00011134\U00011111\U0001112E \U0001111A\U0001112E\U0001111E\U0001112E"
   geo:
     latitude: 16.9911107
     longitude: -25.2363408
@@ -379,6 +395,8 @@ PR:
     tr: Praia
     ur: پرایا
     vi: Praia
+    zh: 普拉亞縣
+    ccp: "\U0001111B\U00011133\U00011122\U0001112D\U00011120"
   geo:
     latitude: 14.95
     longitude: -23.52
@@ -425,6 +443,8 @@ RG:
     tr: Riberie GRande
     ur: ریبییرا جراندی
     vi: Ribeira Grande
+    zh: 大里貝拉縣
+    ccp: "\U00011122\U00011128\U0001111D\U0001112C\U0001112D\U00011122 \U00011109\U00011133\U00011122\U0001111A\U00011134\U00011113\U0001112C"
   geo:
     latitude: 17.1601387
     longitude: -25.1177654
@@ -470,6 +490,8 @@ SD:
     tr: Sao Domingos
     ur: ساؤ دومینجوس
     vi: Sao Domingos
+    zh: 聖多明戈斯縣
+    ccp: "\U00011125\U00011103\U0001112E \U00011113\U0001112E\U0001111F\U00011128\U0001111A\U00011134\U00011109\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 15.025
     longitude: -23.5625
@@ -514,6 +536,8 @@ SF:
     tr: Sao Filipe
     ur: ساؤ فیلیپی
     vi: São Filipe
+    zh: 聖菲利佩縣
+    ccp: "\U00011125\U00011103\U0001112E \U0001111C\U00011128\U00011123\U00011128\U0001111B\U00011134"
   geo:
     latitude: 14.895
     longitude: -24.498
@@ -558,6 +582,8 @@ SL:
     tr: Sal
     ur: سال
     vi: Sal
+    zh: 薩爾縣
+    ccp: "\U00011125\U00011123\U00011134"
   geo:
     latitude: 16.7266152
     longitude: -22.9297109
@@ -614,6 +640,8 @@ SV:
     tr: Sao Vicente
     ur: ساؤ ویکینتی
     vi: Sao Vicente
+    zh: 聖維森特縣
+    ccp: "\U00011125\U00011103\U0001112E \U0001111E\U0001112D\U00011125\U0001112C\U0001111A\U00011134\U00011111\U0001112C"
   geo:
     latitude: 16.8341271
     longitude: -24.9279547
@@ -660,6 +688,8 @@ TA:
     tr: Tarrafal
     ur: تارافال
     vi: Tarrafal
+    zh: 塔拉法爾縣
+    ccp: "\U00011111\U00011122\U0001111C\U00011127\U00011123\U00011134"
   geo:
     latitude: 15.278
     longitude: -23.752
@@ -703,6 +733,9 @@ CF:
     tr: Santa Catarina do Fogo
     ur: سنتا کاتارینا دو فوجو
     vi: Santa Catarina do Fogo
+    zh: 福戈聖卡塔琳娜縣
+    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011107\U00011133\U00011120\U00011111\U00011122\U00011128\U0001111A
+      \U00011113\U0001112E \U0001111C\U00011127\U00011109\U0001112E"
 RB:
   translations:
     ar: ريبيرا برافا
@@ -739,6 +772,8 @@ RB:
     tr: Ribeira Brava
     ur: ریبییرا براوا
     vi: Ribeira Brava
+    zh: 里貝拉布拉瓦縣
+    ccp: "\U00011122\U00011128\U0001111D\U0001112C\U0001112D\U00011122 \U0001111D\U00011133\U00011122\U0001111E"
 RS:
   translations:
     ar: ريبيرا غراندي دي سانتياغو، الرأس الأخضر
@@ -775,6 +810,9 @@ RS:
     tr: Ribeira Grande de Santiago
     ur: ریبییرا جراندی دے سانتیاگو
     vi: Ribeira Grande de Santiago
+    zh: 聖地亞哥大里貝拉縣
+    ccp: "\U00011122\U00011128\U0001111D\U0001112C\U0001112D\U00011122 \U00011109\U00011133\U00011122\U0001111A\U00011134\U00011113\U0001112C
+      \U00011113\U0001112C \U00011125\U0001111A\U00011134\U00011111\U00011128\U00011120\U00011109\U0001112E"
 S:
   translations:
     ar: جزر سوتافينتو
@@ -799,6 +837,9 @@ S:
     pl: Wyspy Podwietrzne
     pt: Ilhas de Sotavento
     sv: Sotavento
+    zh: 背風群島
+    ccp: "\U00011125\U0001112E\U00011111\U0001111E\U0001112C\U0001111A\U00011134\U00011111\U0001112E
+      \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"
 SO:
   translations:
     ar: ساو لورينسو دوس أورغاوس
@@ -834,6 +875,9 @@ SO:
     tr: Sao Lourenco dos Orgaos
     ur: ساؤ لوورینکو ڈوز ورجاوس
     vi: Sao Lourenco dos Orgaos
+    zh: 聖洛倫索縣
+    ccp: "\U00011125\U00011103\U0001112E \U00011123\U0001112E\U00011122\U0001112C\U0001111A\U00011134\U00011107\U0001112E
+      \U00011113\U0001112E\U0001110C\U00011134 \U00011103\U00011127\U00011122\U00011134\U00011109\U00011103\U0001112E\U0001110C\U00011134"
 SS:
   translations:
     ar: ساو سلفادور دو موندو
@@ -870,6 +914,9 @@ SS:
     tr: Sao Salvador do Mundo
     ur: ساؤ سالوادور دو موندو
     vi: São Salvador do Mundo
+    zh: 聖薩爾瓦多蒙多縣
+    ccp: "\U00011125\U00011103\U0001112E \U00011125\U00011123\U00011134\U0001111E\U00011118\U00011127\U00011122\U00011134
+      \U00011113\U0001112E \U0001111F\U0001112A\U0001111A\U00011134\U00011113\U0001112E"
 TS:
   translations:
     ar: تارفال دي ساو نيكولاو
@@ -905,6 +952,9 @@ TS:
     tr: Tarrafal de Sao Belediyesi
     ur: تارافال دے ساؤ نیکولاو
     vi: Tarrafal de Sao Nicolau
+    zh: 聖尼古勞塔拉法爾縣
+    ccp: "\U00011111\U00011133\U00011120\U00011122\U0001111C\U00011127\U00011123\U00011134
+      \U00011113\U0001112C \U00011125\U00011103\U0001112E \U0001111A\U00011128\U00011107\U0001112E\U00011123\U0001112D\U00011105\U0001112A"
 SM:
   translations:
     bg: Сао Мигел
@@ -921,6 +971,8 @@ SM:
     nl: São Miguel (Kaapverdië)
     pl: São Miguel
     pt: São Miguel
+    zh: 聖米戈爾縣
+    ccp: "\U00011125\U00011103\U0001112E \U0001111F\U0001112D\U00011109\U0001112A\U00011120\U0001112C\U00011123\U00011134"
 B:
   translations:
     ca: Illes de Barlavento
@@ -944,3 +996,5 @@ B:
     pt: Ilhas de Barlavento
     sv: Barlavento
     zh: 向风群岛
+    ccp: "\U0001111D\U00011122\U00011134\U00011123\U0001111E\U0001112C\U0001111A\U00011134\U00011111\U0001112E
+      \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U00011134"

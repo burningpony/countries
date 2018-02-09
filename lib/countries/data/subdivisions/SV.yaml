@@ -42,6 +42,7 @@ AH:
     ur: اہواشاپان محکمہ
     vi: Khu vực hành chính Ahuachapán
     zh: 阿瓦查潘省
+    ccp: "\U00011103\U00011126\U0001112A\U00011120\U0001110C\U0001111B\U00011127\U0001111A\U00011134"
   geo:
     latitude: 13.9259486
     longitude: -89.84113819999999
@@ -90,6 +91,8 @@ CA:
     tr: Cabanas Departmanı
     ur: کابانیاس محکمہ
     vi: Khu vực hành chính Cabanas
+    zh: 卡瓦尼亚斯省
+    ccp: "\U00011107\U0001112C\U0001111D\U0001111A\U0001110C\U00011134"
   geo:
     latitude: 13.8648288
     longitude: -88.7493998
@@ -124,6 +127,8 @@ CH:
     ru: Чалатенанго
     th: จังหวัดชาลาเตนังโก
     ur: شالاتنانگو محکمہ
+    zh: 查拉特南戈省
+    ccp: "\U00011107\U0001112C\U00011123\U00011111\U0001112C\U0001111A\U0001111A\U00011134\U00011109\U0001112E"
   geo:
     latitude: 14.033333
     longitude: -88.93333299999999
@@ -172,6 +177,8 @@ CU:
     tr: Cuscatian Departmanı
     ur: کوسکاتلان محکمہ
     vi: Khu vực hành chính Cuscatlán
+    zh: 库斯卡特兰省
+    ccp: "\U00011107\U0001110C\U00011134\U00011107\U00011116\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011134"
   geo:
     latitude: 13.8661957
     longitude: -89.0561532
@@ -223,6 +230,8 @@ LI:
     tr: La Libertad Departmanı
     ur: لا لیبیرتاڈ دیپارٹمنٹ
     vi: Khu vực hành chính La Libertad
+    zh: 拉利伯塔德省
+    ccp: "\U00011123 \U00011123\U0001112D\U0001111D\U00011122\U00011134\U00011111\U00011116\U00011134"
   geo:
     latitude: 13.6817661
     longitude: -89.3606298
@@ -272,6 +281,8 @@ MO:
     uk: Морасан
     ur: مورازان محکمہ
     vi: Khu vực hành chính Morazán
+    zh: 莫拉桑省
+    ccp: "\U0001111F\U0001112E\U00011122\U0001110E\U0001111A\U00011134"
   geo:
     latitude: 13.7682
     longitude: -88.1291387
@@ -321,6 +332,8 @@ PA:
     tr: Le Paz Departmanı
     ur: لا پاز ڈیپارٹمنٹ
     vi: Tỉnh La Paz
+    zh: 拉巴斯省
+    ccp: "\U00011123 \U0001111B\U0001110C\U00011134"
   geo:
     latitude: 13.495364
     longitude: -88.9796776
@@ -369,6 +382,8 @@ SA:
     tr: Santa Ana Departmanı
     ur: سانتا آنا محکمہ
     vi: Khu vực hành chính Santa Ana
+    zh: 圣安娜省
+    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011103\U0001111A"
   geo:
     latitude: 13.9778279
     longitude: -89.56391190000001
@@ -418,6 +433,8 @@ SM:
     tr: San Miguel Departmanı
     ur: سان میگیل محکمہ
     vi: Khu vực hành chính San Miguel
+    zh: 圣米格尔省
+    ccp: "\U00011125\U0001111A\U00011134 \U0001111F\U00011128\U00011109\U0001112A\U00011120\U0001112C\U00011123\U00011134"
   geo:
     latitude: 13.4451041
     longitude: -88.24611829999999
@@ -466,6 +483,8 @@ SO:
     tr: Sonsonate Departmanı
     ur: سونسوناتے محکمہ
     vi: Khu vực hành chính Sonsonate
+    zh: 松索纳特省
+    ccp: "\U00011125\U0001112E\U0001111A\U00011134\U00011125\U0001112E\U0001111A\U0001112C\U00011116\U00011134"
   geo:
     latitude: 13.682358
     longitude: -89.6628111
@@ -518,6 +537,8 @@ SS:
     uk: Сан-Сальвадор
     ur: سان سیلواڈور محکمہ
     vi: Khu vực hành chính San Salvador
+    zh: 聖薩爾瓦多省
+    ccp: "\U00011125\U0001111A\U00011134 \U00011125\U00011123\U00011134\U0001111E\U00011113\U00011127\U00011122\U00011134"
   geo:
     latitude: 13.6929403
     longitude: -89.2181911
@@ -566,6 +587,8 @@ SV:
     tr: San Vicente Departmanı
     ur: سان ویسینتے محکمہ
     vi: Khu vực hành chính San Vicente
+    zh: 圣维森特省
+    ccp: "\U00011125\U0001111A\U00011134 \U0001111E\U0001112D\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011134"
   geo:
     latitude: 13.5868561
     longitude: -88.7493998
@@ -599,6 +622,8 @@ UN:
     ru: Ла-Унион
     th: จังหวัดลาอูนีออง
     ur: لا یونیون ڈیپارٹمنٹ
+    zh: 拉乌尼翁省
+    ccp: "\U00011123 \U00011103\U00011128\U00011105\U0001112A\U0001111A\U00011128\U00011120\U00011127\U0001111A\U00011134"
   geo:
     latitude: 13.336944
     longitude: -87.84388899999999
@@ -647,6 +672,8 @@ US:
     tr: Usulutan Departmanı
     ur: اوسولوتآن محکمہ
     vi: Khu vực hành chính Usulután
+    zh: 乌苏卢坦省
+    ccp: "\U00011103\U00011128\U00011105\U0001112A\U00011125\U00011123\U0001112A\U00011111\U0001111A\U00011134"
   geo:
     latitude: 13.35
     longitude: -88.45

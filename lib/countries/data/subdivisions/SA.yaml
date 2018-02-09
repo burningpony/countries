@@ -38,6 +38,7 @@
     uk: Ер-Ріяд
     ur: صوبہ الرياض
     zh: 利雅得省
+    ccp: "\U00011122\U00011128\U00011120\U00011116\U00011134"
   geo:
     latitude: 24.633333
     longitude: 46.716667
@@ -92,6 +93,9 @@
     uk: Мекка (провінція)
     ur: صوبہ المکہ
     vi: Khu vực Makkah
+    sr_Latn: Meka
+    zh: 麥加省
+    ccp: "\U0001111F\U00011127\U00011107\U00011133\U00011126\U00011126\U00011134"
   geo:
     latitude: 21.416667
     longitude: 39.816667
@@ -147,6 +151,9 @@
     uk: Ель-Мадіна
     ur: صوبہ المدينہ
     vi: Khu vực Al Madinah
+    sr_Latn: El Medina
+    zh: 麦地那省
+    ccp: "\U00011103\U00011123\U00011134 \U0001111F\U00011127\U00011113\U00011128\U0001111A\U00011126\U00011134"
   geo:
     latitude: 24.466667
     longitude: 39.6
@@ -202,6 +209,9 @@
     uk: Еш-Шаркійя
     ur: صوبہ الشرقيہ
     vi: Tỉnh Miền Đông
+    sr_Latn: Istočna provincija
+    zh: 东部省
+    ccp: "\U00011103\U00011128\U0001110C\U00011134\U00011111\U00011122\U00011134\U0001111A\U00011134"
   geo:
     latitude: 22.2954496
     longitude: 50.6793759
@@ -256,6 +266,9 @@
     uk: Ель-Касим
     ur: صوبہ القصيم
     vi: Khu vực Al-Qassim
+    sr_Latn: El Kasim
+    zh: 盖西姆省
+    ccp: "\U00011103\U00011123\U00011134-\U00011107\U0001112A\U00011125\U00011128\U0001111F\U00011134"
   geo:
     latitude: 25.8274886
     longitude: 42.8637875
@@ -310,6 +323,9 @@
     uk: Хаїль
     ur: صوبہ حائل
     vi: Tỉnh Ha’il
+    sr_Latn: Hail
+    zh: 哈伊勒省
+    ccp: "\U00011126‘\U00011103\U00011128\U00011123\U00011134"
   geo:
     latitude: 27.516667
     longitude: 41.683333
@@ -364,6 +380,9 @@
     uk: Табук
     ur: صوبہ تبوک
     vi: Khu vực Tabuk
+    sr_Latn: Tabuk
+    zh: 塔布克省
+    ccp: "\U00011111\U0001111D\U0001112A\U00011107\U00011134"
   geo:
     latitude: 28.383333
     longitude: 36.583333
@@ -407,6 +426,10 @@
     tr: Kuzey Sınır Bölgesi
     uk: Ель-Худуд еш-Шамалійя
     ur: صوبہ الحدود الشماليہ
+    sr_Latn: Severna granica
+    zh: 北部边疆省
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U00011125\U00011128\U0001111F\U00011128\U0001111A\U0001112C"
   geo:
     latitude: 29.7248676
     longitude: 42.2362435
@@ -449,6 +472,9 @@
     tr: Cizan Bölgesi
     uk: Джизан
     ur: صوبہ جازان
+    sr_Latn: Džizan
+    zh: 吉赞省
+    ccp: "\U0001110E\U00011128\U0001110E\U0001111A\U00011134"
   geo:
     latitude: 16.889167
     longitude: 42.561111
@@ -499,6 +525,9 @@
     uk: Наджран
     ur: صوبہ نجران
     vi: Khu vực Najran
+    sr_Latn: Nadžran
+    zh: 奈季兰省
+    ccp: "\U0001111A\U0001110C\U00011134\U00011122\U0001111A\U00011134"
   geo:
     latitude: 17.491667
     longitude: 44.132222
@@ -553,6 +582,9 @@
     uk: Ель-Баха (провінція)
     ur: صوبہ الباحہ
     vi: Khu vực Al Bahah
+    sr_Latn: Al Baha (pokrajina)
+    zh: 巴哈省
+    ccp: "\U00011103\U00011123\U00011134 \U0001111D\U00011126\U00011134"
   geo:
     latitude: 21.4556901
     longitude: 39.2133847
@@ -608,6 +640,9 @@
     uk: Ель-Джауф
     ur: صوبہ الجوف
     vi: Khu vực Al Jawf
+    sr_Latn: El Džauf
+    zh: 焦夫省 (沙地阿拉伯)
+    ccp: "\U00011103\U00011123\U00011134 \U0001110E\U00011127\U00011120\U0001112E\U0001111B\U00011134"
   geo:
     latitude: 29.887356
     longitude: 39.3206241
@@ -663,6 +698,9 @@
     uk: Асір
     ur: صوبہ عسير
     vi: Khu vực Asir
+    sr_Latn: Asir
+    zh: 阿西尔省
+    ccp: "\U00011103\U00011125\U00011128\U00011122\U00011134"
   geo:
     latitude: 19.0969062
     longitude: 42.8637875

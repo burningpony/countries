@@ -1,3 +1,5 @@
+require 'yaml'
+
 module Sources
   module Local
     class Subdivision

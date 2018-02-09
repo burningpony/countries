@@ -45,6 +45,8 @@
     ur: بلدیہ آیدووشچینا
     vi: Ajdovščina
     zh: 阿伊多夫什契纳
+    sr_Latn: Opština Ajdovščina
+    ccp: "\U00011103\U0001110C\U00011134\U00011113\U0001112E\U0001111B\U00011134\U00011125\U00011128\U0001111A"
   geo:
     latitude: 45.8869025
     longitude: 13.909914
@@ -93,6 +95,8 @@
     uk: Белтинці
     ur: بلدیہ بیلتینتسی
     vi: Đô thị tự trị Beltinci
+    sr_Latn: Opština Beltinci
+    ccp: "\U0001111D\U0001112C\U00011123\U00011134\U00011111\U00011128\U0001111A\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.60791529999999
     longitude: 16.2365127
@@ -141,6 +145,8 @@
     uk: Блед (община)
     ur: بلدیہ بلیت
     vi: Đô thị tự trị Bled
+    sr_Latn: Opština Bled
+    ccp: "\U0001111D\U00011133\U00011123\U0001112C\U00011116\U00011134"
   geo:
     latitude: 46.3683266
     longitude: 14.1145798
@@ -192,6 +198,8 @@
     uk: Бохінь
     ur: بلدیہ بوخن
     vi: Khu tự trị Bohinj
+    sr_Latn: Opština Bohinj
+    ccp: "\U0001111D\U0001112E\U00011126\U00011128\U0001111A\U00011134\U0001110E"
   geo:
     latitude: 46.30056520000001
     longitude: 13.9427195
@@ -240,6 +248,8 @@
     uk: Боровниця (община)
     ur: بلدیہ بوروونیتسا
     vi: Đô thị tự trị Borovnica
+    sr_Latn: Opština Borovnica
+    ccp: "\U0001111D\U00011127\U00011122\U0001112E\U0001111B\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 45.9193034
     longitude: 14.3640682
@@ -288,6 +298,8 @@
     uk: Бовец
     ur: بلدیہ بوویتس
     vi: Đô thị tự trị Bovec
+    sr_Latn: Opština Bovec
+    ccp: "\U0001111D\U00011127\U0001111E\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.3376387
     longitude: 13.551683
@@ -339,6 +351,8 @@
     ur: بلدیہ بردا
     vi: Đô thị tự trị Brda
     zh: 布爾達
+    sr_Latn: Opština Brda
+    ccp: "\U0001111D\U00011133\U00011122\U00011127\U00011113"
   geo:
     latitude: 46.4716586
     longitude: 15.1439794
@@ -388,6 +402,8 @@
     uk: Брезовиця (община)
     ur: بلدیہ بریزوویتسا
     vi: Brezovica
+    sr_Latn: Opština Brezovica
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U0001110E\U0001112E\U0001111E\U00011128\U00011107"
   geo:
     latitude: 45.872713
     longitude: 15.2412372
@@ -438,6 +454,8 @@
     uk: Брежице
     ur: بلدیہ بریژیتسے
     vi: Đô thị tự trị Brezice
+    sr_Latn: Opština Brežice
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U0001110E\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 45.9088102
     longitude: 15.5964652
@@ -471,6 +489,8 @@
     uk: Тишина
     vi: Tišina
     zh: 蒂希納
+    sr_Latn: Opština Tišina
+    ccp: "\U00011111\U00011128\U00011125\U00011128\U0001111A"
   geo:
     latitude: 46.6511382
     longitude: 16.0834627
@@ -520,6 +540,8 @@
     uk: Целє
     ur: شہر بلدیہ تسیلیے
     vi: Đô thị tự trị của Celje
+    sr_Latn: Opština Celje
+    ccp: "\U00011125\U0001112C\U00011123\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.23974949999999
     longitude: 15.2677063
@@ -568,6 +590,9 @@
     uk: Церклє на Гореньскем
     ur: کیرکلجی نا جورینجسکیم میونسپلٹی
     vi: Cerklje na Gorenjskem
+    sr_Latn: Opština Cerklje na Gorenjskem
+    ccp: "\U00011125\U0001112C\U00011122\U00011134\U00011107\U00011134\U00011123\U00011134\U0001110E\U0001112C
+      \U0001111A \U00011109\U00011127\U00011122\U0001112C\U0001111A\U00011134\U00011125\U00011134\U00011107\U0001112C\U0001111F\U00011134"
   geo:
     latitude: 46.2531292
     longitude: 14.4868829
@@ -616,6 +641,8 @@
     uk: Церкниця (община)
     ur: بلدیہ تسیرکنیتسا
     vi: Đô thị tự trị Cerknica
+    sr_Latn: Opština Cerknica
+    ccp: "\U00011125\U0001112C\U00011122\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 45.7955099
     longitude: 14.3621843
@@ -663,6 +690,8 @@
     tr: Cerkno Belediyesi
     ur: بلدیہ تسیرکنو
     vi: Đô thị tự trị Cerkno
+    sr_Latn: Opština Cerkno
+    ccp: "\U00011125\U0001112C\U00011122\U00011134\U0001111A\U0001112E"
   geo:
     latitude: 46.128954
     longitude: 13.9891931
@@ -713,6 +742,8 @@
     ur: بلدیہ چرینشووتسی
     vi: Črenšovci
     zh: 奇倫紹夫齊
+    sr_Latn: Opština Črenšovci
+    ccp: "\U00011107\U00011133\U00011122\U0001112C\U0001111A\U00011134\U00011125\U0001112E\U0001111B\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.5720029
     longitude: 16.2877346
@@ -761,6 +792,8 @@
     uk: Чрна-на-Корошкем
     ur: بلدیہ چرنا نا کوروشکیم
     vi: Đô thị tự trị Crna na Koroskem
+    sr_Latn: Opština Črna na Koroškem
+    ccp: "\U00011107\U00011133\U00011122\U0001111A \U0001111A \U00011107\U00011127\U00011122\U0001112E\U00011122\U00011134\U00011107\U0001112C\U0001111F\U00011134"
   geo:
     latitude: 46.4703983
     longitude: 14.8498787
@@ -810,6 +843,8 @@
     uk: Чрномель
     ur: بلدیہ چرنومیل
     vi: Đô thị tự trị Črnomelj
+    sr_Latn: Opština Črnomelj
+    ccp: "\U00011107\U00011133\U00011122\U0001111A\U00011127\U0001111F\U0001112C\U00011123\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 45.57148369999999
     longitude: 15.1930773
@@ -858,6 +893,8 @@
     uk: Дестрник
     ur: دیسترنیک میونسپلٹی
     vi: Đô thị tự trị Destrnik
+    sr_Latn: Opština Destrnik
+    ccp: "\U00011113\U0001112C\U0001110C\U00011134\U00011111\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.4922368
     longitude: 15.8777956
@@ -906,6 +943,8 @@
     uk: Дівача
     ur: دیواکا میونسپلٹی
     vi: Đô thị tự trị Divaca
+    sr_Latn: Opština Divača
+    ccp: "\U00011113\U00011128\U0001111E\U00011107"
   geo:
     latitude: 45.68291319999999
     longitude: 13.9697218
@@ -954,6 +993,8 @@
     uk: Добреполє
     ur: دوبریپولجی میونسپلٹی
     vi: Dobrepolje
+    sr_Latn: Opština Dobrepolje
+    ccp: "\U00011113\U00011127\U0001111D\U00011133\U00011122\U0001112C\U0001111B\U0001112E\U00011123\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 45.8524951
     longitude: 14.7083109
@@ -1000,6 +1041,9 @@
     uk: Доброва-Полхов Градець
     vi: Dobrova-Polhov Gradec
     zh: 多布罗瓦-霍尔尤尔-波尔霍夫格拉代茨
+    sr_Latn: Opština Dobrova - Polhov Gradec
+    ccp: "\U00011113\U00011127\U0001111D\U00011133\U00011122\U0001112E\U0001111E-\U0001111B\U00011127\U00011123\U00011134\U00011126\U0001112E\U0001111B\U00011134
+      \U00011109\U00011133\U00011122\U00011113\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.0678183
     longitude: 14.2439619
@@ -1048,6 +1092,9 @@
     uk: Дол-при-Любляні
     ur: ڈول پری لجوبلجانی میونسپلٹی
     vi: Dol pri Ljubljani
+    sr_Latn: Opština Dol pri Ljubljani
+    ccp: "\U00011113\U0001112E\U00011123\U00011134 \U0001111B\U00011133\U00011122\U0001112D
+      \U0001110E\U0001112A\U0001111A\U00011134\U0001110E\U0001111A\U00011128"
   geo:
     latitude: 46.0884386
     longitude: 14.6424792
@@ -1069,6 +1116,8 @@
     sl: Občina Domžale
     sr: Општина Домжале
     uk: Домжале (община)
+    sr_Latn: Opština Domžale
+    ccp: "\U00011113\U00011127\U0001111F\U00011134\U0001110E\U00011123\U0001112C"
   geo:
     latitude: 46.1419417
     longitude: 14.5944171
@@ -1119,6 +1168,8 @@
     ur: دورناوا میونسپلٹی
     vi: Đô thị tự trị Dornava
     zh: 多爾納瓦
+    sr_Latn: Opština Dornava
+    ccp: "\U00011113\U00011127\U00011122\U00011134\U0001111A\U0001111E"
   geo:
     latitude: 46.4356499
     longitude: 15.952954
@@ -1167,6 +1218,8 @@
     uk: Дравоград
     ur: دراووجراد میونسپلٹی
     vi: Đô thị tự trị Dravograd
+    sr_Latn: Opština Dravograd
+    ccp: "\U00011113\U00011133\U00011122\U0001111E\U0001112E\U00011109\U00011133\U00011122\U00011116\U00011134"
   geo:
     latitude: 46.589219
     longitude: 15.0246021
@@ -1216,6 +1269,8 @@
     uk: Дуплек
     ur: دوپلیک میونسپلٹی
     vi: Duplek
+    sr_Latn: Opština Duplek
+    ccp: "\U00011113\U0001112A\U0001111B\U00011133\U00011123\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.5185203
     longitude: 15.7791896
@@ -1262,6 +1317,8 @@
     tr: Gorenja Vas-Poljane Belediyesi
     uk: Гореня вас-Поляне
     vi: Đô thị tự trị Gorenja Vas–Poljane
+    sr_Latn: Opština Gorenja Vas - Poljane
+    ccp: "\U00011109\U00011127\U00011122\U0001112C\U0001111A\U00011134\U0001110E \U0001111E\U0001110C\U00011134-\U0001111B\U0001112E\U00011123\U00011134\U0001110E\U0001111A\U0001112C"
   geo:
     latitude: 46.1230068
     longitude: 14.1151746
@@ -1311,6 +1368,8 @@
     ur: جوریسنیکا میونسپلٹی
     vi: Đô thị tự trị Gorisnica
     zh: 戈里什尼察
+    sr_Latn: Opština Gorišnica
+    ccp: "\U00011109\U0001112E\U00011122\U00011128\U0001110C\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.4120271
     longitude: 16.0133089
@@ -1332,6 +1391,8 @@
     sl: Občina Gornja Radgona
     sr: Општина Горња Радгона
     uk: Горня Радгона
+    sr_Latn: Opština Gornja Radgona
+    ccp: "\U00011109\U0001112E\U00011122\U00011134\U0001110E \U00011122\U00011116\U00011134\U00011109\U0001112E\U0001111A"
   geo:
     latitude: 46.6767099
     longitude: 15.9910846
@@ -1381,6 +1442,8 @@
     ur: جورنجی گراڈ میونسپلٹی
     vi: Đô thị tự trị Gornji Grad
     zh: 戈爾尼格勒
+    sr_Latn: Opština Gornji Grad
+    ccp: "\U00011109\U0001112E\U00011122\U00011134\U0001110E\U00011128 \U00011109\U00011133\U00011122\U00011116\U00011134"
   geo:
     latitude: 46.2961712
     longitude: 14.8062347
@@ -1429,6 +1492,8 @@
     uk: Горні Петровці
     ur: جورنجی پیترووکی میونسپلٹی
     vi: Đô thị tự trị Gornji Petrovci
+    sr_Latn: Opština Gornji Petrovci
+    ccp: "\U00011109\U0001112E\U00011122\U00011134\U0001110E\U00011128 \U0001111B\U0001112C\U00011111\U00011133\U00011122\U0001112E\U0001111B\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.8047535
     longitude: 16.2180722
@@ -1478,6 +1543,8 @@
     uk: Гросуплє (община)
     ur: جروسوپلجی میونسپلٹی
     vi: Đô thị tự trị Grosuplje
+    sr_Latn: Grosuplje
+    ccp: "\U00011109\U00011133\U00011122\U0001112E\U00011125\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 45.9557645
     longitude: 14.658899
@@ -1527,6 +1594,8 @@
     uk: Шаловці
     ur: سالووکی
     vi: Šalovci
+    sr_Latn: Opština Šalovci
+    ccp: "\U00011125\U00011123\U0001112E\U0001110C\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.8235919
     longitude: 16.2881649
@@ -1575,6 +1644,8 @@
     uk: Храстник (община)
     ur: حراستنیک میونسپلٹی
     vi: Đô thị tự trị Hrastnik
+    sr_Latn: Opština Hrastnik
+    ccp: "\U00011126\U00011133\U00011122\U0001110C\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.1417288
     longitude: 15.0844894
@@ -1621,6 +1692,8 @@
     tr: Hrpelje-Kozina
     uk: Хрпелє-Козіна
     vi: Hrpelje-Kozina
+    sr_Latn: Opština Hrpelje - Kozina
+    ccp: "\U00011126\U00011133\U00011122\U0001111B\U0001112C\U00011123\U00011134\U0001110E\U0001112C-\U00011107\U0001112E\U0001110E\U00011128\U0001111A"
   geo:
     latitude: 45.5945539
     longitude: 14.0056771
@@ -1642,6 +1715,8 @@
     ro: Comuna Idrija
     sl: Občina Idrija
     sr: Општина Идрија
+    sr_Latn: Opština Idrija
+    ccp: "\U00011103\U00011128\U00011113\U00011133\U00011122\U00011128\U0001110E"
   geo:
     latitude: 46.00294539999999
     longitude: 14.0278459
@@ -1692,6 +1767,8 @@
     uk: Іг
     ur: یج میونسپلٹی
     vi: Đô thị tự trị Ig
+    sr_Latn: Ig (grad)
+    ccp: "\U00011103\U00011128\U00011107\U00011134"
   geo:
     latitude: 45.9588213
     longitude: 14.5282718
@@ -1712,6 +1789,8 @@
     sl: Občina Ilirska Bistrica
     sr: Општина Илирска Бистрица
     uk: Ілірська Бистриця (община)
+    sr_Latn: Opština Ilirska Bistrica
+    ccp: "\U00011103\U00011128\U00011123\U00011128\U00011122\U00011134\U00011107 \U0001111D\U00011128\U0001110C\U00011134\U00011111\U00011133\U00011122\U00011128\U00011107"
   geo:
     latitude: 45.570099
     longitude: 14.2418616
@@ -1761,6 +1840,8 @@
     uk: Іванчна Гориця (община)
     ur: یوانکنا جوریکا میونسپلٹی
     vi: Ivančna Gorica
+    sr_Latn: Opština Ivančna Gorica
+    ccp: "\U00011103\U00011128\U0001111E\U0001111A\U00011134\U00011107\U0001111A \U00011109\U0001112E\U00011122\U00011128\U00011107"
   geo:
     latitude: 45.9395841
     longitude: 14.8047626
@@ -1818,6 +1899,8 @@
     ur: یزولا
     vi: Izola
     zh: 伊佐拉
+    sr_Latn: Opština Izola
+    ccp: "\U00011103\U00011128\U0001110E\U0001112E\U00011123\U00011134"
   geo:
     latitude: 45.5374048
     longitude: 13.6600802
@@ -1871,6 +1954,8 @@
     ur: بلدیہ یسینیتسے
     vi: Jesenice, Slovenia
     zh: 耶塞尼采
+    sr_Latn: Jesenice
+    ccp: "\U0001110E\U0001112C\U00011125\U0001112C\U0001111A\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 46.4367047
     longitude: 14.0526057
@@ -1919,6 +2004,8 @@
     uk: Юршинці
     ur: جورسینکی میونسپلٹی
     vi: Juršinci
+    sr_Latn: Opština Juršinci
+    ccp: "\U0001110E\U00011122\U00011134\U00011125\U00011128\U0001111A\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.4850899
     longitude: 15.9714564
@@ -1967,6 +2054,8 @@
     uk: Камник (община)
     ur: کامنیک میونسپلٹی
     vi: Đô thị tự trị Kamnik
+    sr_Latn: Opština Kamnik
+    ccp: "\U00011107\U0001111F\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.2221964
     longitude: 14.6072968
@@ -2015,6 +2104,8 @@
     uk: Канал
     ur: کنال اوب سوکی
     vi: Kanal ob Soči
+    sr_Latn: Opština Kanal ob Soči
+    ccp: "\U00011107\U0001111A\U00011123\U00011134"
   geo:
     latitude: 46.0853803
     longitude: 13.634308
@@ -2065,6 +2156,8 @@
     ur: کیدریکیوو میونسپلٹی
     vi: Đô thị tự trị Kidricevo
     zh: 基德里切沃
+    sr_Latn: Opština Kidričevo
+    ccp: "\U00011107\U00011128\U00011113\U00011133\U00011122\U0001112D\U0001110C\U00011134\U0001111E\U0001112E"
   geo:
     latitude: 46.4050135
     longitude: 15.7947234
@@ -2117,6 +2210,8 @@
     ur: کوبارید میونسپلٹی
     vi: Kobarid
     zh: 科巴里德
+    sr_Latn: Kobarid
+    ccp: "\U00011107\U0001112E\U0001111D\U00011122\U00011128\U00011116\U00011134"
   geo:
     latitude: 46.2476549
     longitude: 13.5791749
@@ -2167,6 +2262,8 @@
     uk: Кобилє
     ur: کوبیلجی میونسپلٹی
     vi: Kobilje
+    sr_Latn: Opština Kobilje
+    ccp: "\U00011107\U0001112E\U0001111D\U00011128\U00011123\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.68518
     longitude: 16.3936719
@@ -2222,6 +2319,8 @@
     ur: کوکیوجی میونسپلٹی
     vi: Kočevje
     zh: 科切維
+    sr_Latn: Kočevje
+    ccp: "\U00011107\U0001112E\U00011125\U0001112C\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 45.6409009
     longitude: 14.8633128
@@ -2271,6 +2370,8 @@
     uk: Комен
     ur: کومین میونسپلٹی
     vi: Đô thị tự trị Komen
+    sr_Latn: Komen
+    ccp: "\U00011107\U00011127\U0001111F\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 45.81752350000001
     longitude: 13.7482711
@@ -2291,6 +2392,8 @@
     sl: Mestna občina Koper
     sr: Општина Копар
     uk: Копер
+    sr_Latn: Opština Kopar
+    ccp: "\U00011107\U00011127\U0001111B\U00011122\U00011134"
   geo:
     latitude: 45.54805899999999
     longitude: 13.7301877
@@ -2340,6 +2443,8 @@
     ur: کوزجی میونسپلٹی
     vi: Kozje
     zh: 科茲耶
+    sr_Latn: Opština Kozje
+    ccp: "\U00011107\U0001112E\U0001110C\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.0733211
     longitude: 15.5596719
@@ -2400,6 +2505,8 @@
     ur: کرانج شہر میونسپلٹی
     vi: Đô thị tự trị Kranj
     zh: 克拉尼
+    sr_Latn: Opština Kranj
+    ccp: "\U00011107\U00011133\U00011122\U0001111A\U00011134\U0001110E\U00011128"
   geo:
     latitude: 46.2428344
     longitude: 14.3555417
@@ -2454,6 +2561,9 @@
     ur: کرانجسکا گورا میونسپلٹی
     vi: Đô thị tự trị Kranjska Gora
     zh: 克拉尼斯卡戈拉
+    sr_Latn: Opština Kranjska Gora
+    ccp: "\U00011107\U00011133\U00011122\U0001111A\U00011134\U0001110E\U00011128\U00011107
+      \U00011109\U0001112E\U00011122"
   geo:
     latitude: 46.4845293
     longitude: 13.7857145
@@ -2502,6 +2612,8 @@
     uk: Кршко
     ur: میونسپلٹی کرسکو
     vi: Đô thị tự trị của Krsko
+    sr_Latn: Opština Krško
+    ccp: "\U00011107\U00011133\U00011122\U00011107\U0001112E"
   geo:
     latitude: 45.9592256
     longitude: 15.4950212
@@ -2551,6 +2663,8 @@
     ur: کونجوتا میونسپلٹی
     vi: Kungota
     zh: 昆戈塔
+    sr_Latn: Opština Kungota
+    ccp: "\U00011107\U0001112A\U0001111A\U00011134\U00011109\U0001112E\U00011111"
   geo:
     latitude: 46.6418793
     longitude: 15.6036288
@@ -2600,6 +2714,8 @@
     uk: Кузма
     ur: کوزما میونسپلٹی
     vi: Đô thị tự trị Kuzma
+    sr_Latn: Opština Kuzma
+    ccp: "\U00011107\U0001112A\U0001110C\U00011134\U0001111F"
   geo:
     latitude: 46.8351038
     longitude: 16.08071
@@ -2651,6 +2767,8 @@
     ur: لاسکو میونسپلٹی
     vi: Đô thị tự trị Lasko
     zh: 拉什科
+    sr_Latn: Opština Laško
+    ccp: "\U00011123\U0001110C\U00011134\U00011107\U0001112E"
   geo:
     latitude: 46.1542793
     longitude: 15.2359978
@@ -2699,6 +2817,8 @@
     uk: Ленарт
     ur: لینارت میونسپلٹی
     vi: Đô thị tự trị Lenart
+    sr_Latn: Opština Lenart
+    ccp: "\U00011123\U0001112C\U0001111A\U00011122\U00011134\U00011111\U00011134"
   geo:
     latitude: 46.5954161
     longitude: 15.8637359
@@ -2755,6 +2875,8 @@
     ur: لینداوا
     vi: Lendava
     zh: 倫達瓦
+    sr_Latn: Lendava
+    ccp: "\U00011123\U0001112C\U0001111A\U00011134\U00011113\U0001111E"
   geo:
     latitude: 46.5644783
     longitude: 16.453063
@@ -2806,6 +2928,8 @@
     ur: لیتیجا میونسپلٹی
     vi: Litija
     zh: 利蒂亞
+    sr_Latn: Opština Litija
+    ccp: "\U00011123\U00011128\U00011111\U00011128\U0001110E"
   geo:
     latitude: 46.05923050000001
     longitude: 14.8266015
@@ -2834,6 +2958,8 @@
     sr: Општина Љубљана
     uk: Любляна
     zh: 卢布尔雅那市
+    sr_Latn: Opština Ljubljana
+    ccp: "\U0001110E\U0001112A\U0001111B\U00011134\U0001110E\U0001111A"
   geo:
     latitude: 46.0569465
     longitude: 14.5057515
@@ -2882,6 +3008,8 @@
     uk: Любно
     ur: لجوبنو میونسپلٹی
     vi: Ljubno
+    sr_Latn: Opština Ljubno
+    ccp: "\U0001110E\U0001112A\U0001111B\U00011134\U0001111A\U0001112E"
   geo:
     latitude: 46.31358350000001
     longitude: 14.2458583
@@ -2914,6 +3042,8 @@
     uk: Лютомер
     vi: Ljutomer
     zh: 柳托梅爾
+    sr_Latn: Ljutomer
+    ccp: "\U0001110E\U0001112A\U00011111\U0001112E\U0001111F\U00011122\U00011134"
   geo:
     latitude: 46.5193583
     longitude: 16.197814
@@ -2966,6 +3096,8 @@
     ur: لوجاتیک میونسپلٹی
     vi: Logatec
     zh: 洛加泰茨
+    sr_Latn: Logatec
+    ccp: "\U00011123\U00011127\U00011109\U0001112E\U00011111\U0001112C\U00011107\U00011134"
   geo:
     latitude: 45.91708190000001
     longitude: 14.2285582
@@ -3015,6 +3147,8 @@
     ur: لوسکا دولینا میونسپلٹی
     vi: Loška Dolina
     zh: 罗斯卡得利亚
+    sr_Latn: Opština Loška Dolina
+    ccp: "\U00011123\U0001112E\U0001110C\U00011134\U00011107 \U00011113\U0001112E\U00011123\U00011128\U0001111A"
   geo:
     latitude: 45.6477908
     longitude: 14.4973147
@@ -3063,6 +3197,8 @@
     uk: Лошкий Поток
     ur: لوسکی پوتوک میونسپلٹی
     vi: Loški Potok
+    sr_Latn: Opština Loški Potok
+    ccp: "\U00011123\U0001112E\U0001110C\U00011134\U00011107\U00011128 \U0001111B\U0001112E\U00011111\U0001112E\U00011107\U00011134"
   geo:
     latitude: 45.664967
     longitude: 14.6622265
@@ -3111,6 +3247,8 @@
     uk: Луче
     ur: لوکی میونسپلٹی
     vi: Đô thị tự trị Luce
+    sr_Latn: Opština Luče
+    ccp: "\U00011123\U0001110C\U00011134"
   geo:
     latitude: 46.35487209999999
     longitude: 14.7458015
@@ -3159,6 +3297,8 @@
     uk: Луковиця (община)
     ur: لوکوویکا میونسپلٹی
     vi: Đô thị tự trị Lukovica
+    sr_Latn: Opština Lukovica
+    ccp: "\U00011123\U0001112A\U00011107\U0001112E\U0001111E\U00011128\U00011107"
   geo:
     latitude: 46.1696293
     longitude: 14.6907259
@@ -3208,6 +3348,8 @@
     ur: ماجسپیرک میونسپلٹی
     vi: Đô thị tự trị Majsperk
     zh: 馬伊什佩克
+    sr_Latn: Opština Majšperk
+    ccp: "\U0001111F\U0001110C\U00011134\U0001111B\U00011122\U00011134\U00011107\U00011134"
   geo:
     latitude: 46.3503019
     longitude: 15.7340595
@@ -3258,6 +3400,8 @@
     uk: Марибор
     ur: مریبور شہر میونسپلٹی
     vi: Đô thị tự trị Maribor
+    sr_Latn: Opština Maribor
+    ccp: "\U0001111F\U00011122\U00011128\U0001111D\U0001112E\U00011122\U00011134"
   geo:
     latitude: 46.5546503
     longitude: 15.6458812
@@ -3311,6 +3455,8 @@
     ur: میدوودی میونسپلٹی
     vi: Medvode
     zh: 梅德沃代
+    sr_Latn: Opština Medvode
+    ccp: "\U0001111F\U0001112C\U00011116\U00011134\U0001111E\U0001112E\U00011116\U00011134"
   geo:
     latitude: 46.1413926
     longitude: 14.411347
@@ -3361,6 +3507,8 @@
     ur: مینجیس میونسپلٹی
     vi: Đô thị tự trị Menges
     zh: 門蓋什
+    sr_Latn: Opština Mengeš
+    ccp: "\U0001111F\U0001112C\U0001111A\U00011134\U00011109\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 46.16591220000001
     longitude: 14.5719694
@@ -3413,6 +3561,8 @@
     ur: میتلیکا
     vi: Metlika
     zh: 梅特利卡
+    sr_Latn: Opština Metlika
+    ccp: "\U0001111F\U0001112C\U00011116\U00011134\U00011123\U00011128\U00011107"
   geo:
     latitude: 45.6473994
     longitude: 15.3176752
@@ -3432,6 +3582,8 @@
     sl: Občina Mežica
     sr: Општина Межица
     uk: Межиця
+    sr_Latn: Opština Mežica
+    ccp: "\U0001111F\U0001112C\U0001110E\U00011128\U00011107"
   geo:
     latitude: 46.5214145
     longitude: 14.8523952
@@ -3479,6 +3631,8 @@
     tr: Miren-Kostanjevica
     uk: Мірен-Костанєвіца
     vi: Miren-Kostanjevica
+    sr_Latn: Opština Miren - Kostanjevica
+    ccp: "\U0001111F\U00011128\U00011122\U0001112C\U0001111A\U00011134-\U00011107\U0001112E\U0001110C\U00011134\U00011111\U0001111A\U00011134\U0001110E\U0001112C\U0001111E\U00011128\U00011107"
   geo:
     latitude: 45.84360290000001
     longitude: 13.6276647
@@ -3527,6 +3681,8 @@
     uk: Мислиня
     ur: مسلینجا
     vi: Mislinja
+    sr_Latn: Mislinja
+    ccp: "\U0001111F\U00011128\U00011123\U00011134\U00011123\U00011128\U0001111A\U00011134\U0001110E"
   geo:
     latitude: 46.4439734
     longitude: 15.1985947
@@ -3576,6 +3732,8 @@
     ur: موراویس میونسپلٹی
     vi: Moravče
     zh: 摩拉夫切
+    sr_Latn: Opština Moravče
+    ccp: "\U0001111F\U00011122\U0001111B\U00011134"
   geo:
     latitude: 46.1357218
     longitude: 14.7444352
@@ -3624,6 +3782,9 @@
     uk: Моравське Топлице
     ur: موراوسکی توپلیکی میونسپلٹی
     vi: Đô thị tự trị Moravske Toplice
+    sr_Latn: Opština Moravske Toplice
+    ccp: "\U0001111F\U00011122\U0001111B\U00011134\U00011125\U00011134\U00011107\U0001112C
+      \U00011111\U0001112A\U0001111B\U00011134\U00011123\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 46.6856932
     longitude: 16.2224582
@@ -3673,6 +3834,8 @@
     ur: موزیرجی میونسپلٹی
     vi: Mozirje
     zh: 莫濟列
+    sr_Latn: Opština Mozirje
+    ccp: "\U0001111F\U00011127\U0001110E\U00011128\U00011122\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.3392772
     longitude: 14.9599807
@@ -3722,6 +3885,8 @@
     uk: Мурська Собота
     ur: مورسکا سوبوتا شہر میونسپلٹی
     vi: Đô thị tự trị Murska Sobota
+    sr_Latn: Opština Murska Sobota
+    ccp: "\U0001111F\U00011122\U00011134\U0001110C\U00011134\U00011107 \U00011125\U0001112E\U0001111D\U0001112E\U00011111"
   geo:
     latitude: 46.6581381
     longitude: 16.1610293
@@ -3770,6 +3935,8 @@
     uk: Мута
     ur: متا میونسپلٹی
     vi: Đô thị tự trị Muta
+    sr_Latn: Opština Muta
+    ccp: "\U0001111F\U0001112A\U00011111"
   geo:
     latitude: 46.6097366
     longitude: 15.1629994
@@ -3818,6 +3985,8 @@
     uk: Накло (община)
     ur: ناکلو میونسپلٹی
     vi: Đô thị tự trị Naklo
+    sr_Latn: Opština Naklo
+    ccp: "\U0001111A\U00011107\U00011134\U00011123\U0001112E"
   geo:
     latitude: 46.2718663
     longitude: 14.3156932
@@ -3867,6 +4036,8 @@
     ur: نازارجی میونسپلٹی
     vi: Đô thị tự trị Nazarje
     zh: 納扎列
+    sr_Latn: Opština Nazarje
+    ccp: "\U0001111A\U0001110E\U00011122\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.3179494
     longitude: 14.9470385
@@ -3918,6 +4089,8 @@
     ur: نووا گوریتسا
     vi: Nova Gorica
     zh: 新戈里察
+    sr_Latn: Opština Nova Gorica
+    ccp: "\U0001111A\U0001112E\U0001111E \U00011109\U0001112E\U00011122\U00011128\U00011107"
   geo:
     latitude: 45.9549755
     longitude: 13.6493044
@@ -3966,6 +4139,8 @@
     uk: Ново Место
     ur: شہر میونسپلٹی نووو میستو
     vi: Đô thị tự trị Novo Mesto
+    sr_Latn: Opština Novo Mesto
+    ccp: "\U0001111A\U0001112E\U0001111E\U0001112E \U0001111F\U0001112C\U0001110C\U00011134\U00011111\U0001112E"
   geo:
     latitude: 45.80108240000001
     longitude: 15.1710089
@@ -4016,6 +4191,8 @@
     ur: ودرانکی
     vi: Odranci
     zh: 奧德蘭齊
+    sr_Latn: Odranci
+    ccp: "\U00011103\U00011127\U00011116\U00011134\U00011122\U0001111A\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.5847279
     longitude: 16.2762351
@@ -4071,6 +4248,8 @@
     ur: ورموز
     vi: Ormoz
     zh: 奧爾莫日
+    sr_Latn: Ormož
+    ccp: "\U00011103\U00011127\U00011107\U00011134\U0001111F\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 46.4086282
     longitude: 16.1508154
@@ -4099,6 +4278,8 @@
     sv: Osilnica
     uk: Осилниця
     zh: 奧西爾尼察
+    sr_Latn: Opština Osilnica
+    ccp: "\U00011103\U0001112E\U00011125\U00011128\U00011123\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 45.5291637
     longitude: 14.6984205
@@ -4147,6 +4328,8 @@
     uk: Песниця
     ur: پیسنیکا میونسپلٹی
     vi: Pesnica
+    sr_Latn: Opština Pesnica
+    ccp: "\U0001111B\U0001112C\U0001110C\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.6373877
     longitude: 15.5543464
@@ -4209,6 +4392,8 @@
     ur: پیران
     vi: Piran
     zh: 皮兰
+    sr_Latn: Opština Piran
+    ccp: "\U0001111B\U00011128\U00011122\U0001111A\U00011134"
   geo:
     latitude: 45.528319
     longitude: 13.5682895
@@ -4258,6 +4443,8 @@
     ur: پیوکا میونسپلٹی
     vi: Đô thị tự trị Pivka
     zh: 皮夫卡
+    sr_Latn: Pivka
+    ccp: "\U0001111B\U00011128\U0001111B\U00011134\U00011107"
   geo:
     latitude: 45.6825301
     longitude: 14.1960582
@@ -4307,6 +4494,8 @@
     ur: پودکیترتیک میونسپلٹی
     vi: Podčetrtek
     zh: 波德切特泰克
+    sr_Latn: Opština Podčetrtek
+    ccp: "\U0001111B\U00011127\U00011116\U00011134\U00011125\U0001112C\U00011111\U00011133\U00011122\U00011127\U00011111\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.1559752
     longitude: 15.5975783
@@ -4355,6 +4544,8 @@
     uk: Подвелка
     ur: پودویلکا میونسپلٹی
     vi: Podvelka
+    sr_Latn: Opština Podvelka
+    ccp: "\U0001111B\U00011127\U00011116\U00011134\U0001111E\U0001112C\U00011123\U00011134\U00011107"
   geo:
     latitude: 46.5903517
     longitude: 15.3310343
@@ -4403,6 +4594,8 @@
     uk: Постойна
     ur: پوستوجنا میونسپلٹی
     vi: Đô thị tự trị Postojna
+    sr_Latn: Opština Postojna
+    ccp: "\U0001111B\U00011127\U0001110C\U00011134\U00011111\U0001112E\U0001110C\U00011134\U0001111A"
   geo:
     latitude: 45.7749704
     longitude: 14.2133245
@@ -4451,6 +4644,8 @@
     uk: Преддвор (община)
     ur: پریدوور میونسپلٹی
     vi: Đô thị tự trị Preddvor
+    sr_Latn: Opština Preddvor
+    ccp: "\U0001111B\U00011133\U00011122\U0001112C\U00011113\U00011133\U00011126\U0001111E\U0001112E\U00011122\U00011134"
   geo:
     latitude: 46.3017155
     longitude: 14.4216753
@@ -4511,6 +4706,8 @@
     ur: پتوج
     vi: Ptuj
     zh: 普图伊
+    sr_Latn: Opština Ptuj
+    ccp: "\U00011111\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 46.4199535
     longitude: 15.8696884
@@ -4529,6 +4726,8 @@
     sl: Občina Puconci
     sr: Општина Пуцонци
     uk: Пуцонці
+    sr_Latn: Opština Puconci
+    ccp: "\U0001111B\U0001112A\U00011107\U0001112E\U0001111A\U00011125\U00011128"
   geo:
     latitude: 46.7046395
     longitude: 16.1572755
@@ -4575,6 +4774,8 @@
     tr: Race-Fram Belediyesi
     uk: Раче-Фрам
     vi: Rače - Fram
+    sr_Latn: Opština Rače - Fram
+    ccp: "\U00011122\U00011133\U00011120\U0001110C\U00011134-\U0001111C\U00011133\U00011122\U0001111F\U00011134"
   geo:
     latitude: 46.4552612
     longitude: 15.6389275
@@ -4627,6 +4828,8 @@
     ur: رادیکی
     vi: Radeče
     zh: 拉代切
+    sr_Latn: Opština Radeče
+    ccp: "\U00011122\U00011113\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.0655001
     longitude: 15.1821191
@@ -4654,6 +4857,8 @@
     sl: Občina Radenci
     sr: Општина Раденци
     uk: Раденці
+    sr_Latn: Opština Radenci
+    ccp: "\U00011122\U00011113\U0001112C\U0001111A\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.6439196
     longitude: 16.0402676
@@ -4702,6 +4907,9 @@
     uk: Радлє-об-Драві
     ur: رادلجی اوب دراوی میونسپلٹی
     vi: Radlje ob Dravi
+    sr_Latn: Opština Radlje ob Dravi
+    ccp: "\U00011122\U00011113\U00011127\U00011123\U00011134\U0001110E\U0001112C \U00011103\U00011127\U0001111B\U00011134
+      \U00011113\U00011133\U00011122\U0001111E\U00011128"
   geo:
     latitude: 46.614358
     longitude: 15.2255472
@@ -4754,6 +4962,8 @@
     ur: رادوولجیکا میونسپلٹی
     vi: Đô thị tự trị Radovljica
     zh: 拉多夫利察
+    sr_Latn: Opština Radovljica
+    ccp: "\U00011122\U00011127\U00011113\U0001112E\U0001111B\U00011134\U00011123\U00011134\U0001110E\U00011128\U00011107"
   geo:
     latitude: 46.3437361
     longitude: 14.1740042
@@ -4807,6 +5017,8 @@
     ur: راونی نا کوروسکیم
     vi: Ravne na Koroškem
     zh: 拉夫內納科羅什凱姆
+    sr_Latn: Opština Ravne na Koroškem
+    ccp: "\U00011122\U0001111B\U00011134\U0001111A\U0001112C \U0001111A \U00011107\U0001112E\U00011122\U0001112E\U0001110C\U00011134\U00011107\U0001112C\U0001111F\U00011134"
   geo:
     latitude: 46.5448323
     longitude: 14.9660445
@@ -4857,6 +5069,8 @@
     ur: ریبنیکا میونسپلٹی
     vi: Đô thị tự trị Ribnica
     zh: 里布尼察
+    sr_Latn: Opština Ribnica
+    ccp: "\U00011122\U00011128\U0001111B\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 45.7400303
     longitude: 14.7265782
@@ -4906,6 +5120,8 @@
     uk: Рогашовці
     ur: روجاسووکی میونسپلٹی
     vi: Rogašovci
+    sr_Latn: Opština Rogašovci
+    ccp: "\U00011122\U0001112E\U00011109\U00011125\U0001112E\U0001111B\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.8055785
     longitude: 16.0345237
@@ -4960,6 +5176,8 @@
     ur: روجاسکا سلاتینا
     vi: Rogaška Slatina
     zh: 羅加什卡斯拉蒂納
+    sr_Latn: Rogaška Slatina
+    ccp: "\U00011122\U0001112E\U00011109\U0001110C\U00011134\U00011107 \U00011125\U00011133\U00011123\U00011111\U00011128\U0001111A"
   geo:
     latitude: 46.2331941
     longitude: 15.6378802
@@ -5008,6 +5226,8 @@
     uk: Рогатець (община)
     ur: روجاتیک میونسپلٹی
     vi: Đô thị tự trị Rogatec
+    sr_Latn: Opština Rogatec
+    ccp: "\U00011122\U0001112E\U00011109\U00011111\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.2258891
     longitude: 15.7000313
@@ -5056,6 +5276,8 @@
     uk: Руше
     ur: روز میونسپلٹی
     vi: Đô thị tự trị Ruse
+    sr_Latn: Opština Ruše
+    ccp: "\U00011122\U00011105\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 46.5399962
     longitude: 15.5073987
@@ -5104,6 +5326,8 @@
     uk: Семич
     ur: سیمیک میونسپلٹی
     vi: Đô thị tự trị Semic
+    sr_Latn: Opština Semič
+    ccp: "\U00011125\U0001112C\U0001111F\U00011128\U00011107\U00011134"
   geo:
     latitude: 45.6520534
     longitude: 15.1820701
@@ -5152,6 +5376,8 @@
     uk: Севниця (община)
     ur: سیونیکا میونسپلٹی
     vi: Đô thị tự trị Sevnica
+    sr_Latn: Opština Sevnica
+    ccp: "\U00011125\U0001112C\U0001111B\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.0129508
     longitude: 15.2979868
@@ -5199,6 +5425,8 @@
     uk: Сежана
     ur: سیزانا میونسپلٹی
     vi: Đô thị tự trị Sezana
+    sr_Latn: Opština Sežana
+    ccp: "\U00011125\U0001112C\U0001110E\U0001111A"
   geo:
     latitude: 45.7093519
     longitude: 13.8738185
@@ -5246,6 +5474,9 @@
     uk: Словень Градець
     ur: سلووینج جرادیک شہر میونسپلٹی
     vi: Đô thị tự trị Slovenj Gradec
+    sr_Latn: Opština Slovenj Gradec
+    ccp: "\U00011125\U00011133\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011134
+      \U00011109\U00011133\U00011122\U00011113\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.5075851
     longitude: 15.0768162
@@ -5300,6 +5531,9 @@
     ur: سلووینسکا بیستریکا
     vi: Slovenska Bistrica
     zh: 斯洛文尼亞比斯特里察
+    sr_Latn: Opština Slovenska Bistrica
+    ccp: "\U00011125\U00011133\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011134\U00011107
+      \U0001111D\U00011128\U0001110C\U00011134\U00011111\U00011133\U00011122\U00011128\U00011107"
   geo:
     latitude: 46.3919813
     longitude: 15.5727868
@@ -5353,6 +5587,9 @@
     ur: سلووینسکی کونجیکی
     vi: Slovenske Konjice
     zh: 斯洛文尼亞科尼采
+    sr_Latn: Slovenske Konjice
+    ccp: "\U00011125\U00011133\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011134\U00011107\U0001112C
+      \U00011107\U0001112E\U0001111A\U00011134\U0001110E\U00011128\U0001110C\U00011134"
   geo:
     latitude: 46.3369191
     longitude: 15.4214708
@@ -5401,6 +5638,8 @@
     uk: Старше
     ur: اسٹارسی میونسپلٹی
     vi: Starše
+    sr_Latn: Opština Starše
+    ccp: "\U0001110C\U00011133\U00011111\U00011122\U00011134"
   geo:
     latitude: 46.4674331
     longitude: 15.7640547
@@ -5448,6 +5687,8 @@
     uk: Светий Юрій-об-Щавниці
     ur: سویتی جوریج اوب سکاونیکی میونسپلٹی
     vi: Sveti Jurij ob Ščavnici
+    sr_Latn: Opština Sveti Jurij ob Ščavnici
+    ccp: "\U0001111E\U0001112C\U00011111\U00011128 \U0001110E\U0001112A\U00011122\U00011128\U0001110C\U00011134"
   geo:
     latitude: 46.8016061
     longitude: 16.0368654
@@ -5496,6 +5737,8 @@
     uk: Шенчур (община)
     ur: سینکور میونسپلٹی
     vi: Šenčur
+    sr_Latn: Opština Šenčur
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011107\U0001112A\U00011122\U00011134"
   geo:
     latitude: 46.2433699
     longitude: 14.4192223
@@ -5544,6 +5787,8 @@
     uk: Шентиль
     ur: سینتیلج میونسپلٹی
     vi: Šentilj
+    sr_Latn: Opština Šentilj
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011128\U00011123\U00011134"
   geo:
     latitude: 46.6862839
     longitude: 15.7103566
@@ -5592,6 +5837,8 @@
     uk: Шентєрней
     ur: سینتجیرنیج میونسپلٹی
     vi: Šentjernej
+    sr_Latn: Opština Šentjernej
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U0001110E\U00011122\U00011134\U0001111A\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 45.843413
     longitude: 15.3378312
@@ -5640,6 +5887,8 @@
     uk: Шентюр (община)
     ur: سینتجور میونسپلٹی
     vi: Đô thị tự trị Sentjur
+    sr_Latn: Opština Šentjur
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011134\U0001110E\U0001112A\U00011122\U00011134"
   geo:
     latitude: 46.1425286
     longitude: 15.4473443
@@ -5688,6 +5937,8 @@
     uk: Шкоцян
     ur: سکوکجان میونسپلٹی
     vi: Škocjan
+    sr_Latn: Opština Škocjan
+    ccp: "\U0001110C\U00011133\U00011107\U00011127\U00011107\U00011134\U0001110E\U0001111A\U00011134"
   geo:
     latitude: 45.9072257
     longitude: 15.292258
@@ -5736,6 +5987,8 @@
     uk: Шкофя Лока
     ur: سکوفجا لوکا میونسپلٹی
     vi: Đô thị tự trị Skofja Loka
+    sr_Latn: Opština Škofja Loka
+    ccp: "\U0001110C\U00011133\U00011107\U00011127\U0001111B\U00011134\U0001110E \U00011123\U0001112E\U00011107"
   geo:
     latitude: 46.1671294
     longitude: 14.3058337
@@ -5784,6 +6037,8 @@
     uk: Шкофліца (община)
     ur: سکوفلجیکا میونسپلٹی
     vi: Škofljica
+    sr_Latn: Opština Škofljica
+    ccp: "\U0001110C\U00011133\U00011107\U00011127\U0001111B\U00011134\U0001110E\U00011128\U00011107"
   geo:
     latitude: 45.98596510000001
     longitude: 14.5721903
@@ -5832,6 +6087,9 @@
     uk: Шмарє-при-Єлшах (община)
     ur: سمارجی پری جیلساح میونسپلٹی
     vi: Šmarje pri Jelšah
+    sr_Latn: Opština Šmarje pri Jelšah
+    ccp: "\U0001110C\U00011133\U0001111F\U00011122\U00011134\U0001110E\U0001112C \U0001111B\U00011133\U00011122\U0001112D
+      \U0001110E\U0001112C\U00011123\U00011134\U00011125\U00011126\U00011134"
   geo:
     latitude: 46.2287025
     longitude: 15.5190353
@@ -5881,6 +6139,9 @@
     uk: Шмартно-об-Пакі (община)
     ur: سمارتنو اوب پکی میونسپلٹی
     vi: Šmartno ob Paki
+    sr_Latn: Opština Šmartno ob Paki
+    ccp: "\U0001110C\U00011133\U0001111F\U00011122\U00011134\U00011111\U00011134\U0001111A\U0001112E
+      \U00011103\U00011127\U0001111B\U00011134 \U0001111B\U00011107\U00011128"
   geo:
     latitude: 46.32903719999999
     longitude: 15.0333937
@@ -5931,6 +6192,8 @@
     ur: سوستانج میونسپلٹی
     vi: Šoštanj
     zh: 紹什塔尼
+    sr_Latn: Opština Šoštanj
+    ccp: "\U00011125\U0001112E\U0001110C\U00011134\U00011111\U0001111A\U00011134\U0001110E\U00011128"
   geo:
     latitude: 46.3782836
     longitude: 15.0461378
@@ -5980,6 +6243,8 @@
     uk: Шторе (община)
     ur: اسٹور میونسپلٹی
     vi: Štore
+    sr_Latn: Opština Štore
+    ccp: "\U0001110C\U00011133\U00011111\U00011127\U00011122\U00011134"
   geo:
     latitude: 46.2205619
     longitude: 15.3154297
@@ -6033,6 +6298,8 @@
     ur: تولمین میونسپلٹی
     vi: Đô thị tự trị Tolmin
     zh: 托爾明
+    sr_Latn: Tolmin
+    ccp: "\U00011111\U00011127\U00011123\U00011134\U0001111F\U00011128\U0001111A\U00011134"
   geo:
     latitude: 46.1857188
     longitude: 13.7319838
@@ -6071,6 +6338,8 @@
     sv: Trbovlje
     uk: Трбовлє
     zh: 特尔伯夫列
+    sr_Latn: Opština Trbovlje
+    ccp: "\U0001111D\U0001112E\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.1503563
     longitude: 15.0453138
@@ -6119,6 +6388,8 @@
     uk: Требнє
     ur: تریبنجی میونسپلٹی
     vi: Đô thị tự trị Trebnje
+    sr_Latn: Opština Trebnje
+    ccp: "\U00011111\U00011133\U00011122\U0001112C\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 45.9081708
     longitude: 15.0125985
@@ -6170,6 +6441,8 @@
     ur: ترزیک میونسپلٹی
     vi: Tržič
     zh: 特爾日奇
+    sr_Latn: Opština Tržič
+    ccp: "\U0001110E\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.36215170000001
     longitude: 14.3083372
@@ -6198,6 +6471,8 @@
     uk: Турнище
     vi: Turnišče
     zh: 圖爾尼什切
+    sr_Latn: Opština Turnišče
+    ccp: "\U00011111\U00011122\U00011134\U0001111A\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 46.625456
     longitude: 16.3144961
@@ -6219,6 +6494,8 @@
     sl: Mestna občina Velenje
     sr: Општина Велење
     uk: Веленє
+    sr_Latn: Opština Velenje
+    ccp: "\U0001111E\U0001112C\U00011123\U0001112C\U0001111A\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.3622743
     longitude: 15.1106582
@@ -6266,6 +6543,8 @@
     uk: Велике Лаще (община)
     ur: ویلیکی لاسکی میونسپلٹی
     vi: Đô thị tự trị Velike Lasce
+    sr_Latn: Opština Velike Lašče
+    ccp: "\U0001111E\U0001112C\U00011123\U0001112D\U00011107\U00011134 \U00011123\U0001110C\U00011134"
   geo:
     latitude: 45.8336591
     longitude: 14.6362363
@@ -6293,6 +6572,8 @@
     sr: Општина Видем
     uk: Видем
     vi: Videm
+    sr_Latn: Opština Videm
+    ccp: "\U0001111E\U0001112D\U00011113\U0001112C\U0001111F\U00011134"
   geo:
     latitude: 45.8490426
     longitude: 14.6947037
@@ -6341,6 +6622,8 @@
     uk: Віпава
     ur: ویپاوا میونسپلٹی
     vi: Đô thị tự trị Vipava
+    sr_Latn: Opština Vipava
+    ccp: "\U0001111E\U00011128\U0001111B\U0001111E"
   geo:
     latitude: 45.8455744
     longitude: 13.9625431
@@ -6389,6 +6672,8 @@
     uk: Витанє (община)
     ur: ویتانجی
     vi: Vitanje
+    sr_Latn: Vitanje
+    ccp: "\U0001111E\U00011128\U00011116\U0001111A\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.3815074
     longitude: 15.2950333
@@ -6438,6 +6723,8 @@
     uk: Водице
     ur: وودیکی
     vi: Vodice
+    sr_Latn: Vodice (Slovenija)
+    ccp: "\U0001111E\U0001112E\U00011113\U00011128\U0001110C\U00011134"
   geo:
     latitude: 46.1896643
     longitude: 14.493854
@@ -6486,6 +6773,8 @@
     uk: Войник (община)
     ur: ووجنیک میونسپلٹی
     vi: Đô thị tự trị Vojnik
+    sr_Latn: Opština Vojnik
+    ccp: "\U0001111E\U0001112E\U0001110C\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.2920581
     longitude: 15.302058
@@ -6535,6 +6824,8 @@
     uk: Врхника
     ur: ورحنیکا میونسپلٹی
     vi: Vrhnika Đô thị tự trị
+    sr_Latn: Opština Vrhnika
+    ccp: "\U0001111A\U00011128\U00011107"
   geo:
     latitude: 45.966583
     longitude: 14.2973873
@@ -6584,6 +6875,8 @@
     uk: Вузениця
     ur: ووزینیکا میونسپلٹی
     vi: Vuzenica
+    sr_Latn: Opština Vuzenica
+    ccp: "\U0001111E\U0001112E\U0001110E\U0001112C\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.5980836
     longitude: 15.1657237
@@ -6603,6 +6896,9 @@
     sl: Občina Zagorje ob Savi
     sr: Општина Загорје об Сави
     uk: Загорє-об-Саві (община)
+    sr_Latn: Opština Zagorje ob Savi
+    ccp: "\U0001110E\U00011109\U0001112E\U00011122\U00011134\U0001110E\U0001112C \U00011103\U00011127\U0001111B\U00011134
+      \U00011125\U0001111E\U00011128"
   geo:
     latitude: 46.1345186
     longitude: 14.9945975
@@ -6651,6 +6947,8 @@
     uk: Заврч
     ur: زاورک میونسپلٹی
     vi: Zavrč
+    sr_Latn: Opština Zavrč
+    ccp: "\U0001110E\U0001111B\U00011134\U00011122\U00011134"
   geo:
     latitude: 46.3856393
     longitude: 16.0470768
@@ -6699,6 +6997,8 @@
     uk: Зрече (община)
     ur: میونسپلٹی
     vi: Zreče
+    sr_Latn: Opština Zreče
+    ccp: "\U0001110E\U00011133\U00011122\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 46.3696591
     longitude: 15.3918526
@@ -6750,6 +7050,8 @@
     ur: زیلیزنیکی میونسپلٹی
     vi: Železniki
     zh: 熱萊茲尼基
+    sr_Latn: Opština Železniki
+    ccp: "\U0001110E\U0001112C\U00011123\U0001112C\U0001110C\U00011134\U0001111A\U00011128\U00011107\U00011128"
   geo:
     latitude: 46.22544
     longitude: 14.1692478
@@ -6784,6 +7086,8 @@
     uk: Жири
     vi: Žiri
     zh: 日里
+    sr_Latn: Opština Žiri
+    ccp: "\U0001110E\U00011128\U00011122\U00011128"
   geo:
     latitude: 46.0513094
     longitude: 14.111887
@@ -6841,6 +7145,8 @@
     uk: Бенедикт
     ur: بلدیہ بینیدیکت
     vi: Đô thị tự trị Benedikt
+    sr_Latn: Opština Benedikt
+    ccp: "\U0001111D\U0001112C\U0001111A\U0001112C\U00011113\U00011128\U00011107\U00011134\U00011111\U00011134"
   geo:
     latitude: 46.6075732
     longitude: 15.8896942
@@ -6889,6 +7195,9 @@
     uk: Бистриця-об-Сотлі (община)
     ur: بلدیہ بیستریتسا اوپ سوتلی
     vi: Đô thị tự trị Bistrica ob Sotli
+    sr_Latn: Opština Bistrica ob Sotli
+    ccp: "\U0001111D\U00011128\U0001110C\U00011134\U00011111\U00011133\U00011122\U0001112D\U00011107
+      \U00011103\U00011127\U0001111B\U00011134 \U00011125\U0001112E\U00011116\U00011134\U00011123\U00011128"
   geo:
     latitude: 46.0565579
     longitude: 15.6625947
@@ -6938,6 +7247,8 @@
     uk: Блоке
     ur: بلدیہ بلوکے
     vi: Đô thị tự trị Bloke
+    sr_Latn: Opština Bloke
+    ccp: "\U00011107\U00011133\U00011123\U0001112E\U00011107\U00011134"
   geo:
     latitude: 45.791555
     longitude: 14.5067013
@@ -6986,6 +7297,8 @@
     uk: Брасловче (община)
     ur: بلدیہ براسلووچے
     vi: Đô thị tự trị Braslovce
+    sr_Latn: Opština Braslovče
+    ccp: "\U0001111D\U00011133\U00011122\U00011125\U00011133\U00011123\U0001112E\U0001111B\U00011134"
   geo:
     latitude: 46.2880914
     longitude: 15.0397466
@@ -7034,6 +7347,8 @@
     uk: Цанкова
     ur: بلدیہ تسانکووا
     vi: Đô thị tự trị Cankova
+    sr_Latn: Opština Cankova
+    ccp: "\U00011107\U0001111A\U00011134\U00011107\U0001112E\U0001111E"
   geo:
     latitude: 46.71823699999999
     longitude: 16.0197222
@@ -7082,6 +7397,8 @@
     uk: Церквеняк
     ur: بلدیہ تسیرکوینیاک
     vi: Đô thị tự trị Cerkvenjak
+    sr_Latn: Cerkvenjak
+    ccp: "\U00011107\U00011122\U00011134\U0001111E\U0001112C\U0001111A\U00011134\U0001110E\U00011107\U00011134"
   geo:
     latitude: 46.5670711
     longitude: 15.9429753
@@ -7131,6 +7448,8 @@
     uk: Добє (община)
     ur: دوبجے میونسپلٹی
     vi: Dobje
+    sr_Latn: Opština Dobje
+    ccp: "\U00011113\U00011127\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.134898
     longitude: 15.3963025
@@ -7179,6 +7498,8 @@
     uk: Добрна
     ur: دوبرنا میونسپلٹی
     vi: Dobrna
+    sr_Latn: Opština Dobrna
+    ccp: "\U00011113\U00011127\U0001111B\U00011134\U00011122\U00011134\U0001111A"
   geo:
     latitude: 46.3356141
     longitude: 15.2259732
@@ -7200,6 +7521,8 @@
     sl: Občina Dobrovnik
     sr: Општина Добровник
     uk: Добровник
+    sr_Latn: Opština Dobrovnik
+    ccp: "\U00011113\U00011127\U0001111B\U00011134\U00011122\U0001112E\U0001111B\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.6516758
     longitude: 16.3429113
@@ -7248,6 +7571,9 @@
     uk: Доленьське Топлице
     ur: دولینجسکی توپلیکی میونسپلٹی
     vi: Dolenjske Toplice
+    sr_Latn: Opština Dolenjske Toplice
+    ccp: "\U00011113\U00011127\U00011123\U0001112C\U0001111A\U00011134\U0001110C\U00011134\U00011107\U0001112C
+      \U00011111\U00011127\U0001111B\U00011134\U00011123\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 45.7558584
     longitude: 15.0592333
@@ -7297,6 +7623,8 @@
     uk: Град
     ur: گراڈ میونسپلٹی
     vi: Đô thị tự trị Grad
+    sr_Latn: Opština Grad
+    ccp: "\U00011109\U00011133\U00011122\U00011116\U00011134"
   geo:
     latitude: 46.801689
     longitude: 16.0924382
@@ -7345,6 +7673,8 @@
     uk: Хайдина
     ur: حاجدینا میونسپلٹی
     vi: Hajdina
+    sr_Latn: Opština Hajdina
+    ccp: "\U00011126\U0001110C\U00011134\U00011113\U00011128\U00011125"
   geo:
     latitude: 46.4185014
     longitude: 15.8244722
@@ -7391,6 +7721,8 @@
     tr: Hoče - Slivnica Beledyesi
     uk: Хоче-Сливниця
     vi: Hoče - Slivnica
+    sr_Latn: Opština Hoče - Slivnica
+    ccp: "\U00011126\U0001112E\U0001110C\U00011134-\U00011125\U00011133\U00011123\U00011128\U0001111B\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.477858
     longitude: 15.6476005
@@ -7439,6 +7771,8 @@
     uk: Ходош
     ur: ہودوس میونسپلٹی
     vi: Đô thị tự trị Hodos
+    sr_Latn: Opština Hodoš
+    ccp: "\U00011126\U0001112E\U00011113\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 46.8314134
     longitude: 16.321068
@@ -7487,6 +7821,8 @@
     uk: Хорюл
     ur: ہورجول میونسپلٹی
     vi: Đô thị tự trị Horjul
+    sr_Latn: Opština Horjul
+    ccp: "\U00011126\U0001112E\U00011122\U00011134\U0001110E\U0001112A\U00011123\U00011134"
   geo:
     latitude: 46.02253779999999
     longitude: 14.2986269
@@ -7536,6 +7872,8 @@
     uk: Єзерско (община)
     ur: جیزیرسکو میونسپلٹی
     vi: Đô thị tự trị Jezersko
+    sr_Latn: Opština Jezersko
+    ccp: "\U0001110E\U0001112C\U0001110E\U00011122\U00011134\U00011116\U0001112E"
   geo:
     latitude: 46.3914249
     longitude: 14.4623209
@@ -7585,6 +7923,8 @@
     uk: Коменда (община)
     ur: کومیندا میونسپلٹی
     vi: Đô thị tự trị Komenda
+    sr_Latn: Opština Komenda
+    ccp: "\U00011107\U0001112E\U0001111F\U0001112C\U0001111A\U00011134\U00011113"
   geo:
     latitude: 46.2052815
     longitude: 14.5391653
@@ -7633,6 +7973,8 @@
     uk: Костел
     ur: کوستیل میونسپلٹی
     vi: Đô thị tự trị Kostel
+    sr_Latn: Opština Kostel
+    ccp: "\U00011107\U0001112E\U0001110C\U00011134\U00011111\U0001112C\U00011123\U00011134"
   geo:
     latitude: 45.5083472
     longitude: 14.9087946
@@ -7681,6 +8023,8 @@
     uk: Крижевці
     ur: کریزیوکی میونسپلٹی
     vi: Đô thị tự trị Krizevci
+    sr_Latn: Opština Križevci
+    ccp: "\U00011107\U00011133\U00011122\U0001112D\U0001110E\U0001112C\U0001111B\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.7923997
     longitude: 16.2348194
@@ -7708,6 +8052,9 @@
     sr: Општина Ловренц на Похорју
     uk: Ловренц-на-Похорю
     vi: Lovrenc na Pohorju
+    sr_Latn: Opština Lovrenc na Pohorju
+    ccp: "\U00011123\U0001112E\U0001111B\U00011134\U00011122\U0001112C\U0001111A\U00011134
+      \U0001111A \U0001111B\U0001112E\U00011126\U0001112E\U00011122\U00011134\U0001110E\U0001112A"
   geo:
     latitude: 46.54027749999999
     longitude: 15.3884817
@@ -7756,6 +8103,8 @@
     uk: Марковці
     ur: مرکووکی میونسپلٹی
     vi: Markovci
+    sr_Latn: Opština Markovci
+    ccp: "\U0001111F\U00011122\U00011134\U00011107\U0001112E\U0001111B\U00011134\U00011125\U00011128"
   geo:
     latitude: 46.8428456
     longitude: 16.2349557
@@ -7783,6 +8132,10 @@
     sr: Општина Миклавж на Дравском пољу
     uk: Миклавж-на-Дравськем Полю
     vi: Miklavž na Dravskem Polju
+    sr_Latn: Opština Miklavž na Dravskom polju
+    ccp: "\U0001111F\U00011128\U00011107\U00011134\U00011123\U0001111B\U00011134 \U0001111A
+      \U00011113\U00011133\U00011122\U0001111B\U00011134\U00011107\U0001112C\U0001111F\U00011134
+      \U0001111B\U00011127\U00011123\U00011134\U0001110E\U0001112A"
   geo:
     latitude: 46.5082628
     longitude: 15.6952065
@@ -7831,6 +8184,8 @@
     uk: Мирна Печ
     ur: مرنا پیک میونسپلٹی
     vi: Mirna Peč
+    sr_Latn: Opština Mirna Peč
+    ccp: "\U0001111F\U00011128\U00011122\U00011134\U0001111A \U0001111B\U0001112C\U00011107\U00011134"
   geo:
     latitude: 45.8594478
     longitude: 15.0830457
@@ -7879,6 +8234,8 @@
     uk: Оплотниця
     ur: وپلوتنیکا میونسپلٹی
     vi: Oplotnica
+    sr_Latn: Opština Oplotnica
+    ccp: "\U00011103\U00011127\U0001111B\U00011134\U00011123\U0001112E\U00011116\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.387163
     longitude: 15.4458131
@@ -7927,6 +8284,8 @@
     uk: Подлехник
     ur: پودلیحنیک میونسپلٹی
     vi: Podlehnik
+    sr_Latn: Opština Podlehnik
+    ccp: "\U0001111B\U00011127\U00011116\U00011134\U00011123\U0001112C\U00011126\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 46.3358974
     longitude: 15.8787245
@@ -7975,6 +8334,8 @@
     uk: Ползела (община)
     ur: پولزیلا میونسپلٹی
     vi: Polzela
+    sr_Latn: Opština Polzela
+    ccp: "\U0001111B\U0001112E\U00011123\U00011134\U0001110E\U0001112C\U00011123"
   geo:
     latitude: 46.280897
     longitude: 15.0737321
@@ -8024,6 +8385,8 @@
     uk: Преболд
     ur: پریبولد میونسپلٹی
     vi: Đô thị tự trị Prebold
+    sr_Latn: Opština Prebold
+    ccp: "\U0001111B\U00011133\U00011122\U0001112C\U0001111D\U0001112A\U00011123\U00011134"
   geo:
     latitude: 46.2365972
     longitude: 15.091648
@@ -8077,6 +8440,8 @@
     ur: پریوالجی میونسپلٹی
     vi: Prevalje
     zh: 普雷瓦列
+    sr_Latn: Opština Prevalje
+    ccp: "\U0001111B\U00011133\U00011122\U0001112C\U0001111E\U00011123\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.54687879999999
     longitude: 14.9197479
@@ -8125,6 +8490,8 @@
     uk: Разкрижє
     ur: رازکریزجی میونسپلٹی
     vi: Đô thị tự trị Razkrizje
+    sr_Latn: Opština Razkrižje
+    ccp: "\U00011122\U0001110C\U00011134\U00011122\U00011128\U0001110C\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 46.5246331
     longitude: 16.27627
@@ -8173,6 +8540,9 @@
     uk: Рибниця-на-Похорю
     ur: ریبنیکا نا پوحورجو میونسپلٹی
     vi: Ribnica na Pohorju
+    sr_Latn: Opština Ribnica na Pohorju
+    ccp: "\U00011122\U00011128\U0001111B\U00011134\U0001111A\U00011128\U00011107 \U0001111A
+      \U0001111B\U00011127\U00011126\U0001112E\U00011122\U00011134\U0001110E\U0001112A"
   geo:
     latitude: 46.5356403
     longitude: 15.2675136
@@ -8221,6 +8591,9 @@
     uk: Селниця-об-Драві
     ur: سیلنیکا اوب دراوی میونسپلٹی
     vi: Selnica ob Dravi
+    sr_Latn: Opština Selnica ob Dravi
+    ccp: "\U00011125\U0001112C\U00011123\U00011134\U0001111A\U00011128\U00011107 \U00011103\U00011127\U0001111B\U00011134
+      \U00011113\U00011133\U00011122\U0001111E\U00011128"
   geo:
     latitude: 46.5513918
     longitude: 15.492941
@@ -8269,6 +8642,8 @@
     uk: Содражиця
     ur: سودرازیکا میونسپلٹی
     vi: Đô thị tự trị Sodrazica
+    sr_Latn: Opština Sodražica
+    ccp: "\U00011125\U0001112E\U00011113\U00011133\U00011122\U0001110E\U00011128\U00011107"
   geo:
     latitude: 45.762125
     longitude: 14.6362158
@@ -8291,6 +8666,8 @@
     sl: Občina Solčava
     sr: Солчава
     uk: Солчава (община)
+    sr_Latn: Solčava
+    ccp: "\U00011125\U0001112E\U00011123\U00011134\U00011107\U0001111E"
   geo:
     latitude: 46.4200935
     longitude: 14.6917325
@@ -8338,6 +8715,8 @@
     uk: Света Ана-в-Словенських Горицах
     ur: سویتا انا میونسپلٹی
     vi: Sveta Ana
+    sr_Latn: Sveta Ana v Slovenskih goricah
+    ccp: "\U00011125\U00011133\U0001111E\U0001112C\U00011111 \U00011103\U0001111A"
   geo:
     latitude: 46.65
     longitude: 15.845278
@@ -8386,6 +8765,10 @@
     ur: سویتی اندراز وی سلووینسکیح جوریکاح میونسپلٹی
     vi: Sveti Andraž v Slovenskih goricah
     zh: 斯洛文尼亞丘陵內斯韋提安德拉日
+    sr_Latn: Opština Sveti Andraž v Slovenskih Goricah
+    ccp: "\U00011125\U00011133\U0001111E\U0001112C\U00011111\U00011128 \U00011103\U0001111A\U00011134\U00011113\U00011133\U00011122\U0001110C\U00011134
+      \U0001111E\U00011128 \U00011125\U00011133\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011134\U00011107\U00011128\U00011126\U00011134
+      \U00011109\U0001112E\U00011122\U00011128\U00011107\U00011126\U00011134"
   geo:
     latitude: 46.5189747
     longitude: 15.9498262
@@ -8433,6 +8816,8 @@
     tr: Sepmeter-Vrtojba Belediyesi
     uk: Шемпетер-Вртойба
     vi: Šempeter-Vrtojba
+    sr_Latn: Opština Šempeter - Vrtojba
+    ccp: "\U00011125\U0001112C\U0001111F\U00011134\U0001111B\U00011128\U00011111\U00011122\U00011134-\U0001111E\U00011133\U00011122\U00011111\U0001112E\U0001111D"
   geo:
     latitude: 45.9143357
     longitude: 13.6427256
@@ -8481,6 +8866,8 @@
     uk: Табор (Табор)
     ur: تابور میونسپلٹی
     vi: Đô thị tự trị Tabor
+    sr_Latn: Opština Tabor
+    ccp: "\U00011111\U0001111D\U0001112E\U00011122\U00011134"
   geo:
     latitude: 46.2346683
     longitude: 15.0167331
@@ -8529,6 +8916,8 @@
     uk: Трновська Вас
     ur: ترنووسکا واس میونسپلٹی
     vi: Trnovska Vas
+    sr_Latn: Opština Trnovska Vas
+    ccp: "\U0001111A\U0001112E\U0001111B\U00011134\U00011107 \U0001111E\U0001110C\U00011134"
   geo:
     latitude: 46.5201168
     longitude: 15.8866431
@@ -8577,6 +8966,8 @@
     uk: Трзин
     ur: طرزیں
     vi: Trzin
+    sr_Latn: Trzin
+    ccp: "\U0001110E\U00011128\U0001111A\U00011134"
   geo:
     latitude: 46.1363399
     longitude: 14.5616878
@@ -8626,6 +9017,8 @@
     uk: Велика Полана
     ur: ویلیکا پولانا میونسپلٹی
     vi: Velika Polana
+    sr_Latn: Opština Velika Polana
+    ccp: "\U0001111E\U0001112C\U00011123\U00011128\U00011107 \U0001111B\U0001112A\U00011123\U0001111A"
   geo:
     latitude: 46.5731715
     longitude: 16.3444126
@@ -8674,6 +9067,8 @@
     uk: Вержей
     ur: ویرزیج میونسپلٹی
     vi: Veržej
+    sr_Latn: Opština Veržej
+    ccp: "\U0001111E\U00011122\U00011134\U00011125\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 46.5832778
     longitude: 16.1640173
@@ -8722,6 +9117,8 @@
     uk: Врансько (община)
     ur: ورانسکو
     vi: Vransko
+    sr_Latn: Opština Vransko
+    ccp: "\U0001111E\U00011133\U00011122\U0001111A\U00011134\U00011107\U0001112E"
   geo:
     latitude: 46.2444682
     longitude: 14.9511982
@@ -8775,6 +9172,8 @@
     ur: زالیک میونسپلٹی
     vi: Žalec
     zh: 扎萊茨
+    sr_Latn: Opština Žalec
+    ccp: "\U0001110E\U00011123\U0001112C\U00011107\U00011134"
   geo:
     latitude: 46.251984
     longitude: 15.1650282
@@ -8823,6 +9222,8 @@
     uk: Жетале
     ur: زیتالی میونسپلٹی
     vi: Žetale
+    sr_Latn: Opština Žetale
+    ccp: "\U0001110E\U00011111\U00011123\U0001112C"
   geo:
     latitude: 46.2784002
     longitude: 15.8122225
@@ -8871,6 +9272,8 @@
     uk: Жировніца
     ur: زیروونیکا میونسپلٹی
     vi: Žirovnica
+    sr_Latn: Opština Žirovnica
+    ccp: "\U0001110E\U00011128\U00011122\U0001112E\U0001111B\U00011134\U0001111A\U00011128\U00011107"
   geo:
     latitude: 46.4044239
     longitude: 14.1375549
@@ -8922,6 +9325,8 @@
     ur: زوزیمبیرک
     vi: Žužemberk
     zh: 祖熱姆布爾克
+    sr_Latn: Opština Žužemberk
+    ccp: "\U0001110E\U0001112A\U0001110E\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011107\U00011134"
   geo:
     latitude: 45.830669
     longitude: 14.9298228
@@ -8970,6 +9375,9 @@
     uk: Шмартно-при-Літії (община)
     ur: سمارتنو پری لیتیجی
     vi: Šmartno pri Litiji
+    sr_Latn: Opština Šmartno pri Litiji
+    ccp: "\U00011125\U00011133\U0001111F\U00011122\U00011134\U00011111\U00011134\U0001111A\U0001112E
+      \U0001111B\U00011133\U00011122\U0001112D \U00011123\U00011128\U00011111\U00011128\U0001110E\U00011128"
   geo:
     latitude: 46.0457437
     longitude: 14.8410058
@@ -9017,6 +9425,7 @@
     vi: Ankaran
     zh: 安卡蘭
     zu: Ankaran
+    ccp: "\U00011103\U0001111A\U00011134\U00011107\U00011127\U00011122\U0001111A\U00011134"
 '195':
   translations:
     cs: Občina Apače
@@ -9031,6 +9440,8 @@
     sr: Општина Апаче
     uk: Апаче
     ur: بلدیہ آپاچے
+    sr_Latn: Opština Apače
+    ccp: "\U00011103\U0001111B\U0001112D\U0001110C\U00011134"
 '196':
   translations:
     cs: Občina Cirkulane
@@ -9042,6 +9453,7 @@
     sl: Občina Cirkulane
     uk: Циркулане
     ur: بلدیہ تسیرکولانے
+    ccp: "\U00011125\U00011122\U00011134\U00011107\U0001112A\U00011123\U0001111A\U00011134"
 '197':
   translations:
     cs: Občina Kostanjevica na Krki
@@ -9054,6 +9466,9 @@
     sl: Občina Kostanjevica na Krki
     sr: Општина Костањевица на Крки
     uk: Костанєвиця-на-Кркі (община)
+    sr_Latn: Opština Kostanjevica na Krki
+    ccp: "\U00011107\U0001112E\U0001110C\U00011134\U00011111\U0001111A\U00011134\U0001110E\U0001112C\U0001111E\U00011128\U00011107
+      \U0001111A \U00011107\U00011128"
 '198':
   translations:
     cs: Občina Makole
@@ -9071,6 +9486,7 @@
     sl: Občina Makole
     uk: Маколе
     vi: Makole
+    ccp: "\U0001111F\U00011107\U0001112E\U00011123\U00011128"
 '199':
   translations:
     cs: Občina Mokronog-Trebelno
@@ -9088,6 +9504,7 @@
     sl: Občina Mokronog - Trebelno
     uk: Мокроног-Требелно
     vi: Mokronog-Trebelno
+    ccp: "\U0001111F\U00011127\U00011107\U00011134\U00011122\U0001112E\U0001111A\U00011127\U00011107\U00011134-\U00011111\U00011133\U00011122\U0001112C\U0001111D\U0001112C\U00011123\U00011134\U0001111A\U0001112E"
 '200':
   translations:
     cs: Občina Poljčane
@@ -9106,6 +9523,7 @@
     sl: Občina Poljčane
     uk: Польчане
     vi: Poljčane
+    ccp: "\U0001111B\U00011127\U00011123\U00011134\U00011107\U0001112C\U0001111A\U00011134"
 '201':
   translations:
     cs: Občina Renče-Vogrsko
@@ -9123,6 +9541,7 @@
     sl: Občina Renče - Vogrsko
     uk: Ренче-Вогрско
     vi: Renče-Vogrsko
+    ccp: "\U00011122\U0001112C\U0001111A\U00011134-\U0001111E\U0001112E\U00011107\U00011134\U00011122\U00011134\U00011107\U0001112E"
 '202':
   translations:
     cs: Občina Središče ob Dravi
@@ -9141,6 +9560,9 @@
     sr: Општина Средишче об Драви
     uk: Средище-об-Драві
     vi: Središče ob Dravi
+    sr_Latn: Opština Središče ob Dravi
+    ccp: "\U00011125\U00011133\U00011122\U0001112C\U00011113\U00011128\U0001110C\U00011134\U00011125\U00011134
+      \U00011103\U00011127\U0001111B\U00011134 \U00011113\U00011133\U00011122\U0001111E\U00011128"
 '203':
   translations:
     cs: Občina Straža
@@ -9158,6 +9580,7 @@
     ru: Стража
     sl: Občina Straža
     uk: Стража
+    ccp: "\U0001110C\U00011133\U00011111\U00011122\U0001110E"
 '204':
   translations:
     cs: Občina Sveta Trojica v Slovenskih goricah
@@ -9177,6 +9600,9 @@
     uk: Света Троїца-в-Словенських Горицях
     vi: Sveta Trojica v Slovenskih goricah
     zh: 斯洛文尼亞丘陵內斯維塔特羅伊卡
+    ccp: "\U00011125\U00011133\U0001111E\U0001112C\U00011111 \U00011111\U00011133\U00011122\U0001112E\U0001110E\U00011128\U00011107
+      \U0001111E\U00011128 \U00011125\U00011133\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011134\U00011107\U00011128\U00011126\U00011134
+      \U00011109\U0001112E\U00011122\U00011128\U00011107\U00011126\U00011134"
 '205':
   translations:
     cs: Občina Sveti Tomaž
@@ -9193,6 +9619,7 @@
     sl: Občina Sveti Tomaž
     uk: Светий Томаж
     vi: Sveti Tomaž
+    ccp: "\U00011125\U00011133\U0001111E\U0001112C\U00011111\U00011128 \U00011111\U0001112E\U0001111F\U0001110C\U00011134"
 '206':
   translations:
     cs: Občina Šmarješke Toplice
@@ -9201,6 +9628,8 @@
     ro: Comuna Šmarješke Toplice
     sl: Občina Šmarješke Toplice
     uk: Шмарєшке Топлице
+    ccp: "\U0001110C\U00011133\U0001111F\U00011122\U00011134\U0001110E\U0001112C\U0001110C\U00011134\U00011107\U00011128
+      \U00011111\U00011127\U0001111B\U00011134\U00011123\U0001112D\U0001110C\U00011134"
 '207':
   translations:
     cs: Občina Gorje
@@ -9218,6 +9647,7 @@
     sl: Občina Gorje
     uk: Горє (община)
     vi: Gorje
+    ccp: "\U00011109\U00011127\U0001112E\U00011122\U00011134\U0001110E\U0001112C"
 '208':
   translations:
     cs: Občina Log-Dragomer
@@ -9236,6 +9666,8 @@
     sl: Občina Log - Dragomer
     sr: Општина Лог - Драгомер
     uk: Лог-Драгомер
+    sr_Latn: Opština Log - Dragomer
+    ccp: "\U00011123\U00011127\U00011107\U00011134-\U00011113\U00011133\U00011122\U00011109\U0001112E\U0001111F\U00011122\U00011134"
 '209':
   translations:
     cs: Občina Rečica ob Savinji
@@ -9253,6 +9685,8 @@
     sl: Občina Rečica ob Savinji
     uk: Речиця-об-Савиньї
     vi: Rečica ob Savinji
+    ccp: "\U00011122\U0001112C\U00011125\U0001112C\U00011107 \U00011103\U00011127\U0001111B\U00011134
+      \U00011125\U0001111E\U00011128\U0001111A\U00011134\U0001110E\U00011128"
 '210':
   translations:
     cs: Občina Sveti Jurij v Slovenskih goricah
@@ -9271,6 +9705,9 @@
     sl: Občina Sveti Jurij v Slovenskih goricah
     uk: Светий Юрій-в-Словенських Горицях
     vi: Sveti Jurij v Slovenskih goricah
+    ccp: "\U0001110C\U00011133\U0001111E\U0001112C\U00011111\U00011128 \U0001110E\U0001112A\U00011122\U00011128\U0001110C\U00011134
+      \U0001111E\U00011128 \U00011125\U00011133\U00011123\U0001112E\U0001111E\U0001112C\U0001111A\U00011134\U00011107\U00011128\U00011126\U00011134
+      \U00011109\U0001112E\U00011122\U00011128\U00011107\U00011126\U00011134"
 '211':
   translations:
     cs: Občina Šentrupert
@@ -9289,6 +9726,8 @@
     sr: Општина Шентруперт
     uk: Шентруперт
     vi: Šentrupert
+    sr_Latn: Opština Šentrupert
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U0001112A\U0001111B\U00011122\U00011134\U00011111\U00011134"
 '212':
   translations:
     de: Mirna
@@ -9305,3 +9744,4 @@
     sl: Mirna
     uk: Мирна
     vi: Mirna
+    ccp: "\U0001111F\U00011128\U00011122\U00011134\U0001111A"

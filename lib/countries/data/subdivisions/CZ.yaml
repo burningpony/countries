@@ -5,6 +5,7 @@ JC:
   - Českobudějovický
   translations:
     en: South Bohemia
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U0001111D\U00011127\U00011126\U0001112C\U0001111F\U00011128\U00011120"
   geo:
     latitude: 48.9457789
     longitude: 14.4416055
@@ -18,6 +19,7 @@ JM:
   - Brněnský
   translations:
     en: South Moravia
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U0001111F\U00011127\U00011122\U00011134\U0001111E\U00011128\U00011120"
   geo:
     latitude: 48.9544528
     longitude: 16.7676899
@@ -30,6 +32,8 @@ KA:
   unofficial_names: Karlovarský kraj
   translations:
     en: Karlovy Vary Region
+    ccp: "\U00011107\U00011122\U00011134\U00011123\U0001112E\U0001111E\U00011128 \U0001111E\U00011122\U00011128
+      \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 50.1435
     longitude: 12.7501899
@@ -42,6 +46,8 @@ KR:
   unofficial_names: Královéhradecký kraj
   translations:
     en: Hradec Králové Region
+    ccp: "\U00011126\U00011133\U00011122\U00011113\U0001112C\U00011107\U00011134 \U00011107\U00011133\U00011122\U00011123\U0001112E\U0001111B\U00011134
+      \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 50.3512484
     longitude: 15.7976459
@@ -54,6 +60,8 @@ LI:
   unofficial_names: Liberecký kraj
   translations:
     en: Liberec Region
+    ccp: "\U00011123\U00011128\U0001111D\U0001112C\U00011122\U0001112C\U00011107\U00011134
+      \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 50.65942399999999
     longitude: 14.7632424
@@ -67,6 +75,7 @@ MO:
   - Ostravský
   translations:
     en: Moravian-Silesia
+    ccp: "\U0001111F\U0001112E\U00011122\U0001111E\U00011128\U00011120\U0001111A\U00011134-\U00011125\U0001112D\U00011123\U0001112C\U00011125\U00011128\U00011120"
   geo:
     latitude: 49.7305327
     longitude: 18.2332637
@@ -79,6 +88,8 @@ OL:
   unofficial_names: Olomoucký kraj
   translations:
     en: Olomouc Region
+    ccp: "\U00011103\U00011127\U00011123\U0001112E\U0001111F\U0001112F\U00011107\U00011134
+      \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 49.65865489999999
     longitude: 17.0811406
@@ -91,6 +102,8 @@ PA:
   unofficial_names: Pardubický kraj
   translations:
     en: Pardubice Region
+    ccp: "\U0001111B\U00011122\U00011134\U00011113\U0001112A\U0001111D\U0001112D\U0001110C\U00011134
+      \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 49.9444479
     longitude: 16.2856916
@@ -103,6 +116,7 @@ PL:
   unofficial_names: Plzeňský kraj
   translations:
     en: Plzeň Region
+    ccp: "\U0001111B\U00011133\U00011123\U0001110E\U0001112C\U0001111A\U00011134 \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 49.4134812
     longitude: 13.3157246
@@ -119,6 +133,7 @@ PR:
   - Prague
   translations:
     en: Prague
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C"
   geo:
     latitude: 50.0755381
     longitude: 14.4378005
@@ -134,6 +149,8 @@ ST:
   - Středočeský
   translations:
     en: Central Bohemia
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001111D\U0001112E\U00011126\U0001112C\U0001111F\U00011128\U00011120"
   geo:
     latitude: 49.8782223
     longitude: 14.9362955
@@ -146,6 +163,8 @@ US:
   unofficial_names: Ústecký kraj
   translations:
     en: Ústí nad Labem Region
+    ccp: "\U00011105\U0001112A\U0001110C\U00011134\U00011111\U00011128 \U0001111A\U00011116\U00011134
+      \U00011123\U0001111D\U0001112C\U0001111F\U00011134 \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 50.6119037
     longitude: 13.7870086
@@ -159,6 +178,7 @@ VY:
   - Jihlavský
   translations:
     en: Vysočina²
+    ccp: "\U0001111E\U00011128\U00011125\U0001112E\U00011125\U00011128\U0001111A"
   geo:
     latitude: 49.44900519999999
     longitude: 15.6405934
@@ -171,6 +191,7 @@ ZL:
   unofficial_names: Zlínský kraj
   translations:
     en: Zlín Region
+    ccp: "\U0001110E\U00011133\U00011123\U00011128\U0001111A\U00011134 \U00011122\U0001112C\U0001110E\U00011133\U00011120\U00011127"
   geo:
     latitude: 49.2162296
     longitude: 17.7720353
@@ -247,6 +268,9 @@ ZL:
     vi: Praha
     zh: 布拉格
     zu: IPraha
+    sr_Latn: Prag
+    ccp: "\U0001111B\U00011133\U00011122\U00011127\U00011109\U0001112A \U00011126\U00011133\U00011123\U0001111E\U0001111A\U0001112D
+      \U0001111F\U0001112C\U0001110C\U00011134\U00011111\U0001112E"
 '20':
   translations:
     ar: إقليم بوهيميا الوسطى
@@ -300,6 +324,8 @@ ZL:
     ur: مرکزی بوہیمیائی علاقہ
     vi: Trung Bohemia
     zh: 中波希米亚州
+    sr_Latn: Srednjočeški kraj
+    ccp: "\U00011103\U0001112C\U0001110C\U00011134\U00011111\U00011133\U00011122\U0001112C\U00011113\U0001112E\U00011125\U0001112C\U0001110C\U00011134\U00011107\U00011128"
 20A:
   translations:
     ar: مقاطعة براغ-غرب
@@ -323,6 +349,8 @@ ZL:
     uk: Прага-захід
     ur: پراگ-غربی ضلع
     vi: Praha Tây
+    sr_Latn: Okrug Prag-zapad
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134"
 20B:
   translations:
     ar: مقاطعة بشيبرام
@@ -348,6 +376,8 @@ ZL:
     uk: Пржибрам
     ur: پشیبرام ضلع
     vi: Příbram
+    sr_Latn: Okrug Pribram
+    ccp: "\U0001111B\U00011133\U00011122\U0001112D\U0001111D\U00011133\U00011122\U0001111F\U00011134"
 20C:
   translations:
     ar: مقاطعة راكوفنيك
@@ -372,6 +402,8 @@ ZL:
     sv: Rakovník
     ur: راکوونیک ضلع
     vi: Rakovník
+    sr_Latn: Okrug Rakovnjik
+    ccp: "\U00011122\U00011127\U00011107\U0001112E\U0001111B\U00011134\U0001111A\U00011128\U00011107\U00011134"
 '31':
   translations:
     ar: إقليم جنوب بوهيميا
@@ -424,6 +456,8 @@ ZL:
     ur: جنوبی بوہیمیائی علاقہ
     vi: Nam Bohemia
     zh: 南波希米亚州
+    sr_Latn: Južnočeški kraj
+    ccp: "\U0001110E\U00011128\U00011126\U0001112E\U00011125\U0001112C\U0001110C\U00011134\U00011107\U00011128"
 '32':
   translations:
     ar: إقليم بلزن
@@ -475,6 +509,8 @@ ZL:
     ur: پلزین علاقہ
     vi: Plzeň
     zh: 比爾森州
+    sr_Latn: Plzenjski kraj
+    ccp: "\U0001111B\U00011133\U00011123\U0001112C\U0001111A\U00011134\U00011125\U00011134\U00011107\U00011129"
 '41':
   translations:
     ar: إقليم كارلوفي فاري
@@ -526,6 +562,8 @@ ZL:
     ur: کارلووی واری علاقہ
     vi: Karlovy Vary
     zh: 卡羅維發利州
+    sr_Latn: Karlovarski kraj
+    ccp: "\U00011107\U00011122\U00011134\U00011123\U0001112E\U0001111E\U00011122\U00011134\U00011107\U00011129"
 '42':
   translations:
     ar: إقليم أوستي ناد لابم
@@ -577,6 +615,8 @@ ZL:
     ur: اوستی ناد لاہم علاقہ
     vi: Ústí nad Labem
     zh: 烏斯季州
+    sr_Latn: Ustečki kraj
+    ccp: "\U00011105\U0001112A\U0001110C\U00011134\U00011111\U0001112C\U00011107\U00011129"
 '51':
   translations:
     ar: إقليم ليبيريتس
@@ -627,6 +667,8 @@ ZL:
     ur: لیبرتس علاقہ
     vi: Liberec
     zh: 利贝雷茨州
+    sr_Latn: Liberečki kraj
+    ccp: "\U00011123\U0001112D\U0001111D\U0001112C\U00011122\U0001112C\U00011107\U00011128"
 '52':
   translations:
     ar: إقليم هرادتس كرالوفه
@@ -678,6 +720,8 @@ ZL:
     ur: ہاردک کارلوف علاقہ
     vi: Hradec Králové
     zh: 赫拉德茨-克拉洛韋州
+    sr_Latn: Kralovehradečki kraj
+    ccp: "\U00011107\U00011133\U00011122\U00011123\U0001112E\U0001111E\U0001112C\U00011126\U00011134\U00011122\U00011113\U0001112C\U00011107\U00011128"
 '53':
   translations:
     ar: إقليم باردوبيتسه
@@ -730,6 +774,8 @@ ZL:
     ur: پاردوبیتسے علاقہ
     vi: Pardubice
     zh: 帕爾杜比采州
+    sr_Latn: Pardubički kraj
+    ccp: "\U0001111B\U00011122\U00011134\U00011113\U0001112A\U0001111D\U0001112D\U00011107\U00011128"
 '63':
   translations:
     ar: إقليم فيسوتشنا
@@ -783,6 +829,8 @@ ZL:
     ur: ویسوچیانا علاقہ
     vi: Vysočina
     zh: 維索基納州
+    sr_Latn: Kraj Visočina
+    ccp: "\U0001111E\U00011128\U00011125\U0001112E\U00011125\U00011128\U0001111A"
 '64':
   translations:
     ar: محافظة مورافيا الجنوبية
@@ -836,6 +884,8 @@ ZL:
     ur: جنوبی موراویائی علاقہ
     vi: Nam Moravia
     zh: 南摩拉維亞州
+    sr_Latn: Južnomoravski kraj
+    ccp: "\U0001110E\U00011128\U00011126\U0001112E\U0001111F\U00011127\U00011122\U0001111B\U00011134\U00011107\U00011128"
 '71':
   translations:
     ar: إقليم أولوموتس
@@ -888,6 +938,8 @@ ZL:
     ur: اولوموک علاقہ
     vi: Olomouc
     zh: 奧洛穆克州
+    sr_Latn: Olomoucki kraj
+    ccp: "\U00011103\U0001112E\U00011123\U0001112E\U0001111F\U0001112F\U00011107\U00011128"
 '72':
   translations:
     ar: إقليم زلين
@@ -940,6 +992,8 @@ ZL:
     ur: زلین علاقہ
     vi: Zlín
     zh: 兹林州
+    sr_Latn: Zlinski kraj
+    ccp: "\U0001110E\U00011133\U00011123\U00011128\U0001111A\U00011134\U00011107\U00011128"
 '80':
   translations:
     ar: إقليم مورافيا-سيليزيا
@@ -993,6 +1047,8 @@ ZL:
     ur: موراویائی سیلیسیائی علاقہ
     vi: Moravia–Silesia
     zh: 摩拉維亞-西里西亞州
+    sr_Latn: Moravsko-Šleski kraj
+    ccp: "\U0001111F\U00011127\U00011122\U00011127\U0001111B\U00011134\U00011107\U0001112E\U0001110C\U00011134\U00011123\U0001112C\U0001110C\U00011134\U00011107\U00011128"
 '201':
   translations:
     ar: مقاطعة بينيشوف
@@ -1021,6 +1077,8 @@ ZL:
     uk: Бенешов
     ur: بینیشوف ضلع
     vi: Benešov
+    sr_Latn: Okrug Benešov
+    ccp: "\U0001111D\U0001112C\U0001111A\U0001112C\U00011125\U0001112E\U0001111B\U00011134"
 '202':
   translations:
     ar: مقاطعة بيرون
@@ -1045,6 +1103,8 @@ ZL:
     sv: Beroun
     ur: بیرون ضلع
     vi: Beroun
+    sr_Latn: Okrug Beroun
+    ccp: "\U0001111D\U0001112C\U00011122\U0001112F\U0001111A\U00011134"
 '203':
   translations:
     ar: مقاطعة كلادنو
@@ -1073,6 +1133,8 @@ ZL:
     sv: Kladno
     ur: کلاندو ضلع
     vi: Kladno
+    sr_Latn: Okrug Kladno
+    ccp: "\U00011107\U00011133\U00011123\U00011116\U00011134\U0001111A\U0001112E"
 '204':
   translations:
     ar: مقاطعة كولين
@@ -1098,6 +1160,8 @@ ZL:
     sv: Kolín
     ur: کولین ضلع
     vi: Kolín
+    sr_Latn: Okrug Kolin
+    ccp: "\U00011107\U00011127\U00011123\U00011128\U0001111A\U00011134"
 '205':
   translations:
     ar: مقاطعة كوتنا هورا
@@ -1123,6 +1187,8 @@ ZL:
     uk: Кутна Гора (округ)
     ur: کوتنا ہورا ضلع
     vi: Kutná Hora
+    sr_Latn: Okrug Kutna Hora
+    ccp: "\U00011107\U0001112A\U00011116\U00011134\U0001111A \U00011126\U0001112E\U00011122"
 '206':
   translations:
     ar: مقاطعة منيلنيك
@@ -1149,6 +1215,8 @@ ZL:
     uk: Мельник
     ur: میلنک ضلع
     vi: Mělník
+    sr_Latn: Okrug Mjelnjik
+    ccp: "\U0001111F\U0001112C\U00011123\U00011134\U0001111A\U00011128\U00011107\U00011134"
 '207':
   translations:
     ar: مقاطعة ملادا بوليسلاف
@@ -1174,6 +1242,8 @@ ZL:
     sv: Mladá Boleslav
     ur: ملادا بولسلاو ضلع
     vi: Mladá Boleslav
+    sr_Latn: Okrug Mlada Boleslav
+    ccp: "\U0001111F\U00011133\U00011123\U00011113 \U0001111D\U0001112E\U00011123\U0001112C\U0001110C\U00011134\U00011123\U0001111B\U00011134"
 '208':
   translations:
     ar: مقاطعة نيمبورك
@@ -1200,6 +1270,8 @@ ZL:
     uk: Нимбурк (округ)
     ur: نمبورک ضلع
     vi: Nymburk
+    sr_Latn: Okrug Nimburk
+    ccp: "\U0001111A\U00011128\U00011120\U0001111F\U00011134\U0001111D\U00011122\U00011133\U00011107\U00011134"
 '209':
   translations:
     ar: مقاطعة براغ-شرق
@@ -1223,6 +1295,8 @@ ZL:
     uk: Прага-схід
     ur: پراگ-شرقی ضلع
     vi: Praha Đông
+    sr_Latn: Okrug Prag-istok
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001111B\U0001112A\U00011107\U00011134"
 '311':
   translations:
     ar: مقاطعة تشيسكي بوديوفيتسه
@@ -1251,6 +1325,8 @@ ZL:
     sv: České Budějovice
     ur: چسکے بودجیووسکے ضلع
     vi: České Budějovice
+    sr_Latn: Okrug Češke Budjejovice
+    ccp: "\U00011107\U0001112C\U0001110C\U00011134\U00011107\U0001112C \U0001111D\U00011113\U0001112C\U0001110E\U0001112E\U0001111E\U0001112D\U0001110C\U00011134"
 '312':
   translations:
     ar: مقاطعة تشيسكي كروملوف
@@ -1278,6 +1354,8 @@ ZL:
     sv: Český Krumlov
     ur: چیسکی کروملوف ضلع
     vi: Český Krumlov
+    sr_Latn: Okrug Češki Krumlov
+    ccp: "\U00011107\U0001112C\U0001110C\U00011134\U00011107\U00011128 \U00011107\U00011133\U00011122\U0001112A\U0001111F\U00011123\U00011127\U0001111B\U00011134"
 '313':
   translations:
     ar: مقاطعة يندريخوف هرادتس
@@ -1305,6 +1383,9 @@ ZL:
     sv: Jindřichův Hradec
     ur: جندرشیخوو ہاردک ضلع
     vi: Jindřichův Hradec
+    sr_Latn: Okrug Jindrihuv Hradec
+    ccp: "\U0001110E\U00011128\U0001111A\U00011134\U00011118\U00011133\U00011122\U0001112D\U00011107\U0001112A\U0001111B\U00011134
+      \U00011122\U00011113\U0001112C\U00011107\U00011134"
 '314':
   translations:
     ar: مقاطعة بيسك
@@ -1330,6 +1411,8 @@ ZL:
     sv: Písek
     ur: پیسک ضلع
     vi: Písek
+    sr_Latn: Okrug Pisek
+    ccp: "\U0001111B\U0001112D\U00011125\U0001112C\U00011107\U00011134"
 '315':
   translations:
     ar: مقاطعة براخاتيتسه
@@ -1355,6 +1438,8 @@ ZL:
     sv: Okres Prachatice
     ur: پراخاتسے ضلع
     vi: Prachatice
+    sr_Latn: Okrug Prahatice
+    ccp: "\U0001111B\U00011133\U00011122\U0001110C\U00011111\U0001112D\U0001110C\U00011134"
 '316':
   translations:
     ar: مقاطعة ستراكونيتسه
@@ -1381,6 +1466,8 @@ ZL:
     sv: Okres Strakonice
     ur: ستراکونیسے ضلع
     vi: Strakonice
+    sr_Latn: Okrug Strakonjice
+    ccp: "\U0001110C\U00011133\U00011111\U00011133\U00011122\U00011133\U00011122\U00011133\U00011122\U00011107\U0001112E\U0001111A\U0001112D\U0001110C\U00011134"
 '317':
   translations:
     ar: مقاطعة تابور
@@ -1407,6 +1494,8 @@ ZL:
     sv: Okres Tábor
     ur: تابور ضلع
     vi: Tábor
+    sr_Latn: Okrug Tabor
+    ccp: "\U00011111\U0001111D\U00011127\U00011122\U00011134"
 '321':
   translations:
     ar: مقاطعة دوماجليتسه
@@ -1430,6 +1519,8 @@ ZL:
     sv: Okres Domažlice
     ur: دوماشزلیسے ضلع
     vi: Domažlice
+    sr_Latn: Okrug Domažlice
+    ccp: "\U00011113\U0001112E\U0001111F\U0001112C\U0001110C\U00011134\U00011123\U0001112D\U0001110C\U00011134"
 '322':
   translations:
     ar: مقاطعة كلاتوفي
@@ -1456,6 +1547,8 @@ ZL:
     sv: Okres Klatovy
     ur: کلاتووی ضلع
     vi: Klatovy
+    sr_Latn: Okrug Klatovi
+    ccp: "\U00011107\U00011133\U00011123\U00011111\U0001112E\U0001111E\U00011128"
 '323':
   translations:
     ar: مقاطعة بلزن-المدينة
@@ -1478,6 +1571,8 @@ ZL:
     sr: Округ Плзењ-град
     sv: Okres Plzeň-Město
     ur: پلزین-شہر ضلع
+    sr_Latn: Okrug Plzenj-grad
+    ccp: "\U0001111B\U00011133\U00011123\U0001110E\U0001112C\U0001111A\U00011134"
 '324':
   translations:
     ar: مقاطعة بلزن-جنوب
@@ -1501,6 +1596,8 @@ ZL:
     sv: Okres Plzeň-Jih
     ur: پلزین-جنوبی ضلع
     vi: Plzeň-Nam
+    sr_Latn: Okrug Plzenj-jug
+    ccp: "\U0001111B\U00011133\U00011123\U0001110E\U0001112C\U0001111A\U00011134-\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134"
 '325':
   translations:
     ar: مقاطعة بلزن-شمال
@@ -1522,6 +1619,8 @@ ZL:
     sv: Okres Plzeň-Sever
     ur: پلزین-شمالی ضلع
     vi: Plzeň-Bắc
+    sr_Latn: Okrug Plzenj-sever
+    ccp: "\U0001111B\U00011133\U00011123\U0001110E\U0001112C\U0001111A\U00011134-\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134"
 '326':
   translations:
     ar: مقاطعة روكيتساني
@@ -1546,6 +1645,8 @@ ZL:
     sv: Okres Rokycany
     ur: روکیسانی ضلع
     vi: Rokycany
+    sr_Latn: Okrug Rokicani
+    ccp: "\U00011122\U00011127\U00011107\U00011128\U00011107\U00011133\U00011120\U0001111A\U00011128"
 '327':
   translations:
     ar: مقاطعة تاخوف
@@ -1571,6 +1672,8 @@ ZL:
     sv: Okres Tachov
     ur: تاخوف ضلع
     vi: Tachov
+    sr_Latn: Okrug Tahov
+    ccp: "\U00011111\U0001111D\U0001112E\U0001111B\U00011134"
 '411':
   translations:
     ar: مقاطعة خب
@@ -1598,6 +1701,8 @@ ZL:
     sv: Cheb
     ur: خیب ضلع
     vi: Cheb
+    sr_Latn: Okrug Heb
+    ccp: "\U0001110C\U0001112C\U0001111B\U00011134"
 '412':
   translations:
     ar: مقاطعة كارلوفي فاري
@@ -1624,6 +1729,8 @@ ZL:
     sv: Karlovy Vary²
     ur: کارلووی واری ضلع
     vi: Karlovy Vary²
+    sr_Latn: Okrug Karlove Vari
+    ccp: "\U00011107\U00011122\U00011134\U00011123\U00011127\U0001111E\U00011128 \U0001111E\U00011122\U00011129"
 '413':
   translations:
     ar: مقاطعة سوكولوف
@@ -1650,6 +1757,8 @@ ZL:
     sv: Sokolov
     ur: سوکولوف ضلع
     vi: Sokolov
+    sr_Latn: Okrug Sokolov
+    ccp: "\U00011125\U00011127\U00011107\U0001112E\U00011123\U00011127\U0001111B\U00011134"
 '421':
   translations:
     ar: مقاطعة ديتشين
@@ -1674,6 +1783,8 @@ ZL:
     sv: Okres Děčín
     ur: دیچین ضلع
     vi: Děčín
+    sr_Latn: Okrug Dječin
+    ccp: "\U00011113\U0001112C\U00011125\U00011128\U0001111A\U00011134"
 '422':
   translations:
     ar: مقاطعة خوموتوف
@@ -1699,6 +1810,8 @@ ZL:
     uk: Хомутов (округ)
     ur: خومتو ضلع
     vi: Chomutov
+    sr_Latn: Okrug Homutov
+    ccp: "\U00011107\U0001112E\U0001111F\U0001112A\U00011111\U00011127\U0001111B\U00011134"
 '423':
   translations:
     ar: مقاطعة ليتوميريتسه
@@ -1724,6 +1837,8 @@ ZL:
     sv: Okres Litoměřice
     ur: لیتومیرشسے ضلع
     vi: Litoměřice
+    sr_Latn: Okrug Litomjeržice
+    ccp: "\U00011123\U00011128\U00011111\U0001112E\U0001111F\U00011122\U00011128\U0001110C\U00011134"
 '424':
   translations:
     ar: مقاطعة لوني
@@ -1750,6 +1865,8 @@ ZL:
     sv: Okres Louny
     ur: لونی ضلع
     vi: Louny
+    sr_Latn: Okrug Louni
+    ccp: "\U00011123\U00011105\U0001112A\U0001111A\U00011128"
 '425':
   translations:
     ar: مقاطعة موست
@@ -1774,6 +1891,8 @@ ZL:
     sv: Okres Most
     ur: موست ضلع
     vi: Most
+    sr_Latn: Okrug Most
+    ccp: "\U0001111F\U0001112E\U00011125\U00011133\U00011111\U00011134"
 '426':
   translations:
     ar: مقاطعة تبليتسه
@@ -1799,6 +1918,8 @@ ZL:
     sv: Okres Teplice
     ur: تپلیتسے ضلع
     vi: Teplice
+    sr_Latn: Okrug Teplice
+    ccp: "\U00011111\U0001112C\U0001111B\U00011134\U00011123\U0001112D\U0001110C\U00011134"
 '427':
   translations:
     ar: مقاطعة أوستي ناد لابم
@@ -1824,6 +1945,9 @@ ZL:
     uk: Усті-над-Лабем
     ur: اوستی ناد لاہم ضلع
     vi: Ústí nad Labem²
+    sr_Latn: Okrug Usti na Labi
+    ccp: "\U00011105\U0001112A\U0001110C\U00011134\U00011111\U00011128 \U0001111A\U00011116\U00011134
+      \U00011123\U0001111D\U0001112C\U0001111F\U00011134"
 '511':
   translations:
     ar: مقاطعة تشيسكا ليبا
@@ -1849,6 +1973,8 @@ ZL:
     sv: Česká Lípa
     ur: چیسکا لیپا ضلع
     vi: Česká Lípa
+    sr_Latn: Okrug Češka Lipa
+    ccp: "\U00011107\U0001112C\U0001110C\U00011134\U00011107 \U00011123\U00011128\U0001111B"
 '512':
   translations:
     ar: مقاطعة يابلونتس ناد نيسو
@@ -1874,6 +2000,9 @@ ZL:
     sv: Jablonec nad Nisou
     ur: جبلونیک ناد نسو ضلع
     vi: Jablonec nad Nisou
+    sr_Latn: Okrug Jablonec na Nisi
+    ccp: "\U0001110E\U0001111B\U00011134\U00011123\U0001112E\U0001111A\U0001112C\U00011107\U00011134
+      \U0001111A\U00011116\U00011134 \U0001111A\U00011128\U00011125\U00011105\U0001112A"
 '513':
   translations:
     ar: مقاطعة ليبيريتس
@@ -1900,6 +2029,8 @@ ZL:
     sv: Liberec²
     ur: لیبرتس ضلع
     vi: Liberec²
+    sr_Latn: Okrug Liberec
+    ccp: "\U00011123\U00011128\U0001111D\U00011122\U0001112C\U00011107\U00011134"
 '514':
   translations:
     ar: مقاطعة سيميلي
@@ -1925,6 +2056,8 @@ ZL:
     sr: Округ Семили
     sv: Semily
     vi: Semily
+    sr_Latn: Okrug Semili
+    ccp: "\U00011125\U0001112C\U0001111F\U00011128\U00011123\U00011128"
 '521':
   translations:
     ar: مقاطعة هرادتس كرالوفه
@@ -1951,6 +2084,8 @@ ZL:
     sv: Hradec Králové²
     ur: ہاردک کارلوف ضلع
     vi: Hradec Králové²
+    sr_Latn: Okrug Hradec Kralove
+    ccp: "\U00011126\U00011133\U00011122\U00011113\U0001112C\U00011107\U00011134 \U00011107\U00011133\U00011122\U00011123\U0001112E\U0001111B\U00011134"
 '522':
   translations:
     ar: مقاطعة يتشين
@@ -1976,6 +2111,8 @@ ZL:
     sv: Jičín
     ur: جیچن ضلع
     vi: Jičín
+    sr_Latn: Okrug Jičin
+    ccp: "\U0001110E\U00011128\U0001110C\U00011128\U0001111A\U00011134"
 '523':
   translations:
     ar: مقاطعة ناخود
@@ -2001,6 +2138,8 @@ ZL:
     sv: Náchod
     ur: ناخود ضلع
     vi: Náchod
+    sr_Latn: Okrug Nahod
+    ccp: "\U0001111A\U0001110C\U0001112E\U00011116\U00011134"
 '524':
   translations:
     ar: مقاطعة ريخنوف ناد كنيجنو
@@ -2027,6 +2166,9 @@ ZL:
     sv: Rychnov nad Kněžnou
     ur: ریخنوف ناد کنیزشنو ضلع
     vi: Rychnov nad Kněžnou
+    sr_Latn: Okrug Rihnov na Knježnoj
+    ccp: "\U00011122\U0001112D\U00011107\U00011133\U0001111A\U00011127\U0001111B\U00011134
+      \U0001111A\U00011116\U00011134 \U00011107\U00011133\U0001111A\U0001112C\U0001110C\U00011134\U0001111A\U00011105\U0001112A"
 '525':
   translations:
     ar: مقاطعة ترتنوف
@@ -2055,6 +2197,8 @@ ZL:
     sv: Trutnov
     ur: ترنتوو ضلع
     vi: Trutnov
+    sr_Latn: Okrug Trutnov
+    ccp: "\U00011111\U00011133\U00011122\U0001112A\U00011111\U0001111A\U0001112E\U0001111B\U00011134"
 '531':
   translations:
     ar: مقاطعة خروديم
@@ -2082,6 +2226,8 @@ ZL:
     sv: Chrudim
     ur: خودیم ضلع
     vi: Chrudim
+    sr_Latn: Okrug Hrudim
+    ccp: "\U00011107\U00011133\U00011122\U0001112A\U00011113\U00011128\U0001111F\U00011134"
 '532':
   translations:
     ar: مقاطعة باردوبيتسه
@@ -2109,6 +2255,8 @@ ZL:
     sv: Pardubice²
     ur: پاردوبیتسے ضلع
     vi: Pardubice²
+    sr_Latn: Okrug Pardubice
+    ccp: "\U0001111B\U00011122\U00011134\U00011113\U0001112A\U0001111D\U0001112D\U0001110C\U00011134"
 '533':
   translations:
     ar: مقاطعة سفيتافي
@@ -2137,6 +2285,8 @@ ZL:
     sv: Okres Svitavy
     ur: سویتاوی ضلع
     vi: Svitavy
+    sr_Latn: Okrug Svitavi
+    ccp: "\U0001111E\U00011128\U00011111\U0001111E\U00011128"
 '534':
   translations:
     ar: مقاطعة أوستي ناد أورليتسي
@@ -2163,6 +2313,9 @@ ZL:
     sv: Okres Ústí nad Orlicí
     ur: اوستی ناد اورلیسی ضلع
     vi: Ústí nad Orlicí
+    sr_Latn: Okrug Usti na Orlici
+    ccp: "\U00011105\U0001112A\U0001110C\U00011134\U00011111\U00011128 \U0001111A\U00011116\U00011134
+      \U00011103\U00011127\U00011122\U00011134\U00011123\U00011128\U0001110C\U00011128"
 '631':
   translations:
     ar: مقاطعة هافليتشكوف برود
@@ -2189,6 +2342,9 @@ ZL:
     sv: Okres Havlíčkův Brod
     ur: ہاولیچکورف برود ضلع
     vi: Havlíčkův Brod
+    sr_Latn: Okrug Havličkuv Brod
+    ccp: "\U00011126\U0001111B\U00011134\U00011123\U00011128\U00011107\U0001112A\U0001111B\U00011134
+      \U0001111D\U00011133\U00011122\U00011127\U00011116\U00011134"
 '632':
   translations:
     ar: مقاطعة يهلافا
@@ -2217,6 +2373,8 @@ ZL:
     sv: Okres Jihlava
     ur: ایہاوا ضلع
     vi: Jihlava
+    sr_Latn: Okrug Jihlava
+    ccp: "\U0001110E\U00011128\U00011126\U00011134\U00011123\U0001111B\U00011134"
 '633':
   translations:
     ar: مقاطعة بلهريموف
@@ -2245,6 +2403,8 @@ ZL:
     sv: Okres Pelhřimov
     ur: پیلہریموف ضلع
     vi: Pelhřimov
+    sr_Latn: Okrug Pelhrimov
+    ccp: "\U0001111B\U0001112C\U00011123\U00011134\U00011126\U00011133\U00011122\U00011128\U0001111F\U0001112E\U0001111B\U00011134"
 '634':
   translations:
     ar: مقاطعة تربيتش
@@ -2272,6 +2432,8 @@ ZL:
     sv: Okres Třebíč
     ur: تشربیچ ضلع
     vi: Třebíč
+    sr_Latn: Okrug Trebič
+    ccp: "\U00011111\U00011133\U00011122\U0001112C\U0001111D\U00011128\U00011107\U00011134"
 '635':
   translations:
     ar: مقاطعة جديار ناد سازافو
@@ -2297,6 +2459,8 @@ ZL:
     sv: Okres Žďár nad Sázavou
     ur: زشدار ناد سازوو ضلع
     vi: Žďár nad Sázavou
+    sr_Latn: Okrug Ždjar na Sazavi
+    ccp: "\U00011113\U00011122\U00011134 \U0001111A\U00011116\U00011134 \U00011125\U0001110E\U0001111E\U0001112E\U00011105\U0001112A"
 '641':
   translations:
     ar: مقاطعة بلانسكو
@@ -2324,6 +2488,8 @@ ZL:
     sv: Okres Blansko
     ur: بلانسکو ضلع
     vi: Blansko
+    sr_Latn: Okrug Blansko
+    ccp: "\U00011107\U00011133\U00011123\U0001111A\U00011134\U00011107\U0001112E"
 '642':
   translations:
     ar: مقاطعة برنو-المدينة
@@ -2345,6 +2511,8 @@ ZL:
     sv: Město Brno
     ur: برنو-شہر ضلع
     vi: Brno
+    sr_Latn: Okrug Brno-grad
+    ccp: "\U0001111D\U00011133\U00011122\U0001111A\U0001112E-\U0001111F\U0001112C\U0001110C\U00011134\U00011111\U0001112E"
 '643':
   translations:
     ar: مقاطعة برنو-الريف
@@ -2371,6 +2539,8 @@ ZL:
     sv: Brno-venkov
     ur: برنو-کنٹری ضلع
     vi: Brno-venkov
+    sr_Latn: Okrug Brno-okolina
+    ccp: "\U0001111D\U00011133\U00011122\U0001111A\U0001112E-\U0001111E\U0001112C\U0001111A\U00011134\U00011107\U0001112E\U0001111B\U00011134"
 '644':
   translations:
     ar: مقاطعة بريتسلاف
@@ -2398,6 +2568,8 @@ ZL:
     sv: Okres Břeclav
     ur: بشرسلاف ضلع
     vi: Břeclav
+    sr_Latn: Okrug Breclav
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U00011107\U00011133\U00011123\U00011133\U00011120\U0001111B\U00011134"
 '645':
   translations:
     ar: مقاطعة هودونين
@@ -2424,6 +2596,8 @@ ZL:
     sv: Okres Hodonín
     ur: ہودونین ضلع
     vi: Hodonín
+    sr_Latn: Okrug Hodonjin
+    ccp: "\U00011126\U00011127\U00011113\U00011127\U0001111A\U00011128\U0001111A\U00011134"
 '646':
   translations:
     ar: مقاطعة فيشكوف
@@ -2449,6 +2623,8 @@ ZL:
     sv: Okres Vyškov
     ur: ویشکوف ضلع
     vi: Vyškov
+    sr_Latn: Okrug Viškov
+    ccp: "\U0001111E\U00011128\U0001110C\U00011134\U00011107\U00011127\U0001111B\U00011134"
 '647':
   translations:
     ar: مقاطعة زنويمو
@@ -2473,6 +2649,8 @@ ZL:
     sv: Okres Znojmo
     ur: زنویمو ضلع
     vi: Znojmo
+    sr_Latn: Okrug Znojmo
+    ccp: "\U0001111A\U00011127\U0001110C\U00011134\U0001111F\U0001112E"
 '711':
   translations:
     ar: مقاطعة يسينيك
@@ -2499,6 +2677,8 @@ ZL:
     sv: Jeseník
     ur: یسنک ضلع
     vi: Jeseník
+    sr_Latn: Okrug Jesenjik
+    ccp: "\U0001110E\U0001112C\U00011125\U0001112C\U0001111A\U00011128\U00011107\U00011134"
 '712':
   translations:
     ar: مقاطعة أولوموتس
@@ -2525,6 +2705,8 @@ ZL:
     sv: Olomouc²
     ur: اولوموک ضلع
     vi: Olomouc²
+    sr_Latn: Okrug Olomouc
+    ccp: "\U00011103\U00011127\U00011123\U0001112E\U0001111F\U00011105\U0001112A\U00011107\U00011134"
 '713':
   translations:
     ar: مقاطعة بروستيوف
@@ -2552,6 +2734,8 @@ ZL:
     sv: Prostějov
     ur: پروستیو ضلع
     vi: Prostějov
+    sr_Latn: Okrug Prostjejov
+    ccp: "\U0001111B\U00011133\U00011122\U0001112E\U0001110C\U00011134\U00011111\U0001112C\U0001110E\U0001112E\U0001111B\U00011134"
 '714':
   translations:
     ar: مقاطعة برشيروف
@@ -2580,6 +2764,8 @@ ZL:
     sv: Přerov
     ur: پژیرو ضلع
     vi: Přerov
+    sr_Latn: Okrug Prerov
+    ccp: "\U0001111B\U00011133\U00011122\U0001112C\U00011122\U00011127\U0001111B\U00011134"
 '715':
   translations:
     ar: مقاطعة شومبيرك
@@ -2605,6 +2791,8 @@ ZL:
     sv: Šumperk
     ur: شومپرک ضلع
     vi: Šumperk
+    sr_Latn: Šumperski okrug
+    ccp: "\U00011125\U0001111F\U00011134\U0001111B\U00011122\U00011133\U00011107\U00011134"
 '721':
   translations:
     ar: مقاطعة كروميشريش
@@ -2632,6 +2820,8 @@ ZL:
     uk: Кромержиж (округ)
     ur: کرومیرشیزش ضلع
     vi: Kroměříž
+    sr_Latn: Okrug Kromjeržiž
+    ccp: "\U00011107\U00011133\U00011122\U0001112E\U0001111F\U00011122\U00011128\U0001110C\U00011134"
 '722':
   translations:
     ar: مقاطعة أوهرسكه هراديشتيه
@@ -2657,6 +2847,9 @@ ZL:
     sv: Okres Uherské Hradiště
     ur: اوہیرسکے ہاردیشتے ضلع
     vi: Uherské Hradiště
+    sr_Latn: Okrug Uhersko Hradište
+    ccp: "\U00011105\U0001112A\U00011126\U0001112C\U00011122\U00011134\U00011107\U0001112C
+      \U00011126\U00011133\U00011122\U00011113\U00011128\U0001110C\U00011134\U00011111\U0001112C"
 '723':
   translations:
     ar: مقاطعة فسيتين
@@ -2684,6 +2877,8 @@ ZL:
     uk: Всетін
     ur: وسیتین ضلع
     vi: Vsetín
+    sr_Latn: Okrug Vsetin
+    ccp: "\U0001111E\U00011128\U00011125\U0001112C\U00011111\U00011128\U0001111A\U00011134"
 '724':
   translations:
     ar: مقاطعة زلين
@@ -2710,6 +2905,8 @@ ZL:
     sv: Okres Zlín
     ur: زلین ضلع
     vi: Zlín²
+    sr_Latn: Okrug Zlin
+    ccp: "\U0001110E\U00011133\U00011123\U00011128\U0001111A\U00011134"
 '801':
   translations:
     ar: مقاطعة برونتال
@@ -2735,6 +2932,8 @@ ZL:
     sv: Bruntál (distrikt)
     ur: بروتال ضلع
     vi: Bruntál
+    sr_Latn: Okrug Bruntal
+    ccp: "\U0001111D\U00011133\U00011122\U0001112A\U0001111A\U00011134\U00011111\U00011123\U00011134"
 '802':
   translations:
     ar: مقاطعة فريدك-ميستك
@@ -2762,6 +2961,8 @@ ZL:
     sv: Frýdek-Místek
     ur: فریدک-میستک ضلع
     vi: Frýdek-Místek
+    sr_Latn: Okrug Fridek-Mistek
+    ccp: "\U0001111C\U00011133\U00011122\U0001112D\U00011113\U0001112C\U00011107\U00011134-\U0001111F\U00011128\U0001110C\U00011134\U00011111\U0001112C\U00011107\U00011134"
 '803':
   translations:
     ar: مقاطعة كارفينا
@@ -2788,6 +2989,8 @@ ZL:
     sv: Karviná
     ur: کاروینا ضلع
     vi: Karviná
+    sr_Latn: Okrug Karvina
+    ccp: "\U00011107\U00011122\U00011134\U0001111E\U00011128\U0001111A"
 '804':
   translations:
     ar: مقاطعة نوفي يتشين
@@ -2815,6 +3018,8 @@ ZL:
     sv: Nový Jičín
     ur: نووی جیچن ضلع
     vi: Nový Jičín
+    sr_Latn: Okrug Novi Jičin
+    ccp: "\U0001111A\U0001112E\U0001111E\U00011128 \U0001110E\U00011128\U0001110C\U00011128\U0001111A\U00011134"
 '805':
   translations:
     ar: مقاطعة أوبافا
@@ -2842,6 +3047,8 @@ ZL:
     sv: Opava
     ur: اوپاوا ضلع
     vi: Opava
+    sr_Latn: Okrug Opava
+    ccp: "\U00011103\U00011127\U0001111B\U0001111E"
 '806':
   translations:
     ar: مقاطعة أوسترافا-المدينة
@@ -2866,6 +3073,8 @@ ZL:
     sv: Ostravas stadsdistrikt
     ur: اوستراوا-شہر ضلع
     vi: Ostrava
+    sr_Latn: Okrug Ostrava-grad
+    ccp: "\U00011103\U00011127\U0001110C\U00011134\U00011111\U00011133\U00011122\U0001111E"
 '101':
   translations:
     be: Прага 1
@@ -2884,6 +3093,7 @@ ZL:
     sv: Praha 1
     uk: Прага 1
     ur: پراگ 1
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137"
 '102':
   translations:
     be: Прага 2
@@ -2902,6 +3112,7 @@ ZL:
     sv: Praha 2
     uk: Прага 2
     ur: پراگ 2
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011138"
 '103':
   translations:
     be: Прага 3
@@ -2917,6 +3128,7 @@ ZL:
     sk: Praha 3
     sv: Praha 3
     ur: پراگ 3
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011139"
 '113':
   translations:
     ca: Praga 13
@@ -2933,6 +3145,7 @@ ZL:
     sk: Praha 13
     sv: Praha 13
     ur: پراگ 13
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U00011139"
 '104':
   translations:
     cs: Praha 4
@@ -2949,6 +3162,7 @@ ZL:
     sk: Praha 4
     sv: Praha 4
     ur: پراگ 4
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001113A"
 '105':
   translations:
     cs: Praha 5
@@ -2964,6 +3178,7 @@ ZL:
     sk: Praha 5
     sv: Praha 5
     ur: پراگ 5
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001113B"
 '106':
   translations:
     cs: Praha 6
@@ -2980,6 +3195,7 @@ ZL:
     sv: Praha 6
     uk: Прага 6
     ur: پراگ 6
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001113C"
 '107':
   translations:
     cs: Praha 7
@@ -2996,6 +3212,7 @@ ZL:
     sv: Praha 7
     ur: پراگ 7
     zh: 布拉格第七區
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001113D"
 '108':
   translations:
     cs: Praha 8
@@ -3011,6 +3228,7 @@ ZL:
     sk: Praha 8
     sv: Praha 8
     ur: پراگ 8
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001113E"
 '109':
   translations:
     cs: Praha 9
@@ -3026,6 +3244,7 @@ ZL:
     sk: Praha 9
     sv: Praha 9
     ur: پراگ 9
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U0001113F"
 '110':
   translations:
     cs: Praha 10
@@ -3041,6 +3260,7 @@ ZL:
     sk: Praha 10
     sv: Praha 10
     ur: پراگ 10
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U00011136"
 '111':
   translations:
     cs: Praha 11
@@ -3053,6 +3273,7 @@ ZL:
     sk: Praha 11
     sv: Praha 11
     ur: پراگ 11
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U00011137"
 '112':
   translations:
     cs: Praha 12
@@ -3065,6 +3286,7 @@ ZL:
     sk: Praha 12
     sv: Praha 12
     ur: پراگ 12
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U00011138"
 '114':
   translations:
     cs: Praha 14
@@ -3077,6 +3299,7 @@ ZL:
     sk: Praha 14
     sv: Praha 14
     ur: پراگ 14
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U0001113A"
 '115':
   translations:
     cs: Praha 15
@@ -3090,6 +3313,7 @@ ZL:
     sv: Praha 15
     ur: پراگ 15
     zh: 布拉格15区
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U0001113B"
 '116':
   translations:
     cs: Radotín
@@ -3103,6 +3327,7 @@ ZL:
     pl: Praga 16
     sk: Radotín
     sv: Praha 16
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U0001113C"
 '117':
   translations:
     cs: Praha 17
@@ -3112,6 +3337,7 @@ ZL:
     pl: Praga 17
     sk: Praha 17
     sv: Praha 17
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U0001113D"
 '118':
   translations:
     cs: Praha 18
@@ -3121,6 +3347,7 @@ ZL:
     pl: Praga 18
     sk: Praha 18
     sv: Praha 18
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U0001113E"
 '119':
   translations:
     cs: Praha 19
@@ -3129,6 +3356,7 @@ ZL:
     pl: Praga 19
     sk: Praha 19
     sv: Kbely
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011137\U0001113F"
 '120':
   translations:
     cs: Horní Počernice
@@ -3136,6 +3364,7 @@ ZL:
     en: Prague 20
     pl: Praga 20
     sv: Horní Počernice
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011138\U00011136"
 '121':
   translations:
     cs: Újezd nad Lesy
@@ -3149,6 +3378,7 @@ ZL:
     ru: Прага 21
     sk: Újezd nad Lesy
     sv: Praha 21
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011138\U00011137"
 '122':
   translations:
     cs: Praha 22
@@ -3160,57 +3390,77 @@ ZL:
     pl: Praga 22
     sk: Praha 22
     sv: Praha 22
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C-\U00011138\U00011138"
 10A:
   translations:
     en: Prague 10
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C \U00011137\U00011136"
 10B:
   translations:
     en: Prague 11
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C \U00011137\U00011137"
 10C:
   translations:
     en: Prague 12
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C \U00011137\U00011138"
 10D:
   translations:
     en: Prague 13²
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C \U00011137\U00011139"
 10E:
   translations:
     en: Prague 14
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C \U00011137\U0001113A"
 10F:
   translations:
     en: Prague 15²
+    ccp: "\U0001111B\U00011133\U00011122\U00011109\U0001112A\U00011120\U0001112C \U00011137\U0001113B"
 '611':
   translations:
     en: Havlíčkův Brod
+    ccp: "\U00011126\U0001111B\U00011134\U00011123\U00011128\U00011107\U00011134\U00011107\U0001112A\U0001111B\U00011134
+      \U0001111D\U00011133\U00011122\U0001112E\U00011116\U00011134"
 '612':
   translations:
     en: Jihlava²
+    ccp: "\U0001110E\U00011128\U00011126\U00011134\U00011123\U0001111B\U00011134"
 '613':
   translations:
     en: Pelhřimov²
+    ccp: "\U0001111B\U0001112C\U00011118\U00011126\U00011133\U00011122\U00011128\U0001111F\U0001112E\U0001111B\U00011134"
 '614':
   translations:
     en: Třebíč
+    ccp: "\U00011111\U00011133\U00011122\U0001112C\U0001111D\U00011128\U00011107\U00011134"
 '615':
   translations:
     en: Žďár nad Sázavou
+    ccp: "\U00011113\U00011122\U00011134 \U0001111A\U00011116\U00011134 \U00011125\U0001110E\U0001111E\U0001112E\U00011105\U0001112A"
 '621':
   translations:
     en: Blansko
+    ccp: "\U0001111D\U00011133\U00011123\U0001111A\U00011134\U00011107\U0001112E"
 '622':
   translations:
     en: Brno
+    ccp: "\U0001111D\U00011133\U00011122\U0001111A\U0001112E"
 '623':
   translations:
     en: Brno-venkov
+    ccp: "\U0001111D\U00011133\U00011122\U0001111A\U0001112E-\U0001111E\U0001112C\U0001111A\U00011134\U00011107\U0001112E\U0001111B\U00011134"
 '624':
   translations:
     en: Břeclav
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U00011107\U00011133\U00011123\U0001111B\U00011134"
 '625':
   translations:
     en: Hodonín²
+    ccp: "\U00011126\U0001112E\U00011113\U0001112E\U0001111A\U00011128\U0001111A\U00011134"
 '626':
   translations:
     en: Vyškov²
+    ccp: "\U0001111E\U00011128\U0001110C\U00011134\U00011107\U0001112E\U0001111B\U00011134"
 '627':
   translations:
     en: Znojmo
+    ccp: "\U0001111A\U0001112E\U0001110C\U00011134\U0001111F\U0001112E"

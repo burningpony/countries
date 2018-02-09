@@ -26,6 +26,7 @@ BZ:
     sv: Belize
     ur: بیلیز ضلع
     zh: 伯利兹区
+    ccp: "\U0001111D\U0001112C\U00011123\U00011128\U0001110C\U00011134"
   geo:
     latitude: 17.5045661
     longitude: -88.1962133
@@ -73,6 +74,8 @@ CY:
     tr: Cayo District
     ur: کایو ضلع
     vi: Quận Cayo
+    zh: 卡約區
+    ccp: "\U00011107\U00011133\U00011120\U0001112C\U00011103\U0001112E"
   geo:
     latitude: 17.0984445
     longitude: -88.94138650000001
@@ -120,6 +123,8 @@ CZL:
     tr: Corozal District
     ur: کوروزال ضلع
     vi: Quận Corozal
+    zh: 科羅薩爾區
+    ccp: "\U00011107\U00011127\U00011122\U0001112E\U0001110E\U00011123\U00011134"
   geo:
     latitude: 18.1349238
     longitude: -88.24611829999999
@@ -167,6 +172,9 @@ OW:
     tr: Orange Walk District
     ur: اورنج واک ضلع
     vi: Quận Orange Walk
+    zh: 橘園區
+    ccp: "\U00011103\U00011127\U00011122\U0001112C\U0001111A\U00011133\U0001110E\U00011134
+      \U00011103\U0001112E\U00011120\U00011107\U00011134"
   geo:
     latitude: 17.760353
     longitude: -88.86469799999999
@@ -215,6 +223,8 @@ SC:
     uk: Стан-Крик
     ur: ستان کریک ضلع
     vi: Quận Stann Creek
+    zh: 斯坦克里克區
+    ccp: "\U0001110C\U00011133\U00011111\U0001111A\U00011134 \U00011107\U00011133\U00011122\U00011128\U00011107\U00011134"
   geo:
     latitude: 16.8116631
     longitude: -88.4016041
@@ -263,6 +273,8 @@ TOL:
     tr: Toledo District
     ur: ٹولڈو ضلع
     vi: Quận Toledo
+    zh: 托萊多區
+    ccp: "\U00011111\U00011127\U00011123\U0001112C\U00011113\U0001112E"
   geo:
     latitude: 16.2491923
     longitude: -88.86469799999999

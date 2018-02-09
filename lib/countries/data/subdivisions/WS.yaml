@@ -37,6 +37,7 @@ AA:
     ur: آنا، سامووا
     vi: A’ana
     zh: 阿纳
+    ccp: "\U00011103‘\U0001111A"
   geo:
     latitude: -13.898418
     longitude: -171.9752995
@@ -83,6 +84,8 @@ AL:
     tr: Aiga-i-le-Tai
     ur: آیگا-ای-لو-تائی
     vi: Aiga-i-le-Tai
+    zh: 艾加伊勒泰
+    ccp: "\U00011103\U0001112D\U0001110E-\U00011103\U00011128-\U00011123\U00011128-\U00011111\U0001112D"
   geo:
     latitude: -13.8513791
     longitude: -172.0325401
@@ -128,6 +131,8 @@ AT:
     tr: Atua
     ur: اتوا
     vi: Atua
+    zh: 阿图阿
+    ccp: "\U00011103\U00011111\U0001112A\U00011120"
   geo:
     latitude: -13.9787053
     longitude: -171.6254283
@@ -172,6 +177,8 @@ FA:
     tr: Fa’asaleleaga
     ur: فآسالیلیاگا
     vi: Fa’asaleleaga
+    zh: 法塞萊萊阿加
+    ccp: "\U0001111C‘\U00011103\U00011125\U00011123\U0001112C\U00011123\U00011128\U00011109"
   geo:
     latitude: -13.6307638
     longitude: -172.2365981
@@ -216,6 +223,8 @@ GE:
     tr: Gaga’emauga
     ur: گاگآئماوگا
     vi: Gaga’emauga
+    zh: 加加埃毛加
+    ccp: "\U00011109\U00011109‘ \U00011103\U00011128\U0001111F\U00011105\U0001112A\U00011109"
   geo:
     latitude: -13.5428666
     longitude: -172.366887
@@ -261,6 +270,8 @@ GI:
     tr: Gaga’ifomauga
     ur: گاگآانفوماوگا
     vi: Gaga’ifomauga
+    zh: 加蓋福毛加
+    ccp: "\U00011109\U00011109‘ \U00011103\U00011128\U0001111C\U0001112E\U0001111F\U00011105\U0001112A\U00011109"
   geo:
     latitude: -13.5468007
     longitude: -172.4969331
@@ -307,6 +318,7 @@ PA:
     tr: Palauli
     ur: پالاولی
     vi: Palauli
+    ccp: "\U0001111B\U00011123\U00011105\U0001112A\U00011123\U00011128"
   geo:
     latitude: -13.7294579
     longitude: -172.4536115
@@ -352,6 +364,7 @@ SA:
     tr: Satupa’itea
     ur: ساتوپآیتیا
     vi: Satupa’itea
+    ccp: "\U00011125\U00011111\U0001112A\U0001111B‘\U00011103\U00011128\U00011111\U00011128\U00011120"
   geo:
     latitude: -13.7731169
     longitude: -172.3302677
@@ -398,6 +411,8 @@ TU:
     tr: Tuarmasaga
     ur: تواماساگا
     vi: Tuamasaga
+    zh: 图阿马萨加
+    ccp: "\U00011111\U0001112A\U00011120\U0001111F\U00011134\U00011125\U00011109"
   geo:
     latitude: -13.9163592
     longitude: -171.8224362
@@ -442,6 +457,8 @@ VF:
     tr: Va-o-Fonoti
     ur: وآ-او-فونوتی
     vi: Va’a-o-Fonoti
+    zh: 瓦奥福诺蒂
+    ccp: "\U0001111E‘\U00011103-\U00011103\U0001112E-\U0001111C\U0001112E\U0001111A\U0001112E\U00011111\U00011128"
   geo:
     latitude: -13.9470903
     longitude: -171.5431872
@@ -488,6 +505,8 @@ VS:
     tr: Vaisigano
     ur: وایسیگانو
     vi: Vaisigano
+    zh: 韋西加諾
+    ccp: "\U0001111E\U0001112D\U00011125\U00011128\U00011109\U0001111A\U0001112E"
   geo:
     latitude: -13.5413827
     longitude: -172.7023383

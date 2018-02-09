@@ -55,6 +55,8 @@ DS:
     ur: زیریں سیلیزیا صوبہ
     vi: Dolnośląskie
     zh: 下西里西亚省
+    sr_Latn: Vojvodstvo Donje Šlesko
+    ccp: "\U00011123\U0001112E\U00011120\U00011122\U00011134 \U00011125\U0001112D\U00011123\U0001112C\U00011125\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 51.13398609999999
     longitude: 16.8841961
@@ -119,6 +121,9 @@ KP:
     uk: Куявсько-Поморське воєводство
     ur: کویاوی-پومرانیا صوبہ
     vi: Kujawsko-Pomorskie
+    sr_Latn: Vojvodstvo Kujavsko-Pomorje
+    zh: 庫亞維-波美拉尼亞省
+    ccp: "\U00011107\U0001112A\U00011120\U0001111E\U00011128\U00011120\U0001112C\U0001111A\U00011134-\U0001111B\U00011127\U0001111F\U0001112C\U00011122\U0001111A\U00011128\U00011120"
   geo:
     latitude: 53.1648363
     longitude: 18.4834224
@@ -184,6 +189,9 @@ LU:
     uk: Люблінське воєводство
     ur: لوبلین صوبہ
     vi: Lubelskie
+    sr_Latn: Vojvodstvo Lublin
+    zh: 卢布林省
+    ccp: "\U00011123\U0001112A\U0001111B\U00011134\U00011123\U00011128\U0001111A\U00011134"
   geo:
     latitude: 51.2493519
     longitude: 23.1011392
@@ -248,6 +256,9 @@ LB:
     uk: Любуське воєводство
     ur: لوبوش صوبہ
     vi: Lubuskie
+    sr_Latn: Vojvodstvo Lubuš
+    zh: 盧布斯卡省
+    ccp: "\U00011123\U0001111D\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 52.2274612
     longitude: 15.2559103
@@ -310,6 +321,9 @@ LD:
     uk: Лодзинське воєводство
     ur: ووچ صوبہ
     vi: Łódzkie
+    sr_Latn: Vojvodstvo Lođ
+    zh: 罗兹省
+    ccp: "\U00011123\U00011127\U00011116\U00011134"
   geo:
     latitude: 51.4634771
     longitude: 19.1726974
@@ -374,6 +388,9 @@ MA:
     uk: Малопольське воєводство
     ur: اصغر پولینڈ صوبہ
     vi: Małopolskie
+    sr_Latn: Vojvodstvo Malopoljsko
+    zh: 小波兰省
+    ccp: "\U00011123\U0001112C\U00011125\U00011122\U00011134 \U0001111B\U0001112E\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 49.72253060000001
     longitude: 20.2503359
@@ -438,6 +455,9 @@ MZ:
     uk: Мазовецьке воєводство
     ur: صوبہ ماسووی
     vi: Mazowieckie
+    sr_Latn: Vojvodstvo Mazovsko
+    zh: 馬佐夫舍省
+    ccp: "\U0001111F\U0001110E\U0001112E\U0001111E\U00011128\U00011120"
   geo:
     latitude: 51.8927182
     longitude: 21.0021679
@@ -501,6 +521,9 @@ OP:
     uk: Опольське воєводство
     ur: اوپولے صوبہ
     vi: Opolskie
+    sr_Latn: Vojvodstvo Opolje
+    zh: 奧波萊省
+    ccp: "\U00011103\U0001112E\U0001111B\U0001112E\U00011123\U00011134"
   geo:
     latitude: 50.8003761
     longitude: 17.937989
@@ -565,6 +588,9 @@ PK:
     uk: Підкарпатське воєводство
     ur: پودکرپاسکیہ صوبہ
     vi: Podkarpackie
+    sr_Latn: Vojvodstvo potkarpatsko
+    zh: 喀尔巴阡山省
+    ccp: "\U00011125\U0001111B\U00011134\U00011107\U00011122\U00011134\U0001111B\U00011117\U00011128\U00011120"
   geo:
     latitude: 50.0574749
     longitude: 22.0895691
@@ -629,6 +655,9 @@ PD:
     uk: Підляське воєводство
     ur: پودلاسکیہ صوبہ
     vi: Podlaskie
+    sr_Latn: Vojvodstvo Podlasko
+    zh: 波德拉謝省
+    ccp: "\U0001111B\U00011116\U00011134\U00011123\U0001110C\U00011134\U00011107\U00011128"
   geo:
     latitude: 53.0697159
     longitude: 22.9674639
@@ -692,6 +721,10 @@ PM:
     uk: Поморське воєводство
     ur: پومرانیا صوبہ
     vi: Pomorskie
+    sr_Latn: Vojvodstvo Pomorje
+    zh: 濱海省
+    ccp: "\U0001111C\U0001112C\U00011113\U00011122\U0001112C\U00011123\U00011134 \U00011107\U00011133\U00011120\U0001111B\U00011128\U00011111\U00011123\U00011134
+      \U00011111\U0001112C\U00011122\U00011128\U00011111\U00011127\U00011122\U00011128"
   geo:
     latitude: 54.2944252
     longitude: 18.1531164
@@ -755,6 +788,9 @@ SL:
     uk: Сілезьке воєводство
     ur: سیلیزیا صوبہ
     vi: Śląskie
+    sr_Latn: Vojvodstvo Šlesko
+    zh: 西里西亚省
+    ccp: "\U00011125\U0001112D\U00011123\U0001112C\U00011125\U00011128\U00011120"
   geo:
     latitude: 50.5716595
     longitude: 19.3219768
@@ -817,6 +853,9 @@ SK:
     uk: Свентокшиське воєводство
     ur: شوئینتوشوسکیہ صوبہ
     vi: Świętokrzyskie
+    sr_Latn: Vojvodstvo Svetokriško
+    zh: 聖十字省
+    ccp: "\U00011125\U0001112A\U00011103\U00011128\U00011111\U0001112E\U00011107\U00011133\U00011122\U0001112D\U00011103\U00011128\U0001110C\U00011134\U00011107\U00011128"
   geo:
     latitude: 50.6261041
     longitude: 20.9406279
@@ -879,6 +918,9 @@ WN:
     uk: Вармінсько-Мазурське воєводство
     ur: وارمیا-ماسوریا صوبہ
     vi: Warmińsko-Mazurskie
+    sr_Latn: Varminsko-mazursko vojvodstvo
+    zh: 瓦爾米亞-馬祖里省
+    ccp: "\U00011124\U00011122\U00011134\U0001111F\U00011128\U00011120\U0001111A\U00011134-\U0001111F\U00011125\U0001112A\U00011122\U00011128\U00011120"
   geo:
     latitude: 53.8671117
     longitude: 20.702786
@@ -943,6 +985,10 @@ WP:
     uk: Великопольське воєводство
     ur: اکبر پولینڈ صوبہ
     vi: Wielkopolskie
+    sr_Latn: Vojvodstvo Velikopoljsko
+    zh: 大波兰省
+    de_CH: Woiwodschaft Grosspolen
+    ccp: "\U00011109\U00011133\U00011122\U0001112C\U00011111\U00011122\U00011134 \U0001111B\U0001112E\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 52.279986
     longitude: 17.3522939
@@ -1008,6 +1054,9 @@ ZP:
     uk: Західнопоморське воєводство
     ur: مغربی پومرانیا صوبہ
     vi: Zachodniopomorskie
+    sr_Latn: Vojvodstvo Zapadno Pomorje
+    zh: 西波美拉尼亚省
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111B\U00011127\U0001111F\U0001112C\U00011122\U0001111A\U00011128\U00011120"
   geo:
     latitude: 53.46578909999999
     longitude: 15.1822581

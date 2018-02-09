@@ -51,6 +51,7 @@ AL:
     vi: Alo
     zh: 阿洛
     zu: Alo
+    ccp: "\U00011103\U00011123\U0001112E"
 SG:
   translations:
     af: Sigave
@@ -100,6 +101,7 @@ SG:
     ur: سیگاوی
     vi: Sigave
     zh: 锡加韦
+    ccp: "\U00011125\U00011128\U00011109\U00011103\U00011128\U0001111B\U00011134"
 UV:
   translations:
     ar: أوفيا
@@ -136,3 +138,4 @@ UV:
     ur: وویا
     vi: Uvea
     zh: 乌韦阿
+    ccp: "\U00011105\U0001112A\U0001111E\U00011128\U00011120"

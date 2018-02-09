@@ -65,6 +65,8 @@ BB:
     vi: Brandenburg
     zh: 勃兰登堡
     zu: Brandenburg
+    sr_Latn: Brandenburg
+    ccp: "\U0001111D\U00011133\U00011122\U0001111A\U00011134\U00011113\U0001112C\U0001111A\U00011134\U0001111D\U00011122\U00011134\U00011109\U00011134"
   geo:
     latitude: 52.4125287
     longitude: 12.5316444
@@ -140,6 +142,9 @@ BE:
     ur: برلن
     vi: Berlin
     zh: 柏林
+    sr_Latn: Berlin
+    ccp: "\U0001111D\U00011122\U00011134\U00011123\U00011128\U0001111A\U00011134"
+    zu: IBerlini
   geo:
     latitude: 52.52000659999999
     longitude: 13.404954
@@ -210,6 +215,9 @@ BW:
     ur: بادن-وورتمبرگ
     vi: Baden-Württemberg
     zh: 巴登－符腾堡
+    sr_Latn: Baden-Virtemberg
+    ccp: "\U0001111D\U00011113\U0001112C\U0001111A\U00011134-\U00011124\U00011122\U00011134\U00011111\U00011113\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011109\U00011134"
+    zu: Baden-Württemberg
   geo:
     latitude: 48.6616037
     longitude: 9.3501336
@@ -285,6 +293,8 @@ BY:
     ur: بواریا
     vi: Bayern
     zh: 巴伐利亚
+    sr_Latn: Bavarska
+    ccp: "\U0001111D\U00011127\U0001111E\U00011122\U00011128\U00011120"
   geo:
     latitude: 48.7904472
     longitude: 11.4978895
@@ -353,6 +363,8 @@ HB:
     ur: برمن (صوبہ)
     vi: Bremen
     zh: 不來梅州
+    sr_Latn: Bremen
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U0001111F\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 53.07929619999999
     longitude: 8.8016937
@@ -425,6 +437,8 @@ HE:
     ur: ہیسے
     vi: Hessen
     zh: 黑森
+    sr_Latn: Hesen
+    ccp: "\U00011126\U0001112C\U00011125\U0001112C"
   geo:
     latitude: 50.6520515
     longitude: 9.162437599999999
@@ -500,6 +514,9 @@ HH:
     ur: ہامبرگ
     vi: Hamburg
     zh: 汉堡
+    sr_Latn: Hamburg
+    ccp: "\U00011126\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011109\U00011134"
+    zu: Hamburg
   geo:
     latitude: 53.5510846
     longitude: 9.9936818
@@ -568,6 +585,8 @@ MV:
     ur: مکلنبرگ-ورپورمرن
     vi: Mecklenburg-Vorpommern
     zh: 梅克伦堡－前波美拉尼亚
+    sr_Latn: Meklenburg-Zapadna Pomeranija
+    ccp: "\U0001111F\U0001112C\U00011107\U00011134\U00011123\U0001112C\U0001111A\U00011134\U0001111D\U00011122\U00011134\U00011109\U00011134-\U0001111E\U0001112E\U00011122\U00011134\U0001111B\U00011127\U0001111F\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 53.6126505
     longitude: 12.4295953
@@ -637,6 +656,8 @@ NI:
     ur: نیدرزاکسن
     vi: Niedersachsen
     zh: 下萨克森
+    sr_Latn: Donja Saksonija
+    ccp: "\U00011123\U00011131\U00011122\U00011134 \U00011125\U0001112C\U00011107\U00011134\U00011125\U0001112E\U0001111A\U00011128"
   geo:
     latitude: 52.6367036
     longitude: 9.8450765
@@ -708,6 +729,9 @@ NW:
     ur: نوردرائن-ویسٹ فالیا
     vi: Nordrhein-Westfalen
     zh: 北莱茵－威斯特法伦
+    sr_Latn: Severna Rajna-Vestfalija
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011122\U0001112D\U0001111A\U00011134-\U00011124\U0001112C\U0001110C\U00011134\U0001111C\U00011123\U00011128\U00011120"
   geo:
     latitude: 51.43323669999999
     longitude: 7.661593799999999
@@ -779,6 +803,8 @@ RP:
     ur: رائن لینڈ-پلاتینیت
     vi: Rheinland-Pfalz
     zh: 莱茵兰－普法尔茨
+    sr_Latn: Rajna-Palatinat
+    ccp: "\U00011122\U0001112D\U0001111A\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134-\U0001111B\U00011123\U00011111\U00011128\U0001111A\U0001112C\U00011116\U00011134"
   geo:
     latitude: 50.118346
     longitude: 7.3089527
@@ -847,6 +873,8 @@ SH:
     ur: شلسویگ-ہولشتائن
     vi: Schleswig-Holstein
     zh: 石勒苏益格-荷尔斯泰因
+    sr_Latn: Šlezvig-Holštajn
+    ccp: "\U0001110C\U00011133\U00011107\U0001112C\U0001110C\U00011134\U00011103\U0001112A\U00011103\U00011128\U00011107\U00011134-\U00011126\U0001112E\U00011123\U00011134\U0001110C\U00011133\U00011111\U0001112C\U00011103\U00011128\U0001111A\U00011134"
   geo:
     latitude: 54.21936720000001
     longitude: 9.696116700000001
@@ -917,6 +945,8 @@ SL:
     ur: سارلنڈ
     vi: Saarland
     zh: 萨尔
+    sr_Latn: Sarland
+    ccp: "\U00011125\U00011122\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 49.3964234
     longitude: 7.0229607
@@ -987,6 +1017,8 @@ SN:
     ur: زاکسن
     vi: Sachsen
     zh: 萨克森自由州
+    sr_Latn: Saksonija
+    ccp: "\U00011125\U0001112C\U00011107\U00011134\U00011125\U0001112E\U0001111A\U00011128"
   geo:
     latitude: 51.1045407
     longitude: 13.2017384
@@ -1054,6 +1086,8 @@ ST:
     ur: زاکسن-آنہالت
     vi: Sachsen-Anhalt
     zh: 萨克森－安哈尔特
+    sr_Latn: Saksonija-Anhalt
+    ccp: "\U00011125\U0001112C\U00011107\U00011134\U00011125\U0001112E\U0001111A\U00011128-\U00011131\U00011103\U0001111A\U00011134\U00011126\U00011123\U00011133\U00011111\U00011134"
   geo:
     latitude: 51.9502649
     longitude: 11.6922735
@@ -1124,6 +1158,8 @@ TH:
     ur: تورینگن
     vi: Thüringen
     zh: 图林根
+    sr_Latn: Tiringija
+    ccp: "\U00011117\U0001112A\U00011122\U00011128\U00011101\U00011109\U00011128\U00011120"
   geo:
     latitude: 51.0109892
     longitude: 10.845346

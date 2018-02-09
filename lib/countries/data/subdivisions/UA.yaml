@@ -61,6 +61,8 @@
     ur: وینیتسیا اوبلاست
     vi: Vinnytsia
     zh: 文尼察州
+    sr_Latn: Vinička oblast
+    ccp: "\U0001111E\U00011128\U0001111A\U00011133\U00011126\U00011128\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 49.233083
     longitude: 28.468217
@@ -127,6 +129,8 @@
     ur: ولین اوبلاست
     vi: Volyn
     zh: 沃倫州
+    sr_Latn: Volinjska oblast
+    ccp: "\U0001111E\U0001112E\U00011123\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 50.74723299999999
     longitude: 25.325383
@@ -197,6 +201,8 @@
     ur: لوہانسک اوبلاست
     vi: Luhansk
     zh: 盧甘斯克州
+    sr_Latn: Luganska oblast
+    ccp: "\U00011123\U0001112A\U00011126\U0001111A\U00011134\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 48.574041
     longitude: 39.307815
@@ -266,6 +272,8 @@
     ur: دنیپروپیترووسک اوبلاست
     vi: Dnipropetrovsk
     zh: 第聂伯罗彼得罗夫斯克州
+    sr_Latn: Dnjepropetrovska oblast
+    ccp: "\U00011113\U00011128\U0001111B\U00011133\U00011122\U00011127\U0001111B\U0001112C\U00011111\U00011133\U00011122\U0001112E\U0001111B\U00011134\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 48.464717
     longitude: 35.046183
@@ -333,6 +341,8 @@
     ur: دونیتسک اوبلاست
     vi: Donetsk (tỉnh)
     zh: 顿涅茨克州
+    sr_Latn: Donječka oblast
+    ccp: "\U00011113\U0001112E\U0001111A\U0001112C\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 48.015883
     longitude: 37.80285
@@ -400,6 +410,8 @@
     ur: ژیتومیر اوبلاست
     vi: Zhytomyr
     zh: 日托米爾州
+    sr_Latn: Žitomirska oblast
+    ccp: "\U0001110E\U0001112D\U00011111\U0001112E\U0001111F\U00011128\U00011120\U00011122\U00011134\U0001110C\U00011133\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 50.25465
     longitude: 28.658667
@@ -467,6 +479,8 @@
     ur: زاکارپتیا اوبلاست
     vi: Vùng Zakarpattia
     zh: 外喀爾巴阡州
+    sr_Latn: Zakarpatska oblast
+    ccp: "\U0001110E\U00011107\U00011122\U00011134\U0001111B\U00011111\U00011133\U00011126\U00011128\U00011120"
   geo:
     latitude: 48.6208
     longitude: 22.287883
@@ -536,6 +550,8 @@
     ur: زابروژیا اوبلاست
     vi: Zaporizhia
     zh: 扎波羅熱州
+    sr_Latn: Zaporoška oblast
+    ccp: "\U0001110E\U0001111B\U0001112E\U00011122\U00011128\U0001110E\U00011133\U0001110E\U00011128\U00011120"
   geo:
     latitude: 47.8388
     longitude: 35.139567
@@ -602,6 +618,8 @@
     ur: ایوانو-فرانکیوسک اوبلاست
     vi: Ivano-Frankivsk
     zh: 伊万诺-弗兰科夫斯克州
+    sr_Latn: Ivano-Frankivska oblast
+    ccp: "\U0001111B\U00011133\U00011122\U0001112D\U00011107\U00011122\U00011134\U0001111B\U00011111\U00011133\U00011126\U00011128\U00011120"
   geo:
     latitude: 48.922633
     longitude: 24.711117
@@ -678,6 +696,8 @@
     vi: Kiev
     zh: 基輔
     zu: IKiyevi
+    sr_Latn: Kijev
+    ccp: "\U00011107\U00011128\U00011120\U0001112C\U0001111B\U00011134"
   geo:
     latitude: 50.4501
     longitude: 30.5234
@@ -744,6 +764,8 @@
     ur: کیف اوبلاست
     vi: Kiev²
     zh: 基辅州
+    sr_Latn: Kijevska oblast
+    ccp: "\U00011107\U00011128\U00011120\U00011105\U0001112A\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 50.0529506
     longitude: 30.7667133
@@ -811,6 +833,8 @@
     ur: کیرووہراد اوبلاست
     vi: Kirovohrad
     zh: 基洛夫格勒州
+    sr_Latn: Kirovogradska oblast
+    ccp: "\U00011107\U00011128\U00011122\U0001112E\U0001111E\U0001112E\U00011126\U00011134\U00011122\U00011116\U00011134\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 48.50793300000001
     longitude: 32.262317
@@ -882,6 +906,8 @@
     ur: سواستوپول
     vi: Sevastopol
     zh: 塞瓦斯托波爾
+    sr_Latn: Sevastopolj
+    ccp: "\U00011125\U0001112C\U0001111E\U0001110C\U00011134\U00011111\U0001112E\U0001111B\U0001112E\U00011123\U00011134"
   geo:
     latitude: 44.61665
     longitude: 33.525367
@@ -946,6 +972,8 @@
     ur: خود مختار جمہوریہ کریمیا
     vi: Cộng hòa Tự trị Krym
     zh: 克里米亚自治共和国
+    sr_Latn: Autonomna Republika Krim
+    ccp: "\U00011107\U00011133\U00011122\U00011128\U0001111F\U00011120"
   geo:
     latitude: 44.952117
     longitude: 34.102417
@@ -1013,6 +1041,8 @@
     ur: لویئو اوبلاست
     vi: Lviv
     zh: 利沃夫州
+    sr_Latn: Lavovska oblast
+    ccp: "\U0001111E\U0001112D\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 49.839683
     longitude: 24.029717
@@ -1081,6 +1111,8 @@
     ur: میکولائیو اوبلاست
     vi: Mykolaiv
     zh: 尼古拉耶夫州
+    sr_Latn: Mikolajivska oblast
+    ccp: "\U0001111F\U0001112D\U00011107\U0001112E\U00011123\U0001112C\U00011120\U00011128\U0001111B\U00011134\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 46.975033
     longitude: 31.994583
@@ -1149,6 +1181,8 @@
     ur: اودیسا اوبلاست
     vi: Odessa
     zh: 敖德萨州
+    sr_Latn: Odeška oblast
+    ccp: "\U00011103\U0001112E\U00011113\U0001112C\U0001110C\U00011134\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 46.484583
     longitude: 30.7326
@@ -1216,6 +1250,8 @@
     ur: پولتاوا اوبلاست
     vi: Poltava
     zh: 波尔塔瓦州
+    sr_Latn: Poltavska oblast
+    ccp: "\U0001111B\U0001112E\U00011123\U00011134\U00011111\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 49.58826699999999
     longitude: 34.551417
@@ -1283,6 +1319,8 @@
     ur: ریونہ اوبلاست
     vi: Rivne
     zh: 羅夫諾州
+    sr_Latn: Rivanjska oblast
+    ccp: "\U00011122\U00011128\U0001111B\U00011134\U0001111A\U0001112C\U0001111A\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 50.6199
     longitude: 26.251617
@@ -1350,6 +1388,8 @@
     ur: سومی اوبلاست
     vi: Sumi
     zh: 蘇梅州
+    sr_Latn: Sumska oblast
+    ccp: "\U00011125\U0001111F\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 50.9077
     longitude: 34.7981
@@ -1418,6 +1458,8 @@
     ur: تیرنوپیل اوبلاست
     vi: Ternopil
     zh: 捷爾諾波爾州
+    sr_Latn: Ternopoljska oblast
+    ccp: "\U00011111\U0001112C\U00011122\U00011134\U0001111A\U0001112E\U0001111B\U00011128\U00011123\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 49.553517
     longitude: 25.594767
@@ -1486,6 +1528,8 @@
     ur: خارکیو اوبلاست
     vi: Kharkiv
     zh: 哈爾科夫州
+    sr_Latn: Harkovska oblast
+    ccp: "\U00011108\U00011122\U00011134\U00011107\U00011128\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 49.9935
     longitude: 36.230383
@@ -1554,6 +1598,8 @@
     ur: خیرسون اوبلاست
     vi: Kherson
     zh: 赫尔松州
+    sr_Latn: Hersonska oblast
+    ccp: "\U00011108\U0001112C\U00011122\U00011134\U00011125\U0001112E\U0001111A\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 46.635417
     longitude: 32.616867
@@ -1622,6 +1668,8 @@
     ur: خمیلنیتسکی اوبلاست
     vi: Khmelnytskyi
     zh: 赫梅利尼茨基州
+    sr_Latn: Hmeljnička oblast
+    ccp: "\U00011108\U00011127\U0001111F\U0001112C\U00011123\U00011134\U00011125\U00011128\U00011120\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 49.422983
     longitude: 26.987133
@@ -1689,6 +1737,8 @@
     ur: چیرکاسی اوبلاست
     vi: Cherkasy
     zh: 切爾卡瑟州
+    sr_Latn: Čerkaška oblast
+    ccp: "\U0001110C\U0001112C\U00011122\U00011134\U00011107\U0001110C\U00011134\U0001110C\U00011128\U0001111A"
   geo:
     latitude: 49.444433
     longitude: 32.059767
@@ -1756,6 +1806,8 @@
     ur: چیرنیہیو اوبلاست
     vi: Chernihiv
     zh: 切爾尼戈夫州
+    sr_Latn: Černigivska oblast
+    ccp: "\U0001110C\U0001112C\U00011122\U00011134\U0001111A\U00011128\U00011126\U00011128\U0001111B\U00011134\U0001110C\U00011133\U00011126\U00011128\U0001111A"
   geo:
     latitude: 51.4982
     longitude: 31.28935
@@ -1827,6 +1879,9 @@
     ur: چیرنیوتسی اوبلاست
     vi: Chernivtsi
     zh: 切爾諾夫策州
+    sr_Latn: Černivačka oblast
+    ccp: "\U0001110C\U0001112C\U00011122\U00011134\U0001111A\U00011128\U0001111B\U00011134\U00011111\U00011134\U00011125\U00011128
+      \U00011103\U00011127\U0001111B\U00011134\U00011123\U0001110C\U00011134\U00011111\U00011134"
   geo:
     latitude: 48.291683
     longitude: 25.935217

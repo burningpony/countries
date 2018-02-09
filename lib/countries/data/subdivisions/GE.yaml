@@ -64,6 +64,8 @@ AB:
     ur: ابخازيا
     vi: Abkhazia
     zh: 阿布哈茲
+    sr_Latn: Abhazija
+    ccp: "\U00011103\U0001111B\U00011134\U00011108\U0001110E\U00011128\U00011120"
   geo:
     latitude: 43.0015544
     longitude: 41.023407
@@ -132,6 +134,9 @@ AJ:
     uk: Аджарія
     ur: ایجارا
     vi: Adjara
+    sr_Latn: Adžarija
+    zh: 阿扎尔
+    ccp: "\U00011103\U00011116\U00011134\U0001110E\U00011122"
   geo:
     latitude: 41.6005626
     longitude: 42.0688383
@@ -188,6 +193,9 @@ GU:
     uk: Гурія
     ur: گوریا
     vi: Guria
+    sr_Latn: Gurija
+    zh: 古利亞州
+    ccp: "\U00011109\U0001112A\U00011122\U00011128\U00011120"
   geo:
     latitude: 41.9442736
     longitude: 42.0458091
@@ -246,6 +254,9 @@ IM:
     uk: Імереті
     ur: ایمرتی
     vi: Imereti
+    sr_Latn: Imeretija
+    zh: 伊梅列季亞州
+    ccp: "\U00011103\U00011128\U0001111F\U0001112C\U00011122\U0001112C\U00011111\U00011128"
   geo:
     latitude: 42.230108
     longitude: 42.9008665
@@ -305,6 +316,9 @@ KA:
     uk: Кахеті
     ur: کاختی
     vi: Kakheti
+    sr_Latn: Kahetija
+    zh: 卡赫季州
+    ccp: "\U00011107\U00011108\U0001112C\U00011111\U00011128"
   geo:
     latitude: 41.6481602
     longitude: 45.6905554
@@ -362,6 +376,9 @@ KK:
     uk: Квемо Картлі
     ur: کویمو کارتلی
     vi: Kvemo Kartli
+    sr_Latn: Donji Kartli
+    zh: 克維莫-卡特利州
+    ccp: "\U0001111E\U0001112C\U0001111F\U0001112E \U00011107\U00011122\U00011134\U00011111\U00011134\U00011123\U00011128"
   geo:
     latitude: 41.4791833
     longitude: 44.65604510000001
@@ -417,6 +434,9 @@ MM:
     uk: Мцхета-Мтіанеті
     ur: متسختا-متیانتی
     vi: Mtskheta-Mtianeti
+    sr_Latn: Mcheta-Mtijanetija
+    zh: 姆茨赫塔-姆季阿涅季州
+    ccp: "\U00011103\U0001112C\U0001111F\U00011134\U00011111\U00011128\U00011103\U0001112C\U0001110C\U00011134\U00011108\U0001112C\U00011111-\U00011111\U00011128\U00011120\U0001111A\U0001112C\U00011111\U00011128"
   geo:
     latitude: 42.16821849999999
     longitude: 44.6506057
@@ -474,6 +494,10 @@ RL:
     uk: Рача-Лечхумі та Квемо Сванеті
     ur: راچا-لچخومی و کومو سوانتی
     vi: Racha-Lechkhumi và Kvemo Svaneti
+    sr_Latn: Rača-Lečhumi i Donja Svanetija
+    zh: 拉恰-列其呼米-下斯瓦涅季亞州
+    ccp: "\U00011122\U0001110C-\U00011123\U0001112C\U0001110C\U00011134\U00011108\U0001112A\U0001111F\U00011128
+      \U00011103\U00011133\U00011103 \U0001111E\U0001112C\U0001111F\U0001112E \U0001111E\U0001111A\U0001112C\U00011111\U00011128"
   geo:
     latitude: 42.67188729999999
     longitude: 43.0562836
@@ -530,6 +554,9 @@ SJ:
     uk: Самцхе-Джавахеті
     ur: سامتسخے-جاواختی
     vi: Samtskhe-Javakheti
+    sr_Latn: Samche-Džavahetija
+    zh: 薩姆茨赫-扎瓦赫季州
+    ccp: "\U00011125\U00011133\U00011120\U0001111F\U00011134\U00011108\U0001112C-\U0001110E\U0001111E\U00011108\U0001112C\U00011111\U00011128"
   geo:
     latitude: 41.5479296
     longitude: 43.2776399
@@ -588,6 +615,9 @@ SK:
     uk: Шида Картлі
     ur: شیدا کارتلی
     vi: Shida Kartli
+    sr_Latn: Unutrašnji Kartli
+    zh: 什達-卡特利州
+    ccp: "\U00011125\U00011128\U00011113 \U00011107\U00011122\U00011134\U00011111\U00011134\U00011123\U00011128"
   geo:
     latitude: 42.0756944
     longitude: 43.9540462
@@ -642,6 +672,10 @@ SZ:
     uk: Самеґрело-Земо Сванеті
     ur: سامگرلو-زمو سوانتی
     vi: Samegrelo-Zemo Svaneti
+    sr_Latn: Megrelija-Gornja Svanetija
+    zh: 薩梅格列羅-上斯瓦涅季亞州
+    ccp: "\U00011125\U00011133\U00011120\U0001111F\U00011134\U00011109\U00011133\U00011122\U0001112C\U00011123\U0001112E-\U0001110E\U0001112C\U0001111F\U0001112E
+      \U0001111E\U0001111A\U0001112C\U00011111\U00011128"
   geo:
     latitude: 42.7352247
     longitude: 42.1689362
@@ -716,6 +750,9 @@ TB:
     uk: Тбілісі
     ur: تبلیسی
     vi: Tbilisi
+    sr_Latn: Tbilisi
+    zh: 第比利斯
+    ccp: "\U0001111D\U00011128\U00011123\U00011128\U00011125\U00011128"
   geo:
     latitude: 41.716667
     longitude: 44.783333

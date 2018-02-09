@@ -43,6 +43,7 @@
     ur: ایوو ضلع
     vi: Aiwo
     zh: 愛和區
+    ccp: "\U00011103\U0001112D\U00011120\U0001112E"
   geo:
     latitude: -0.5340012
     longitude: 166.9138873
@@ -93,6 +94,9 @@
     tr: Anabar District
     ur: انابر ضلع
     vi: Anabar
+    sr_Latn: Anabar
+    zh: 阿納巴爾區
+    ccp: "\U00011103\U0001111A\U0001111D\U00011122\U00011134"
   geo:
     latitude: -0.5133517
     longitude: 166.9484624
@@ -141,6 +145,8 @@
     tr: Anetan District
     ur: انیتان ضلع
     vi: Anetan
+    zh: 安鄂灘區
+    ccp: "\U00011103\U0001111A\U0001112C\U00011111\U0001111A\U00011134"
   geo:
     latitude: -0.5064343
     longitude: 166.9427006
@@ -190,6 +196,8 @@
     uk: Анібар
     ur: انیباری ضلع
     vi: Anibare
+    zh: 安尼巴惹區
+    ccp: "\U00011103\U0001111A\U00011128\U0001111D\U00011122\U00011134"
   geo:
     latitude: -0.532915
     longitude: 166.944141
@@ -238,6 +246,8 @@
     tr: Baiti
     ur: بیٹی ضلع
     vi: Baiti
+    zh: 白帝區
+    ccp: "\U0001111D\U0001112D\U00011111\U00011128"
   geo:
     latitude: -0.5133158
     longitude: 166.9311761
@@ -289,6 +299,9 @@
     uk: Бое
     ur: بیو ضلع
     vi: Boe
+    sr_Latn: Boe
+    zh: 泊區
+    ccp: "\U0001111D\U0001112E\U00011120\U0001112C"
   geo:
     latitude: -0.5414945
     longitude: 166.9174893
@@ -339,6 +352,9 @@
     uk: Буада
     ur: بوادا ضلع
     vi: Buada
+    sr_Latn: Buada
+    zh: 部亞達區
+    ccp: "\U0001111D\U0001112A\U00011120\U00011113"
   geo:
     latitude: -0.5328777
     longitude: 166.9268541
@@ -391,6 +407,9 @@
     uk: Денігомоду
     ur: دینیجومودو ضلع
     vi: Denigomodu
+    sr_Latn: Denigomodu
+    zh: 德尼高莫都區
+    ccp: "\U00011113\U0001112C\U0001111A\U00011128\U00011109\U0001112E\U0001111F\U0001112E\U00011113\U0001112A"
   geo:
     latitude: -0.5247963999999999
     longitude: 166.9167689
@@ -439,6 +458,8 @@
     tr: Ewa District
     ur: یوا ضلع
     vi: Ewa
+    zh: 埃瓦區
+    ccp: "\U00011103\U00011128\U00011124"
   geo:
     latitude: -0.5087241
     longitude: 166.9369384
@@ -487,6 +508,8 @@
     tr: İyuv
     ur: یجوو ضلع
     vi: Ijuw
+    zh: 艾珠區
+    ccp: "\U00011103\U00011128\U0001110E\U0001112A\U00011120"
   geo:
     latitude: -0.5202646000000001
     longitude: 166.9513432
@@ -536,6 +559,8 @@
     tr: Meneng District
     ur: مینینج ضلع
     vi: Meneng
+    zh: 湄濘區
+    ccp: "\U0001111F\U0001112C\U0001111A\U0001112C\U0001111A\U00011134"
   geo:
     latitude: -0.546724
     longitude: 166.938379
@@ -584,6 +609,8 @@
     tr: Nibok District
     ur: نیبوک ضلع
     vi: Nibok
+    zh: 尼柏區
+    ccp: "\U0001111A\U00011128\U0001111D\U0001112E\U00011107\U00011134"
   geo:
     latitude: -0.5225124
     longitude: 166.9254134
@@ -632,6 +659,8 @@
     tr: Uaboe District
     ur: وابوی ضلع
     vi: Uaboe
+    zh: 優雅布區
+    ccp: "\U00011105\U0001112A\U0001111D\U0001112E\U00011120\U0001112C"
   geo:
     latitude: -0.5173398
     longitude: 166.9290151
@@ -697,6 +726,9 @@
     uk: Ярен
     ur: یارن
     vi: Yaren
+    sr_Latn: Jaren
+    zh: 亞倫區
+    ccp: "\U00011103\U00011128\U00011120\U00011122\U0001112C\U0001111A\U00011134"
   geo:
     latitude: -0.5466856999999999
     longitude: 166.9210913

@@ -54,6 +54,9 @@ EC:
     vi: Đông Cape
     zh: 東開普省
     zu: KwaXhosa
+    sr_Latn: Istočni Kejp
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U00011107\U0001112C\U0001111B\U00011134"
   geo:
     latitude: -32.2968402
     longitude: 26.419389
@@ -118,6 +121,8 @@ FS:
     vi: Free State
     zh: 自由邦省
     zu: IFleyistata
+    sr_Latn: Fri Stejt
+    ccp: "\U0001111C\U00011133\U00011122\U00011128"
   geo:
     latitude: -28.4541105
     longitude: 26.7967849
@@ -181,6 +186,8 @@ GT:
     vi: Gauteng
     zh: 豪登省
     zu: IGauteng
+    sr_Latn: Hauteng
+    ccp: "\U00011109\U00011105\U0001112A\U00011111\U0001112C\U00011101"
   geo:
     latitude: -26.2707593
     longitude: 28.1122679
@@ -244,6 +251,8 @@ LP:
     vi: Limpopo
     zh: 林波波省
     zu: Limpopo
+    sr_Latn: Limpopo
+    ccp: "\U00011123\U00011128\U0001111F\U00011134\U0001111B\U0001112E\U0001111B\U0001112E"
   geo:
     latitude: -23.4012946
     longitude: 29.4179324
@@ -307,6 +316,8 @@ MP:
     vi: Mpumalanga
     zh: 普馬蘭加省
     zu: Mpumalanga
+    sr_Latn: Mpumalanga
+    ccp: "\U0001111B\U0001112A\U0001111F\U00011123\U0001111A\U00011134\U00011109"
   geo:
     latitude: -29.817
     longitude: 30.637
@@ -371,6 +382,9 @@ NC:
     vi: Bắc Cape
     zh: 北開普省
     zu: IKipi laseNyakatho
+    sr_Latn: Severni Kejp
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U00011107\U0001112C\U0001111B\U00011134"
   geo:
     latitude: -29.0466808
     longitude: 21.8568586
@@ -436,6 +450,8 @@ NL:
     vi: KwaZulu-Natal
     zh: 夸祖魯-納塔爾省
     zu: KwaZulu-Natal
+    sr_Latn: Kvazulu-Natal
+    ccp: "\U00011124\U0001110E\U0001112A\U00011123\U0001112A-\U0001111A\U00011111\U00011123\U00011134"
   geo:
     latitude: -28.5305539
     longitude: 30.8958242
@@ -496,6 +512,9 @@ NW:
     vi: Tây Bắc
     zh: 西北省
     zu: Nyakatho-Ntshonalanga
+    sr_Latn: Severozapadna pokrajina
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134"
   geo:
     latitude: -26.6638599
     longitude: 25.2837585
@@ -561,6 +580,9 @@ WC:
     vi: Tây Cape
     zh: 西開普省
     zu: IKipi laseNtshonalanga
+    sr_Latn: Zapadni Kejp
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U00011107\U0001112C\U0001111B\U00011134"
   geo:
     latitude: -33.2277918
     longitude: 21.8568586

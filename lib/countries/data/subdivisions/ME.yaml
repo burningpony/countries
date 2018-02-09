@@ -40,6 +40,8 @@
     uk: Андрієвиця
     ur: آندریےویتسا بلدیہ
     vi: Đô thị tự trị Andrijevica
+    sr_Latn: Andrijevica
+    ccp: "\U00011103\U0001111A\U00011134\U00011113\U00011133\U00011122\U00011128\U0001110E\U0001112C\U0001111E\U00011128\U00011107"
   geo:
     latitude: 42.739722
     longitude: 19.785833
@@ -88,6 +90,8 @@
     uk: Бар
     ur: بار بلدیہ
     vi: Đô thị tự trị Bar
+    sr_Latn: Bar
+    ccp: "\U0001111D\U00011122\U00011134"
   geo:
     latitude: 42.2040425
     longitude: 19.140438
@@ -137,6 +141,8 @@
     uk: Беране
     ur: بیرانے بلدیہ
     vi: Đô thị tự trị Berane
+    sr_Latn: Berane
+    ccp: "\U0001111D\U0001112C\U00011122\U0001111A\U00011134"
   geo:
     latitude: 42.84
     longitude: 19.86
@@ -184,6 +190,8 @@
     tr: Bijelo Polje Belediyesi
     ur: بیئلو پولیے بلدیہ
     vi: Đô thị tự trị Bijelo Polje
+    sr_Latn: Bijelo Polje
+    ccp: "\U0001111D\U00011128\U0001110E\U0001112C\U00011123\U0001112E \U0001111B\U0001112E\U00011123\U00011134\U0001110E\U00011128"
   geo:
     latitude: 43.04
     longitude: 19.75
@@ -232,6 +240,8 @@
     uk: Будва
     ur: بودوا بلدیہ
     vi: Đô thị tự trị Budva
+    sr_Latn: Budva
+    ccp: "\U0001111D\U0001112A\U00011116\U00011134\U0001111E"
   geo:
     latitude: 42.288056
     longitude: 18.8425
@@ -278,6 +288,8 @@
     tr: Cetinje Belediyesi
     ur: قدیم شاہی دارالحکومت سیتینیے
     vi: Đô thị tự trị Cetinje
+    sr_Latn: Cetinje
+    ccp: "\U00011125\U0001112C\U00011116\U00011128\U0001111A\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 42.38
     longitude: 18.92
@@ -324,6 +336,8 @@
     tr: Danilovgrad Belediyesi
     ur: دانیلووگراد بلدیہ
     vi: Đô thị tự trị Danilovgrad
+    sr_Latn: Danilovgrad
+    ccp: "\U00011113\U0001111A\U00011128\U00011123\U0001112E\U0001111B\U00011134\U00011109\U00011133\U00011122\U00011116\U00011134"
   geo:
     latitude: 42.5537532
     longitude: 19.1077389
@@ -372,6 +386,9 @@
     uk: Херцег-Новий
     ur: خیرتسیگ نووی بلدیہ
     vi: Đô thị tự trị Herceg Novi
+    sr_Latn: Herceg Novi
+    ccp: "\U00011126\U0001112C\U00011122\U00011134\U00011125\U0001112C\U00011107\U00011134
+      \U0001111A\U0001112E\U0001111E\U00011128"
   geo:
     latitude: 42.4572478
     longitude: 18.5314753
@@ -419,6 +436,8 @@
     tr: Kolasin Belediyesi
     ur: کولاشن بلدیہ
     vi: Đô thị tự trị Kolasin
+    sr_Latn: Kolašin
+    ccp: "\U00011107\U0001112E\U00011123\U00011125\U00011128\U0001111A\U00011134"
   geo:
     latitude: 42.823611
     longitude: 19.5225
@@ -442,6 +461,8 @@
     sr: Котор
     uk: Котор
     ur: کوتور بلدیہ
+    sr_Latn: Kotor
+    ccp: "\U00011107\U0001112E\U00011111\U0001112E\U00011122\U00011134"
   geo:
     latitude: 42.424662
     longitude: 18.771234
@@ -489,6 +510,8 @@
     tr: Mojkovac Belediyesi
     ur: مویکوواتس بلدیہ
     vi: Đô thị tự trị Mojkovac
+    sr_Latn: Mojkovac
+    ccp: "\U0001111F\U0001110C\U00011134\U00011107\U0001112E\U0001111E\U00011107\U00011134"
   geo:
     latitude: 42.96
     longitude: 19.58
@@ -536,6 +559,8 @@
     tr: Niksic Belediyesi
     ur: نیکشیچ بلدیہ
     vi: Đô thị tự trị Niksić
+    sr_Latn: Nikšić
+    ccp: "\U0001111A\U00011128\U00011107\U00011134\U00011125\U00011128\U00011107\U00011134"
   geo:
     latitude: 42.78
     longitude: 18.94
@@ -585,6 +610,8 @@
     uk: Плав
     ur: پلاو بلدیہ
     vi: Đô thị tự trị Plav
+    sr_Latn: Plav
+    ccp: "\U0001111B\U00011133\U00011123\U0001111B\U00011134"
   geo:
     latitude: 42.6001337
     longitude: 19.9407541
@@ -633,6 +660,8 @@
     tr: Pljevlja Belediyesi
     ur: پلئیولیا بلدیہ
     vi: Đô thị tự trị Pljevlja
+    sr_Latn: Pljevlja
+    ccp: "\U0001110E\U0001112C\U0001111B\U00011134\U0001110E"
   geo:
     latitude: 43.36
     longitude: 19.36
@@ -680,6 +709,8 @@
     tr: Pluzine Belediyesi
     ur: پلوژینے بلدیہ
     vi: Đô thị tự trị Pluzine
+    sr_Latn: Plužine
+    ccp: "\U0001111B\U00011133\U00011123\U0001112A\U0001110E\U0001112D\U0001111A\U00011134"
   geo:
     latitude: 43.1541366
     longitude: 18.8410376
@@ -703,6 +734,8 @@
     ru: Подгорица
     sr: Главни град Подгорица
     ur: پودگوریتسا دارالحکومت شہر
+    sr_Latn: Glavni grad Podgorica
+    ccp: "\U0001111B\U00011127\U00011116\U00011134\U00011109\U0001112E\U00011122\U00011128\U00011107"
   geo:
     latitude: 42.441286
     longitude: 19.262892
@@ -727,6 +760,8 @@
     sr: Рожаје
     uk: Рожає
     ur: روژایے بلدیہ
+    sr_Latn: Rožaje
+    ccp: "\U00011122\U0001112E\U0001110E\U0001110E\U0001112C"
   geo:
     latitude: 42.8333
     longitude: 20.1667
@@ -774,6 +809,8 @@
     tr: Savnik Belediyesi
     ur: شاونک بلدیہ
     vi: Đô thị tự trị Savnik
+    sr_Latn: Šavnik
+    ccp: "\U00011125\U0001111B\U00011134\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 42.9577803
     longitude: 19.0943627
@@ -794,6 +831,8 @@
     ro: Comuna Tivat
     sr: Тиват
     ur: تیوات بلدیہ
+    sr_Latn: Tivat
+    ccp: "\U00011111\U0001112D\U0001111E\U00011116\U00011134"
   geo:
     latitude: 42.43
     longitude: 18.7
@@ -843,6 +882,8 @@
     ur: اولتسینی بلدیہ
     vi: Đô thị tự trị Ulcinj
     zh: 烏爾齊尼市
+    sr_Latn: Ulcinj
+    ccp: "\U00011103\U00011123\U00011134\U00011125\U0001112C\U0001111A\U00011134\U0001110E\U00011134"
   geo:
     latitude: 41.9310884
     longitude: 19.2147632
@@ -890,6 +931,8 @@
     tr: Zabljak Belediyesi
     ur: زابلجک میونسپلٹی
     vi: Đô thị tự trị Zabljak
+    sr_Latn: Žabljak
+    ccp: "\U0001110E\U0001111B\U00011134\U0001110E\U00011107\U00011134"
   geo:
     latitude: 43.1555152
     longitude: 19.1226018
@@ -907,6 +950,8 @@
     ro: Comuna Gusinje
     sr: Општина Гусиње
     ur: گوسینیے بلدیہ
+    sr_Latn: Opština Gusinje
+    ccp: "\U00011109\U0001112A\U00011125\U00011128\U0001111A\U00011134\U0001110E\U0001112C"
 '23':
   translations:
     bg: Петница (община)
@@ -916,3 +961,5 @@
     ro: Comuna Petnjica
     sr: Општина Петњица
     ur: پیتنئیتسا بلدیہ
+    sr_Latn: Opština Petnjica
+    ccp: "\U0001111B\U0001112C\U00011111\U0001111A\U00011134\U0001110E\U00011128\U00011107"

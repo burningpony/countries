@@ -34,6 +34,8 @@ BE:
     tr: Beyla Prefecture
     ur: بیئلا پریفیکچور
     vi: Quận Beyla
+    zh: 貝拉省
+    ccp: "\U0001111D\U0001112C\U00011123"
   geo:
     latitude: 8.683333
     longitude: -8.633333
@@ -76,6 +78,8 @@ BF:
     tr: Boffa Prefecture
     ur: بوفا پریفیکچور
     vi: Quận Boffa
+    zh: 博法省
+    ccp: "\U0001111D\U0001112E\U0001111C"
   geo:
     latitude: 10.1808254
     longitude: -14.0391615
@@ -98,6 +102,8 @@ BK:
     pl: Prefektura Boké
     sv: Boke Prefecture
     ur: بوکے پریفیکچور
+    zh: 博凱省
+    ccp: "\U0001111D\U00011127\U00011107\U00011134"
   geo:
     latitude: 11.1864672
     longitude: -14.1001326
@@ -167,6 +173,9 @@ C:
     uk: Конакрі
     ur: کوناکری
     vi: Conakry
+    sr_Latn: Konakri
+    zh: 科納克里
+    ccp: "\U00011107\U00011127\U0001111A\U00011107\U00011133\U00011122\U00011128"
   geo:
     latitude: 9.509167
     longitude: -13.712222
@@ -209,6 +218,8 @@ CO:
     tr: Coyah Prefecture
     ur: کویاہ پریفیکچور
     vi: Quận Coyah
+    zh: 科亞省
+    ccp: "\U00011107\U0001112E\U00011120\U00011126\U00011134"
   geo:
     latitude: 9.7
     longitude: -13.383333
@@ -251,6 +262,8 @@ DB:
     tr: Dabola Prefecture
     ur: دابولا پریفیکچور
     vi: Tỉnh Dabola
+    zh: 達波拉省
+    ccp: "\U00011113\U0001111D\U0001112E\U00011123"
   geo:
     latitude: 10.75
     longitude: -11.116667
@@ -293,6 +306,8 @@ DI:
     tr: Ginguiraye Prefecture
     ur: دنگویرائے پریفیکچور
     vi: Quận Dinguiraye
+    zh: 丁吉拉伊省
+    ccp: "\U00011113\U00011128\U00011101\U00011109\U0001112D\U0001112A\U00011122\U00011120\U0001112C"
   geo:
     latitude: 11.3
     longitude: -10.716667
@@ -335,6 +350,8 @@ DL:
     tr: Dalaba Prefecture
     ur: دالابا پریفیکچور
     vi: Tỉnh Dalaba
+    zh: 達拉巴省
+    ccp: "\U00011113\U00011123\U0001111D"
   geo:
     latitude: 10.166667
     longitude: -9.383333
@@ -377,6 +394,8 @@ DU:
     tr: Dubréka Prefecture
     ur: دوبریکا پریفیکچور
     vi: Quận Dubréka
+    zh: 杜布雷卡省
+    ccp: "\U00011113\U0001112A\U0001111D\U00011133\U00011122\U0001112C\U00011107"
   geo:
     latitude: 9.783332999999999
     longitude: -13.516667
@@ -399,6 +418,8 @@ FA:
     pl: Prefektura Faranah
     sv: Faranah Prefecture
     ur: فاراناہ پریفیکچور
+    zh: 法拉納省
+    ccp: "\U0001111C\U00011122\U0001111A\U00011126\U00011134"
   geo:
     latitude: 10.033333
     longitude: -10.733333
@@ -422,6 +443,8 @@ FO:
     pl: Prefektura Forécariah
     sv: Préfecture de Forécariah
     ur: فوریکاریاہ پریفیکچور
+    zh: 福雷卡里亞省
+    ccp: "\U0001111C\U0001112E\U00011122\U00011134\U00011107\U0001112C\U00011122\U00011128\U00011120\U00011126\U00011134"
   geo:
     latitude: 9.433333
     longitude: -13.083333
@@ -464,6 +487,8 @@ FR:
     tr: Fria Prefecture
     ur: فریا پریفیکچور
     vi: Quận Fria
+    zh: 弗里亞省
+    ccp: "\U0001111C\U00011133\U00011122\U0001112D\U00011120"
   geo:
     latitude: 10.3674543
     longitude: -13.5841871
@@ -506,6 +531,8 @@ GA:
     tr: Gaoual Prefecture
     ur: گاؤال پریفیکچور
     vi: Quận Gaoual
+    zh: 加瓦爾省
+    ccp: "\U00011109\U00011105\U0001112A\U00011120\U00011123\U00011134"
   geo:
     latitude: 11.75
     longitude: -13.2
@@ -549,6 +576,8 @@ GU:
     tr: Guéckéedou Prefecture
     ur: گویکیدؤ پریفیکچور
     vi: Quận Guéckédou
+    zh: 蓋凱杜省
+    ccp: "\U00011109\U0001112A\U00011107\U0001112C\U00011113\U0001112F"
   geo:
     latitude: 8.566666999999999
     longitude: -10.133333
@@ -571,6 +600,8 @@ KA:
     pl: Prefektura Kankan
     sv: Kankan Prefecture
     ur: کانکان پریفیکچور
+    zh: 康康省
+    ccp: "\U00011107\U0001111A\U00011134\U00011107\U0001111A\U00011134"
   geo:
     latitude: 10.120923
     longitude: -9.5450974
@@ -613,6 +644,8 @@ KB:
     tr: Koubia Prefectura
     ur: کؤبیا پریفیکچور
     vi: Tỉnh Koubia
+    zh: 庫比亞省
+    ccp: "\U00011107\U0001112F\U0001111D\U00011128\U00011120"
   geo:
     latitude: 11.583333
     longitude: -11.9
@@ -634,6 +667,8 @@ KD:
     nl: Kindia Prefecture
     pl: Prefektura Kindia
     ur: کیندیا پریفیکچور
+    zh: 金迪亞省
+    ccp: "\U00011107\U00011128\U0001111A\U00011134\U00011113\U00011128\U00011120"
   geo:
     latitude: 10.066667
     longitude: -12.85
@@ -676,6 +711,8 @@ KE:
     tr: Kérouane Prefecture
     ur: کیرؤانے پریفیکچور
     vi: Quận Kérouané
+    zh: 凱魯阿內省
+    ccp: "\U00011107\U0001112C\U00011122\U0001112F\U00011120\U0001111A\U00011128"
   geo:
     latitude: 9.266667
     longitude: -9.016667
@@ -718,6 +755,8 @@ KN:
     tr: Koundrata Prefecture
     ur: کؤندارا پریفیکچور
     vi: Tỉnh Koundara
+    zh: 孔達拉省
+    ccp: "\U00011107\U0001112F\U0001111A\U00011134\U00011113\U00011122"
   geo:
     latitude: 12.483333
     longitude: -13.3
@@ -760,6 +799,8 @@ KO:
     tr: Kouroussa Prefecture
     ur: کؤرؤسا پریفیکچور
     vi: Tỉnh Kouroussa
+    zh: 庫魯薩省
+    ccp: "\U00011107\U0001112F\U00011122\U0001112F\U00011125\U00011133\U00011126"
   geo:
     latitude: 10.65
     longitude: -9.883333
@@ -802,6 +843,8 @@ KS:
     tr: Kissidougou Prefecture
     ur: کیسیدؤگؤ پریفیکچور
     vi: Tỉnh Kissidougou
+    zh: 基西杜古省
+    ccp: "\U00011107\U00011128\U00011125\U00011128\U00011113\U0001112F\U00011109\U0001112F"
   geo:
     latitude: 9.183333
     longitude: -10.1
@@ -844,6 +887,8 @@ LA:
     tr: Labé Prefecture
     ur: لابی پریفیکچر
     vi: Quận Labé
+    zh: 拉貝省
+    ccp: "\U00011123\U00011127\U0001111D\U0001112C"
   geo:
     latitude: 11.641159
     longitude: -11.8891721
@@ -886,6 +931,8 @@ LE:
     tr: Lélouma Prefecure
     ur: لیلؤما پریفیکچور
     vi: Tỉnh Lélouma
+    zh: 萊盧馬省
+    ccp: "\U00011123\U0001112C\U00011123\U0001112F\U0001111F"
   geo:
     latitude: 11.4739967
     longitude: -12.6675575
@@ -928,6 +975,8 @@ LO:
     tr: Lola Prefecture
     ur: لولا پریفیکچور
     vi: Quận Lola
+    zh: 洛拉省
+    ccp: "\U00011123\U00011127\U00011123"
   geo:
     latitude: 7.8
     longitude: -8.533332999999999
@@ -970,6 +1019,8 @@ MC:
     tr: Macenta Prefecture
     ur: میکینٹا پریفیکٹوری
     vi: Quận Macenta
+    zh: 馬桑塔省
+    ccp: "\U0001111F\U00011125\U0001112C\U0001111A\U00011134\U00011111"
   geo:
     latitude: 8.549999999999999
     longitude: -9.466667
@@ -1012,6 +1063,8 @@ MD:
     tr: Mandiana Prefecture
     ur: ماندیانا پریفیکچور
     vi: Tỉnh Mandiana
+    zh: 芒賈納省
+    ccp: "\U0001111F\U00011133\U00011120\U0001111A\U00011134\U00011113\U00011128\U00011120\U0001111A"
   geo:
     latitude: 10.6172827
     longitude: -8.6985716
@@ -1054,6 +1107,8 @@ ML:
     tr: Mali Prefecture
     ur: مالی پریفیکچور
     vi: Tỉnh Mali
+    zh: 馬里省
+    ccp: "\U0001111F\U00011123\U00011128"
   geo:
     latitude: 12.083333
     longitude: -12.3
@@ -1076,6 +1131,8 @@ MM:
     pl: Prefektura Mamou
     sv: Mamou Prefecture
     ur: مامؤ پریفیکچور
+    zh: 馬木省
+    ccp: "\U0001111F\U0001111F\U0001112F"
   geo:
     latitude: 10.5736024
     longitude: -11.8891721
@@ -1098,6 +1155,8 @@ NZ:
     pl: Prefektura Nzérékoré
     sv: Nzerekore Prefecture
     ur: نزیریکورے پریفیکچور
+    zh: 恩澤雷科雷省
+    ccp: "\U0001110E\U0001112C\U00011122\U0001112C\U00011107\U0001112E\U00011122\U0001112C"
   geo:
     latitude: 7.75
     longitude: -8.816666999999999
@@ -1140,6 +1199,8 @@ PI:
     tr: Pita Prefecture
     ur: پیتا پریفیکچور
     vi: Tỉnh Pita
+    zh: 皮塔省
+    ccp: "\U0001111B\U00011128\U00011111"
   geo:
     latitude: 11.059568
     longitude: -12.395582
@@ -1183,6 +1244,8 @@ SI:
     tr: Siguiri Prefecture
     ur: سیگویری پریفیکچور
     vi: Quận Siguiri
+    zh: 錫吉里省
+    ccp: "\U00011125\U00011128\U00011109\U0001112D\U0001112A\U00011122\U00011128"
   geo:
     latitude: 11.416667
     longitude: -9.166667
@@ -1226,6 +1289,8 @@ TE:
     tr: Télimélé Prefecture
     ur: تیلیمیلے پریفیکچور
     vi: Quận Télimélé
+    zh: 泰利梅萊省
+    ccp: "\U00011111\U0001112C\U00011123\U00011128\U0001111F\U0001112C\U00011123\U0001112C"
   geo:
     latitude: 10.9
     longitude: -13.033333
@@ -1268,6 +1333,8 @@ TO:
     tr: Tougué Prefecture
     ur: تؤگوے پریفیکچور
     vi: Quận Tougué
+    zh: 圖蓋省
+    ccp: "\U00011112\U0001110B\U00011134"
   geo:
     latitude: 11.4464221
     longitude: -11.6641388
@@ -1310,6 +1377,8 @@ YO:
     tr: Yomou Prefecture
     ur: یومو پرفکترے
     vi: Quận Yomou
+    zh: 約穆省
+    ccp: "\U00011103\U00011128\U00011120\U0001111F\U0001112F"
   geo:
     latitude: 7.566000000000001
     longitude: -9.2533
@@ -1356,6 +1425,7 @@ B:
     ur: بوک ریجن
     vi: Khu vực Boké
     zh: 博凱大區
+    ccp: "\U0001111D\U0001112E\U00011107\U00011134 \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
 D:
   translations:
     ar: إقليم كينديا
@@ -1395,6 +1465,8 @@ D:
     uk: Кіндія
     ur: کیندیا علاقہ
     vi: Khu vực Kindia
+    zh: 金迪亞大區
+    ccp: "\U00011107\U00011128\U0001111A\U00011134\U00011113\U00011128\U00011120 \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
 K:
   translations:
     ar: إقليم كانكان
@@ -1432,6 +1504,8 @@ K:
     tr: Kankan Bölgesi
     ur: کانکان علاقہ
     vi: Khu vực Kankan
+    zh: 康康大區
+    ccp: "\U00011107\U0001111A\U00011134\U00011107\U0001111A\U00011134 \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
 M:
   translations:
     ar: مقاطعة مامو
@@ -1469,6 +1543,8 @@ M:
     tr: Mamou Bölgesi
     ur: مامؤ علاقہ
     vi: Khu vực Mamou
+    zh: 馬木大區
+    ccp: "\U0001111F\U0001111F\U0001112F \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
 N:
   translations:
     ar: إقليم نزيريكوري
@@ -1506,6 +1582,9 @@ N:
     tr: Nzérékoré Bölgesi
     ur: نزیریکورے علاقہ
     vi: Khu vực Nzérékoré
+    zh: 恩澤雷科雷大區
+    ccp: "\U0001110E\U0001112C\U00011122\U0001112C\U00011107\U0001112E\U00011122\U0001112C
+      \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
 F:
   translations:
     be: Рэгіён Фарана
@@ -1528,6 +1607,8 @@ F:
     ru: Фарана
     sv: Faranah Region (region i Guinea)
     ur: فاراناہ علاقہ
+    zh: 法拉納大區
+    ccp: "\U0001111C\U00011122\U00011134\U0001111A\U00011126\U00011134 \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
 L:
   translations:
     be: Рэгіён Лабэ
@@ -1550,3 +1631,5 @@ L:
     ru: Лабе
     sv: Labé Region
     ur: لابی ریجن
+    zh: 拉貝大區
+    ccp: "\U00011123\U0001111D\U0001112C \U00011122\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"

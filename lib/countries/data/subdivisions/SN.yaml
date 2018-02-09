@@ -41,6 +41,7 @@ DB:
     ur: دیوربیل علاقہ
     vi: Khu vực Diourbel
     zh: 久尔贝勒区
+    ccp: "\U00011113\U00011128\U00011120\U0001112E\U00011122\U00011134\U0001111D\U0001112C\U00011123\U00011134"
   geo:
     latitude: 14.6561238
     longitude: -16.2345633
@@ -89,6 +90,8 @@ DK:
     tr: Dakar
     ur: ڈاکار علاقہ
     vi: Dakar
+    zh: 达喀尔区
+    ccp: "\U00011113\U00011107\U00011122\U00011134"
   geo:
     latitude: 14.7645042
     longitude: -17.3660286
@@ -136,6 +139,8 @@ FK:
     tr: Fatick
     ur: فاتیک علاقہ
     vi: Fatick
+    zh: 法蒂克区
+    ccp: "\U0001111C\U00011111\U00011128\U00011107\U00011134"
   geo:
     latitude: 14.333333
     longitude: -16.406944
@@ -185,6 +190,8 @@ KD:
     tr: Kolda
     ur: کولدا علاقہ
     vi: Kolda
+    zh: 科爾達區
+    ccp: "\U00011107\U0001112E\U00011123\U00011134\U00011113"
   geo:
     latitude: 12.883333
     longitude: -14.95
@@ -233,6 +240,8 @@ KL:
     uk: Каолак
     ur: کاولاک علاقہ
     vi: Kaolack
+    zh: 考拉克区
+    ccp: "\U00011107\U00011120\U0001112E\U00011123\U00011107\U00011134"
   geo:
     latitude: 14.1652083
     longitude: -16.0757749
@@ -282,6 +291,8 @@ LG:
     tr: Louga
     ur: لؤگا علاقہ
     vi: Louga
+    zh: 盧加區
+    ccp: "\U00011123\U0001112F\U00011109"
   geo:
     latitude: 15.616667
     longitude: -16.216667
@@ -329,6 +340,8 @@ MT:
     tr: Matam
     ur: ماتام علاقہ
     vi: Matam
+    zh: 馬塔姆區
+    ccp: "\U0001111F\U00011111\U0001111F\U00011134"
   geo:
     latitude: 15.6600225
     longitude: -13.2576906
@@ -376,6 +389,8 @@ SL:
     tr: Saint-Louis
     ur: سینٹ-لوئیس ریجن
     vi: Saint-Louis
+    zh: 聖路易區
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011134-\U00011123\U0001112A\U00011103\U00011128\U0001110C\U00011134"
   geo:
     latitude: 16.0326307
     longitude: -16.4818167
@@ -425,6 +440,8 @@ TC:
     tr: Tambacounda Bölgesi
     ur: تامباکؤندا علاقہ
     vi: Khu vực Tambacounda
+    zh: 坦巴昆達區
+    ccp: "\U00011111\U0001111F\U00011134\U0001111D\U00011107\U0001112F\U00011105\U0001112A\U0001111A\U00011134\U00011113"
   geo:
     latitude: 13.768889
     longitude: -13.667222
@@ -473,6 +490,8 @@ TH:
     tr: Thiès
     ur: تھیس علاقہ
     vi: Thiès
+    zh: 捷斯區
+    ccp: "\U00011117\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 14.766667
     longitude: -16.9
@@ -521,6 +540,8 @@ ZG:
     tr: Ziguinchor
     ur: زیگینچور علاقہ
     vi: Ziguinchor
+    zh: 济金绍尔区
+    ccp: "\U0001110E\U00011128\U00011109\U0001112D\U0001112A\U0001111A\U00011134\U00011107\U0001112E\U00011122\U00011134"
   geo:
     latitude: 12.583333
     longitude: -16.266667
@@ -565,6 +586,8 @@ KA:
     tr: Kaffrine
     ur: کفرین علاقہ
     vi: Kaffrine
+    zh: 卡夫林區
+    ccp: "\U00011107\U0001111C\U00011133\U00011122\U00011128\U0001111A\U00011134"
 KE:
   translations:
     ar: كيدوغو
@@ -601,6 +624,8 @@ KE:
     tr: Kédougou
     ur: کیدؤگؤ علاقہ
     vi: Kédougou
+    zh: 凱杜古區
+    ccp: "\U00011107\U0001112C\U00011113\U0001112F\U00011109\U0001112F"
 SE:
   translations:
     ar: سيدهيو
@@ -637,3 +662,5 @@ SE:
     tr: Sédhiou
     ur: سیدھیو علاقہ
     vi: Sédhiou
+    zh: 塞久區
+    ccp: "\U00011125\U0001112C\U00011119\U00011128\U00011120\U0001112E"

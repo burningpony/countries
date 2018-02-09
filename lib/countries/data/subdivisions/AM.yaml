@@ -51,6 +51,8 @@ AG:
     ur: آراگاتسوتن صوبہ
     vi: Aragatsotn
     zh: 阿拉加措特恩省
+    sr_Latn: Aragacotn
+    ccp: "\U00011103\U00011122\U00011109\U00011116\U00011134\U00011125\U00011127\U00011116\U00011133\U0001111A\U00011134"
   geo:
     latitude: 
     longitude: 
@@ -110,6 +112,9 @@ AR:
     uk: Арарат
     ur: ارارات صوبہ
     vi: Ararat
+    sr_Latn: Ararat
+    zh: 亞拉拉特省
+    ccp: "\U00011103\U00011122\U00011122\U00011116\U00011134"
   geo:
     latitude: 39.9753273
     longitude: 44.8338058
@@ -168,6 +173,9 @@ AV:
     uk: Армавір
     ur: آرامویر صوبہ
     vi: Armavir
+    sr_Latn: Armavir
+    zh: 亞馬維爾省
+    ccp: "\U00011103\U00011122\U00011134\U0001111F\U0001111E\U00011128\U00011122\U00011134"
   geo:
     latitude: 40.1315615
     longitude: 43.8325355
@@ -239,6 +247,9 @@ ER:
     uk: Єреван
     ur: یریوان
     vi: Yerevan
+    sr_Latn: Jerevan
+    zh: 葉里溫
+    ccp: "\U00011103\U00011128\U00011120\U0001112C\U00011122\U0001112C\U0001111E\U00011127\U0001111A\U00011134"
   geo:
     latitude: 40.183333
     longitude: 44.516667
@@ -298,6 +309,9 @@ GR:
     uk: Ґегаркунік
     ur: گیغارکونیک صوبہ
     vi: Gegharkunik
+    sr_Latn: Geharkunik
+    zh: 格加爾庫尼克省
+    ccp: "\U0001110E\U00011128\U0001110A\U00011127\U00011122\U00011134\U00011107\U0001112A\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 
     longitude: 
@@ -357,6 +371,9 @@ KT:
     uk: Котайк
     ur: کوتایک صوبہ
     vi: Kotayk
+    sr_Latn: Kotajk
+    zh: 科泰克省
+    ccp: "\U00011107\U00011127\U00011111\U0001112D\U00011107\U00011134"
   geo:
     latitude: 40.4277896
     longitude: 44.6641741
@@ -416,6 +433,9 @@ LO:
     uk: Лорі
     ur: لوری صوبہ
     vi: Lori
+    sr_Latn: Lori
+    zh: 洛里省
+    ccp: "\U00011123\U00011127\U00011122\U00011128"
   geo:
     latitude: 40.969845
     longitude: 44.490014
@@ -475,6 +495,9 @@ SH:
     uk: Ширак
     ur: شیراک صوبہ
     vi: Shirak
+    sr_Latn: Širak
+    zh: 希拉克省
+    ccp: "\U00011125\U00011128\U00011122\U00011107\U00011134"
   geo:
     latitude: 40.9630814
     longitude: 43.8102461
@@ -535,6 +558,9 @@ SU:
     uk: Сюнік
     ur: سیونیک صوبہ
     vi: Syunik
+    sr_Latn: Sjunik
+    zh: 休尼克省
+    ccp: "\U00011125\U0001112D\U00011120\U0001112A\U0001111A\U00011128\U00011107\U00011134"
   geo:
     latitude: 39.3194392
     longitude: 46.14609189999999
@@ -595,6 +621,9 @@ TV:
     uk: Тавуш
     ur: تاووش صوبہ
     vi: Tavush
+    sr_Latn: Tavuš
+    zh: 塔武什省
+    ccp: "\U00011111\U0001111E\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 40.8866296
     longitude: 45.339349
@@ -654,6 +683,10 @@ VD:
     uk: Вайоц-Дзор
     ur: وایوتس جور صوبہ
     vi: Vayots Dzor
+    sr_Latn: Vajoc Džor
+    zh: 瓦約茨佐爾省
+    ccp: "\U0001111E\U00011127\U00011120\U0001112E\U00011116\U00011134\U00011125\U00011134
+      \U00011118\U0001112E\U00011122\U00011134"
   geo:
     latitude: 39.8107912
     longitude: 45.4967174

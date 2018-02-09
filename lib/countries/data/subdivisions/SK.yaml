@@ -52,6 +52,8 @@ BC:
     ur: بانسکا بسٹریکا ریجن
     vi: Khu vực Banská Bystrica
     zh: 班斯卡·比斯特理察州
+    sr_Latn: Banskobistrički kraj
+    ccp: "\U0001111D\U0001111A\U00011134\U00011107 \U0001111D\U00011120\U00011111\U00011133\U00011122\U00011128\U00011107"
   geo:
     latitude: 48.5312499
     longitude: 19.382874
@@ -113,6 +115,9 @@ BL:
     uk: Братиславський край
     ur: براتیسلاوا ریجن
     vi: Bratislava
+    sr_Latn: Bratislavski kraj
+    zh: 布拉迪斯拉發州
+    ccp: "\U0001111D\U00011133\U00011122\U00011111\U00011128\U0001110C\U00011134\U00011123\U0001111E"
   geo:
     latitude: 48.3118304
     longitude: 17.1973299
@@ -172,6 +177,9 @@ KI:
     uk: Кошицький край
     ur: کوشیسہ علاقہ
     vi: Khu vực Kosice
+    sr_Latn: Košički kraj
+    zh: 科希策州
+    ccp: "\U00011107\U0001112E\U00011125\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 48.6375737
     longitude: 21.0834225
@@ -231,6 +239,9 @@ NI:
     uk: Нітранський край
     ur: نیترا علاقہ
     vi: Nitra
+    sr_Latn: Njitranski kraj
+    zh: 尼特拉州
+    ccp: "\U0001111A\U00011128\U00011111\U00011133\U00011122"
   geo:
     latitude: 48.0143765
     longitude: 18.5416505
@@ -291,6 +302,9 @@ PV:
     uk: Пряшівський край
     ur: پریسوو ریجن
     vi: Vùng Prešov
+    sr_Latn: Prešovski kraj
+    zh: 普列索夫州
+    ccp: "\U0001111B\U00011133\U00011122\U0001112C\U00011125\U0001112E\U0001111B\U00011134"
   geo:
     latitude: 49.1716773
     longitude: 21.3742001
@@ -353,6 +367,9 @@ TA:
     uk: Трнавський край
     ur: ترناوا ریجن
     vi: Trnava
+    sr_Latn: Trnavski kraj
+    zh: 特爾納瓦州
+    ccp: "\U00011111\U00011133\U00011122\U0001111A\U0001111E"
   geo:
     latitude: 48.3943898
     longitude: 17.7216205
@@ -413,6 +430,9 @@ TC:
     uk: Тренчинський край
     ur: ترینکین ریجن
     vi: Trenčín
+    sr_Latn: Trenčinski kraj
+    zh: 特倫欽州
+    ccp: "\U00011111\U00011133\U00011122\U0001112C\U0001111A\U00011134\U00011125\U00011128\U0001111A\U00011134"
   geo:
     latitude: 48.8086758
     longitude: 18.2324027
@@ -474,6 +494,9 @@ ZI:
     uk: Жилінський край
     ur: ژیلینا علاقہ
     vi: Khu vực Zilina
+    sr_Latn: Žilinski kraj
+    zh: 日利納州
+    ccp: "\U0001110E\U00011128\U00011123\U00011128\U0001111A"
   geo:
     latitude: 49.2031435
     longitude: 19.3645733

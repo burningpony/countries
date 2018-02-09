@@ -44,6 +44,7 @@ AD:
     ur: آداماوا علاقہ
     vi: Adamawa
     zh: 阿达马瓦区
+    ccp: "\U00011103\U00011113\U0001111F\U00011124"
   geo:
     latitude: 6.9181954
     longitude: 12.8054753
@@ -95,6 +96,8 @@ CE:
     uk: Центральний регіон
     ur: وسطی علاقہ
     vi: Vùng Miền Trung
+    zh: 中部区
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134"
   geo:
     latitude: 4.6298411
     longitude: 11.7068294
@@ -144,6 +147,8 @@ EN:
     tr: Far North Bölgesi
     ur: بعید شمالی علاقہ
     vi: Far North
+    zh: 極北區
+    ccp: "\U0001111C\U00011122\U00011134 \U0001111A\U00011127\U00011122\U00011133\U00011117\U00011134"
   geo:
     latitude: 10.6315589
     longitude: 14.6587821
@@ -193,6 +198,8 @@ ES:
     tr: Doğu Bölgesi
     ur: مشرقی علاقہ
     vi: East
+    zh: 东部区
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134"
   geo:
     latitude: 3.950512799999999
     longitude: 13.914399
@@ -243,6 +250,8 @@ LT:
     uk: Прибережний регіон
     ur: لیتورال علاقہ
     vi: Littoral
+    zh: 濱海區
+    ccp: "\U00011123\U00011128\U00011111\U0001112E\U00011122\U00011123\U00011134"
   geo:
     latitude: 4.1682138
     longitude: 10.0807298
@@ -293,6 +302,8 @@ LT:
     tr: Kuzey Bölgesi
     ur: شمالی علاقہ
     vi: Phía Bắc
+    zh: 北部區
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134"
   geo:
     latitude: 8.580901299999999
     longitude: 13.914399
@@ -342,6 +353,8 @@ NW:
     tr: Kuzeybatı Bölgesi
     ur: شمال مغربی علاقہ
     vi: Vùng Tây Bắc
+    zh: 西北區
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U0001112E\U00011118\U00011128"
   geo:
     latitude: 6.470373899999999
     longitude: 10.439656
@@ -390,6 +403,8 @@ OU:
     tr: Batı Bölgesi
     ur: مغربی علاقہ
     vi: Khu vực Phía Tây
+    zh: 西部区
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134"
   geo:
     latitude: 5.4638158
     longitude: 10.8000051
@@ -437,6 +452,8 @@ SU:
     tr: Güney Bölgesi
     ur: جنوبی علاقہ
     vi: Khu vực Phía Nam
+    zh: 南部区
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134"
   geo:
     latitude: 2.7202832
     longitude: 11.7068294
@@ -485,6 +502,8 @@ SW:
     tr: Güneybatı Bölgesi
     ur: جنوب مغربی علاقہ
     vi: Vùng Tây Nam
+    zh: 西南区
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U0001112E\U00011118\U00011128"
   geo:
     latitude: 5.1573493
     longitude: 9.367308399999999

@@ -38,6 +38,7 @@ A:
     ur: دارالحکومت ضلع
     vi: Quận Capital
     zh: 聯邦區 (委內瑞拉)
+    ccp: "\U00011107\U00011133\U00011120\U0001111B\U00011128\U00011111\U00011123\U00011134"
   geo:
     latitude: 10.4883092
     longitude: -66.8201397
@@ -96,6 +97,9 @@ B:
     uk: Ансоатегі
     ur: انسوآتیگی
     vi: Anzoategui
+    sr_Latn: Anzoategi
+    zh: 安索阿特吉州
+    ccp: "\U00011103\U0001111A\U00011134\U0001110E\U0001112E\U00011120\U00011111\U0001112C\U00011109\U0001112D\U0001112A"
   geo:
     latitude: 8.5913073
     longitude: -63.95861110000001
@@ -154,6 +158,9 @@ C:
     uk: Апуре
     ur: آپورے
     vi: Apure
+    sr_Latn: Apure
+    zh: 阿普雷州
+    ccp: "\U00011103\U00011133\U00011120\U0001111B\U00011128\U00011105\U0001112A\U00011122\U00011134"
   geo:
     latitude: 6.926948299999999
     longitude: -68.52471489999999
@@ -210,6 +217,9 @@ D:
     uk: Арагуа
     ur: آراگوا
     vi: Aragua
+    sr_Latn: Aragva
+    zh: 阿拉瓜州
+    ccp: "\U00011103\U00011122\U00011109\U0001112A\U00011120"
   geo:
     latitude: 10.2313205
     longitude: -67.2847875
@@ -265,6 +275,9 @@ E:
     uk: Барінас
     ur: باریناس
     vi: Barinas (bang Venezuela)
+    sr_Latn: Barinas
+    zh: 巴里纳斯州
+    ccp: "\U0001111D\U00011122\U00011128\U0001111A\U0001110C\U00011134"
   geo:
     latitude: 8.6231498
     longitude: -70.2371045
@@ -321,6 +334,9 @@ F:
     uk: Болівар
     ur: بولیبار
     vi: Bolívar
+    sr_Latn: Bolivar
+    zh: 玻利瓦爾州
+    ccp: "\U0001111D\U0001112E\U00011123\U00011128\U0001111E\U00011122\U00011134"
   geo:
     latitude: 28.6002894
     longitude: 77.1857196
@@ -377,6 +393,9 @@ G:
     uk: Карабобо
     ur: کارابوبو
     vi: Carabobo
+    sr_Latn: Karabobo
+    zh: 卡拉沃沃州
+    ccp: "\U00011107\U00011122\U0001111D\U0001112E\U0001111D\U0001112E"
   geo:
     latitude: 10.1176433
     longitude: -68.0477509
@@ -429,6 +448,9 @@ H:
     uk: Кохедес
     ur: کوخیدیس
     vi: Cojedes (bang)
+    sr_Latn: Kohedes
+    zh: 科赫德斯州
+    ccp: "\U00011107\U0001112E\U0001110E\U0001112C\U00011113\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 9.3816682
     longitude: -68.3339275
@@ -483,6 +505,9 @@ I:
     uk: Фалькон
     ur: فالکون
     vi: Falcón
+    sr_Latn: Falkon
+    zh: 法尔孔州
+    ccp: "\U0001111C\U00011127\U00011123\U00011134\U00011107\U00011127\U0001111A\U00011134"
   geo:
     latitude: 11.1810674
     longitude: -69.8597406
@@ -535,6 +560,9 @@ J:
     uk: Гуаріко
     ur: گواریکو
     vi: Guarico
+    sr_Latn: Gvariko
+    zh: 瓜里科州
+    ccp: "\U00011109\U0001112A\U00011120\U00011122\U00011128\U00011107\U0001112E"
   geo:
     latitude: 8.7489309
     longitude: -66.2367172
@@ -588,6 +616,9 @@ K:
     uk: Лара
     ur: لارا، وینیزویلا
     vi: Lara
+    sr_Latn: Lara
+    zh: 拉腊州
+    ccp: "\U00011123\U00011122"
   geo:
     latitude: 10.1537842
     longitude: -69.8597406
@@ -641,6 +672,9 @@ L:
     uk: Меріда
     ur: میریدا
     vi: Mérida (bang)
+    sr_Latn: Merida (država Venecuele)
+    zh: 梅里达州
+    ccp: "\U0001111F\U00011122\U00011128\U00011113"
   geo:
     latitude: 8.6
     longitude: -71.14999999999999
@@ -696,6 +730,9 @@ M:
     uk: Міранда
     ur: میراندا
     vi: Miranda
+    sr_Latn: Miranda
+    zh: 米兰达州
+    ccp: "\U0001111F\U00011128\U00011122\U00011128\U0001111A\U00011134\U00011113"
   geo:
     latitude: 10.4883092
     longitude: -66.8201397
@@ -749,6 +786,9 @@ N:
     uk: Монагас (штат Венесуели)
     ur: موناگاس
     vi: Monagas
+    sr_Latn: Monagas (država Venecuele)
+    zh: 莫納加斯州
+    ccp: "\U0001111F\U0001112E\U0001111A\U00011109\U0001110C\U00011134"
   geo:
     latitude: 9.3241652
     longitude: -63.0147578
@@ -803,6 +843,9 @@ O:
     uk: Нуева-Еспарта
     ur: نویبا ایسپارتا
     vi: Nueva Esparta
+    sr_Latn: Nueva Esparta
+    zh: 新埃斯帕塔州
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U0001111E \U00011103\U0001112C\U0001110C\U00011134\U0001111B\U00011122\U00011134\U00011111"
   geo:
     latitude: 10.9970723
     longitude: -63.91132959999999
@@ -856,6 +899,9 @@ P:
     uk: Португеса
     ur: پورتوگیسا، وینیزویلا
     vi: Portuguesa (bang)
+    sr_Latn: Portugesa
+    zh: 波图格萨州
+    ccp: "\U00011111\U0001112E\U00011122\U00011134\U00011111\U0001112A\U00011109\U0001112A\U00011120\U0001112C\U0001110C"
   geo:
     latitude: 9.094399899999999
     longitude: -69.097023
@@ -909,6 +955,9 @@ R:
     uk: Сукре
     ur: سوکرے، وینیزویلا
     vi: Sucre (bang)
+    sr_Latn: Sukre
+    zh: 苏克雷州
+    ccp: "\U00011125\U00011107\U00011133\U00011122\U0001112C"
   geo:
     latitude: 10.4883092
     longitude: -66.8201397
@@ -964,6 +1013,9 @@ S:
     uk: Тачіра
     ur: تاچیرا
     vi: Táchira (bang)
+    sr_Latn: Tačira
+    zh: 塔奇拉州
+    ccp: "\U00011111\U0001110C\U00011128\U00011122"
   geo:
     latitude: 7.9137001
     longitude: -72.1416132
@@ -1018,6 +1070,9 @@ T:
     uk: Трухільйо
     ur: تروخیو
     vi: Trujillo
+    sr_Latn: Truhiljo
+    zh: 特鲁希略州
+    ccp: "\U00011111\U00011133\U00011122\U0001112A\U0001110E\U00011128\U00011123\U00011133\U00011123\U0001112E"
   geo:
     latitude: 9.366667
     longitude: -70.433056
@@ -1072,6 +1127,9 @@ U:
     uk: Яракуй
     ur: یارکے
     vi: Yaracuy
+    sr_Latn: Jarakuj
+    zh: 亚拉奎州
+    ccp: "\U00011103\U00011128\U00011120\U00011122\U00011107\U0001112A\U00011120\U00011128"
   geo:
     latitude: 10.417644
     longitude: -68.7154975
@@ -1128,6 +1186,9 @@ V:
     uk: Сулія
     ur: سولیا
     vi: Zulia
+    sr_Latn: Zulija
+    zh: 苏利亚州
+    ccp: "\U0001110E\U0001112A\U00011123\U00011128\U00011120"
   geo:
     latitude: 9.967492
     longitude: -72.5204827
@@ -1179,6 +1240,10 @@ W:
     uk: Федеральні володіння Венесуели
     ur: وفاقی توابع وینیزویلا
     vi: Vùng lãnh thổ phụ thuộccủa Venezuela
+    sr_Latn: Federalna teritorija Venecuele
+    zh: 聯邦屬地
+    ccp: "\U0001111C\U0001112C\U00011113\U00011122\U00011133\U00011120\U00011123\U00011134
+      \U00011113\U0001112C\U0001111B\U0001112C\U0001111A\U00011134\U00011113\U0001112C\U0001111A\U00011134\U00011125\U0001112D\U0001110C\U00011134"
   geo:
     latitude: 10.9377053
     longitude: -65.35695729999999
@@ -1232,6 +1297,9 @@ X:
     uk: Варгас
     ur: بارگاس
     vi: Vargas (bang)
+    sr_Latn: Vargas
+    zh: 瓦尔加斯州
+    ccp: "\U0001111E\U00011122\U00011134\U00011109\U0001110C\U00011134"
   geo:
     latitude: 10.5890015
     longitude: -66.7367345
@@ -1285,6 +1353,9 @@ Y:
     uk: Дельта-Амакуро
     ur: دیلتا اماکورا
     vi: Delta Amacuro
+    sr_Latn: Delta Amakuro
+    zh: 阿马库罗三角洲州
+    ccp: "\U00011113\U0001112C\U00011123\U00011134\U00011111 \U00011103\U0001111F\U0001110E\U00011128\U00011105\U0001112A\U00011122\U0001112E"
   geo:
     latitude: 8.8315945
     longitude: -61.5180455
@@ -1344,6 +1415,9 @@ Z:
     uk: Амасонас
     ur: اماسوناس، وینیزویلا
     vi: Amazonas
+    sr_Latn: Amazonas
+    zh: 亞馬遜州
+    ccp: "\U00011103\U0001111F\U0001110E\U0001112E\U0001111A\U0001110C\U00011134"
   geo:
     latitude: 2.8101413
     longitude: -65.0957792

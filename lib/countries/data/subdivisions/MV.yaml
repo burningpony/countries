@@ -25,6 +25,8 @@
     sk: Sínu
     sv: Seenu Atholhu
     ta: அட்டு பவளத்தீவு
+    zh: 阿杜環礁
+    ccp: "\U00011103\U00011113\U00011133\U00011126\U0001112A"
   geo:
     latitude: -0.6413
     longitude: 73.158
@@ -73,6 +75,8 @@
     tr: Alif Alif Atoll
     ur: الف الف اتول
     vi: Alif Alif Atoll
+    zh: 阿利夫阿利夫環礁
+    ccp: "\U00011103\U00011123\U00011128\U0001111B\U00011134 \U00011103\U00011123\U00011128\U0001111B\U00011134"
   geo:
     latitude: 6.8974984
     longitude: 73.22851190000002
@@ -122,6 +126,7 @@
     tr: Lhayviyani Atoll
     ur: لحاویانی اتول
     vi: Lhaviyani Atoll
+    ccp: "\U00011126\U00011133\U00011123\U0001111E\U00011128\U00011120\U0001111A\U00011128"
   geo:
     latitude: 5.4039702
     longitude: 73.6444762
@@ -172,6 +177,8 @@
     tr: Vaavu Atoll
     ur: واوو اتول
     vi: Vaavu Atoll
+    zh: 瓦夫環礁
+    ccp: "\U0001111E\U0001111E\U0001112A"
   geo:
     latitude: 3.6846389
     longitude: 73.4002915
@@ -222,6 +229,8 @@
     tr: Laamu Atoll
     ur: لامو اتول
     vi: Laamu Atoll
+    zh: 拉穆環礁
+    ccp: "\U00011123\U00011133\U00011103\U0001111F\U0001112A"
   geo:
     latitude: 1.9772276
     longitude: 73.536101
@@ -273,6 +282,8 @@
     tr: Haa Alif Atoll
     ur: ہاں الف اتول
     vi: Haa Alif Atoll
+    zh: 哈阿里夫環礁
+    ccp: "\U00011126\U00011133\U00011103 \U00011103\U00011123\U00011128\U0001111B\U00011134"
   geo:
     latitude: 6.8974984
     longitude: 73.22851190000002
@@ -299,6 +310,7 @@
     pl: Thaa
     ru: Тхаа
     sk: Tá
+    ccp: "\U00011117\U00011133\U00011103"
   geo:
     latitude: 2.209209
     longitude: 73.1494617
@@ -349,6 +361,7 @@
     tr: Meemu Atoll
     ur: مییمو اتول
     vi: Meemu Atoll
+    ccp: "\U0001111F\U00011128\U0001111F\U0001112A"
   geo:
     latitude: 2.7854064
     longitude: 73.42621419999999
@@ -399,6 +412,8 @@
     tr: Raa Atoll
     ur: را اتول
     vi: Raa Atoll
+    zh: 拉環礁
+    ccp: "\U00011122\U00011133\U00011103"
   geo:
     latitude: 5.4633655
     longitude: 73.03472719999999
@@ -449,6 +464,8 @@
     tr: Faafu Atoll
     ur: فافو اتول
     vi: Faafu Atoll
+    zh: 法夫環礁
+    ccp: "\U0001111C\U0001111C\U0001112A"
   geo:
     latitude: 3.0558963
     longitude: 72.8889301
@@ -497,6 +514,7 @@
     tr: Dhaalu Atoll
     ur: دحاالو اتول
     vi: Dhaalu Atoll
+    ccp: "\U00011119\U00011123\U0001112A"
   geo:
     latitude: 2.6965009
     longitude: 72.8630855
@@ -548,6 +566,8 @@
     tr: Baa Atoll
     ur: با اتول
     vi: Baa Atoll
+    zh: 芭環礁
+    ccp: "\U0001111D\U00011133\U00011103"
   geo:
     latitude: 4.8709599
     longitude: 72.99982109999999
@@ -599,6 +619,7 @@
     tr: Haa Dhaalu Atoll
     ur: ہاں دحاالو اتول
     vi: Haa Dhaalu Atoll
+    ccp: "\U00011126\U00011133\U00011103 \U00011119\U00011133\U00011103\U00011123\U0001112A"
   geo:
     latitude: 6.751373699999999
     longitude: 73.16608339999999
@@ -648,6 +669,8 @@
     tr: Shayviyani Atoll
     ur: شاویانی اتول
     vi: Shaviyani Atoll
+    zh: 沙維亞尼環礁
+    ccp: "\U00011125\U0001111E\U00011128\U00011120\U0001111A\U00011128"
   geo:
     latitude: 6.2869456
     longitude: 73.2445073
@@ -700,6 +723,8 @@
     tr: Noonu Atoll
     ur: نونو اتول
     vi: Noonu Atoll
+    zh: 諾努環礁
+    ccp: "\U0001111A\U0001112B\U0001111A\U0001112A"
   geo:
     latitude: 5.9523854
     longitude: 73.4151346
@@ -751,6 +776,8 @@
     tr: Kaafu Atoll
     ur: کافو اتول
     vi: Kaafu Atoll
+    zh: 卡夫環礁
+    ccp: "\U00011107\U0001111C\U0001112A"
   geo:
     latitude: 4.9570016
     longitude: 73.4595787
@@ -800,6 +827,8 @@
     tr: Gaafu Alif Atoll
     ur: گافو الف اتول
     vi: Gaafu Alif Atoll
+    zh: 奧利弗蓋夫環礁
+    ccp: "\U00011109\U00011133\U00011103\U0001111C\U0001112A \U00011103\U00011123\U00011128\U0001111B\U00011134"
   geo:
     latitude: 0.7593605
     longitude: 73.4330865
@@ -849,6 +878,7 @@
     tr: Gaafu Dhaalu Atoll
     ur: گافو دحاالو اتول
     vi: Gaafu Dhaalu Atoll
+    ccp: "\U00011109\U00011133\U00011103\U0001111C\U0001112A \U00011119\U00011133\U00011103\U00011123\U0001112A"
   geo:
     latitude: 0.2751533
     longitude: 73.435831
@@ -901,6 +931,7 @@
     tr: Gnaviyani Atoll
     ur: جناویانی اتول
     vi: Gnaviyani Atoll
+    ccp: "\U0001111A\U0001111E\U00011128\U00011120\U0001111A\U00011128"
   geo:
     latitude: -0.3006425
     longitude: 73.42391429999999
@@ -975,6 +1006,9 @@ MLE:
     uk: Мале
     ur: مالے
     vi: Malé
+    sr_Latn: Male
+    zh: 馬累
+    ccp: "\U0001111F\U00011123\U00011128"
   geo:
     latitude: 4.1754959
     longitude: 73.5093474
@@ -1036,31 +1070,47 @@ X1~:
     ur: الف ڈھال اتول
     vi: Alif Dhaal Atoll
     zh: 阿利夫達爾環礁
+    ccp: "\U00011103\U00011123\U00011128\U0001111B\U00011134 \U00011119\U00011123\U00011134"
 CE:
   translations:
     en: Central Province
     id: Provinsi Medhu
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001111B\U00011133\U00011122\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"
 NC:
   translations:
     en: North Central Province
     id: Provinsi Medhu-Uthuru
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001111B\U00011133\U00011122\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"
 'NO':
   translations:
     en: North Province
     id: Provinsi Uthuru
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111B\U00011133\U00011122\U00011127\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"
 SC:
   translations:
     en: South Central Province
     id: Provinsi Medhu-Dhekunu
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001111B\U00011133\U00011122\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"
 SU:
   translations:
     en: South Province
     id: Provinsi Dhekunu
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U0001111B\U00011133\U00011122\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"
 UN:
   translations:
     en: Upper North Province
     id: Provinsi Mathi-Uthuru
+    zh: 上北省
+    ccp: "\U00011103\U0001111B\U00011122\U00011134 \U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111B\U00011133\U00011122\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"
 US:
   translations:
     en: Upper South Province
     id: Provinsi Mathi-Dhekunu
+    ccp: "\U00011103\U0001111B\U00011122\U00011134 \U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134
+      \U0001111B\U00011133\U00011122\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110C\U00011134"

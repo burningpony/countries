@@ -3,6 +3,7 @@
   unofficial_names: Lagunes (Région des)
   translations:
     en: Lagunes
+    ccp: "\U00011123\U00011133\U00011120\U00011109\U0001112A\U0001111A\U00011134\U00011125\U00011134"
   geo:
     latitude: 5.4611461
     longitude: -4.479976
@@ -15,6 +16,7 @@
   unofficial_names: Haut-Sassandra (Région du)
   translations:
     en: Haut-Sassandra
+    ccp: "\U00011126\U00011116\U00011134-\U00011125\U00011125\U0001111A\U00011134\U00011113\U00011133\U00011122"
   geo:
     latitude: 6.8757848
     longitude: -6.5783387
@@ -27,6 +29,7 @@
   unofficial_names: Savanes (Région des)
   translations:
     en: Savanes²
+    ccp: "\U00011125\U0001111E\U0001111A\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 9.6783614
     longitude: -5.5617279
@@ -39,6 +42,7 @@
   unofficial_names: Vallée du Bandama (Région de la)
   translations:
     en: Vallée du Bandama
+    ccp: "\U0001111E\U00011123\U0001112C \U00011113\U0001112E \U0001111D\U0001111A\U00011134\U00011113\U0001111F"
   geo:
     latitude: 8.278978
     longitude: -4.893562699999999
@@ -51,6 +55,7 @@
   unofficial_names: Moyen-Comoé (Région du)
   translations:
     en: Moyen-Comoé
+    ccp: "\U0001111F\U0001112E\U00011120\U0001112C\U0001111A\U00011134-\U00011107\U00011127\U0001111F\U0001112E\U00011120\U0001112C"
   geo:
     latitude: 6.7419877
     longitude: -3.5073638
@@ -63,6 +68,8 @@
   unofficial_names: 18 Montagnes (Région des)
   translations:
     en: Dix-Huit Montagnes
+    ccp: "\U00011113\U00011128\U00011107\U00011134-\U00011126\U0001112A\U00011103\U00011128\U00011116\U00011134
+      \U0001111F\U00011127\U0001111A\U00011134\U00011111\U00011133\U00011120\U00011107\U00011134\U0001111A\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 7.376237300000001
     longitude: -7.4381355
@@ -75,6 +82,7 @@
   unofficial_names: Lacs (Région des)
   translations:
     en: Lacs
+    ccp: "\U00011123\U00011133\U00011120\U00011107\U00011134\U0001110C\U00011134"
   geo:
     latitude: 6.892414400000001
     longitude: -5.2266675
@@ -87,6 +95,7 @@
   unofficial_names: Zanzan (Région du)
   translations:
     en: Zanzan
+    ccp: "\U0001110E\U0001111A\U00011134\U0001110E\U0001111A\U00011134"
   geo:
     latitude: 8.8207904
     longitude: -3.4195527
@@ -99,6 +108,7 @@
   unofficial_names: Bas-Sassandra (Région du)
   translations:
     en: Bas-Sassandra
+    ccp: "\U0001111D\U0001110C\U00011134-\U00011125\U00011125\U0001111A\U00011134\U00011113\U00011133\U00011122"
   geo:
     latitude: 5.7841299
     longitude: -6.5957329
@@ -111,6 +121,7 @@
   unofficial_names: Denguélé (Région du)
   translations:
     en: Denguélé
+    ccp: "\U00011113\U0001112C\U0001111A\U00011134\U00011109\U0001112A\U00011120\U0001112C\U00011123\U0001112C"
   geo:
     latitude: 9.4662372
     longitude: -7.4381355
@@ -123,6 +134,7 @@
   unofficial_names: Nzi-Comoé (Région)
   translations:
     en: N’zi-Comoé
+    ccp: "\U00011103\U0001112C\U0001111A\U00011134‘\U0001110E\U00011128-\U00011107\U00011127\U0001111F\U0001112E\U00011120\U0001112C"
   geo:
     latitude: 7.2456749
     longitude: -4.2333355
@@ -135,6 +147,7 @@
   unofficial_names: Marahoué (Région de la)
   translations:
     en: Marahoué
+    ccp: "\U0001111F\U00011127\U00011122\U00011126\U0001112F\U00011120\U0001112C"
   geo:
     latitude: 6.884620699999999
     longitude: -5.898713900000001
@@ -147,6 +160,7 @@
   unofficial_names: Sud-Comoé (Région du)
   translations:
     en: Sud-Comoé
+    ccp: "\U00011125\U00011116\U00011134-\U00011107\U00011127\U0001111F\U0001112E\U00011120\U0001112C"
   geo:
     latitude: 5.552792999999999
     longitude: -3.2583626
@@ -159,6 +173,7 @@
   unofficial_names: Worodougou (Région du)
   translations:
     en: Worodougou
+    ccp: "\U00011124\U00011122\U00011127\U00011113\U0001112F\U00011109\U0001112F"
   geo:
     latitude: 8.2548962
     longitude: -6.5783387
@@ -171,6 +186,7 @@
   unofficial_names: Sud-Bandama (Région du)
   translations:
     en: Sud-Bandama
+    ccp: "\U00011125\U00011116\U00011134-\U0001111D\U0001111A\U00011134\U00011113\U0001111F"
   geo:
     latitude: 5.5357083
     longitude: -5.5617279
@@ -183,6 +199,7 @@
   unofficial_names: Agnébi (Région de l')
   translations:
     en: Agnéby
+    ccp: "\U00011103\U00011127\U00011107\U00011134\U0001111A\U0001112C\U0001111D\U0001112D"
   geo:
     latitude: 
     longitude: 
@@ -195,6 +212,7 @@
   unofficial_names: Bafing (Région du)
   translations:
     en: Bafing
+    ccp: "\U0001111D\U0001111C\U00011128\U00011101"
   geo:
     latitude: 8.3252047
     longitude: -7.524724300000001
@@ -207,6 +225,7 @@
   unofficial_names: Fromager (Région du)
   translations:
     en: Fromager
+    ccp: "\U0001111C\U00011133\U00011122\U0001112E\U0001111F\U00011109\U00011122\U00011134"
   geo:
     latitude: 6.290341799999999
     longitude: -5.8142885
@@ -219,6 +238,7 @@
   unofficial_names: Moyen-Cavally (Région du)
   translations:
     en: Moyen-Cavally
+    ccp: "\U0001111F\U00011127\U00011120\U0001112C\U0001111A\U00011134-\U00011107\U0001111E\U00011123\U00011128"
   geo:
     latitude: 6.5208793
     longitude: -7.6114217
@@ -288,6 +308,8 @@ AB:
     ur: آبدجان
     vi: Abidjan
     zh: 阿比让
+    sr_Latn: Abidžan
+    ccp: "\U00011103\U0001111D\U00011128\U00011116\U00011134\U0001110E\U0001111A\U00011134"
 YM:
   translations:
     af: Yamoussoukro
@@ -349,6 +371,9 @@ YM:
     uk: Ямусукро
     ur: یاموسسوکرو
     vi: Yamoussoukro
+    sr_Latn: Jamusukro
+    zh: 亚穆苏克罗
+    ccp: "\U00011103\U00011128\U00011120\U0001111F\U0001112F\U00011125\U0001112F\U00011107\U00011134\U00011122\U0001112E"
 BS:
   translations:
     ar: مقاطعة باس-ساساندرا
@@ -382,6 +407,7 @@ BS:
     tr: Bas-Sassandra District
     ur: باس-ساساندرا ضلع
     vi: Quận Bas-Sassandra
+    ccp: "\U0001111D\U0001110C\U00011134-\U00011125\U00011125\U0001111A\U00011134\U00011113\U00011133\U00011122"
 DN:
   translations:
     ar: مقاطعة دينغويلي
@@ -416,6 +442,7 @@ DN:
     uk: Денґеле
     ur: دینجویلی ڈسٹرک
     vi: Quận Denguélé
+    ccp: "\U00011113\U0001112C\U0001111A\U00011134\U00011109\U0001112A\U00011120\U0001112C\U00011123\U0001112C"
 SV:
   translations:
     ar: مقاطعة سافانس
@@ -449,6 +476,7 @@ SV:
     tr: Savanes District
     ur: ساوانیس ڈسٹرک
     vi: Quận Savanes
+    ccp: "\U00011125\U0001111E\U0001111A\U0001112C\U0001110C\U00011134"
 VB:
   translations:
     ar: مقاطعة فالي دو باندما
@@ -483,39 +511,46 @@ VB:
     uk: Район Валле-дю-Бандама
     ur: والیی دو بانداما ضلع
     vi: Quận Vallée du Bandama
+    ccp: "\U0001111E\U00011123\U0001112C \U00011113\U0001112A \U0001111D\U0001111A\U00011134\U00011113\U0001111F"
 CM:
   translations:
     de: Comoé
     en: Comoé
     fr: District de la Comoé
     ja: コモエ地方
+    ccp: "\U00011107\U00011127\U0001111F\U00011127\U00011120\U0001112C"
 GD:
   translations:
     de: Gôh-Djiboua
     en: Gôh-Djiboua
     uk: Ґо-Джибуа
+    ccp: "\U00011109\U00011127\U00011126\U00011134-\U0001110E\U00011128\U0001111D\U0001112F\U00011120"
 LC:
   translations:
     de: Lacs
     en: Lacs²
     fr: District des Lacs
     uk: Лак (район)
+    ccp: "\U00011123\U00011107\U00011133\U0001110C\U00011134"
 LG:
   translations:
     de: Lagunes
     en: Lagunes²
     fr: District des Lagunes
     uk: Район Лаґюн
+    ccp: "\U00011123\U00011133\U00011120\U00011109\U0001112A\U0001111A\U00011134\U00011125\U00011134"
 MG:
   translations:
     de: Montagnes
     en: Montagnes
     fr: District des Montagnes
+    ccp: "\U0001111F\U00011127\U0001111A\U00011134\U00011111\U00011133\U00011120\U00011107\U00011134\U0001111A\U0001112C\U0001110C\U00011134"
 SM:
   translations:
     de: Sassandra-Marahoué
     en: Sassandra-Marahoué
     fr: District du Sassandra-Marahoué
+    ccp: "\U00011125\U00011125\U0001111A\U00011134\U00011113\U00011133\U00011122-\U0001111F\U00011122\U00011126\U0001112F\U00011120\U0001112C"
 WR:
   translations:
     de: Woroba
@@ -524,8 +559,10 @@ WR:
     fr: District du Woroba
     ja: ウォロバ地方
     uk: Район Вороба
+    ccp: "\U00011124\U00011122\U00011127\U0001111D"
 ZZ:
   translations:
     en: Zanzan²
     uk: Район Занзан
     ur: زانزان ضلع
+    ccp: "\U0001110E\U0001111A\U00011134\U0001110E\U0001111A\U00011134"

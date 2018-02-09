@@ -32,6 +32,7 @@ ABD:
     sv: Aberdeenshire
     uk: Абердиншир
     zh: 阿伯丁郡
+    ccp: "\U00011103\U0001111D\U0001112C\U00011122\U00011134\U00011113\U00011128\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 57.16214290000001
     longitude: -2.7194167
@@ -102,6 +103,8 @@ ABE:
     ur: ابرڈین
     vi: Aberdeen
     zh: 阿伯丁
+    sr_Latn: Aberdin
+    ccp: "\U00011103\U0001111D\U0001112C\U00011122\U00011134\U00011113\U00011128\U0001111A\U00011134"
   geo:
     latitude: 57.149717
     longitude: -2.094278
@@ -140,6 +143,8 @@ AGB:
     sv: Argyll and Bute
     uk: Аргілл-і-Бʼют
     zh: 阿盖尔-比特
+    ccp: "\U00011103\U00011109\U00011133\U00011122\U00011128\U00011123\U00011134 \U00011103\U00011133\U00011103
+      \U0001111D\U0001112A\U00011111\U0001112C"
   geo:
     latitude: 56.37004630000001
     longitude: -5.0318965
@@ -192,6 +197,8 @@ AGY:
     uk: Анґлсі
     vi: Anglesey
     zh: 安格尔西岛
+    sr_Latn: Anglsi
+    ccp: "\U00011103\U00011101\U00011123\U0001112C\U00011125\U00011128"
   geo:
     latitude: 53.265325
     longitude: -4.429140299999999
@@ -235,6 +242,7 @@ ANS:
     tr: Angus
     uk: Ангус
     zh: 安格斯
+    ccp: "\U00011103\U00011101\U00011109\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 56.7969965
     longitude: -2.9206818
@@ -247,6 +255,7 @@ ANT:
   unofficial_names: Antrim
   translations:
     en: Antrim
+    ccp: "\U00011103\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011128\U0001111F\U00011134"
   geo:
     latitude: 54.7195338
     longitude: -6.2072498
@@ -259,6 +268,7 @@ ARD:
   unofficial_names: Ards
   translations:
     en: Ards
+    ccp: "\U00011103\U00011122\U00011134\U00011113\U00011134\U00011125\U00011134"
   geo:
     latitude: 54.5899645
     longitude: -5.5984972
@@ -271,6 +281,7 @@ ARM:
   unofficial_names: Armagh
   translations:
     en: Armagh
+    ccp: "\U00011103\U00011122\U00011134\U0001111F\U00011107\U00011134"
   geo:
     latitude: 54.34875
     longitude: -6.65161
@@ -302,6 +313,8 @@ BAS:
     uk: Бат і Північно-Східний Сомерсет
     ur: باتھ اور شمال مشرقی سامرسیٹ
     zh: 巴斯和東北薩默塞特
+    ccp: "\U0001111D\U00011116\U00011134 \U00011103\U00011133\U00011103 \U00011105\U00011127\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111B\U0001112A\U00011107\U00011134 \U00011125\U00011127\U0001111F\U00011122\U00011134\U00011125\U0001112C\U00011116\U00011134"
   geo:
     latitude: 51.36362930000001
     longitude: -2.4399987
@@ -331,6 +344,8 @@ BBD:
     uk: Блекберн і Дарвен
     ur: بلیکبرن مع ڈاروین
     zh: 布莱克本-達文
+    ccp: "\U00011107\U00011133\U00011123\U00011133\U00011120\U00011107\U00011134\U0001111D\U00011122\U00011134\U0001111A\U00011134
+      \U00011103\U0001112A\U00011103\U00011128\U00011116\U00011134 \U00011113\U00011122\U00011134\U00011103\U0001112A\U00011103\U00011128\U0001111A\U00011134"
   geo:
     latitude: 53.68985960000001
     longitude: -2.4678625
@@ -357,6 +372,7 @@ BDF:
     uk: Бедфорд (район)
     ur: بورو بیڈفورڈ
     zh: 貝德福德區
+    ccp: "\U0001111D\U0001112C\U00011116\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 52.1359735
     longitude: -0.4666565
@@ -401,6 +417,9 @@ BDG:
     ur: بارکنگ اور ڈیگنہیم بورو
     vi: Khu Barking và Dagenham của Luân Đôn
     zh: 巴金-達格納姆區
+    sr_Latn: Londonska opština Barking i Dagenam
+    ccp: "\U0001111D\U00011122\U00011134\U00011107\U00011128\U00011101 \U00011103\U00011133\U00011103
+      \U00011113\U00011127\U00011109\U0001112C\U0001111A\U00011134\U00011126\U0001111F\U00011134"
   geo:
     latitude: 51.5464828
     longitude: 0.1293497
@@ -445,6 +464,8 @@ BEN:
     ur: برینٹ بورو
     vi: Khu Brent của Luân Đôn
     zh: 布倫特區
+    sr_Latn: Londonska opština Brent
+    ccp: "\U0001111D\U00011133\U00011122\U0001112C\U0001111A\U00011134\U00011111\U00011134"
   geo:
     latitude: 51.5672808
     longitude: -0.2710568
@@ -490,6 +511,8 @@ BEX:
     ur: بیکزلی بورو
     vi: Khu Bexley của Luân Đôn
     zh: 貝克斯利區
+    sr_Latn: Londonska opština Beksli
+    ccp: "\U0001111D\U0001112C\U00011107\U00011133\U00011125\U00011134\U00011123\U0001112C"
   geo:
     latitude: 51.439933
     longitude: 0.154327
@@ -512,6 +535,7 @@ BFS:
     ru: Белфаст
     uk: Белфаст
     zh: 貝爾法斯特區
+    ccp: "\U0001111D\U0001112C\U00011123\U00011134\U0001111C\U0001110C\U00011133\U00011111\U00011134"
   geo:
     latitude: 54.59728500000001
     longitude: -5.93012
@@ -549,6 +573,7 @@ BGE:
     sv: Bridgend
     uk: Брідженд
     zh: 布里真德郡級自治市
+    ccp: "\U0001111D\U00011133\U00011122\U00011128\U00011116\U00011134\U0001110E\U0001112C\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 51.504286
     longitude: -3.576945
@@ -583,6 +608,7 @@ BGW:
     sv: Blaenau Gwent
     uk: Бланау-Гвент
     zh: 布莱耐格温特
+    ccp: "\U0001111D\U00011133\U00011123\U0001112C\U0001111A\U00011105\U0001112A \U00011109\U0001112C\U0001111A\U00011134\U00011111\U00011134"
   geo:
     latitude: 51.7875779
     longitude: -3.2043931
@@ -654,6 +680,8 @@ BIR:
     vi: Birmingham
     zh: 伯明翰
     zu: Birmingham
+    sr_Latn: Birmingem
+    ccp: "\U0001111D\U00011122\U00011134\U0001111F\U00011128\U00011101\U00011126\U0001111F\U00011134"
   geo:
     latitude: 52.48624299999999
     longitude: -1.890401
@@ -710,6 +738,8 @@ BKM:
     ur: بکنگھمشائر
     vi: Buckinghamshire
     zh: 白金汉郡
+    sr_Latn: Bakingemšir
+    ccp: "\U0001111D\U00011107\U00011128\U00011101\U00011126\U0001111F\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.8072204
     longitude: -0.8127664
@@ -722,6 +752,7 @@ BLA:
   unofficial_names: Ballymena
   translations:
     en: Ballymena
+    ccp: "\U0001111D\U00011127\U00011123\U00011128\U0001111F\U0001112C\U0001111A"
   geo:
     latitude: 54.86537999999999
     longitude: -6.28038
@@ -734,6 +765,7 @@ BLY:
   unofficial_names: Ballymoney
   translations:
     en: Ballymoney
+    ccp: "\U0001111D\U00011127\U00011123\U00011128\U0001111F\U0001111A\U00011128"
   geo:
     latitude: 55.07203000000001
     longitude: -6.51699
@@ -789,6 +821,8 @@ BMH:
     uk: Борнмут
     ur: بورنموتھ
     zh: 伯恩茅斯
+    sr_Latn: Bornmut
+    ccp: "\U0001111D\U0001112F\U00011122\U00011134\U0001111A\U00011134\U0001111F\U00011105\U0001112A\U00011116\U00011134"
   geo:
     latitude: 50.719164
     longitude: -1.880769
@@ -801,6 +835,7 @@ BNB:
   unofficial_names: Banbridge
   translations:
     en: Banbridge
+    ccp: "\U0001111D\U00011133\U00011120\U0001111A\U00011134\U0001111D\U00011133\U00011122\U00011128\U0001110C\U00011134"
   geo:
     latitude: 54.348729
     longitude: -6.2704803
@@ -849,6 +884,8 @@ BNE:
     ur: بارنیٹ بورو
     vi: Khu Barnet của Luân Đôn
     zh: 巴尼特區
+    sr_Latn: Londonska opština Barnet
+    ccp: "\U0001111D\U00011122\U00011134\U0001111A\U0001112C\U00011116\U00011134"
   geo:
     latitude: 51.6569225
     longitude: -0.1949252
@@ -890,6 +927,9 @@ BNH:
     ur: برائیٹن اینڈ ہوو
     vi: Brighton và Hove
     zh: 布赖顿-霍夫
+    sr_Latn: Brajton i Houv
+    ccp: "\U0001111D\U00011133\U00011122\U0001112D\U00011111\U00011127\U0001111A\U00011134
+      \U00011103\U00011133\U00011103 \U00011126\U0001112E\U0001111B\U00011134"
   geo:
     latitude: 50.83516050000001
     longitude: -0.1261028
@@ -916,6 +956,7 @@ BNS:
     sv: Barnsley
     ur: میٹروپولیٹن بورو بارنسلے
     zh: 巴恩斯利都市自治市
+    ccp: "\U0001111D\U00011122\U00011134\U0001111A\U00011134\U0001110C\U00011133\U00011123\U0001112C"
   geo:
     latitude: 53.55263
     longitude: -1.479726
@@ -945,6 +986,7 @@ BOL:
     tr: Bolton Metropoliten Borough
     ur: میٹروپولیٹن بورو بولٹن
     zh: 博爾頓都市自治市
+    ccp: "\U0001111D\U0001112E\U00011123\U00011134\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.57686469999999
     longitude: -2.4282192
@@ -1001,6 +1043,8 @@ BPL:
     ur: بلیکپول
     vi: Blackpool
     zh: 黑潭
+    sr_Latn: Blekpul
+    ccp: "\U0001111D\U00011133\U00011123\U00011133\U00011120\U00011107\U00011134\U0001111B\U0001112A\U00011123\U00011134"
   geo:
     latitude: 53.8175053
     longitude: -3.0356748
@@ -1030,6 +1074,8 @@ BRC:
     uk: Брекнелл Форест
     ur: براکنیل فارسٹ
     zh: 布拉克內爾森林
+    ccp: "\U0001111D\U00011133\U00011122\U00011107\U00011134\U0001111A\U0001112C\U00011123\U00011134
+      \U0001111C\U00011127\U00011122\U0001112C\U00011125\U00011133\U00011111\U00011134"
   geo:
     latitude: 51.4076953
     longitude: -0.729976
@@ -1058,6 +1104,7 @@ BRD:
     ta: பிராட்போர்டு
     ur: بریڈفورڈ شہر
     zh: 布拉德福德市
+    ccp: "\U0001111D\U00011133\U00011122\U00011116\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 53.795984
     longitude: -1.759398
@@ -1110,6 +1157,8 @@ BRY:
     ur: بروملی بورو
     vi: Khu Bromley của Luân Đôn
     zh: 布羅姆利區
+    sr_Latn: Londonska opština Bromli
+    ccp: "\U0001111D\U00011133\U00011122\U0001112E\U0001111F\U00011134\U00011123\U00011128"
   geo:
     latitude: 51.406025
     longitude: 0.013156
@@ -1179,6 +1228,8 @@ BST:
     ur: برسٹل
     vi: Bristol
     zh: 布里斯托尔
+    sr_Latn: Bristol
+    ccp: "\U0001111D\U00011133\U00011122\U00011128\U0001110C\U00011134\U00011111\U00011127\U00011123\U00011134"
   geo:
     latitude: 51.454513
     longitude: -2.58791
@@ -1205,6 +1256,7 @@ BUR:
     sv: Bury
     ur: میٹروپولیٹن بورو بری
     zh: 貝里都市自治市
+    ccp: "\U0001111D\U00011122\U00011128"
   geo:
     latitude: 53.5933498
     longitude: -2.2966054
@@ -1259,6 +1311,8 @@ CAM:
     ur: کیمبرجشائر
     vi: Cambridgeshire
     zh: 劍橋郡
+    sr_Latn: Kembridžšir
+    ccp: "\U0001111D\U00011133\U00011120\U0001111F\U00011134\U0001111D\U00011133\U00011122\U00011128\U0001110C\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.2052973
     longitude: 0.1218195
@@ -1294,6 +1348,7 @@ CAY:
     sv: Caerphilly
     uk: Карфіллі
     zh: 卡菲利自治市
+    ccp: "\U00011107\U00011120\U0001112C\U00011122\U00011134\U0001111C\U00011128\U00011123\U00011128"
   geo:
     latitude: 51.578829
     longitude: -3.218134
@@ -1331,6 +1386,7 @@ CGN:
     uk: Кередігіон
     vi: Ceredigion
     zh: 锡尔迪金
+    ccp: "\U00011107\U0001112C\U00011122\U0001112C\U00011113\U00011128\U0001110E\U00011128\U00011120\U00011127\U0001111A\U00011134"
   geo:
     latitude: 52.40728799999999
     longitude: -4.069603
@@ -1343,6 +1399,7 @@ CGV:
   unofficial_names: Craigavon
   translations:
     en: Craigavon
+    ccp: "\U00011107\U00011133\U00011122\U0001112D\U00011109\U0001111E\U00011127\U0001111A\U00011134"
   geo:
     latitude: 54.45086
     longitude: -6.393829999999999
@@ -1367,6 +1424,7 @@ CKF:
   unofficial_names: Carrickfergus
   translations:
     en: Carrickfergus
+    ccp: "\U00011107\U00011133\U00011120\U00011122\U00011133\U00011126\U00011128\U00011107\U00011134\U0001111C\U0001112C\U00011122\U00011134\U00011109\U0001110C\U00011134"
   geo:
     latitude: 54.7261871
     longitude: -5.8101207
@@ -1379,6 +1437,7 @@ CKT:
   unofficial_names: Cookstown
   translations:
     en: Cookstown
+    ccp: "\U00011107\U0001112A\U00011107\U00011134\U00011111\U00011105\U0001112A\U0001111A\U00011134"
   geo:
     latitude: 54.6418158
     longitude: -6.744389399999999
@@ -1408,6 +1467,7 @@ CLD:
     uk: Калдердейл
     ur: کلڈرڈیل
     zh: 卡爾德達爾
+    ccp: "\U00011107\U00011133\U00011120\U00011123\U00011134\U00011113\U00011122\U00011134\U00011113\U00011123\U0001112C"
   geo:
     latitude: 53.716157
     longitude: -1.85846
@@ -1443,6 +1503,7 @@ CLK:
     sv: Clackmannanshire
     uk: Клакманнаншир
     zh: 克拉克曼南郡
+    ccp: "\U00011107\U00011133\U00011123\U00011133\U00011120\U0001110C\U00011134\U0001111F\U00011133\U00011120\U0001111A\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 56.1241394
     longitude: -3.758379
@@ -1455,6 +1516,7 @@ CLR:
   unofficial_names: Coleraine
   translations:
     en: Coleraine
+    ccp: "\U00011107\U0001112E\U00011123\U0001112C\U00011122\U0001112D\U0001111A\U00011134"
   geo:
     latitude: 55.1325802
     longitude: -6.6646102
@@ -1512,6 +1574,8 @@ CMA:
     ur: کامبریا
     vi: Cumbria
     zh: 坎布里亞郡
+    sr_Latn: Kambrija
+    ccp: "\U00011107\U0001111F\U00011134\U0001111D\U00011133\U00011122\U00011128\U00011120"
   geo:
     latitude: 54.5772323
     longitude: -2.7974835
@@ -1557,6 +1621,7 @@ CMD:
     ur: کیمڈن بورو
     vi: Khu Camden của Luân Đôn
     zh: 卡姆登區
+    ccp: "\U00011107\U00011133\U00011120\U0001111F\U00011134\U00011113\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 51.55170589999999
     longitude: -0.1588255
@@ -1597,6 +1662,7 @@ CMN:
     uk: Кармартеншир
     vi: Carmarthenshire
     zh: 卡马森郡
+    ccp: "\U00011107\U00011122\U00011134\U0001111F\U00011122\U00011134\U00011117\U0001112C\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.8598535
     longitude: -4.260853099999999
@@ -1658,6 +1724,8 @@ CON:
     ur: کونوال
     vi: Cornwall
     zh: 康沃爾郡
+    sr_Latn: Kornvol
+    ccp: "\U00011107\U00011127\U00011122\U00011134\U0001111A\U00011134\U00011124\U00011123\U00011134"
   geo:
     latitude: 50.5036299
     longitude: -4.6524982
@@ -1725,6 +1793,8 @@ COV:
     ur: کووینٹری
     vi: Coventry
     zh: 考文垂
+    sr_Latn: Koventri
+    ccp: "\U00011107\U0001112E\U0001111E\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011128"
   geo:
     latitude: 52.406822
     longitude: -1.519693
@@ -1797,6 +1867,8 @@ CRF:
     ur: کارڈف
     vi: Cardiff
     zh: 加的夫
+    sr_Latn: Kardif
+    ccp: "\U00011107\U00011122\U00011134\U00011113\U00011128\U0001111B\U00011134"
   geo:
     latitude: 51.48158100000001
     longitude: -3.17909
@@ -1840,6 +1912,7 @@ CRY:
     ur: کروئڈن بورو
     vi: Khu Croydon của Luân Đôn
     zh: 克羅伊登區
+    ccp: "\U00011107\U00011133\U00011122\U00011130\U00011113\U00011127\U0001111A\U00011134"
   geo:
     latitude: 51.376165
     longitude: -0.098234
@@ -1852,6 +1925,7 @@ CSR:
   unofficial_names: Castlereagh
   translations:
     en: Castlereagh
+    ccp: "\U00011107\U0001112C\U0001110C\U00011134\U00011123\U00011122\U00011128\U00011107\U00011134"
   geo:
     latitude: 54.57718000000001
     longitude: -5.88821
@@ -1887,6 +1961,7 @@ CWY:
     sv: Conwy
     uk: Конві
     zh: 康威自治市
+    ccp: "\U00011107\U00011127\U0001111A\U00011134\U00011103\U0001112A\U00011103\U00011128"
   geo:
     latitude: 53.282872
     longitude: -3.82948
@@ -1912,6 +1987,7 @@ DAL:
     sv: Darlington
     uk: Дарлінгтон (район)
     zh: 達靈頓區
+    ccp: "\U00011113\U00011122\U00011134\U00011123\U00011128\U00011101\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 54.52361
     longitude: -1.559458
@@ -1969,6 +2045,8 @@ DBY:
     ur: ڈربیشائر
     vi: Derbyshire
     zh: 德比郡
+    sr_Latn: Darbišir
+    ccp: "\U00011113\U00011122\U00011134\U0001111D\U0001112D\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.122322
     longitude: -1.5136821
@@ -2010,6 +2088,7 @@ DEN:
     uk: Денбігшир
     vi: Denbighshire
     zh: 登比郡
+    ccp: "\U00011113\U0001111A\U00011134\U0001111D\U0001112D\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 
     longitude: 
@@ -2074,6 +2153,8 @@ DER:
     ur: ڈربی
     vi: Derby
     zh: 德比
+    sr_Latn: Darbi
+    ccp: "\U00011113\U00011122\U00011134\U0001111D\U0001112D"
   geo:
     latitude: 52.9225301
     longitude: -1.4746186
@@ -2133,6 +2214,8 @@ DEV:
     ur: ڈیون
     vi: Devon
     zh: 德文郡
+    sr_Latn: Devon
+    ccp: "\U00011113\U0001112C\U0001111E\U00011127\U0001111A\U00011134"
   geo:
     latitude: 50.77721349999999
     longitude: -3.999461
@@ -2145,6 +2228,8 @@ DGN:
   unofficial_names: Dungannon
   translations:
     en: Dungannon and South Tyrone
+    ccp: "\U00011113\U0001112A\U0001111A\U00011109\U0001111A\U0001111A\U00011134 \U00011103\U00011133\U00011103
+      \U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011111\U0001112D\U00011122\U0001112E\U0001111A\U00011134"
   geo:
     latitude: 54.5082725
     longitude: -6.7669352
@@ -2182,6 +2267,8 @@ DGY:
     sv: Dumfries and Galloway
     uk: Дамфріс і Галловей
     zh: 鄧弗里斯-加洛韋
+    ccp: "\U00011113\U0001112A\U0001111F\U00011134\U0001111C\U00011133\U00011122\U0001112D\U0001110C\U00011134
+      \U00011103\U00011133\U00011103 \U00011109\U00011133\U00011120\U00011123\U0001112E\U00011120\U0001112C"
   geo:
     latitude: 54.988285
     longitude: -3.8577839
@@ -2209,6 +2296,7 @@ DNC:
     uk: Донкастер
     ur: میٹروپولیٹن بورو ڈانکاسٹر
     zh: 唐卡斯特都會自治市
+    ccp: "\U00011113\U00011127\U0001111A\U00011134\U00011107\U0001110C\U00011134\U00011111\U00011122\U00011134"
   geo:
     latitude: 53.52282
     longitude: -1.128462
@@ -2274,6 +2362,8 @@ DND:
     ur: ڈنڈی، سکاٹ لینڈ
     vi: Dundee
     zh: 邓迪
+    sr_Latn: Dandi
+    ccp: "\U00011113\U0001111A\U00011134\U00011113\U00011129"
   geo:
     latitude: 56.462018
     longitude: -2.970721
@@ -2330,6 +2420,8 @@ DOR:
     ur: ڈورسٹ
     vi: Dorset
     zh: 多塞特郡
+    sr_Latn: Dorset
+    ccp: "\U00011113\U00011127\U00011122\U00011134\U00011125\U0001112C\U00011116\U00011134"
   geo:
     latitude: 50.7390661
     longitude: -2.3382346
@@ -2342,6 +2434,7 @@ DOW:
   unofficial_names: Down
   translations:
     en: Down
+    ccp: "\U00011113\U00011105\U0001112A\U0001111A\U00011134"
   geo:
     latitude: 54.3412911
     longitude: -5.7484854
@@ -2354,6 +2447,7 @@ DRY:
   unofficial_names: Derry
   translations:
     en: Derry
+    ccp: "\U00011113\U0001112C\U00011122\U00011128"
   geo:
     latitude: 54.9966124
     longitude: -7.3085748
@@ -2378,6 +2472,7 @@ DUD:
     sv: Dudley
     ur: میٹروپولیٹن بورو ڈڈلی
     zh: 達德利區
+    ccp: "\U00011113\U0001112A\U00011116\U00011134\U00011123\U0001112C"
   geo:
     latitude: 52.512255
     longitude: -2.081112
@@ -2431,6 +2526,8 @@ DUR:
     uk: Дарем
     ur: کاؤنٹی ڈرہم
     zh: 達勒姆郡
+    sr_Latn: Daram
+    ccp: "\U00011113\U0001112A\U00011122\U00011134\U00011126\U0001111F\U00011134"
   geo:
     latitude: 54.77525
     longitude: -1.584852
@@ -2475,6 +2572,8 @@ EAL:
     ur: ایلنگ بورو
     vi: Khu Ealing của Luân Đôn
     zh: 伊靈區
+    sr_Latn: Londonska opština Iling
+    ccp: "\U00011103\U00011128\U00011120\U00011122\U00011134\U00011123\U00011128\U00011101"
   geo:
     latitude: 51.5250257
     longitude: -0.3415002
@@ -2517,6 +2616,7 @@ EAY:
     uk: Східний Ершир
     ur: مشرقی آئرشائر
     zh: 东艾尔郡
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011103\U00011120\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.45923149999999
     longitude: -4.3338032
@@ -2591,6 +2691,8 @@ EDH:
     ur: ایڈنبرا
     vi: Edinburgh
     zh: 爱丁堡
+    sr_Latn: Edinburg
+    ccp: "\U00011103\U0001112C\U00011113\U0001111A\U00011134\U0001111D\U0001112A\U00011122\U00011126\U00011134"
   geo:
     latitude: 55.953252
     longitude: -3.188267
@@ -2628,6 +2730,7 @@ EDU:
     sv: East Dunbartonshire
     uk: Східний Данбартоншир
     zh: 東鄧巴頓郡
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011113\U0001112A\U0001111A\U00011134\U0001111D\U00011122\U00011134\U00011111\U0001112A\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.9755216
     longitude: -4.2105149
@@ -2666,6 +2769,7 @@ ELN:
     sv: East Lothian
     uk: Східний Лотіан
     zh: 东洛锡安
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011123\U0001112E\U00011111\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 55.9493383
     longitude: -2.7704464
@@ -2710,6 +2814,9 @@ ELS:
     tr: Dış Hebridler
     uk: Західні острови
     zh: 埃利安锡尔
+    sr_Latn: Spoljni Hebridi
+    de_CH: Äussere Hebriden
+    ccp: "\U00011103\U0001112F\U00011111\U00011122\U00011134 \U00011126\U0001111D\U00011133\U00011122\U0001112D\U00011116\U00011134\U0001110C\U00011134"
   geo:
     latitude: 57.76
     longitude: -7.02
@@ -2755,6 +2862,8 @@ ENF:
     ur: اینفیلڈ بورو
     vi: Khu Enfield của Luân Đôn
     zh: 恩菲爾德區
+    sr_Latn: Londonska opština Enfild
+    ccp: "\U00011103\U0001112C\U0001111A\U00011134\U0001111C\U00011128\U00011123\U00011133\U00011113\U00011134"
   geo:
     latitude: 51.6522994
     longitude: -0.0807119
@@ -2791,6 +2900,7 @@ ERW:
     sv: East Renfrewshire
     uk: Східний Ренфрюшир
     zh: 东伦弗鲁郡
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011122\U0001112C\U0001111A\U00011134\U0001111C\U00011133\U00011122\U0001112C\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.74765
     longitude: -4.351420399999999
@@ -2839,6 +2949,9 @@ ERY:
     uk: Східний Йоркширський Райдінг
     vi: East Riding of Yorkshire
     zh: 东约克郡
+    sr_Latn: Istočni Rajding Jorkšira
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011122\U0001112D\U00011113\U00011128\U00011101
+      \U00011103\U00011127\U0001111B\U00011134 \U00011103\U00011128\U00011120\U0001112E\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.8215889
     longitude: -0.7189977
@@ -2896,6 +3009,8 @@ ESS:
     ur: ایسیکس
     vi: Essex
     zh: 埃塞克斯郡
+    sr_Latn: Eseks
+    ccp: "\U00011103\U00011128\U00011125\U0001112C\U00011107\U00011134"
   geo:
     latitude: 51.76683689999999
     longitude: 0.4757762
@@ -2951,6 +3066,8 @@ ESX:
     ur: مشرقی سسیکس
     vi: East Sussex
     zh: 东萨塞克斯郡
+    sr_Latn: Istočni Saseks
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U00011125\U00011125\U0001112C\U00011107\U00011134"
   geo:
     latitude: 50.9285982
     longitude: 0.2764899
@@ -2985,6 +3102,7 @@ FAL:
     uk: Фолкерк
     ur: فالکیرک
     zh: 福尔柯克
+    ccp: "\U0001111C\U00011127\U00011123\U00011134\U00011107\U00011128\U00011122\U00011134\U00011107\U00011134"
   geo:
     latitude: 56.00187750000001
     longitude: -3.7839131
@@ -2997,6 +3115,7 @@ FER:
   unofficial_names: Fermanagh
   translations:
     en: Fermanagh
+    ccp: "\U0001111C\U0001112C\U00011122\U00011134\U0001111F\U0001111A\U00011107\U00011134"
   geo:
     latitude: 54.4513524
     longitude: -7.7125018
@@ -3041,6 +3160,7 @@ FIF:
     uk: Файф
     ur: فائف
     zh: 法夫
+    ccp: "\U0001111C\U0001112D\U0001111B\U00011134"
   geo:
     latitude: 56.2082078
     longitude: -3.1495175
@@ -3081,6 +3201,7 @@ FLN:
     uk: Флінтшир
     vi: Flintshire
     zh: 弗林特郡
+    ccp: "\U0001111C\U00011133\U00011123\U00011128\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.197787
     longitude: -3.1599793
@@ -3105,6 +3226,7 @@ GAT:
     sv: Gateshead (grevskap)
     ur: میٹروپولیٹن بورو گیٹسہیڈ
     zh: 蓋茨黑德都市自治市
+    ccp: "\U00011109\U0001112C\U00011116\U00011134\U00011125\U0001112C\U00011116\U00011134"
   geo:
     latitude: 54.95268
     longitude: -1.603411
@@ -3174,6 +3296,8 @@ GLG:
     ur: گلاسگو
     vi: Glasgow
     zh: 格拉斯哥
+    sr_Latn: Glazgov
+    ccp: "\U00011109\U00011133\U00011123\U0001110C\U00011134\U00011109\U0001112E"
   geo:
     latitude: 55.864237
     longitude: -4.251806
@@ -3229,6 +3353,8 @@ GLS:
     ur: گلوسٹرشائر
     vi: Gloucestershire
     zh: 格洛斯特郡
+    sr_Latn: Glosteršir
+    ccp: "\U00011109\U00011133\U00011123\U0001112E\U00011125\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.8642112
     longitude: -2.2380335
@@ -3273,6 +3399,8 @@ GRE:
     ur: گرینچ کا شاہی بورو
     vi: Khu Greenwich của Luân Đôn
     zh: 格林威治區
+    sr_Latn: Londonska opština Grinič
+    ccp: "\U00011109\U00011133\U00011122\U00011128\U0001111A\U00011134\U00011103\U0001112A\U00011103\U00011128\U0001110C\U00011134"
   geo:
     latitude: 51.48257659999999
     longitude: -0.0076589
@@ -3317,6 +3445,7 @@ GWN:
     uk: Гвінет
     vi: Gwynedd
     zh: 圭内斯
+    ccp: "\U00011109\U0001112D\U0001111A\U0001112C\U00011116\U00011134"
   geo:
     latitude: 52.8928932
     longitude: -3.9958464
@@ -3345,6 +3474,7 @@ HAL:
     uk: Халтон
     ur: بورو ہالٹن
     zh: 霍爾頓
+    ccp: "\U00011126\U00011127\U00011123\U00011134\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.34902719999999
     longitude: -2.7136913
@@ -3402,6 +3532,8 @@ HAM:
     ur: ہیمپشائر
     vi: Hampshire
     zh: 漢普郡
+    sr_Latn: Hempšir
+    ccp: "\U00011126\U0001111F\U00011133\U0001111B\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.0895203
     longitude: -1.216844
@@ -3445,6 +3577,8 @@ HAV:
     ur: ہیورنگ بورو
     vi: Khu Havering của Luân Đôn
     zh: 黑弗靈區
+    sr_Latn: Londonska opština Hejvering
+    ccp: "\U00011126\U0001111E\U0001112C\U00011122\U00011128\U00011101"
   geo:
     latitude: 51.577924
     longitude: 0.2120829
@@ -3492,6 +3626,8 @@ HCK:
     ur: ہیکنی بورو
     vi: Khu Hackney của Luân Đôn
     zh: 哈克尼區
+    sr_Latn: Londoska opština Hekni
+    ccp: "\U00011126\U00011107\U00011134\U0001111A\U0001112C"
   geo:
     latitude: 53.1563141
     longitude: -1.5750216
@@ -3547,6 +3683,8 @@ HEF:
     ur: ہیرفورڈشائر
     vi: Herefordshire
     zh: 赫里福德郡
+    sr_Latn: Herefordšir
+    ccp: "\U00011126\U0001112C\U00011120\U00011122\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.0765164
     longitude: -2.6544182
@@ -3594,6 +3732,8 @@ HIL:
     ur: ھلنگٹن بورو
     vi: Khu Hillingdon của Luân Đôn
     zh: 希靈登區
+    sr_Latn: Londonska opština Hilingdon
+    ccp: "\U00011126\U00011128\U00011123\U00011128\U00011101\U00011113\U00011127\U0001111A\U00011134"
   geo:
     latitude: 51.5351832
     longitude: -0.4481378
@@ -3631,6 +3771,7 @@ HLD:
     sv: Highland
     uk: Гайленд
     zh: 高地
+    ccp: "\U00011126\U0001112D\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 57.3596139
     longitude: -5.0992763
@@ -3674,6 +3815,9 @@ HMF:
     ur: ہیمرسمت اور فلہم بورو
     vi: Khu Hammersmith và Fulham của Luân Đôn
     zh: 哈默史密斯-富勒姆區
+    sr_Latn: Londonska opština Hamersmit i Fulam
+    ccp: "\U00011126\U00011127\U0001111F\U00011122\U00011134\U0001110C\U00011133\U0001111F\U00011128\U00011116\U00011134
+      \U00011103\U00011133\U00011103 \U0001111C\U0001112A\U00011123\U00011134\U00011126\U0001111F\U00011134"
   geo:
     latitude: 51.49901699999999
     longitude: -0.2291497
@@ -3716,6 +3860,8 @@ HNS:
     ur: ہونسلو بورو
     vi: Khu Hounslow của Luân Đôn
     zh: 豪士羅區
+    sr_Latn: Londonska opština Haunzlov
+    ccp: "\U00011126\U00011127\U00011105\U0001112A\U0001111A\U00011134\U00011125\U00011133\U00011123\U0001112E"
   geo:
     latitude: 51.46092179999999
     longitude: -0.373149
@@ -3742,6 +3888,7 @@ HPL:
     uk: Гартлпул
     ur: بورو ہارٹلپول
     zh: 哈特爾浦自治市
+    ccp: "\U00011126\U00011122\U00011134\U00011111\U00011134\U00011123\U00011128\U0001111B\U0001112A\U00011123\U00011134"
   geo:
     latitude: 54.691745
     longitude: -1.212926
@@ -3800,6 +3947,8 @@ HRT:
     ur: ہارٹفورڈشائر
     vi: Hertfordshire
     zh: 赫特福德郡
+    sr_Latn: Hartfordšir
+    ccp: "\U00011126\U00011122\U00011134\U00011111\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.80978229999999
     longitude: -0.2376744
@@ -3843,6 +3992,8 @@ HRW:
     ur: ہیعرو بورو
     vi: Khu Harrow của Luân Đôn
     zh: 哈羅區
+    sr_Latn: Londonska opština Harou
+    ccp: "\U00011126\U00011122\U0001112A"
   geo:
     latitude: 51.580559
     longitude: -0.341995
@@ -3885,6 +4036,8 @@ HRY:
     ur: ہارنگے بورو
     vi: Khu Haringey của Luân Đôn
     zh: 哈林蓋區
+    sr_Latn: Londonska opština Haringej
+    ccp: "\U00011126\U00011122\U00011128\U00011101\U00011109\U00011133\U00011120"
   geo:
     latitude: 51.5906113
     longitude: -0.1109709
@@ -3939,6 +4092,9 @@ IOS:
     ur: جزائر سیلی
     vi: quần đảo Scilly
     zh: 锡利群岛
+    sr_Latn: Sili
+    ccp: "\U00011103\U00011128\U0001110C\U00011134\U00011123\U0001112C\U0001110C\U00011134
+      \U00011103\U00011127\U0001111B\U00011134 \U00011125\U00011128\U00011123\U00011133\U00011126\U00011128"
   geo:
     latitude: 49.925002
     longitude: -6.298672000000001
@@ -3999,6 +4155,9 @@ IOW:
     ur: آئل آف ویٹ
     vi: Đảo Wight
     zh: 怀特岛郡
+    sr_Latn: Ostrvo Vajt
+    ccp: "\U00011103\U00011128\U0001110C\U00011134\U00011123\U0001112C \U00011103\U00011127\U0001111B\U00011134
+      \U00011103\U0001112E\U00011120\U00011116\U00011134"
   geo:
     latitude: 50.69271759999999
     longitude: -1.3167103
@@ -4043,6 +4202,8 @@ ISL:
     ur: ازلنگٹن بورو
     vi: Khu Islington của Luân Đôn
     zh: 伊斯林頓倫敦自治市
+    sr_Latn: Londonska opština Izlington
+    ccp: "\U00011103\U00011128\U0001110C\U00011134\U00011123\U00011128\U00011101\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 51.5465063
     longitude: -0.1058058
@@ -4080,6 +4241,7 @@ IVC:
     sv: Inverclyde
     uk: Інверклайд
     zh: 因弗克萊德
+    ccp: "\U00011103\U00011128\U0001111A\U00011134\U0001111E\U00011122\U00011134\U00011107\U00011133\U00011123\U0001112D\U00011113\U00011128"
   geo:
     latitude: 55.9118089
     longitude: -4.7359063
@@ -4128,6 +4290,9 @@ KEC:
     ur: کینزنگٹن اور چیلسی بورو
     vi: Khu hoàng gia Kensington và Chelsea
     zh: 肯辛頓-切爾西區
+    sr_Latn: Londonska opština Kensington i Čelsi
+    ccp: "\U00011107\U0001112C\U0001111A\U00011134\U00011125\U00011128\U00011101\U00011111\U00011127\U0001111A\U00011134
+      \U00011103\U00011133\U00011103 \U0001110C\U0001112C\U00011123\U00011134\U0001110C\U00011128"
   geo:
     latitude: 51.4990805
     longitude: -0.1938253
@@ -4186,6 +4351,8 @@ KEN:
     ur: کینٹ
     vi: Kent
     zh: 肯特郡
+    sr_Latn: Kent
+    ccp: "\U00011107\U0001112C\U0001111A\U00011134\U00011111\U00011134"
   geo:
     latitude: 51.2787075
     longitude: 0.5217254000000001
@@ -4252,6 +4419,9 @@ KHL:
     ur: کنگسٹن اپون ہل
     vi: Kingston trên sông Hull
     zh: 赫爾河畔京士頓
+    sr_Latn: Kingston na Halu
+    ccp: "\U00011107\U00011128\U00011101\U0001110C\U00011133\U00011111\U00011127\U0001111A\U00011134
+      \U00011103\U0001111B\U00011127\U0001111A\U00011134 \U00011126\U0001112A\U00011123\U00011134"
   geo:
     latitude: 53.7456709
     longitude: -0.3367413
@@ -4282,6 +4452,7 @@ KIR:
     ta: கிர்க்லீசு
     ur: کرکلیز
     zh: 柯克利斯
+    ccp: "\U00011107\U00011128\U00011122\U00011134\U00011107\U00011134\U00011123\U00011128\U0001110C\U00011134"
   geo:
     latitude: 52.6020536
     longitude: 1.2803263
@@ -4323,6 +4494,9 @@ KTT:
     uk: Кінгстон-на-Темзі
     ur: کنگسٹن اپون تھیمز بورو
     zh: 泰晤士河畔京士頓區
+    sr_Latn: Londonska opština Kingston na Temzi
+    ccp: "\U00011107\U00011128\U00011101\U0001110C\U00011133\U00011111\U00011127\U0001111A\U00011134
+      \U00011103\U0001111B\U00011127\U0001111A\U00011134 \U00011117\U0001112C\U0001111F\U00011134\U0001110C\U00011134"
   geo:
     latitude: 51.41233
     longitude: -0.300689
@@ -4350,6 +4524,7 @@ KWL:
     sv: Knowsley
     ur: میٹروپولیٹن بورو نوزلی
     zh: 諾斯利都市自治市
+    ccp: "\U0001111A\U0001112E\U0001110C\U00011134\U00011123\U00011128"
   geo:
     latitude: 53.454594
     longitude: -2.852907
@@ -4407,6 +4582,8 @@ LAN:
     ur: لنکاشائر
     vi: Lancashire
     zh: 兰开夏郡
+    sr_Latn: Lankašir
+    ccp: "\U00011123\U00011133\U00011120\U0001111A\U00011134\U00011107\U0001112C\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.9690089
     longitude: -2.6276908
@@ -4453,6 +4630,8 @@ LBH:
     ur: لیمبیتھ بورو
     vi: Khu Lambeth của Luân Đôn
     zh: 蘭貝斯區
+    sr_Latn: Londonska opština Lambet
+    ccp: "\U00011123\U0001111F\U00011134\U0001111D\U0001112C\U00011116\U00011134"
   geo:
     latitude: 51.4571477
     longitude: -0.1230681
@@ -4520,6 +4699,8 @@ LCE:
     ur: لیسٹر
     vi: Leicester
     zh: 莱斯特
+    sr_Latn: Lester
+    ccp: "\U00011123\U0001112C\U0001112D\U00011125\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134"
   geo:
     latitude: 52.6368778
     longitude: -1.1397592
@@ -4551,6 +4732,7 @@ LDS:
     tr: Leeds Şehri
     ur: لیڈز شہر
     zh: 里茲市
+    ccp: "\U00011123\U00011129\U00011116\U00011134\U0001110C\U00011134"
   geo:
     latitude: 53.8007554
     longitude: -1.5490774
@@ -4607,6 +4789,8 @@ LEC:
     ur: لیسٹرشائر
     vi: Leicestershire
     zh: 莱斯特郡
+    sr_Latn: Lesteršir
+    ccp: "\U00011123\U0001112C\U0001112D\U00011125\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.74012279999999
     longitude: -1.1405925
@@ -4650,6 +4834,8 @@ LEW:
     ur: لیوشم بورو
     vi: Khu Lewisham của Luân Đôn
     zh: 劉易舍姆區
+    sr_Latn: Londonska opština Luišam
+    ccp: "\U00011123\U0001112C\U00011103\U0001112A\U00011103\U00011128\U00011125\U00011133\U00011120\U0001111F\U00011134"
   geo:
     latitude: 51.4414579
     longitude: -0.0117006
@@ -4707,6 +4893,8 @@ LIN:
     ur: لنکنشائر
     vi: Lincolnshire
     zh: 林肯郡
+    sr_Latn: Linkolnšir
+    ccp: "\U00011123\U00011128\U0001111A\U00011134\U00011107\U0001112E\U00011123\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.2178821
     longitude: -0.1999702
@@ -4778,6 +4966,8 @@ LIV:
     ur: لیورپول
     vi: Liverpool
     zh: 利物浦
+    sr_Latn: Liverpul
+    ccp: "\U00011123\U00011128\U0001111E\U00011122\U00011134\U0001111B\U0001112A\U00011123\U00011134"
   geo:
     latitude: 53.4083714
     longitude: -2.9915726
@@ -4790,6 +4980,7 @@ LMV:
   unofficial_names: Limavady
   translations:
     en: Limavady
+    ccp: "\U00011123\U00011128\U0001111F\U0001111E\U00011113\U00011128"
   geo:
     latitude: 55.05222
     longitude: -6.94035
@@ -4854,6 +5045,9 @@ LND:
     ur: لندن شہر
     vi: Thành phố Luân Đôn
     zh: 倫敦市
+    sr_Latn: Siti
+    ccp: "\U00011123\U00011127\U0001111A\U00011134\U00011113\U00011127\U0001111A\U00011134"
+    zu: Idolobha weLondon
   geo:
     latitude: 51.5073509
     longitude: -0.1277583
@@ -4866,6 +5060,7 @@ LRN:
   unofficial_names: Larne
   translations:
     en: Larne
+    ccp: "\U00011123\U00011122\U00011134\U0001111A\U0001112C"
   geo:
     latitude: 54.85749999999999
     longitude: -5.80986
@@ -4878,6 +5073,7 @@ LSB:
   unofficial_names: Lisburn
   translations:
     en: Lisburn
+    ccp: "\U00011123\U00011128\U0001110C\U00011134\U0001111D\U00011122\U00011134\U0001111A\U00011134"
   geo:
     latitude: 54.516246
     longitude: -6.058010599999999
@@ -4926,6 +5122,8 @@ LUT:
     ur: لوٹن
     vi: Luton
     zh: 卢顿
+    sr_Latn: Luton
+    ccp: "\U00011123\U00011128\U00011105\U0001112A\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 51.8786707
     longitude: -0.4200255
@@ -4997,6 +5195,8 @@ MAN:
     ur: مانچسٹر
     vi: Manchester
     zh: 曼彻斯特
+    sr_Latn: Mančester
+    ccp: "\U0001111F\U00011133\U00011120\U0001111A\U00011134\U00011125\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134"
   geo:
     latitude: 53.4807593
     longitude: -2.2426305
@@ -5052,6 +5252,8 @@ MDB:
     ur: میڈیلزبرو
     vi: Middlesbrough
     zh: 米德爾斯伯勒
+    sr_Latn: Midlsbro
+    ccp: "\U0001111F\U00011128\U00011113\U00011127\U00011123\U00011134\U0001110C\U00011134\U0001111D\U00011133\U00011122\U0001112F"
   geo:
     latitude: 54.574227
     longitude: -1.234956
@@ -5083,6 +5285,7 @@ MDW:
     uk: Медвей (район)
     ur: میڈوے
     zh: 梅德韋
+    ccp: "\U0001111F\U00011128\U00011116\U00011134\U00011124\U0001112C"
   geo:
     latitude: 51.4084923
     longitude: 0.5878457
@@ -5095,6 +5298,7 @@ MFT:
   unofficial_names: Magherafelt
   translations:
     en: Magherafelt
+    ccp: "\U0001111F\U0001110A\U0001112C\U00011122\U0001111C\U0001112C\U00011123\U00011134\U00011111\U00011134"
   geo:
     latitude: 54.75639
     longitude: -6.60636
@@ -5121,6 +5325,8 @@ MIK:
     sv: Milton Keynes
     uk: Мілтон-Кінз
     ur: بورو ملٹن کینز
+    ccp: "\U0001111F\U00011128\U00011123\U00011134\U00011111\U00011127\U0001111A\U00011134
+      \U00011107\U00011128\U0001111A\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 52.0406224
     longitude: -0.7594171
@@ -5159,6 +5365,7 @@ MLN:
     sv: Midlothian
     uk: Середній Лотіан
     zh: 中洛锡安
+    ccp: "\U0001111F\U00011128\U00011116\U00011134\U00011123\U0001112E\U00011117\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 55.8292247
     longitude: -3.1338428
@@ -5201,6 +5408,7 @@ MON:
     uk: Монмутшир
     vi: Monmouthshire
     zh: 蒙茅斯郡
+    ccp: "\U0001111F\U0001111A\U00011134\U0001111F\U00011105\U0001112A\U00011116\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.8157729
     longitude: -3.0123791
@@ -5243,6 +5451,8 @@ MRT:
     ur: مرٹن بورو
     vi: Khu Merton của Luân Đôn
     zh: 默頓區
+    sr_Latn: Londonska opština Merton
+    ccp: "\U0001111F\U0001112C\U00011122\U00011134\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 50.891854
     longitude: -4.095316
@@ -5278,6 +5488,7 @@ MRY:
     sv: Moray
     uk: Морей
     zh: 馬里
+    ccp: "\U0001111F\U00011127\U00011122\U0001112C"
   geo:
     latitude: 57.511548
     longitude: -3.2483773
@@ -5299,6 +5510,8 @@ MTY:
     ru: Мертир-Тидвил
     sv: Merthyr Tydfil County Borough
     uk: Мертір-Тідвіл
+    ccp: "\U0001111F\U0001112C\U00011122\U00011134\U00011117\U00011120\U00011122\U00011134
+      \U00011111\U0001112D\U00011116\U00011134\U0001111C\U00011128\U00011123\U00011134"
   geo:
     latitude: 51.74872999999999
     longitude: -3.381646
@@ -5311,6 +5524,7 @@ MYL:
   unofficial_names: Moyle
   translations:
     en: Moyle
+    ccp: "\U0001111F\U00011130\U00011123\U00011128"
   geo:
     latitude: 55.1149383
     longitude: -6.1537839
@@ -5351,6 +5565,8 @@ NAY:
     uk: Північний Ершир
     ur: شمالی آئرشائر
     zh: 北艾尔郡
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011103\U00011120\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.7113902
     longitude: -4.729983400000001
@@ -5406,6 +5622,8 @@ NBL:
     ur: نارتھمبرلینڈ
     vi: Northumberland
     zh: 諾森伯蘭郡
+    sr_Latn: Nortamberland
+    ccp: "\U0001111A\U00011127\U00011122\U00011134\U00011117\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 55.2082542
     longitude: -2.0784138
@@ -5418,6 +5636,8 @@ NDN:
   unofficial_names: North Down
   translations:
     en: North Down
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011113\U00011105\U0001112A\U0001111A\U00011134"
   geo:
     latitude: 54.6397427
     longitude: -5.7105256
@@ -5445,6 +5665,8 @@ NEL:
     uk: Північно-Східний Лінкольншир
     ur: شمالی مشرقی لنکنشائر
     zh: 东北林肯郡
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111B\U0001112A\U00011107\U00011134 \U00011123\U00011128\U0001111A\U00011134\U00011107\U0001112E\U00011123\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.5418558
     longitude: -0.1263736
@@ -5513,6 +5735,9 @@ NET:
     ur: نیوکیسل اپون ٹائین
     vi: Newcastle trên sông Tyne
     zh: 泰恩河畔纽卡斯尔
+    sr_Latn: Njukasl na Tajnu
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U00011107\U00011133\U00011120\U00011125\U00011127\U00011123\U00011134
+      \U00011103\U0001111B\U00011127\U0001111A\U00011134 \U00011111\U0001112D\U0001111A\U00011134"
   geo:
     latitude: 54.978252
     longitude: -1.61778
@@ -5571,6 +5796,8 @@ NFK:
     ur: نارفوک
     vi: Norfolk
     zh: 诺福克郡
+    sr_Latn: Norfok
+    ccp: "\U0001111A\U00011127\U00011122\U00011134\U0001111B\U0001112E\U00011107\U00011134"
   geo:
     latitude: 52.6139686
     longitude: 0.8864021
@@ -5641,6 +5868,8 @@ NGM:
     ur: ناٹنگھم
     vi: Nottingham
     zh: 诺丁汉
+    sr_Latn: Notingem
+    ccp: "\U0001111A\U00011127\U00011111\U00011133\U00011126\U00011128\U00011101\U00011126\U0001111F\U00011134"
   geo:
     latitude: 52.95478319999999
     longitude: -1.1581086
@@ -5680,6 +5909,8 @@ NLK:
     sv: North Lanarkshire
     uk: Північний Ланаркшир
     zh: 北拉纳克郡
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011123\U00011127\U0001111A\U00011122\U00011134\U00011107\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.8289139
     longitude: -3.9221958
@@ -5710,6 +5941,8 @@ NLN:
     uk: Північний Лінкольншир
     ur: شمالی لنکنشائر
     zh: 北林肯郡
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011123\U00011128\U0001111A\U00011134\U00011107\U0001112E\U00011123\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.60555919999999
     longitude: -0.5596582
@@ -5741,6 +5974,8 @@ NSM:
     uk: Північний Сомерсет
     ur: شمالی سامرسیٹ
     zh: 北索美塞特
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011125\U00011127\U0001111F\U00011122\U00011134\U00011125\U0001112C\U00011116\U00011134"
   geo:
     latitude: 51.4409659
     longitude: -2.7426528
@@ -5753,6 +5988,7 @@ NTA:
   unofficial_names: Newtownabbey
   translations:
     en: Newtownabbey
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U00011111\U00011105\U0001112A\U0001111A\U00011134\U00011103\U0001112C\U0001111D\U0001112C"
   geo:
     latitude: 54.68528
     longitude: -5.9645
@@ -5808,6 +6044,8 @@ NTH:
     ur: نارتھیمپٹنشائر
     vi: Northamptonshire
     zh: 北安普敦郡
+    sr_Latn: Northemptonšir
+    ccp: "\U0001111A\U00011127\U00011122\U00011134\U00011117\U0001111F\U00011134\U00011111\U00011127\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.27299439999999
     longitude: -0.8755514999999999
@@ -5846,6 +6084,8 @@ NTL:
     sv: Neath Port Talbot
     uk: Ніт-Порт-Толбот
     zh: 下塔尔波特港
+    ccp: "\U0001111A\U00011128\U00011116\U00011134 \U0001111B\U0001112E\U00011122\U00011134\U00011111\U00011134
+      \U00011111\U00011123\U00011134\U0001111D\U0001112E\U00011116\U00011134"
   geo:
     latitude: 51.656991
     longitude: -3.805476
@@ -5901,6 +6141,8 @@ NTT:
     ur: ناٹنگھمشائر
     vi: Nottinghamshire
     zh: 諾丁漢郡
+    sr_Latn: Notingamšir
+    ccp: "\U0001111A\U00011127\U00011111\U00011133\U00011126\U00011128\U00011101\U00011126\U0001111F\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 53.1285044
     longitude: -0.9030999
@@ -5931,6 +6173,8 @@ NTY:
     ur: شمالی ٹینیسائڈ
     vi: Bắc Tyneside
     zh: 北泰因賽德
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011111\U0001112D\U0001111A\U00011134\U00011125\U0001112D\U00011116\U00011134"
   geo:
     latitude: 55.008
     longitude: -1.546
@@ -5975,6 +6219,8 @@ NWM:
     ur: نیوہیم بورو
     vi: Khu Newham của Luân Đôn
     zh: 紐漢區
+    sr_Latn: Londonska opština Njuam
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U00011126\U0001111F\U00011134"
   geo:
     latitude: 51.5255162
     longitude: 0.0352163
@@ -5991,6 +6237,7 @@ NWP:
     nl: Newport
     sv: Newport
     uk: Ньюпорт
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U0001111B\U0001112E\U00011122\U00011134\U00011111\U00011134"
   geo:
     latitude: 51.584151
     longitude: -2.997664
@@ -6042,6 +6289,9 @@ NYK:
     ur: شمالی یارکشائر
     vi: North Yorkshire
     zh: 北约克郡
+    sr_Latn: Severni Jorkšir
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011103\U00011128\U00011120\U0001112E\U00011107\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 54.25035949999999
     longitude: -1.4708553
@@ -6054,6 +6304,8 @@ NYM:
   unofficial_names: Newry and Mourne
   translations:
     en: Newry and Mourne
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U00011122\U00011128 \U00011103\U00011133\U00011103
+      \U0001111F\U0001112F\U00011122\U00011134\U0001111A\U00011128"
   geo:
     latitude: 54.1272467
     longitude: -6.508945
@@ -6079,6 +6331,7 @@ OLD:
     sv: Oldham
     ur: میٹروپولیٹن بورو اولڈھم
     zh: 奧爾德姆都市自治市
+    ccp: "\U00011103\U0001112E\U00011123\U00011133\U00011113\U00011134\U00011126\U0001111F\U00011134"
   geo:
     latitude: 53.5409298
     longitude: -2.1113659
@@ -6091,6 +6344,7 @@ OMH:
   unofficial_names: Omagh
   translations:
     en: Omagh
+    ccp: "\U00011103\U0001112E\U0001111F\U00011107\U00011134"
   geo:
     latitude: 54.5977149
     longitude: -7.3099596
@@ -6145,6 +6399,9 @@ ORK:
     uk: Оркнейські острови
     vi: Orkney
     zh: 奥克尼群岛
+    sr_Latn: Orknijska ostrva
+    ccp: "\U00011103\U00011127\U00011122\U00011134\U00011107\U00011134\U0001111A\U0001112C
+      \U00011103\U00011128\U0001110C\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U0001110C\U00011134"
   geo:
     latitude: 59.04291250000001
     longitude: -3.1542155
@@ -6205,6 +6462,8 @@ OXF:
     ur: آکسفورڈشائر
     vi: Oxfordshire
     zh: 牛津郡
+    sr_Latn: Oksfordšir
+    ccp: "\U00011103\U00011127\U00011107\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.7612056
     longitude: -1.2464674
@@ -6247,6 +6506,7 @@ PEM:
     uk: Пембрукшир
     vi: Pembrokeshire
     zh: 彭布罗克郡
+    ccp: "\U0001111B\U0001112C\U0001111F\U00011134\U0001111D\U00011133\U00011122\U0001112E\U00011107\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.8757077
     longitude: -4.939193299999999
@@ -6283,6 +6543,8 @@ PKN:
     sv: Perth and Kinross
     uk: Перт-і-Кінросс
     zh: 珀斯-金罗斯
+    ccp: "\U0001111B\U00011127\U00011122\U00011134\U00011116\U00011134 \U00011103\U00011133\U00011103
+      \U00011107\U00011128\U0001111A\U00011134\U00011122\U0001112E\U0001110C\U00011134"
   geo:
     latitude: 56.5917369
     longitude: -3.8557348
@@ -6349,6 +6611,8 @@ PLY:
     ur: پلایماؤتھ
     vi: Plymouth
     zh: 普利茅斯
+    sr_Latn: Plimut
+    ccp: "\U0001111B\U00011133\U00011123\U0001112D\U0001111F\U00011105\U0001112A\U00011116\U00011134"
   geo:
     latitude: 50.3754565
     longitude: -4.1426565
@@ -6395,6 +6659,8 @@ POL:
     uk: Пул
     ur: پول، انگلستان
     zh: 普爾
+    sr_Latn: Pul
+    ccp: "\U0001111B\U0001112A\U00011123\U00011134"
   geo:
     latitude: 50.71505
     longitude: -1.987248
@@ -6462,6 +6728,8 @@ POR:
     ur: پورٹسماؤتھ
     vi: Portsmouth
     zh: 朴次茅斯
+    sr_Latn: Portsmut
+    ccp: "\U0001111B\U0001112E\U00011122\U00011134\U00011111\U00011134\U0001111F\U00011105\U0001112A\U00011116\U00011134"
   geo:
     latitude: 50.816667
     longitude: -1.083333
@@ -6500,6 +6768,7 @@ POW:
     uk: Повіс
     vi: Powys
     zh: 波伊斯
+    ccp: "\U0001111B\U00011127\U00011103\U0001112E\U00011103\U00011128\U0001110C\U00011134"
   geo:
     latitude: 52.1430868
     longitude: -3.3736821
@@ -6561,6 +6830,8 @@ PTE:
     ur: پیٹربورو
     vi: Peterborough
     zh: 彼得伯勒
+    sr_Latn: Piterboro
+    ccp: "\U0001111B\U00011128\U00011111\U00011122\U00011134"
   geo:
     latitude: 52.56949849999999
     longitude: -0.2405299
@@ -6588,6 +6859,8 @@ RCC:
     uk: Редкар і Клівленд
     ur: ریڈکار اور کلیولینڈ
     zh: 雷德卡-克利夫兰
+    ccp: "\U00011122\U0001112C\U00011116\U00011134\U00011107\U00011122\U00011134 \U00011103\U00011133\U00011103
+      \U00011107\U00011133\U00011123\U00011128\U0001111B\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 54.5393369
     longitude: -1.0310219
@@ -6615,6 +6888,7 @@ RCH:
     uk: Рочдейл
     ur: میٹروپولیٹن بورو راچڈیل
     zh: 羅奇代爾都市自治市
+    ccp: "\U00011122\U0001112E\U0001110C\U00011134\U00011113\U00011123\U0001112C"
   geo:
     latitude: 53.6097136
     longitude: -2.1561
@@ -6650,6 +6924,8 @@ RCT:
     sv: Rhondda Cynon Taf
     uk: Ронта-Кінон-Тав
     zh: 朗达卡嫩塔夫
+    ccp: "\U0001111B\U0001112E\U0001111A\U00011134\U00011113\U00011133\U00011126 \U00011125\U0001112D\U00011120\U00011127\U0001111A\U00011134
+      \U00011111\U0001111B\U00011134"
   geo:
     latitude: 51.6035773
     longitude: -3.3411765
@@ -6692,6 +6968,8 @@ RDB:
     ur: ریڈبرج بورو
     vi: Khu Redbridge của Luân Đôn
     zh: 雷德布里奇區
+    sr_Latn: Redbridž
+    ccp: "\U00011122\U0001112C\U00011116\U00011134\U0001111D\U00011133\U00011122\U00011128\U0001110C\U00011134"
   geo:
     latitude: 51.58861
     longitude: 0.0823976
@@ -6749,6 +7027,8 @@ RDG:
     ur: ریڈنگ، بارکشائر
     vi: Reading
     zh: 雷丁
+    sr_Latn: Reding
+    ccp: "\U00011122\U00011128\U00011113\U00011128\U00011101"
   geo:
     latitude: 51.4542645
     longitude: -0.9781303
@@ -6786,6 +7066,7 @@ RFW:
     sv: Renfrewshire
     uk: Ренфрюшир
     zh: 伦弗鲁郡
+    ccp: "\U00011122\U0001112C\U0001111A\U00011134\U0001111C\U00011133\U00011122\U0001112C\U00011105\U0001112A\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.8298581
     longitude: -4.5428385
@@ -6829,6 +7110,9 @@ RIC:
     uk: Річмонд-на-Темзі
     ur: رچمنڈ اپون تھیمز بورو
     zh: 泰晤士河畔列治文區
+    sr_Latn: Londonska opština Ričmond na Temzi
+    ccp: "\U00011122\U00011128\U0001110C\U00011134\U0001111F\U00011127\U0001111A\U00011133\U00011113\U00011134
+      \U00011103\U0001111B\U00011127\U0001111A\U00011134 \U00011117\U0001111F\U00011134"
   geo:
     latitude: 51.46131099999999
     longitude: -0.303742
@@ -6855,6 +7139,7 @@ ROT:
     sv: Rotherham
     ur: میٹروپولیٹن بورو روتھرہیم
     zh: 羅瑟勒姆都市自治市
+    ccp: "\U00011122\U0001112E\U00011117\U00011122\U00011134\U00011126\U0001111F\U00011134"
   geo:
     latitude: 53.4326035
     longitude: -1.3635009
@@ -6905,6 +7190,8 @@ RUT:
     ur: راٹلینڈ
     vi: Rutland
     zh: 拉特蘭
+    sr_Latn: Ratland
+    ccp: "\U00011122\U0001112A\U00011116\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 52.6583014
     longitude: -0.639643
@@ -6931,6 +7218,7 @@ SAW:
     sv: Sandwell
     ur: سینڈویل
     zh: 砂井
+    ccp: "\U00011125\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011103\U0001112E\U00011120\U0001112C\U00011123\U00011134"
   geo:
     latitude: 52.5361674
     longitude: -2.010793
@@ -6969,6 +7257,7 @@ SAY:
     uk: Південний Ершир
     ur: جنوبی آئرشائر
     zh: 南艾尔郡
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011103\U00011120\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.2701113
     longitude: -4.6524183
@@ -7006,6 +7295,8 @@ SCB:
     sv: Scottish Borders
     uk: Шотландські кордони
     zh: 蘇格蘭邊區
+    ccp: "\U0001110C\U00011133\U00011107\U00011127\U00011111\U00011128\U0001110C\U00011134
+      \U0001111D\U00011127\U00011122\U00011134\U00011113\U00011122\U00011134"
   geo:
     latitude: 55.54856969999999
     longitude: -2.7861388
@@ -7064,6 +7355,8 @@ SFK:
     ur: سافک
     vi: Suffolk
     zh: 薩福克郡
+    sr_Latn: Safok
+    ccp: "\U00011125\U0001111C\U0001112E\U00011107\U00011134"
   geo:
     latitude: 52.1872472
     longitude: 0.9707800999999999
@@ -7093,6 +7386,7 @@ SFT:
     sv: Sefton
     ur: میٹروپولیٹن بورو سیفٹن
     zh: 塞夫頓都會自治市
+    ccp: "\U00011125\U0001112C\U0001111B\U00011134\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.503445
     longitude: -2.970359
@@ -7123,6 +7417,7 @@ SGC:
     uk: Південний Глостершир
     ur: جنوبی گلوسٹرشائر
     zh: 南告羅士打郡
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011109\U00011133\U00011123\U0001112E\U00011125\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.531456
     longitude: -2.4547158
@@ -7191,6 +7486,8 @@ SHF:
     ur: شیفیلڈ
     vi: Sheffield
     zh: 谢菲尔德
+    sr_Latn: Šefild
+    ccp: "\U00011125\U0001112C\U0001111C\U00011128\U00011123\U00011133\U00011113\U00011134"
   geo:
     latitude: 53.38112899999999
     longitude: -1.470085
@@ -7217,6 +7514,7 @@ SHN:
     uk: Сент-Геленс
     ur: میٹروپولیٹن بورو سینٹ ہیلنز
     zh: 聖海倫斯都會自治市
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134 \U00011126\U0001112C\U00011123\U0001112C\U0001111A\U00011134\U0001110C\U00011134"
   geo:
     latitude: 53.456307
     longitude: -2.737095
@@ -7269,6 +7567,8 @@ SHR:
     ur: شروپشائر
     vi: Shropshire
     zh: 什罗普郡
+    sr_Latn: Šropšir
+    ccp: "\U00011125\U00011133\U00011122\U0001112E\U0001111B\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.5864845
     longitude: -2.7037501
@@ -7294,6 +7594,7 @@ SKP:
     sv: Stockport
     ur: میٹروپولیٹن بورو سٹاکپورٹ
     zh: 斯托克波特都市自治市
+    ccp: "\U0001110C\U00011133\U00011111\U00011127\U00011107\U00011134\U0001111B\U0001112E\U00011122\U00011134\U00011111\U00011134"
   geo:
     latitude: 53.41063159999999
     longitude: -2.1575332
@@ -7327,6 +7628,7 @@ SLF:
     ur: سالفورڈ شہر
     vi: Salford
     zh: 索爾福德市
+    ccp: "\U00011125\U00011123\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 53.48752349999999
     longitude: -2.2901264
@@ -7372,6 +7674,8 @@ SLG:
     sv: Slough
     uk: Слау
     zh: 斯劳
+    sr_Latn: Slau
+    ccp: "\U00011125\U00011133\U00011123\U0001112E\U00011105\U0001112A"
   geo:
     latitude: 51.51053839999999
     longitude: -0.5950405999999999
@@ -7410,6 +7714,7 @@ SLK:
     sv: South Lanarkshire
     uk: Південний Ланаркшир
     zh: 南拉纳克郡
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011123\U00011133\U00011120\U0001111A\U00011122\U00011134\U00011107\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.5243038
     longitude: -3.7035077
@@ -7435,6 +7740,7 @@ SND:
     sv: Sunderland
     ur: سنڈرلینڈ شہر
     zh: 桑德蘭市
+    ccp: "\U00011125\U0001111A\U00011134\U00011113\U00011122\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 54.906869
     longitude: -1.383801
@@ -7460,6 +7766,7 @@ SOL:
     sv: Solihull (storstadsdistrikt)
     ur: میٹروپولیٹن بورو سولیہل
     zh: 索利赫爾區
+    ccp: "\U00011125\U0001112E\U00011123\U00011128\U00011126\U00011123\U00011134"
   geo:
     latitude: 52.411811
     longitude: -1.77761
@@ -7519,6 +7826,8 @@ SOM:
     ur: سامرسیٹ
     vi: Somerset
     zh: 森麻實郡
+    sr_Latn: Samerset
+    ccp: "\U00011125\U00011127\U0001111F\U00011122\U00011134\U00011125\U0001112C\U00011116\U00011134"
   geo:
     latitude: 51.0587013
     longitude: -2.9499066
@@ -7560,6 +7869,8 @@ SOS:
     uk: Саутенд-он-Сі
     ur: ساوتھاینڈ-آن-سی
     zh: 濱海紹森德
+    sr_Latn: Sautend na Moru
+    ccp: "\U00011125\U00011105\U0001112A\U00011118\U00011122\U00011134\U0001111A\U00011134-\U00011103\U00011127\U0001111A\U00011134-\U00011125\U00011128"
   geo:
     latitude: 51.5459269
     longitude: 0.7077123
@@ -7619,6 +7930,8 @@ SRY:
     uk: Суррей
     vi: Surrey
     zh: 薩里郡
+    sr_Latn: Sari
+    ccp: "\U00011125\U00011122\U0001112C"
   geo:
     latitude: 51.31475930000001
     longitude: -0.5599501
@@ -7631,6 +7944,7 @@ STB:
   unofficial_names: Strabane
   translations:
     en: Strabane
+    ccp: "\U0001110C\U00011133\U00011111\U00011133\U00011122\U00011133\U00011122\U00011133\U00011122\U0001111D\U0001111A\U0001112C"
   geo:
     latitude: 54.8272688
     longitude: -7.463579200000001
@@ -7693,6 +8007,8 @@ STE:
     ur: سٹوک آن ٹرینٹ
     vi: Stoke-on-Trent
     zh: 特倫特河畔斯托克
+    sr_Latn: Stouk na Trentu
+    ccp: "\U0001110C\U00011133\U00011111\U00011127\U00011107\U00011134-\U00011103\U00011127\U0001111A\U00011134-\U00011111\U00011133\U00011122\U0001112C\U0001111A\U00011134\U00011111\U00011134"
   geo:
     latitude: 53.002668
     longitude: -2.179404
@@ -7730,6 +8046,7 @@ STG:
     uk: Стерлінг
     ur: سٹرلنگ
     zh: 史特灵
+    ccp: "\U0001110C\U00011133\U00011111\U00011122\U00011134\U00011123\U00011128\U00011101"
   geo:
     latitude: 56.1165227
     longitude: -3.9369029
@@ -7797,6 +8114,8 @@ STH:
     ur: ساؤتھمپٹن
     vi: Southampton
     zh: 南安普敦
+    sr_Latn: Sauthempton
+    ccp: "\U00011125\U00011105\U0001112A\U00011117\U0001111F\U00011134\U0001111B\U00011134\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 50.90970040000001
     longitude: -1.4043509
@@ -7836,6 +8155,8 @@ STN:
     uk: Саттон
     ur: سٹن بورو
     zh: 薩頓區
+    sr_Latn: Londonska opština Saton
+    ccp: "\U00011125\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 51.3614279
     longitude: -0.193961
@@ -7892,6 +8213,8 @@ STS:
     ur: سٹیفورڈشائر
     vi: Staffordshire
     zh: 斯塔福德郡
+    sr_Latn: Stafordšir
+    ccp: "\U0001110C\U00011133\U00011111\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.7697957
     longitude: -2.1045243
@@ -7919,6 +8242,7 @@ STT:
     uk: Стоктон-он-Тіз (район)
     ur: بورو سٹاکٹن-آن-ٹیز
     zh: 蒂斯河畔斯托克頓區
+    ccp: "\U0001110C\U00011133\U00011111\U00011127\U00011107\U00011134\U00011111\U00011127\U0001111A\U00011134-\U00011103\U00011127\U0001111A\U00011134-\U00011111\U00011128\U0001110C\U00011134"
   geo:
     latitude: 54.5704551
     longitude: -1.3289821
@@ -7947,6 +8271,7 @@ STY:
     sv: South Tyneside
     ur: جنوبی ٹینیسائڈ
     zh: 南泰因賽德
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U00011111\U0001112D\U0001111B\U00011134\U00011125\U0001112D\U00011116\U00011134"
   geo:
     latitude: 54.9636693
     longitude: -1.4418634
@@ -8012,6 +8337,8 @@ SWA:
     ur: سوانزی
     vi: Swansea
     zh: 斯旺西
+    sr_Latn: Svonzi
+    ccp: "\U00011125\U00011127\U00011120\U0001111A\U00011134\U00011125\U00011128"
   geo:
     latitude: 51.62144
     longitude: -3.943645999999999
@@ -8039,6 +8366,7 @@ SWD:
     uk: Свіндон-боро
     ur: بورو سوینڈون
     zh: 史雲頓區
+    ccp: "\U00011125\U0001112D\U0001112A\U0001111A\U00011134\U00011113\U00011127\U0001111A\U00011134"
   geo:
     latitude: 51.55577390000001
     longitude: -1.7797176
@@ -8083,6 +8411,8 @@ SWK:
     ur: سدرک بورو
     vi: Khu Southwark của Luân Đôn
     zh: 南華克區
+    sr_Latn: Londonska opština Sadark
+    ccp: "\U00011125\U00011105\U0001112A\U00011116\U00011134\U00011103\U0001112E\U00011120\U00011122\U00011134\U00011107\U00011134"
   geo:
     latitude: 51.502781
     longitude: -0.087738
@@ -8111,6 +8441,7 @@ TAM:
     sv: Borough of Tameside
     ur: ٹیمسائڈ
     zh: 坦姆赛德
+    ccp: "\U00011111\U0001112C\U0001111F\U00011134\U00011125\U0001112D\U00011116\U00011134"
   geo:
     latitude: 53.4805828
     longitude: -2.0809891
@@ -8138,6 +8469,8 @@ TFW:
     uk: Телфорд і Рекін
     ur: ٹیلفورڈ اور ریکن
     zh: 特爾福德和雷金
+    ccp: "\U00011111\U0001112C\U00011123\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134
+      \U00011103\U00011133\U00011103 \U00011122\U0001112C\U00011107\U00011128\U0001111A\U00011134"
   geo:
     latitude: 52.7409916
     longitude: -2.4868586
@@ -8165,6 +8498,7 @@ THR:
     uk: Таррек
     ur: تھاراک
     zh: 瑟羅克
+    ccp: "\U00011117\U0001112A\U00011122\U0001112E\U00011107\U00011134"
   geo:
     latitude: 51.4934557
     longitude: 0.3529197
@@ -8196,6 +8530,7 @@ TOB:
     uk: Торбей
     ur: ٹوربے
     zh: 托貝
+    ccp: "\U00011111\U00011127\U00011122\U00011134\U0001111D\U0001112C"
   geo:
     latitude: 50.4619209
     longitude: -3.525315
@@ -8231,6 +8566,7 @@ TOF:
     tr: Torfaen
     uk: Торван
     zh: 托法恩
+    ccp: "\U00011111\U00011127\U00011122\U00011134\U0001111C\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 51.696
     longitude: -3.063
@@ -8268,6 +8604,7 @@ TRF:
     ur: ٹریفرڈ
     vi: Trafford
     zh: 特拉福德
+    ccp: "\U00011111\U00011133\U00011122\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134"
   geo:
     latitude: 53.4215132
     longitude: -2.3517263
@@ -8311,6 +8648,7 @@ TWH:
     uk: Тауер-Гемлетс
     ur: ٹاور ہیملٹس بورو
     zh: 塔村區
+    ccp: "\U00011111\U00011124\U00011122\U00011134 \U00011126\U0001111F\U00011134\U00011123\U0001112C\U00011116\U00011134\U0001110C\U00011134"
   geo:
     latitude: 51.52026069999999
     longitude: -0.0293396
@@ -8345,6 +8683,8 @@ VGL:
     sv: Vale of Glamorgan
     uk: Долина Гламорган
     zh: 格拉摩根谷
+    ccp: "\U0001111E\U00011123\U00011134 \U00011103\U00011127\U0001111B\U00011134
+      \U00011109\U00011133\U00011123\U0001111F\U00011127\U00011122\U00011134\U00011109\U00011133\U00011120\U0001111A\U00011134"
   geo:
     latitude: 51.4443584
     longitude: -3.4151166
@@ -8398,6 +8738,8 @@ WAR:
     ur: وارکشائر
     vi: Warwickshire
     zh: 沃里克郡
+    sr_Latn: Vorikšir
+    ccp: "\U00011124\U00011122\U00011134\U00011103\U0001112A\U00011103\U00011128\U00011107\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.2671353
     longitude: -1.4675216
@@ -8430,6 +8772,7 @@ WBK:
     uk: Західний Беркшир
     ur: مغربی بارکشائر
     zh: 西伯克郡
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111D\U00011122\U00011134\U00011107\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.4659863
     longitude: -1.2814014
@@ -8470,6 +8813,7 @@ WDU:
     sv: West Dunbartonshire
     uk: Західний Данбартоншир
     zh: 西鄧巴頓郡
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011113\U0001111A\U00011134\U0001111D\U00011122\U00011134\U00011111\U00011127\U0001111A\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 55.9650641
     longitude: -4.5063596
@@ -8512,6 +8856,8 @@ WFT:
     uk: Волтем-Форест
     ur: والٹہیم جنگل بورو
     zh: 沃爾瑟姆福里斯特區
+    sr_Latn: Londonska opština Voltam Forest
+    ccp: "\U00011124\U00011123\U00011134\U00011117\U0001111F\U00011134 \U0001111C\U00011127\U00011122\U0001112C\U0001110C\U00011134\U00011111\U00011134"
   geo:
     latitude: 51.5886383
     longitude: -0.0117625
@@ -8538,6 +8884,7 @@ WGN:
     tr: Wigan Metropoliten Borough
     ur: میٹروپولیٹن بورو ویگان
     zh: 威根都市自治市
+    ccp: "\U00011103\U0001112A\U00011103\U00011128\U00011109\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.5450645
     longitude: -2.6325074
@@ -8593,6 +8940,8 @@ WIL:
     ur: ویلٹشائر
     vi: Wiltshire
     zh: 威爾特郡
+    sr_Latn: Viltšir
+    ccp: "\U00011103\U0001112A\U00011103\U00011128\U00011123\U00011133\U00011111\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 51.2462714
     longitude: -1.9922127
@@ -8626,6 +8975,7 @@ WKF:
     uk: Вейкфілд
     ur: ویکفیلڈ شہر
     zh: 韋克菲爾德市
+    ccp: "\U00011124\U00011120\U0001112C\U00011107\U00011134\U0001111C\U00011128\U00011123\U00011133\U00011113\U00011134"
   geo:
     latitude: 53.683298
     longitude: -1.505924
@@ -8650,6 +9000,7 @@ WLL:
     sv: Walsall
     ur: میٹروپولیٹن بورو والسال
     zh: 華素爾區
+    ccp: "\U00011124\U00011123\U00011134\U00011125\U00011127\U00011123\U00011134"
   geo:
     latitude: 52.586214
     longitude: -1.982919
@@ -8689,6 +9040,7 @@ WLN:
     uk: Західний Лотіан
     ur: مغربی لوتھین
     zh: 西洛锡安
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011123\U0001112E\U00011117\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 55.9070198
     longitude: -3.5517167
@@ -8753,6 +9105,8 @@ WLV:
     ur: وولورہیمپٹن
     vi: Wolverhampton
     zh: 伍爾弗漢普頓
+    sr_Latn: Vulverhempton
+    ccp: "\U00011124\U00011120\U0001112E\U00011123\U00011134\U0001111E\U00011122\U00011134\U00011126\U0001111F\U00011134\U0001111B\U00011134\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 52.586973
     longitude: -2.12882
@@ -8798,6 +9152,7 @@ WND:
     ur: وینڈزورتھ بورو
     vi: Khu Wandsworth của Luân Đôn
     zh: 旺茲沃思區
+    ccp: "\U00011124\U00011120\U0001111A\U00011133\U00011113\U00011134\U00011125\U0001112E\U00011122\U00011134\U00011116\U00011134"
   geo:
     latitude: 51.4570716
     longitude: -0.1817824
@@ -8828,6 +9183,8 @@ WNM:
     uk: Віндзор і Мейденгед
     ur: شاہی بورو ونڈسر اور میڈنہیڈ
     zh: 溫莎-梅登黑德
+    ccp: "\U00011103\U0001112A\U00011103\U00011128\U0001111A\U00011133\U00011113\U00011134\U00011125\U0001112E\U00011122\U00011134
+      \U00011103\U00011133\U00011103 \U0001111F\U0001112D\U00011113\U0001112C\U0001111A\U00011134\U00011126\U0001112C\U00011116\U00011134"
   geo:
     latitude: 51.4917059
     longitude: -0.7321755000000001
@@ -8855,6 +9212,7 @@ WOK:
     uk: Вокінгем
     ur: بورو ووکنگہیم
     zh: 沃金厄姆區
+    ccp: "\U00011103\U0001112E\U00011107\U00011128\U00011101\U00011126\U0001111F\U00011134"
   geo:
     latitude: 51.410457
     longitude: -0.833861
@@ -8908,6 +9266,8 @@ WOR:
     ur: ووسٹرشائر
     vi: Worcestershire
     zh: 伍斯特郡
+    sr_Latn: Vusteršir
+    ccp: "\U00011103\U0001112E\U00011120\U00011122\U00011134\U00011125\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134\U00011125\U00011120\U00011122\U00011134"
   geo:
     latitude: 52.2545225
     longitude: -2.2668382
@@ -8937,6 +9297,7 @@ WRL:
     sv: Wirral
     ur: میٹروپولیٹن برو ویرل
     zh: 威勒爾都會自治市
+    ccp: "\U00011103\U0001112E\U00011120\U00011122\U0001112C\U00011123\U00011134"
   geo:
     latitude: 53.3333333
     longitude: -3.0833333
@@ -8975,6 +9336,8 @@ WRT:
     uk: Воррінгтон
     ur: وارنگٹن
     zh: 沃灵顿
+    sr_Latn: Vorington
+    ccp: "\U00011103\U0001112E\U00011120\U00011122\U00011128\U00011101\U00011111\U00011127\U0001111A\U00011134"
   geo:
     latitude: 53.3900441
     longitude: -2.5969501
@@ -9008,6 +9371,7 @@ WRX:
     sv: Wrexham
     uk: Рексем
     zh: 雷克瑟姆
+    ccp: "\U00011122\U0001112C\U00011107\U00011134\U00011126\U0001111F\U00011134"
   geo:
     latitude: 53.04304
     longitude: -2.992494
@@ -9069,6 +9433,7 @@ WSM:
     ur: ویسٹمنسٹر شہر
     vi: Thành phố Westminster
     zh: 西敏市
+    ccp: "\U00011103\U0001112E\U00011120\U0001112C\U0001110C\U00011134\U0001111F\U00011128\U0001111A\U00011134\U0001110C\U00011133\U00011111\U00011122\U00011134"
   geo:
     latitude: 51.5001754
     longitude: -0.1332326
@@ -9126,6 +9491,8 @@ WSX:
     ur: مغربی سسیکس
     vi: West Sussex
     zh: 西薩塞克斯郡
+    sr_Latn: Zapadni Saseks
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U00011125\U00011125\U0001112C\U00011107\U00011134"
   geo:
     latitude: 50.9280143
     longitude: -0.4617075
@@ -9193,6 +9560,8 @@ YOR:
     ur: یورک
     vi: York
     zh: 約克
+    sr_Latn: Jork
+    ccp: "\U00011103\U00011128\U00011120\U00011127\U00011122\U00011134\U00011107\U00011134"
   geo:
     latitude: 53.95996510000001
     longitude: -1.0872979
@@ -9247,6 +9616,8 @@ ZET:
     ur: شیٹ لینڈ
     vi: Shetland
     zh: 设德兰群岛
+    sr_Latn: Šetlandska ostrva
+    ccp: "\U00011125\U0001112C\U00011116\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
   geo:
     latitude: 60.5296507
     longitude: -1.2659408
@@ -9326,6 +9697,9 @@ ENG:
     vi: Anh Quốc
     zh: 英格兰
     zh_Hant: 英格蘭
+    sr_Latn: Engleska
+    ccp: "\U00011103\U00011128\U00011101\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
+    zu: I-England
 GBN:
   translations:
     af: Groot-Brittanje
@@ -9385,6 +9759,9 @@ GBN:
     uk: Велика Британія
     vi: Đảo Anh
     zh: 大不列顛島
+    sr_Latn: Velika Britanija
+    de_CH: Grossbritannien
+    ccp: "\U00011109\U00011133\U00011122\U0001112C\U00011116\U00011134 \U0001111D\U00011133\U00011122\U00011128\U00011111\U0001112C\U0001111A\U00011134"
 NIR:
   translations:
     af: Noord-Ierland
@@ -9448,6 +9825,9 @@ NIR:
     ur: شمالی آئرلینڈ
     vi: Bắc Ireland
     zh: 北爱尔兰
+    sr_Latn: Severna Irska
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U00011103\U00011120\U00011122\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
 SCT:
   translations:
     af: Skotland
@@ -9459,7 +9839,7 @@ SCT:
     bn: স্কটল্যান্ড
     ca: Escòcia
     cs: Skotsko
-    da: Scotland
+    da: Skotland
     de: Schottland
     el: Σκωτία
     en: Scotland
@@ -9514,6 +9894,9 @@ SCT:
     vi: Scotland
     zh: 苏格兰
     zh_Hant: 蘇格蘭
+    sr_Latn: Škotska
+    ccp: "\U0001110C\U00011133\U00011107\U00011127\U00011116\U00011134\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134"
+    zu: I-Scotland
 UKM:
   translations:
     af: Verenigde Koninkryk
@@ -9581,6 +9964,10 @@ UKM:
     ur: برطانیہ
     vi: Vương quốc Liên hiệp Anh và Bắc Ireland
     zh: 英国
+    sr_Latn: Ujedinjeno Kraljevstvo
+    ccp: "\U00011103\U00011128\U00011105\U0001112A\U0001111A\U0001112D\U00011111\U0001112C\U00011116\U00011134
+      \U00011107\U00011128\U00011101\U00011113\U00011127\U0001111F\U00011134"
+    zu: Umbuso Ohlangeneyo
 WLS:
   translations:
     af: Wales
@@ -9589,7 +9976,7 @@ WLS:
     az: Uels
     be: Уэльс
     bg: Уелс
-    bn: ওয়েল্স
+    bn: ওয়েল্স
     ca: Gal·les
     cs: Wales
     da: Wales
@@ -9648,6 +10035,9 @@ WLS:
     vi: Xứ Wales
     zh: 威尔士
     zh_Hant: 威爾斯
+    sr_Latn: Vels
+    ccp: "\U00011103\U0001112E\U00011120\U0001112C\U00011123\U00011134"
+    zu: I-Wales
 CHE:
   translations:
     be: Усходні Чэшыр
@@ -9664,6 +10054,7 @@ CHE:
     uk: Східний Чешир
     ur: چیشائر مشرقی
     zh: 東柴郡
+    ccp: "\U00011107\U0001112C\U00011125\U00011120\U00011122\U00011134 \U0001111B\U0001112A\U00011107\U00011134"
 EAW:
   translations:
     ca: Anglaterra i Gal·les
@@ -9687,6 +10078,8 @@ EAW:
     sv: England och Wales
     uk: Англія та Уельс
     zh: 英格蘭和威爾斯
+    ccp: "\U00011103\U00011128\U00011101\U00011123\U00011133\U00011120\U0001111A\U00011133\U00011113\U00011134
+      \U00011103\U00011133\U00011103 \U00011103\U0001112E\U00011120\U0001112C\U00011123\U00011134"
 CBF:
   translations:
     da: Central Bedfordshire
@@ -9703,6 +10096,8 @@ CBF:
     uk: Центральний Бедфордшир
     ur: وسطی بیڈفورڈشائر
     zh: 中央貝德福
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001111D\U0001112C\U00011116\U00011134\U0001111C\U0001112E\U00011122\U00011134\U00011113\U00011134\U00011125\U00011120\U00011122\U00011134"
 ABC:
   translations:
     de: Armagh, Banbridge and Craigavon
@@ -9712,6 +10107,8 @@ ABC:
     ja: アーマー・シティ・バンブリッジ・アンド・クレイガヴォン
     ru: Арма, Бенбридж и Крейгавон
     ur: آرماہ، بینبریج اور کرائگیون
+    ccp: "\U00011103\U00011122\U00011134\U0001111F\U00011107\U00011134, \U0001111D\U0001111A\U00011134\U0001111D\U00011133\U00011122\U00011128\U0001110C\U00011134
+      \U00011103\U00011133\U00011103 \U00011107\U00011133\U00011122\U0001112D\U00011109\U0001111E\U00011127\U0001111A\U00011134"
 AND:
   translations:
     de: Ards and North Down
@@ -9720,6 +10117,8 @@ AND:
     it: Distretto di Ards e North Down
     ja: アーズ・アンド・ノース・ダウン
     ur: آرڈز اور نارتھ ڈاؤن
+    ccp: "\U00011103\U00011122\U00011134\U00011113\U00011134\U00011125\U00011134 \U00011103\U00011133\U00011103
+      \U0001111A\U00011127\U00011122\U00011134\U00011116\U00011134 \U00011113\U00011105\U0001112A\U0001111A\U00011134"
 ANN:
   translations:
     de: Antrim and Newtownabbey
@@ -9729,6 +10128,8 @@ ANN:
     ja: アントリム・アンド・ニュータウンアベイ
     ur: انٹریم اور نیو ٹاؤن ایبی
     zh: 安特里姆與紐頓阿比區
+    ccp: "\U00011103\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011128\U0001111F\U00011134
+      \U00011103\U00011133\U00011103 \U0001111A\U00011128\U00011105\U0001112A\U00011111\U0001112D\U00011105\U0001112A\U0001111A\U00011134\U0001111D\U0001112C"
 CCG:
   translations:
     de: Causeway Coast and Glens
@@ -9737,6 +10138,8 @@ CCG:
     it: Distretto di Causeway Coast e Glens
     ja: コーズウェー・コースト・アンド・グランス
     ur: کازوئے کوسٹ اور گلینز
+    ccp: "\U00011107\U00011127\U0001110C\U00011134\U00011124\U00011120\U0001112C \U00011107\U0001112E\U0001110C\U00011134\U00011111\U00011134
+      \U00011103\U00011133\U00011103 \U00011109\U00011133\U00011123\U0001112C\U0001111A\U00011134\U00011125\U00011134"
 CHW:
   translations:
     de: Cheshire West and Chester
@@ -9750,6 +10153,8 @@ CHW:
     sv: Cheshire West and Chester
     uk: Західний Чешир і Честер
     zh: 西柴郡與切斯特
+    ccp: "\U00011107\U0001112C\U00011125\U00011120\U00011122\U00011134 \U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134
+      \U00011103\U00011133\U00011103 \U00011107\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134"
 DRS:
   translations:
     de: Derry and Strabane
@@ -9759,6 +10164,8 @@ DRS:
     ja: デリー・シティ・アンド・ストラバン
     ru: Дерри-сити и Страбэйн
     ur: ڈیری اور سٹربین
+    ccp: "\U00011113\U0001112C\U00011122\U00011128 \U00011103\U00011133\U00011103
+      \U0001110C\U00011133\U00011111\U00011133\U00011122\U00011133\U00011122\U00011133\U00011122\U00011127\U0001111D\U0001111A\U00011128"
 FMO:
   translations:
     de: Fermanagh and Omagh
@@ -9767,6 +10174,8 @@ FMO:
     it: Distretto di Fermanagh e Omagh
     ja: ファーマナ・アンド・オマー
     ur: فیرمانہ اور اوما
+    ccp: "\U0001111C\U00011122\U00011134\U0001111F\U0001111A\U00011107\U00011134 \U00011103\U00011133\U00011103
+      \U00011103\U0001112E\U0001111F\U00011107\U00011134"
 LBC:
   translations:
     de: Lisburn and Castlereagh
@@ -9775,6 +10184,8 @@ LBC:
     it: Distretto di Lisburn e Castlereagh
     ja: リスバーン・アンド・キャッスルレー
     ur: لسبرن اور کیسلرے
+    ccp: "\U00011123\U00011128\U0001110C\U00011134\U0001111D\U00011122\U00011134\U0001111A\U00011134
+      \U00011103\U00011133\U00011103 \U00011107\U00011133\U00011120\U00011125\U00011127\U00011123\U00011134\U00011122\U00011128\U00011107\U00011134"
 MEA:
   translations:
     de: Mid and East Antrim
@@ -9784,6 +10195,8 @@ MEA:
     ja: ミッド・アンド・イースト・アントリム
     ru: Средний и Восточный Антрим
     ur: وسطی اور مشرقی انٹریم
+    ccp: "\U0001111F\U00011128\U00011116\U00011134 \U00011103\U00011133\U00011103
+      \U00011103\U00011128\U0001110C\U00011134\U00011111\U00011134 \U00011103\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011128\U0001111F\U00011134"
 MUL:
   translations:
     de: Mid Ulster
@@ -9792,6 +10205,7 @@ MUL:
     it: Distretto di Mid-Ulster
     ja: ミッド・アルスター
     ur: وسطی-السٹر ضلع
+    ccp: "\U0001111F\U00011128\U00011116\U00011134 \U00011103\U00011123\U00011134\U00011111\U00011122\U00011134"
 NMD:
   translations:
     de: Newry, Mourne and Down
@@ -9801,3 +10215,5 @@ NMD:
     ja: ニューリー・モーン・アンド・ダウン
     ru: Ньюри, Мурн и Даун
     ur: نیوری، مورن اور ڈاؤن
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A\U00011122\U00011128, \U0001111F\U0001112F\U00011122\U00011134
+      \U00011103\U00011133\U00011103 \U00011113\U00011105\U0001112A\U0001111A\U00011134"

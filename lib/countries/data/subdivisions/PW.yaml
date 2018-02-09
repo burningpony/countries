@@ -37,6 +37,7 @@
     ur: آئمیلیک
     vi: Aimeliik
     zh: 艾梅利克州
+    ccp: "\U00011103\U0001112D\U0001111F\U0001112C\U00011123\U00011128\U00011107\U00011134"
   geo:
     latitude: 7.445585899999998
     longitude: 134.5030878
@@ -83,6 +84,9 @@
     tr: Airai
     ur: آئرائی
     vi: Airai
+    sr_Latn: Airai
+    zh: 艾拉伊州
+    ccp: "\U00011103\U0001112D\U00011122\U0001112D"
   geo:
     latitude: 7.364184199999999
     longitude: 134.5360667
@@ -129,6 +133,8 @@
     tr: Angaur
     ur: انگاور
     vi: Angaur
+    zh: 安加爾
+    ccp: "\U00011103\U0001111A\U00011134\U00011109\U00011127\U00011105\U0001112A\U00011122\U00011134"
   geo:
     latitude: 6.909223
     longitude: 134.1387934
@@ -174,6 +180,8 @@
     tr: Hatohobei
     ur: ہاتوبوبئی
     vi: Hatohobei
+    zh: 哈托博海伊州
+    ccp: "\U00011126\U00011111\U0001112E\U00011126\U0001112E\U0001111D\U0001112C\U0001112D"
   geo:
     latitude: 3.0048867
     longitude: 131.1214186
@@ -217,6 +225,8 @@
     tr: Kayangel
     ur: کایانگیل
     vi: Kayangel
+    zh: 卡揚埃爾
+    ccp: "\U00011107\U0001112C\U00011120\U0001111A\U00011134\U00011109\U0001112C\U00011123\U00011134"
   geo:
     latitude: 8.0889471
     longitude: 134.709999
@@ -272,6 +282,9 @@
     uk: Корор
     ur: کورور
     vi: Koror
+    sr_Latn: Koror
+    zh: 科羅爾州
+    ccp: "\U00011107\U00011122\U0001112E\U00011122\U00011134"
   geo:
     latitude: 7.3419444
     longitude: 134.4791667
@@ -319,6 +332,9 @@
     uk: Мелекеок
     ur: میلیکئوک
     vi: Melekeok
+    sr_Latn: Melekeok
+    zh: 梅莱凯奥克州
+    ccp: "\U0001111F\U0001112C\U00011123\U0001112C\U00011107\U0001112C\U00011103\U0001112E\U00011107\U00011134"
   geo:
     latitude: 7.4951158
     longitude: 134.6336896
@@ -362,6 +378,8 @@
     tr: Ngaraard
     ur: نگارآرد
     vi: Ngaraard
+    zh: 雅拉爾德州
+    ccp: "\U00011109\U00011122\U00011133\U00011103\U00011116\U00011134"
   geo:
     latitude: 7.607939999999999
     longitude: 134.6348645
@@ -406,6 +424,8 @@
     tr: Ngarchelong
     ur: نگارچیلونگ
     vi: Ngarchelong
+    zh: 雅切隆州
+    ccp: "\U00011109\U00011122\U00011134\U00011125\U0001112C\U00011123\U00011127\U00011101"
   geo:
     latitude: 7.7105469
     longitude: 134.6301646
@@ -449,6 +469,8 @@
     tr: Ngardmau
     ur: نگاردماو
     vi: Ngardmau
+    zh: 雅德馬烏州
+    ccp: "\U00011109\U00011122\U00011134\U00011113\U00011134\U0001111F\U00011127\U00011105\U0001112A"
   geo:
     latitude: 7.585048599999999
     longitude: 134.5596089
@@ -493,6 +515,8 @@
     tr: Ngatpang
     ur: نگاتپانگ
     vi: Ngatpang
+    zh: 雅龐
+    ccp: "\U00011109\U00011116\U00011134\U0001111B\U00011127\U00011101"
   geo:
     latitude: 7.4710994
     longitude: 134.5266466
@@ -536,6 +560,8 @@
     tr: Ngchesar
     ur: نگچیسار
     vi: Ngchesar
+    zh: 恩切薩爾州
+    ccp: "\U0001110C\U0001112C\U00011125\U00011122\U00011134"
   geo:
     latitude: 7.452328
     longitude: 134.5784342
@@ -580,6 +606,8 @@
     tr: Ngeremlengui
     ur: نگیریملینگوئی
     vi: Ngaremlengui
+    zh: 埃雷姆倫維州
+    ccp: "\U00011109\U0001112C\U00011122\U0001112C\U0001111F\U00011134\U00011123\U0001112C\U00011101\U00011109\U0001112D\U0001112A"
   geo:
     latitude: 7.5198397
     longitude: 134.5596089
@@ -623,6 +651,8 @@
     tr: Ngiwal
     ur: نگیوال
     vi: Ngiwal
+    zh: 宜瓦尔州
+    ccp: "\U00011109\U0001112D\U00011124\U00011123\U00011134"
   geo:
     latitude: 7.561476399999999
     longitude: 134.6160619
@@ -670,6 +700,8 @@
     uk: Пелеліу
     ur: پیلیلیو
     vi: Peleliu
+    zh: 貝里琉州
+    ccp: "\U0001111B\U0001112C\U00011123\U0001112C\U00011123\U00011128\U00011105\U0001112A"
   geo:
     latitude: 7.002290599999999
     longitude: 134.2431628
@@ -716,6 +748,8 @@
     tr: Sonsorol
     ur: سونسورول
     vi: Sonsorol
+    zh: 松索羅爾
+    ccp: "\U00011125\U00011127\U0001111A\U00011134\U00011125\U0001112E\U00011122\U0001112E\U00011123\U00011134"
   geo:
     latitude: 4.319971799999999
     longitude: 132.3126369

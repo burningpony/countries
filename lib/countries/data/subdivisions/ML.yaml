@@ -42,6 +42,7 @@
     ur: علاقہ کیز
     vi: Khu vực Kayes
     zh: 卡伊區
+    ccp: "\U00011107\U0001112C\U00011120\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 14.4367876
     longitude: -11.4452717
@@ -93,6 +94,8 @@
     uk: Кулікоро
     ur: علاقہ کولیکورو
     vi: Khu vực Koulikoro
+    zh: 库利科罗区
+    ccp: "\U00011107\U0001112F\U00011123\U00011128\U00011107\U0001112E\U00011122\U0001112E"
   geo:
     latitude: 12.861111
     longitude: -7.558332999999999
@@ -143,6 +146,8 @@
     uk: Сікасо
     ur: علاقہ سیکاسو
     vi: Khu vực Sikasso
+    zh: 锡卡索区
+    ccp: "\U00011125\U00011128\U00011107\U00011125\U0001112E"
   geo:
     latitude: 11.316667
     longitude: -5.666666999999999
@@ -192,6 +197,8 @@
     uk: Сегу
     ur: علاقہ سیگو
     vi: Khu vực Ségou
+    zh: 塞古区
+    ccp: "\U00011125\U0001112C\U00011109\U0001112F"
   geo:
     latitude: 13.45
     longitude: -6.266667
@@ -242,6 +249,8 @@
     uk: Мопті
     ur: علاقہ موپٹی
     vi: Khu vực Mopti
+    zh: 莫普提区
+    ccp: "\U0001111F\U0001112E\U0001111B\U00011134\U00011111\U00011128"
   geo:
     latitude: 14.495833
     longitude: -4.198611
@@ -292,6 +301,8 @@
     uk: Тімбукту
     ur: علاقہ ٹمبکٹو
     vi: Khu vực Tombouctou
+    zh: 通布圖區
+    ccp: "\U00011111\U0001112E\U0001111F\U00011134\U0001111D\U0001112F\U00011107\U00011134\U00011111\U0001112F"
   geo:
     latitude: 16.7665887
     longitude: -3.0025615
@@ -342,6 +353,8 @@
     uk: Гао
     ur: علاقہ گاو
     vi: Khu vực Gao
+    zh: 加奥区
+    ccp: "\U00011109\U00011103\U0001112E"
   geo:
     latitude: 16.2639807
     longitude: -0.0279867
@@ -392,6 +405,8 @@
     uk: Кідаль
     ur: علاقہ کڈال
     vi: Khu vực Kidal
+    zh: 基達爾區
+    ccp: "\U00011107\U00011128\U00011113\U00011123\U00011134"
   geo:
     latitude: 18.438889
     longitude: 1.408333
@@ -462,6 +477,9 @@ BKO:
     uk: Бамако
     ur: بماکو
     vi: Bamako
+    sr_Latn: Bamako
+    zh: 巴馬科
+    ccp: "\U0001111D\U0001111F\U00011107\U0001112E"
   geo:
     latitude: 12.65
     longitude: -8

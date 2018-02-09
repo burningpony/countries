@@ -53,6 +53,8 @@ AJ:
     ur: عجمان
     vi: Ajman
     zh: 阿吉曼
+    sr_Latn: Adžman
+    ccp: "\U00011103\U0001110C\U00011134\U0001111F\U0001111A\U00011134"
   geo:
     latitude: 25.3995
     longitude: 55.4796
@@ -124,6 +126,9 @@ AZ:
     uk: Абу-Дабі
     ur: ابوظہبی
     vi: Abu Dhabi
+    sr_Latn: Abu Dabi
+    zh: 阿布扎比
+    ccp: "\U00011103\U0001111D\U0001112A \U00011119\U0001111D\U00011128"
   geo:
     latitude: 24.466667
     longitude: 54.36666700000001
@@ -183,6 +188,9 @@ DU:
     uk: Дубай
     ur: امارت دبئی
     vi: Dubai
+    sr_Latn: Dubai
+    zh: 迪拜酋长国
+    ccp: "\U00011118\U0001112A\U0001111D\U0001112D"
   geo:
     latitude: 25.2048493
     longitude: 55.2707828
@@ -246,6 +254,9 @@ FU:
     uk: Фуджейра
     ur: فجیرہ
     vi: Fujairah
+    sr_Latn: Fudžejra
+    zh: 富吉拉
+    ccp: "\U0001111C\U0001110E\U0001112D\U00011122\U00011126\U00011134"
   geo:
     latitude: 25.4110762
     longitude: 56.24822769999999
@@ -309,6 +320,9 @@ RK:
     uk: Рас-ель-Хайма
     ur: راس الخیمہ
     vi: Ras al-Khaimah
+    sr_Latn: Ras el Hajma
+    zh: 拉斯海玛
+    ccp: "\U00011122\U0001110C\U00011134 \U00011103\U00011123\U00011134-\U00011108\U0001112D\U0001111F\U00011126\U00011134"
   geo:
     latitude: 25.8006926
     longitude: 55.9761994
@@ -374,6 +388,9 @@ SH:
     uk: Шарджа
     ur: شارجہ
     vi: Sharjah
+    sr_Latn: Šardža
+    zh: 夏尔迦
+    ccp: "\U00011125\U00011122\U00011134\U0001110E\U00011126\U00011134"
   geo:
     latitude: 25.3575
     longitude: 55.390833
@@ -437,6 +454,9 @@ UQ:
     uk: Умм-ель-Кувейн
     ur: ام القوین
     vi: Umm al-Quwain
+    sr_Latn: Um el Kajvejn
+    zh: 欧姆古温
+    ccp: "\U00011105\U0001112A\U0001111F\U00011134 \U00011103\U00011123\U00011134-\U00011107\U0001112A\U00011120\U00011103\U00011128\U0001111A\U00011134"
   geo:
     latitude: 25.5204824
     longitude: 55.7133909

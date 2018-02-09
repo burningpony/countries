@@ -40,6 +40,7 @@ CHA:
     ur: چانگہوا کاؤنٹی
     vi: Chương Hóa
     zh: 彰化縣
+    ccp: "\U0001110C\U0001111A\U00011134\U0001110A\U0001112A\U00011120"
   geo:
     latitude: 24.0716583
     longitude: 120.5624474
@@ -86,6 +87,8 @@ CYI:
     tr: Chiayi Country
     ur: چیائی کاؤنٹی
     vi: Gia Nghĩa
+    zh: 嘉義縣
+    ccp: "\U0001110C\U00011128\U00011120\U00011103\U00011128 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
   geo:
     latitude: 23.4871898
     longitude: 120.4516708
@@ -136,6 +139,8 @@ CYQ:
     uk: Цзяї
     ur: چیایی شہر
     vi: Gia Nghĩa²
+    zh: 嘉義市
+    ccp: "\U0001110C\U00011128\U00011120\U00011103\U00011128"
   geo:
     latitude: 23.4518428
     longitude: 120.2554615
@@ -182,6 +187,8 @@ HSQ:
     tr: Hsinchu County
     ur: ہسینچو کاؤنٹی
     vi: Tân Trúc
+    zh: 新竹縣
+    ccp: "\U00011125\U00011128\U0001111A\U00011134\U0001110C\U0001112A \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
   geo:
     latitude: 24.8066493
     longitude: 120.9669257
@@ -231,6 +238,8 @@ HSZ:
     uk: Сіньчжу
     ur: ہسینچو
     vi: Tân Trúc²
+    zh: 新竹市
+    ccp: "\U00011125\U00011128\U0001111A\U00011134\U0001110C\U0001112A"
   geo:
     latitude: 24.9330791
     longitude: 121.0093188
@@ -279,6 +288,8 @@ HUA:
     tr: Hualien
     ur: ہوالیئن کاؤنٹی
     vi: Hoa Liên
+    zh: 花蓮縣
+    ccp: "\U00011126\U0001112A\U00011120\U00011123\U00011128\U00011120\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 23.9499886
     longitude: 121.5518908
@@ -326,6 +337,8 @@ ILA:
     tr: Yilan
     ur: یلن کاؤنٹی، تائیوان
     vi: Nghi Lan
+    zh: 宜蘭縣
+    ccp: "\U00011103\U00011128\U00011123\U0001111A\U00011134"
   geo:
     latitude: 24.7021073
     longitude: 121.7377502
@@ -377,6 +390,8 @@ KEE:
     tr: Keelung
     ur: کیلونگ
     vi: Cơ Long
+    zh: 基隆市
+    ccp: "\U00011107\U00011129\U00011123\U0001112A\U00011101"
   geo:
     latitude: 25.1313701
     longitude: 121.7488675
@@ -436,6 +451,8 @@ KHH:
     uk: Гаосюн
     ur: کائوسیونگ شہر
     vi: Cao Hùng
+    zh: 高雄市
+    ccp: "\U00011107\U00011103\U0001112E\U00011126\U00011134\U00011125\U00011128\U00011105\U0001112A\U00011101"
   geo:
     latitude: 22.6272784
     longitude: 120.3014353
@@ -448,6 +465,8 @@ KHQ:
   unofficial_names: Kaohsiung
   translations:
     en: Kaohsiung County
+    ccp: "\U00011107\U00011103\U0001112E\U00011126\U00011125\U00011128\U00011105\U0001112A\U00011101
+      \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
   geo:
     latitude: 22.6272784
     longitude: 120.3014353
@@ -494,6 +513,8 @@ MIA:
     tr: Miaoli County
     ur: میاولی کاؤنٹی
     vi: Miêu Lật
+    zh: 苗栗縣
+    ccp: "\U0001111F\U0001112D\U00011103\U0001112E\U00011123\U00011128"
   geo:
     latitude: 24.560159
     longitude: 120.8214265
@@ -540,6 +561,8 @@ NAN:
     tr: Nantou
     ur: نانتوو کاؤنٹی
     vi: Nam Đầu
+    zh: 南投縣
+    ccp: "\U0001111A\U0001111A\U00011134\U00011111\U0001112F"
   geo:
     latitude: 23.9609981
     longitude: 120.9718638
@@ -560,6 +583,8 @@ PEN:
     ja: 澎湖県
     ko: 펑후 현
     ru: Пэнху
+    zh: 澎湖縣
+    ccp: "\U0001111B\U0001112C\U0001111A\U00011134\U0001110A\U0001112A"
   geo:
     latitude: 23.5711899
     longitude: 119.5793157
@@ -608,6 +633,8 @@ PIF:
     tr: Pingtung
     ur: پنگتونگ کاؤنٹی
     vi: Bình Đông
+    zh: 屏東縣
+    ccp: "\U0001111B\U00011128\U00011101\U00011111\U00011101"
   geo:
     latitude: 22.5519759
     longitude: 120.5487597
@@ -657,6 +684,8 @@ TAO:
     tr: Taoyuan
     ur: تاویوان
     vi: Đào Viên
+    zh: 桃園市
+    ccp: "\U00011111\U00011103\U0001112E\U00011105\U0001112A\U00011120\U0001111A\U00011134"
   geo:
     latitude: 24.9936281
     longitude: 121.3009798
@@ -711,6 +740,8 @@ TNN:
     uk: Тайнань
     ur: تاینان
     vi: Đài Nam
+    zh: 臺南市
+    ccp: "\U00011111\U0001112D\U0001111A\U0001111A\U00011134"
   geo:
     latitude: 23.0038497
     longitude: 120.212227
@@ -723,6 +754,7 @@ TNQ:
   unofficial_names: Tainan
   translations:
     en: Tainan County
+    ccp: "\U00011111\U0001112D\U0001111A\U0001111A\U00011134 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
   geo:
     latitude: 22.9998999
     longitude: 120.2268758
@@ -795,6 +827,9 @@ TPE:
     uk: Тайбей
     ur: تائی پے
     vi: Đài Bắc
+    sr_Latn: Tajpej
+    zh: 臺北市
+    ccp: "\U00011111\U0001112D\U0001111B\U0001112C"
   geo:
     latitude: 25.0329694
     longitude: 121.5654177
@@ -807,6 +842,8 @@ TPQ:
   unofficial_names: Taipei
   translations:
     en: New Taipei City
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A \U00011111\U0001112D\U0001111B\U0001112C
+      \U00011125\U00011128\U00011111\U00011128"
   geo:
     latitude: 25.0329694
     longitude: 121.5654177
@@ -855,6 +892,8 @@ TTT:
     tr: Taitung County
     ur: تائیتونگ کاؤنٹی
     vi: Đài Đông
+    zh: 臺東縣
+    ccp: "\U00011111\U0001112D\U00011111\U0001112A\U00011101"
   geo:
     latitude: 22.7972447
     longitude: 121.0713702
@@ -906,6 +945,8 @@ TXG:
     uk: Тайчжун
     ur: ٹائچونگ
     vi: Đài Trung
+    zh: 臺中市
+    ccp: "\U00011111\U0001112D\U0001110C\U0001112A\U00011101"
   geo:
     latitude: 24.301983
     longitude: 120.5854674
@@ -918,6 +959,7 @@ TXQ:
   unofficial_names: Taichung
   translations:
     en: Taichung County
+    ccp: "\U00011111\U0001112D\U0001110C\U0001112A\U00011101 \U00011107\U00011105\U0001112A\U0001111A\U00011134\U00011111\U00011128"
   geo:
     latitude: 24.1477358
     longitude: 120.6736482
@@ -965,6 +1007,8 @@ YUN:
     tr: Yunlin County
     ur: یونلن کاؤنٹی
     vi: Vân Lâm
+    zh: 雲林縣
+    ccp: "\U00011103\U00011128\U00011105\U0001112A\U0001111A\U00011134\U00011123\U00011128\U0001111A\U00011134"
   geo:
     latitude: 23.7092033
     longitude: 120.4313373
@@ -1017,6 +1061,8 @@ KIN:
     tr: Kinmen
     ur: کنمن
     vi: Kim Môn
+    zh: 金門縣
+    ccp: "\U00011107\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U0001111A\U00011134"
 LIE:
   translations:
     cs: Okres Lien-ťiang
@@ -1025,6 +1071,9 @@ LIE:
     id: Kepulauan Lienchiang
     ja: 連江県
     ko: 롄장 현
+    zh: 連江縣
+    ccp: "\U00011122\U00011128\U00011120\U0001112C\U0001111A\U00011134\U0001110C\U00011128\U00011120\U0001112C\U00011101"
 NWT:
   translations:
     en: New Taipei
+    ccp: "\U0001111A\U00011128\U00011105\U0001112A \U00011111\U0001112D\U0001111B\U0001112C"

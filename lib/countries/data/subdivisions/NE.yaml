@@ -37,6 +37,7 @@
     ur: اگادیز علاقہ
     vi: Khu vực Agadez
     zh: 阿加德兹大区
+    ccp: "\U00011103\U00011109\U00011113\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 16.966667
     longitude: 7.983333
@@ -82,6 +83,8 @@
     tr: Diffa
     ur: دیفا علاقہ
     vi: Khu vực Diffa
+    zh: 迪法大区
+    ccp: "\U00011113\U00011128\U0001111C\U00011133\U00011126"
   geo:
     latitude: 13.316667
     longitude: 12.616667
@@ -128,6 +131,8 @@
     tr: Dosso
     ur: دوسو علاقہ
     vi: Khu vực Dosso
+    zh: 多索大区
+    ccp: "\U00011113\U0001112E\U00011125\U0001112E"
   geo:
     latitude: 13.05
     longitude: 3.2
@@ -173,6 +178,8 @@
     tr: Maradi
     ur: مارادی علاقہ
     vi: Khu vực Maradi
+    zh: 马拉迪大区
+    ccp: "\U0001111F\U00011122\U00011113\U00011128"
   geo:
     latitude: 13.483333
     longitude: 7.1
@@ -218,6 +225,8 @@
     tr: Tahoua
     ur: تاہؤا علاقہ
     vi: Khu vực Tahoua
+    zh: 塔瓦大区
+    ccp: "\U00011111\U00011126\U0001112A\U00011120"
   geo:
     latitude: 14.883333
     longitude: 5.266667
@@ -264,6 +273,8 @@
     tr: Tillabéri
     ur: تیلابےری علاقہ
     vi: Khu vực Tillabéri
+    zh: 蒂拉贝里大区
+    ccp: "\U00011111\U00011123\U00011133\U00011126\U0001111D\U0001112C\U00011122\U00011128"
   geo:
     latitude: 14.6489525
     longitude: 2.1450245
@@ -308,6 +319,8 @@
     tr: Zinder (Nijer bölgesi)
     ur: زندر علاقہ
     vi: Khu vực Zinder
+    zh: 津德尔大区
+    ccp: "\U0001110E\U00011128\U0001111A\U00011134\U00011113\U00011122\U00011134"
   geo:
     latitude: 13.805278
     longitude: 8.988332999999999
@@ -377,6 +390,9 @@
     uk: Ніамей
     ur: نیامی
     vi: Niamey
+    sr_Latn: Nijamej
+    zh: 尼亞美
+    ccp: "\U0001111A\U00011128\U00011120\U0001111F\U0001112C"
   geo:
     latitude: 13.521389
     longitude: 2.105278

@@ -45,6 +45,8 @@
     ur: اروشا ریجن
     vi: Arusha
     zh: 阿鲁沙区
+    sr_Latn: Aruša
+    ccp: "\U00011103\U00011122\U0001112A\U00011125"
   geo:
     latitude: -3.372301
     longitude: 36.6944136
@@ -97,6 +99,10 @@
     tr: Dar es Salaam Bölgesi
     ur: دَر اس سلام ریجن
     vi: Dar es Salaam
+    sr_Latn: Dar es Salam
+    zh: 达累斯萨拉姆区
+    ccp: "\U00011113\U00011122\U00011134 \U00011103\U0001112C\U0001110C\U00011134
+      \U00011125\U00011123\U00011133\U00011103\U0001111F\U00011134"
   geo:
     latitude: -6.8
     longitude: 39.283333
@@ -138,6 +144,9 @@
     tr: Dodoma
     uk: Додома (регіон)
     vi: Dodoma
+    sr_Latn: Dodoma
+    zh: 多多馬區
+    ccp: "\U00011113\U0001112E\U00011113\U0001112E\U0001111F"
   geo:
     latitude: -6.173056
     longitude: 35.741944
@@ -191,6 +200,9 @@
     uk: Ірінґа (регіон)
     ur: یرینجا ریجن
     vi: Iringa
+    sr_Latn: Iringa
+    zh: 伊林加區
+    ccp: "\U00011103\U00011128\U00011122\U00011128\U0001111A\U00011134\U00011109"
   geo:
     latitude: -7.77
     longitude: 35.69
@@ -245,6 +257,9 @@
     tr: Kagera Bölgesi
     ur: کاگیرا علاقہ
     vi: Kagera
+    sr_Latn: Kagera
+    zh: 卡蓋拉區
+    ccp: "\U00011107\U00011109\U0001112C\U00011122"
   geo:
     latitude: -2.3751124
     longitude: 31.2626366
@@ -296,6 +311,10 @@
     tr: Kuzey Pemba Bölgesi
     ur: پیمبا شمالی علاقہ
     vi: Pemba North
+    sr_Latn: Pemba sever
+    zh: 北奔巴區
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111B\U0001112C\U0001111F\U0001111D"
   geo:
     latitude: -5.031935199999999
     longitude: 39.7755571
@@ -348,6 +367,10 @@
     tr: Kuzey Zanzibar Bölgesi
     ur: زانزیبر نارتھ ریجن
     vi: Zanzibar North (vùng)
+    sr_Latn: Zanzibar sever
+    zh: 尚西巴北區
+    ccp: "\U0001110E\U0001111A\U00011134\U0001110E\U00011128\U0001111D\U00011122\U00011134
+      \U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134"
   geo:
     latitude: -5.9395093
     longitude: 39.2791011
@@ -401,6 +424,9 @@
     tr: Kigoma Bölgesi
     ur: کیگوما علاقہ
     vi: Kigoma
+    sr_Latn: Kigoma
+    zh: 基戈馬區
+    ccp: "\U00011107\U00011128\U00011109\U0001112E\U0001111F"
   geo:
     latitude: -4.883332999999999
     longitude: 29.633333
@@ -454,6 +480,9 @@
     uk: Кіліманджаро (регіон)
     ur: کلیمنجارو علاقہ
     vi: Kilimanjaro
+    sr_Latn: Kilimandžaro
+    zh: 乞力馬扎羅區
+    ccp: "\U00011107\U00011128\U00011123\U00011128\U0001111F\U0001111A\U00011134\U0001110E\U00011122\U0001112E"
   geo:
     latitude: -4.1336927
     longitude: 37.8087693
@@ -505,6 +534,9 @@
     tr: South Pemba Bölgesi
     ur: پیمبا جنوبی علاقہ
     vi: Pemba South
+    sr_Latn: Pemba jug
+    zh: 南奔巴區
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U0001111B\U0001112C\U0001111F\U00011134\U0001111D"
   geo:
     latitude: -5.3146961
     longitude: 39.7549511
@@ -538,6 +570,9 @@
     ru: Занзибар Центрально-Южный
     sv: Södra Zanzibar
     sw: Mkoa wa Unguja Kusini
+    zh: 尚西巴南區
+    ccp: "\U0001110E\U0001111A\U00011134\U0001110E\U00011128\U0001111D\U00011122\U00011134
+      \U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134/\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134"
   geo:
     latitude: -6.2036563
     longitude: 39.3621196
@@ -591,6 +626,9 @@
     tr: Lindi Region
     ur: لیندی علاقہ
     vi: Lindi
+    sr_Latn: Lindi
+    zh: 林迪區
+    ccp: "\U00011123\U00011128\U0001111A\U00011134\U00011113\U00011128"
   geo:
     latitude: -9.996944
     longitude: 39.714444
@@ -643,6 +681,9 @@
     tr: Mara Bölgesi
     ur: مارا علاقہ
     vi: Mara
+    sr_Latn: Mara
+    zh: 馬拉區
+    ccp: "\U0001111F\U00011122"
   geo:
     latitude: -1.7753538
     longitude: 34.1531947
@@ -695,6 +736,9 @@
     tr: Mbeya Bölgesi
     ur: مبیا علاقہ
     vi: Mbeya
+    sr_Latn: Mbeja
+    zh: 姆貝亞區
+    ccp: "\U0001111D\U0001112C\U00011120"
   geo:
     latitude: -8.9
     longitude: 33.45
@@ -741,6 +785,9 @@
     tr: Zanzibar Kırsal/Batı Bölgesi
     ur: مجینی مغربی علاقہ
     vi: Zanzibar West
+    zh: 尚西巴西區
+    ccp: "\U0001110E\U0001111A\U00011134\U0001110E\U00011128\U0001111D\U00011122\U00011134
+      \U00011105\U0001112A\U00011122\U00011134\U0001111D\U0001111A\U00011134/\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134"
   geo:
     latitude: -6.229813600000001
     longitude: 39.2583293
@@ -793,6 +840,9 @@
     tr: Morogora Bölgesi
     ur: موروگورو علاقہ
     vi: Morogoro
+    sr_Latn: Morogoro
+    zh: 莫罗戈罗区
+    ccp: "\U0001111F\U0001112E\U00011122\U0001112E\U00011109\U0001112E\U00011122\U0001112E"
   geo:
     latitude: -6.816667000000001
     longitude: 37.666667
@@ -846,6 +896,9 @@
     tr: Mtwara Bölgesi
     ur: متوارا علاقہ
     vi: Mtwara
+    sr_Latn: Mtvara
+    zh: 姆特瓦拉區
+    ccp: "\U00011111\U00011120\U00011122"
   geo:
     latitude: -10.273611
     longitude: 40.182778
@@ -898,6 +951,9 @@
     tr: Mwanza Bölgesi
     ur: موانزا علاقہ
     vi: Mwanza
+    sr_Latn: Mvanza
+    zh: 姆萬紮區
+    ccp: "\U00011124\U0001111A\U00011134\U0001110E"
   geo:
     latitude: -2.516667
     longitude: 32.9
@@ -951,6 +1007,9 @@
     tr: Pwani Region
     ur: پوانی علاقہ
     vi: Pwani
+    sr_Latn: Pvani
+    zh: 濱海區
+    ccp: "\U00011124\U0001111A\U00011128"
   geo:
     latitude: -7.323771400000001
     longitude: 38.8205454
@@ -1002,6 +1061,9 @@
     tr: Rukwa Bölgesi
     ur: رکوا ریجن
     vi: Rukwa
+    sr_Latn: Rukva
+    zh: 魯夸區
+    ccp: "\U00011122\U0001112A\U00011107\U00011127\U00011124"
   geo:
     latitude: -6.965368499999999
     longitude: 31.2626366
@@ -1053,6 +1115,9 @@
     tr: Ruvuma Region
     ur: روووما ریجن
     vi: Ruvuma
+    sr_Latn: Ruvuma
+    zh: 魯伍馬區
+    ccp: "\U00011122\U0001112A\U0001111E\U0001112A\U0001111F"
   geo:
     latitude: -10.6878717
     longitude: 36.2630846
@@ -1104,6 +1169,9 @@
     tr: Shinyanga Bölgesi
     ur: شینیانگا علاقہ
     vi: Shinyanga
+    sr_Latn: Šinjanga
+    zh: 欣延加區
+    ccp: "\U00011125\U00011128\U0001111A\U00011128\U00011120\U00011101\U00011109"
   geo:
     latitude: -3.661944
     longitude: 33.423056
@@ -1155,6 +1223,9 @@
     tr: Singida Bölgesi
     ur: سنگیدا علاقہ
     vi: Singida
+    sr_Latn: Singida
+    zh: 辛吉達區
+    ccp: "\U00011125\U00011128\U0001111A\U00011134\U00011109\U00011128\U00011113"
   geo:
     latitude: -4.819999999999999
     longitude: 34.73999999999999
@@ -1207,6 +1278,9 @@
     tr: Tabora Region
     ur: تابورا علاقہ
     vi: Tabora
+    sr_Latn: Tabora
+    zh: 塔波拉區
+    ccp: "\U00011111\U0001111D\U0001112E\U00011122"
   geo:
     latitude: -5.016667
     longitude: 32.8
@@ -1260,6 +1334,9 @@
     tr: Tanga Region
     ur: ٹانگہ ریجن
     vi: Tanga
+    sr_Latn: Tanga
+    zh: 坦噶区
+    ccp: "\U00011111\U0001111A\U00011134\U00011109"
   geo:
     latitude: -5.0888751
     longitude: 39.1023228
@@ -1312,6 +1389,9 @@
     tr: Manyara Bölgesi
     ur: مانیارا علاقہ
     vi: Manyara
+    sr_Latn: Manjara
+    zh: 曼亞拉區
+    ccp: "\U0001111F\U0001111A\U00011128\U00011120\U00011122"
   geo:
     latitude: -4.3150058
     longitude: 36.954107
@@ -1359,6 +1439,7 @@
     tr: Geita Bölgesi
     ur: گئیتا علاقہ
     vi: Khu vực Geita
+    ccp: "\U00011109\U00011128\U00011120\U0001112C\U00011111"
 '28':
   translations:
     ar: إقليم كاتافي
@@ -1396,6 +1477,7 @@
     tr: Katavi Bölgesi
     ur: کاتاوی علاقہ
     vi: Khu vực Katavi
+    ccp: "\U00011107\U00011111\U0001111E\U00011128"
 '29':
   translations:
     ar: إقليم نجومبي
@@ -1433,6 +1515,8 @@
     tr: Nhombe Bölgesi
     ur: نجومبے علاقہ
     vi: Khu vực Njombe
+    zh: 恩瓊貝區
+    ccp: "\U0001110E\U0001112E\U0001111F\U00011134\U0001111D\U00011128"
 '30':
   translations:
     ar: اقليم سيميو
@@ -1470,3 +1554,4 @@
     tr: Simiyu Region
     ur: سیمیو ریجن
     vi: Khu vực Simiyu
+    ccp: "\U00011125\U00011128\U0001111F\U00011128\U00011120\U0001112A"

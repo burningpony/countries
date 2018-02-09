@@ -38,6 +38,7 @@ ARI:
     tr: Arima
     ur: آریما
     vi: Arima
+    ccp: "\U00011103\U00011122\U00011128\U0001111F"
   geo:
     latitude: 10.616667
     longitude: -61.26666699999999
@@ -93,6 +94,7 @@ CHA:
     ur: چاگواناس
     vi: Chaguanas
     zh: 查瓜納斯
+    ccp: "\U0001110C\U00011109\U0001112A\U00011120\U0001111A\U0001110C\U00011134"
   geo:
     latitude: 10.5168387
     longitude: -61.4114482
@@ -134,6 +136,7 @@ CTT:
     tr: Couva-Tabaquite-Talparo Regional Corporation
     ur: کؤوا-تاباکیوٹ-ٹالپارو علاقائی کارپوریشن
     vi: Khu liên kết chung Couva-Tabaquite-Talparo
+    ccp: "\U00011107\U0001112F\U0001111E-\U00011111\U0001111D\U00011107\U0001112A\U00011103\U00011128\U00011116\U00011134-\U00011111\U00011123\U00011134\U0001111B\U00011122\U0001112E"
   geo:
     latitude: 10.4297145
     longitude: -61.373521
@@ -176,6 +179,7 @@ DMN:
     tr: Diego Martin Bölgesel Ortaklığı
     ur: ڈیگو مارٹن علاقائی کارپوریشن
     vi: Khu liên kết chung Diego Martin
+    ccp: "\U00011113\U00011128\U00011120\U0001112C\U00011109\U0001112E \U0001111F\U00011122\U00011134\U00011111\U00011128\U0001111A\U00011134"
   geo:
     latitude: 10.7137264
     longitude: -61.5836897
@@ -188,6 +192,8 @@ ETO:
   unofficial_names: Eastern Tobago
   translations:
     en: Eastern Tobago
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U00011111\U0001112E\U0001111D\U00011109\U0001112E"
   geo:
     latitude: 11.2979348
     longitude: -60.55885240000001
@@ -229,6 +235,8 @@ PED:
     tr: Penal-Debe Bölgesi
     ur: پینل-ڈیبے علاقائی کارپوریشن
     vi: Khu liên kết chung Penal-Debe
+    zh: 皮納爾-德貝郡
+    ccp: "\U0001111B\U0001112C\U0001111A\U00011123\U00011134-\U00011113\U0001112C\U0001111D\U0001112C"
   geo:
     latitude: 10.1337402
     longitude: -61.44354740000001
@@ -296,6 +304,10 @@ POS:
     uk: Порт-оф-Спейн
     ur: پورٹ آف اسپین
     vi: Port of Spain
+    sr_Latn: Port ov Spejn
+    zh: 西班牙港
+    ccp: "\U0001111B\U0001112E\U00011122\U00011134\U00011111\U00011134 \U00011103\U00011127\U0001111B\U00011134
+      \U0001110C\U00011133\U0001111B\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 10.666667
     longitude: -61.51666700000001
@@ -338,6 +350,9 @@ PRT:
     tr: Princes Town Bölgesi
     ur: پرنسز ٹاؤن علاقائی کارپوریشن
     vi: Khu liên kết chung Princes Town
+    zh: 王子城郡
+    ccp: "\U0001111B\U00011133\U00011122\U00011128\U0001111A\U00011134\U00011125\U0001112C\U0001110C\U00011134
+      \U00011111\U00011105\U0001112A\U0001111A\U00011134"
   geo:
     latitude: 10.2659505
     longitude: -61.37643809999999
@@ -386,6 +401,8 @@ PTF:
     uk: Пойнт-Фортін
     ur: پوائنٹ فورٹن
     vi: Point Fortin
+    zh: 波因特福廷
+    ccp: "\U0001111B\U00011127\U00011120\U0001112C\U0001111A\U00011134\U00011111 \U0001111C\U0001112E\U00011122\U00011134\U00011111\U00011128\U0001111A\U00011134"
   geo:
     latitude: 10.166667
     longitude: -61.666667
@@ -398,6 +415,7 @@ RCM:
   unofficial_names: Rio Claro-Mayaro
   translations:
     en: Rio Claro-Mayaro
+    ccp: "\U00011122\U00011128\U00011103\U0001112E \U00011107\U00011133\U00011123\U00011122\U0001112E-\U0001111F\U0001112C\U00011120\U00011122\U0001112E"
   geo:
     latitude: 10.2412832
     longitude: -61.09372059999999
@@ -445,6 +463,8 @@ SFO:
     tr: San Fernando
     ur: سان فرنانڈو، ٹرینیڈاڈ و ٹوباگو
     vi: San Fernando, Trinidad và Tobago
+    zh: 聖費爾南多
+    ccp: "\U00011125\U0001111A\U00011134 \U0001111C\U0001112C\U00011122\U00011134\U0001111A\U0001111A\U00011134\U00011113\U0001112E"
   geo:
     latitude: 10.2804924
     longitude: -61.4493842
@@ -487,6 +507,7 @@ SGE:
     tr: Sangre Grande Bölgesel Kurumu
     ur: سانگرے گرانڈے علاقائی کارپوریشن
     vi: Khu liên kết chung Sangre Grande
+    ccp: "\U00011125\U0001111A\U00011134\U0001111B\U00011133\U00011122\U0001112C \U0001111B\U00011133\U00011122\U0001111A\U00011134\U00011113\U0001112C"
   geo:
     latitude: 10.5852939
     longitude: -61.1315813
@@ -529,6 +550,8 @@ SIP:
     tr: Siparia Regional Corporation
     ur: سیپاریا علاقائی کارپوریشن
     vi: Khu liên kết chung Siparia
+    zh: 錫帕里亞郡
+    ccp: "\U00011125\U00011128\U0001111B\U00011122\U00011128\U00011120"
   geo:
     latitude: 10.133333
     longitude: -61.50000000000001
@@ -570,6 +593,7 @@ SJL:
     tr: San Juan-Laventille Bölgesel Kurumu
     ur: سان حوان-لاوینٹیل علاقائی کارپوریشن
     vi: Khu liên kết chung San Juan-Laventille
+    ccp: "\U00011125\U0001111A\U00011134 \U0001110E\U0001112A\U00011120\U0001111A\U00011134-\U00011123\U00011127\U0001111E\U0001112C\U0001111A\U00011134\U00011111\U00011128\U00011123\U00011134"
   geo:
     latitude: 10.6908578
     longitude: -61.4552213
@@ -612,6 +636,8 @@ TUP:
     tr: Tunapuna-Piarco Regional Corporation
     ur: ٹوناپونا-پیارکو علاقائی کارپوریشن
     vi: Khu liên kết chung Tunapuna-Piarco
+    zh: 麥高耶
+    ccp: "\U00011111\U0001112A\U0001111A\U0001111B\U0001112A\U0001111A-\U0001111B\U00011128\U00011120\U00011122\U00011134\U00011107\U0001112E"
   geo:
     latitude: 10.6859096
     longitude: -61.30352480000001
@@ -624,6 +650,8 @@ WTO:
   unofficial_names: Western Tobago
   translations:
     en: Western Tobago
+    ccp: "\U00011124\U00011120\U0001112C\U0001110C\U00011134\U00011111\U00011122\U00011134
+      \U00011111\U0001112E\U0001111D\U00011109\U0001112E"
   geo:
     latitude: 11.1897072
     longitude: -60.7795452
@@ -664,6 +692,8 @@ MRC:
     tr: Rio Claro-Mayaro
     ur: ریو کلارو-مایارو علاقائی کارپوریشن
     vi: Khu liên kết chung Rio Claro-Mayaro
+    ccp: "\U0001111F\U00011120\U00011122\U0001112E-\U00011122\U00011128\U00011120\U0001112E
+      \U00011107\U00011133\U00011123\U00011122\U0001112E"
 TOB:
   translations:
     ar: توباغو
@@ -713,3 +743,6 @@ TOB:
     uk: Тобаго
     ur: ٹوباگو
     vi: Tobago
+    sr_Latn: Tobago
+    zh: 多巴哥岛
+    ccp: "\U00011111\U0001112E\U0001111D\U00011109\U0001112E"

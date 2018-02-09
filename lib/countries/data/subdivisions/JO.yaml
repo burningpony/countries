@@ -43,6 +43,7 @@ AJ:
     ur: محافظہ عجلون
     vi: Tỉnh Ajloun
     zh: 阿傑隆省
+    ccp: "\U00011103\U0001110C\U00011134\U00011123\U00011105\U0001112A\U0001111A\U00011134"
   geo:
     latitude: 32.2561926
     longitude: 35.6969984
@@ -94,6 +95,8 @@ AM:
     tr: Başkent ili
     ur: محافظہ عمان
     vi: Tỉnh Amman
+    zh: 安曼省
+    ccp: "\U00011103\U0001111F\U00011127\U0001111A\U00011134"
   geo:
     latitude: 31.9565783
     longitude: 35.9456951
@@ -146,6 +149,8 @@ AQ:
     tr: Aqaba Yönetimi
     ur: محافظہ عقبہ
     vi: Tỉnh Aqaba
+    zh: 亞喀巴省
+    ccp: "\U00011103\U00011107\U0001112A\U0001111D"
   geo:
     latitude: 29.5319199
     longitude: 35.0060842
@@ -198,6 +203,8 @@ AT:
     tr: Tafilah Yönetimi
     ur: محافظہ طفیلہ
     vi: Tỉnh Tafilah
+    zh: 塔菲拉省
+    ccp: "\U00011111\U0001111C\U00011128\U00011123\U00011126\U00011134"
   geo:
     latitude: 30.83583299999999
     longitude: 35.612222
@@ -250,6 +257,8 @@ AZ:
     tr: Zarqa Yönetimi
     ur: محافظہ زرقاء
     vi: Tỉnh Zarqa
+    zh: 扎爾卡省
+    ccp: "\U0001110E\U00011122\U00011134\U00011107"
   geo:
     latitude: 31.7515118
     longitude: 36.8680791
@@ -299,6 +308,8 @@ BA:
     tr: Balqa Yönetimi
     ur: محافظہ بلقاء
     vi: Tỉnh Balqa
+    zh: 拜勒加省
+    ccp: "\U0001111D\U00011127\U00011123\U00011134\U00011107"
   geo:
     latitude: 31.9676039
     longitude: 35.6095474
@@ -350,6 +361,8 @@ IR:
     tr: Irbid Yönetimi
     ur: محافظہ اربد
     vi: Tỉnh Irbid
+    zh: 伊爾比德省
+    ccp: "\U00011103\U00011128\U00011122\U00011134\U0001111D\U00011128\U00011116\U00011134"
   geo:
     latitude: 32.5454418
     longitude: 35.8571532
@@ -401,6 +414,8 @@ JA:
     tr: Jerash Yönetimi
     ur: محافظہ جرش
     vi: Tỉnh Jerash
+    zh: 傑拉什省
+    ccp: "\U0001110E\U0001112C\U00011122\U0001110C\U00011134"
   geo:
     latitude: 32.2769016
     longitude: 35.9055502
@@ -452,6 +467,8 @@ KA:
     tr: Karak Yönetimi
     ur: محافظہ کرک
     vi: Khu vực hành chính Karak
+    zh: 卡拉克省
+    ccp: "\U00011107\U0001112C\U00011122\U00011127\U00011107\U00011134"
   geo:
     latitude: 31.1648059
     longitude: 35.7618824
@@ -501,6 +518,8 @@ MA:
     tr: Mafraq Yönetimi
     ur: محافظہ مفرق
     vi: Tỉnh Mafraq
+    zh: 馬弗拉克省
+    ccp: "\U0001111F\U0001111C\U00011133\U00011122\U00011107\U00011134"
   geo:
     latitude: 32.3616821
     longitude: 36.2193362
@@ -554,6 +573,8 @@ MD:
     tr: Madaba Yönetimi
     ur: محافظہ مادبا
     vi: Tỉnh Madaba
+    zh: 馬代巴省
+    ccp: "\U0001111F\U00011113\U0001111D"
   geo:
     latitude: 31.71954
     longitude: 35.794109
@@ -604,6 +625,8 @@ MN:
     tr: Ma’an Valiliği
     ur: محافظہ معان
     vi: Tỉnh Ma’an
+    zh: 馬安省
+    ccp: "\U0001111F\U00011133\U00011103\U0001111A\U00011134"
   geo:
     latitude: 30.1949577
     longitude: 35.7342418

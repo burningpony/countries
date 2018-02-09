@@ -1081,6 +1081,9 @@ ZR:
     uk: Скопʼє
     ur: اسکوپیہ
     vi: Skopje
+    sr_Latn: Veliko Skoplje
+    zh: 斯科普里
+    ccp: "\U0001110C\U00011133\U00011107\U00011127\U0001111B\U00011134\U0001110E\U0001112C"
 '02':
   translations:
     ar: بلدية أراتسينوفو
@@ -1122,6 +1125,8 @@ ZR:
     ur: بلدیہ آراچینوو
     vi: Đô thị tự trị Aracinovo
     zh: 阿拉津诺沃区
+    sr_Latn: Opština Aračinovo
+    ccp: "\U00011103\U00011122\U00011125\U0001112C\U0001111A\U0001112E\U0001111E\U0001112E"
 '03':
   translations:
     ar: بلدية بيروفو
@@ -1161,6 +1166,9 @@ ZR:
     uk: Берово
     ur: بیروو بلدیہ
     vi: Đô thị tự trị Berovo
+    sr_Latn: Opština Berovo
+    zh: 贝罗沃区
+    ccp: "\U0001111D\U0001112C\U00011122\U0001112E\U0001111E\U0001112E"
 '04':
   translations:
     ar: بلدية بيتولا
@@ -1200,6 +1208,9 @@ ZR:
     uk: Бітола
     ur: بیتولا بلدیہ
     vi: Đô thị tự trị Bitola
+    sr_Latn: Opština Bitolj
+    zh: 比托拉区
+    ccp: "\U0001111D\U00011128\U00011111\U0001112E\U00011123"
 '05':
   translations:
     ar: بلدية بوجدانسى
@@ -1239,6 +1250,9 @@ ZR:
     uk: Богданці
     ur: بوگدانتسی بلدیہ
     vi: Đô thị tự trị Bogdanci
+    sr_Latn: Opština Bogdanci
+    zh: 博格丹奇区
+    ccp: "\U0001111D\U00011127\U00011107\U00011134\U00011113\U0001111A\U00011134\U00011125\U00011128"
 '06':
   translations:
     ar: بلدية بوغوفينج
@@ -1277,6 +1291,9 @@ ZR:
     uk: Боговинє (община)
     ur: بوگووینیہ بلدیہ
     vi: Đô thị tự trị Bogovinje
+    sr_Latn: Opština Bogovinje
+    zh: 博戈维涅区
+    ccp: "\U0001111D\U0001112E\U00011109\U0001112E\U0001111E\U00011128\U0001111A\U00011134\U0001110E\U0001112C"
 '07':
   translations:
     ar: بلدية بوسيلوفو
@@ -1316,6 +1333,9 @@ ZR:
     uk: Босилово
     ur: بوسیلوو بلدیہ
     vi: Đô thị tự trị Bosilovo
+    sr_Latn: Opština Bosiljovo
+    zh: 博西洛沃区
+    ccp: "\U0001111D\U0001112E\U00011125\U00011128\U00011123\U0001112E\U0001111E\U0001112E"
 '08':
   translations:
     ar: بلدية برفينيتسا
@@ -1355,6 +1375,9 @@ ZR:
     uk: Брвениця
     ur: بروینیسا بلدیہ
     vi: Đô thị tự trị Brvenica
+    sr_Latn: Opština Brvenica
+    zh: 布尔韦尼察区
+    ccp: "\U0001111D\U00011133\U00011122\U0001111E\U0001112C\U0001111A\U00011128\U00011107"
 '11':
   translations:
     ar: فاسيليفو
@@ -1396,6 +1419,9 @@ ZR:
     uk: Василево
     ur: واسیلیوو بلدیہ
     vi: Đô thị tự trị Vasilevo
+    sr_Latn: Opština Vasiljevo
+    zh: 瓦西列沃區
+    ccp: "\U0001111E\U00011125\U00011128\U00011123\U0001112C\U0001111E\U0001112E"
 '14':
   translations:
     ar: بلدية فينيتسا
@@ -1434,6 +1460,9 @@ ZR:
     uk: Виниця
     ur: وینیتسا بلدیہ، مقدونیہ
     vi: Đô thị tự trị Vinica
+    sr_Latn: Opština Vinica
+    zh: 维尼察区
+    ccp: "\U0001111E\U00011128\U0001111A\U00011128\U00011107"
 '19':
   translations:
     ar: بلدية غوستيفار
@@ -1473,6 +1502,9 @@ ZR:
     uk: Гостивар (община)
     ur: گوستیوار بلدیہ
     vi: Đô thị tự trị Gostivar
+    sr_Latn: Opština Gostivar
+    zh: 戈斯蒂瓦区
+    ccp: "\U00011109\U0001112E\U0001110C\U00011134\U00011111\U00011128\U0001111E\U00011122\U00011134"
 '20':
   translations:
     ar: بلدية غرادسكو
@@ -1512,6 +1544,9 @@ ZR:
     uk: Градсько
     ur: گرادسکو بلدیہ
     vi: Đô thị tự trị Gradsko
+    sr_Latn: Opština Gradsko
+    zh: 格拉茲科區
+    ccp: "\U00011109\U00011133\U00011122\U00011116\U00011134\U00011125\U00011134\U00011107\U0001112E"
 '21':
   translations:
     ar: بلدية ديبار
@@ -1550,6 +1585,9 @@ ZR:
     uk: Дебар
     ur: دیبار بلدیہ
     vi: Đô thị tự trị Debar
+    sr_Latn: Opština Debar
+    zh: 德巴尔区
+    ccp: "\U00011113\U0001112C\U0001111D\U00011127\U00011122\U00011134"
 '22':
   translations:
     ar: بلدية ديباركا
@@ -1589,6 +1627,9 @@ ZR:
     uk: Дебарця
     ur: دیبرسا بلدیہ
     vi: Đô thị tự trị Debarca
+    sr_Latn: Opština Debarca
+    zh: 德巴尔查区
+    ccp: "\U00011113\U0001112C\U0001111D\U00011127\U00011122\U00011134\U00011107"
 '23':
   translations:
     ar: بلدية ديلتشيفو
@@ -1628,6 +1669,9 @@ ZR:
     uk: Делчево
     ur: بلدیہ دیلچیوو
     vi: Đô thị tự trị Delcevo
+    sr_Latn: Opština Delčevo
+    zh: 德尔塞沃区
+    ccp: "\U00011113\U0001112C\U00011123\U00011134\U00011125\U00011128\U0001111A\U0001112E"
 '27':
   translations:
     ar: بلدية دولنيني
@@ -1667,6 +1711,9 @@ ZR:
     uk: Долнени
     ur: دولنینی بلدیہ
     vi: Đô thị tự trị Dolneni
+    sr_Latn: Opština Dolneni
+    zh: 多尔涅尼区
+    ccp: "\U00011113\U0001112E\U00011123\U00011134\U0001111A\U0001112C\U0001111A\U00011128"
 '30':
   translations:
     ar: بلدية تزيلينو
@@ -1705,6 +1752,9 @@ ZR:
     uk: Желино
     ur: بلدیہ ژیلینو
     vi: Đô thị tự trị Zelino
+    sr_Latn: Opština Želino
+    zh: 熱利諾區
+    ccp: "\U0001110E\U0001112C\U00011123\U00011128\U0001111A\U0001112E"
 '32':
   translations:
     ar: بلدية زيلينيكوفو
@@ -1744,6 +1794,9 @@ ZR:
     uk: Зелениково
     ur: زیلینیکوو بلدیہ
     vi: Đô thị tự trị Zelenikovo
+    sr_Latn: Opština Zelenikovo
+    zh: 澤倫尼科沃區
+    ccp: "\U0001110E\U0001112C\U00011123\U0001112C\U0001111A\U00011128\U00011107\U0001112E\U0001111E\U0001112E"
 '33':
   translations:
     ar: بلدية زرنوفتشي
@@ -1782,6 +1835,9 @@ ZR:
     uk: Зрновці (община)
     ur: زرنووتسی بلدیہ
     vi: Đô thị tự trị Zrnovci
+    sr_Latn: Opština Zrnovci
+    zh: 日尔诺维奇区
+    ccp: "\U0001111A\U0001112E\U0001111B\U00011134\U00011125\U00011128"
 '34':
   translations:
     ar: بلدية إليندن
@@ -1821,6 +1877,9 @@ ZR:
     uk: Ілинден (община)
     ur: ایلندن بلدیہ
     vi: Đô thị tự trị Ilinden
+    sr_Latn: Opština Ilinden
+    zh: 伊林登區
+    ccp: "\U00011103\U00011128\U00011123\U00011128\U0001111A\U00011134\U00011113\U0001112C\U0001111A\U00011134"
 '35':
   translations:
     ar: بلدية جيغونوفس
@@ -1859,6 +1918,9 @@ ZR:
     uk: Єгуновце (община)
     ur: یگونووتسہ بلدیہ
     vi: Đô thị tự trị Jegunovce
+    sr_Latn: Opština Jegunovce
+    zh: 耶古诺夫策区
+    ccp: "\U0001110E\U0001112C\U00011109\U0001112A\U0001111A\U0001112E\U0001111B\U00011134"
 '36':
   translations:
     ar: بلدية كافادارتسي
@@ -1897,6 +1959,9 @@ ZR:
     uk: Кавадарці
     ur: کاوادارتسی بلدیہ
     vi: Đô thị tự trị Kavadarci
+    sr_Latn: Opština Kavadarci
+    zh: 卡瓦達爾齊區
+    ccp: "\U00011107\U0001111E\U00011113\U00011122\U00011134\U00011125\U00011128"
 '37':
   translations:
     ar: كاربينتسي
@@ -1936,6 +2001,9 @@ ZR:
     uk: Карбинці
     ur: کاربنتسی بلدیہ
     vi: Karbinci
+    sr_Latn: Opština Karbinci
+    zh: 卡尔宾奇区
+    ccp: "\U00011107\U00011122\U00011134\U0001111D\U00011128\U0001111A\U00011134\U00011125\U00011128"
 '40':
   translations:
     ar: بلدية كيتشيفو
@@ -1975,6 +2043,9 @@ ZR:
     uk: Кичево
     ur: کیچیوو بلدیہ
     vi: Đô thị tự trị Kicevo
+    sr_Latn: Opština Kičevo
+    zh: 基切沃區
+    ccp: "\U00011107\U00011128\U00011125\U0001112C\U0001111E\U0001112E"
 '41':
   translations:
     ar: بلدية كونتشه
@@ -2013,6 +2084,9 @@ ZR:
     uk: Конче
     ur: کونچے بلدیہ
     vi: Đô thị tự trị Konce
+    sr_Latn: Opština Konče
+    zh: 孔切區
+    ccp: "\U00011107\U00011127\U0001111A\U00011134"
 '42':
   translations:
     ar: بلدية كوتشاني
@@ -2051,6 +2125,9 @@ ZR:
     uk: Кочани (община)
     ur: بلدیہ کوچانی
     vi: Đô thị tự trị Kocani
+    sr_Latn: Opština Kočani
+    zh: 科查尼區
+    ccp: "\U00011107\U0001112E\U00011125\U0001111A\U00011128"
 '43':
   translations:
     ar: بلدية كراتوفو
@@ -2090,6 +2167,9 @@ ZR:
     uk: Кратово
     ur: کارتوو بلدیہ
     vi: Đô thị tự trị Kratovo
+    sr_Latn: Opština Kratovo
+    zh: 克拉托沃區
+    ccp: "\U00011107\U00011133\U00011122\U00011111\U0001112E\U0001111E\U0001112E"
 '44':
   translations:
     ar: بلدية كريفا بالانكا
@@ -2129,6 +2209,9 @@ ZR:
     uk: Крива Паланка
     ur: کریوا پالانکا بلدیہ
     vi: Đô thị tự trị Kriva Palanka
+    sr_Latn: Opština Kriva Palanka
+    zh: 克里瓦帕蘭卡區
+    ccp: "\U00011107\U00011133\U00011122\U00011128\U0001111E \U0001111B\U00011123\U0001111A\U00011134\U00011107"
 '45':
   translations:
     ar: بلدية كريفوغاشتاني
@@ -2167,6 +2250,9 @@ ZR:
     uk: Кривогаштани
     ur: بلدیہ کریووگاشتانی
     vi: Đô thị tự trị Krivogastani
+    sr_Latn: Opština Krivogaštani
+    zh: 克里沃加什塔尼区
+    ccp: "\U00011107\U00011133\U00011122\U00011128\U0001111E\U0001112E\U00011109\U0001110C\U00011134\U00011111\U0001111A\U00011128"
 '46':
   translations:
     ar: بلدية كروشيفو
@@ -2207,6 +2293,9 @@ ZR:
     uk: Крушево
     ur: بلدیہ کروشیوو
     vi: Đô thị tự trị Krusevo
+    sr_Latn: Opština Kruševo
+    zh: 克鲁舍沃区
+    ccp: "\U00011107\U00011133\U00011122\U0001112A\U00011125\U0001112C\U0001111E\U0001112E"
 '47':
   translations:
     ar: بلدية كومانوفو
@@ -2247,6 +2336,9 @@ ZR:
     uk: Куманово
     ur: کومانوو بلدیہ
     vi: Đô thị tự trị Kumanovo
+    sr_Latn: Opština Kumanovo
+    zh: 库马诺沃区
+    ccp: "\U00011107\U0001112A\U0001111F\U00011134\U0001111A\U0001112E\U0001111E\U0001112E"
 '48':
   translations:
     ar: بلدية ليبكوفو
@@ -2286,6 +2378,9 @@ ZR:
     uk: Липково
     ur: لیپکوو بلدیہ
     vi: Đô thị tự trị Lipkovo
+    sr_Latn: Opština Lipkovo
+    zh: 里普科沃區
+    ccp: "\U00011123\U00011128\U0001111B\U00011134\U00011107\U0001112E\U0001111E\U0001112E"
 '49':
   translations:
     ar: بلدية لوزوفو
@@ -2325,6 +2420,9 @@ ZR:
     uk: Лозово
     ur: لوزوو بلدیہ
     vi: Đô thị tự trị Lozovo
+    sr_Latn: Opština Lozovo
+    zh: 洛佐沃區
+    ccp: "\U00011123\U0001112E\U0001110E\U0001112E\U0001111E\U0001112E"
 '50':
   translations:
     ar: بلدية مارفوفو و روستيشا
@@ -2364,6 +2462,10 @@ ZR:
     uk: Маврово і Ростуша
     ur: بلدیہ ماوروو اور روستوشا
     vi: Đô thị tự trị Mavrovo và Rostusa
+    sr_Latn: Opština Mavrovo i Rostuša
+    zh: 馬夫羅沃和羅斯圖沙區
+    ccp: "\U0001111F\U0001111B\U00011134\U00011122\U0001112E\U0001111E\U0001112E \U00011103\U00011133\U00011103
+      \U00011122\U0001112E\U0001110C\U00011134\U00011111\U00011128\U00011105\U0001112A\U00011125"
 '51':
   translations:
     ar: بلدية ماكيدونسكا كامينيكا
@@ -2402,6 +2504,10 @@ ZR:
     uk: Македонська-Камениця
     ur: ماکیدونسکا کامینیتسا بلدیہ
     vi: Đô thị tự trị Makedonska Kamenica
+    sr_Latn: Opština Makedonska Kamenica
+    zh: 馬其頓卡梅尼察區
+    ccp: "\U0001111F\U00011107\U0001112C\U00011113\U0001112E\U0001111A\U00011134\U00011107
+      \U00011107\U0001111F\U0001112C\U0001111A\U00011128\U00011107"
 '52':
   translations:
     ar: بلدية ماكيدونسكي برود
@@ -2440,6 +2546,10 @@ ZR:
     uk: Македонський Брод (община)
     ur: ماکیدونسکی برود بلدیہ
     vi: Đô thị tự trị Makedonski Brod
+    sr_Latn: Opština Makedonski Brod
+    zh: 馬其頓布羅德區
+    ccp: "\U0001111F\U0001112C\U00011107\U00011113\U0001112E\U0001111A\U00011134\U00011107
+      \U0001111D\U00011133\U00011122\U0001112E\U00011116\U00011134"
 '54':
   translations:
     ar: بلدية نيغوتينو
@@ -2479,6 +2589,9 @@ ZR:
     uk: Неготино
     ur: نیگوتینو بلدیہ
     vi: Đô thị tự trị Negotino
+    sr_Latn: Opština Negotino
+    zh: 內戈蒂諾區
+    ccp: "\U0001111A\U0001112C\U00011109\U0001112E\U00011111\U00011128\U0001111A\U0001112E"
 '56':
   translations:
     ar: بلدية نوفو سيلو
@@ -2518,6 +2631,9 @@ ZR:
     uk: Ново-Село
     ur: نوو سیلو بلدیہ
     vi: Novo Selo
+    sr_Latn: Opština Novo Selo
+    zh: 諾沃塞洛區
+    ccp: "\U0001111A\U0001112E\U0001111E\U0001112E \U00011125\U0001112C\U00011123\U0001112E"
 '58':
   translations:
     ar: بلدية أوهريد
@@ -2557,6 +2673,9 @@ ZR:
     uk: Охрид (община)
     ur: اوخرید بلدیہ
     vi: Đô thị tự trị Ohrid
+    sr_Latn: Opština Ohrid
+    zh: 奧赫里德區
+    ccp: "\U00011103\U0001112E\U00011126\U00011134\U00011122\U00011128\U00011116\U00011134"
 '60':
   translations:
     ar: بلدية بيتسيفو
@@ -2595,6 +2714,9 @@ ZR:
     uk: Пехчево (община)
     ur: بلدیہ پیخچوو
     vi: Đô thị tự trị Pehcevo
+    sr_Latn: Opština Pehčevo
+    zh: 佩赫塞沃區
+    ccp: "\U0001111B\U0001112C\U00011126\U00011134\U00011125\U0001112C\U0001111E\U0001112E"
 '61':
   translations:
     ar: بلدية بلاسنيكا
@@ -2633,6 +2755,9 @@ ZR:
     uk: Пласниця
     ur: پلاسنیتسا بلدیہ
     vi: Đô thị tự trị Plasnica
+    sr_Latn: Opština Plasnica
+    zh: 普拉斯尼察區
+    ccp: "\U0001111B\U00011133\U00011123\U0001110C\U00011134\U0001111A\U00011128\U00011107"
 '62':
   translations:
     ar: بلدية بريليب
@@ -2672,6 +2797,9 @@ ZR:
     uk: Прилеп (община)
     ur: پریلپ بلدیہ
     vi: Đô thị tự trị Prilep
+    sr_Latn: Opština Prilep
+    zh: 普里萊普區
+    ccp: "\U0001111B\U00011133\U00011122\U00011128\U00011123\U0001112C\U0001111B\U00011134"
 '63':
   translations:
     ar: بلدية بروتشتيب
@@ -2710,6 +2838,9 @@ ZR:
     uk: Пробиштип
     ur: بلدیہ پوربیشتیپ
     vi: Probistip Đô thị tự trị
+    sr_Latn: Opština Probištip
+    zh: 普羅比什蒂普區
+    ccp: "\U0001111B\U00011133\U00011122\U0001112E\U0001111D\U00011128\U0001110C\U00011134\U00011111\U00011128\U0001111B\U00011134"
 '64':
   translations:
     ar: بلدية رادوفيتش
@@ -2748,6 +2879,9 @@ ZR:
     uk: Радовиш
     ur: رادوویش بلدیہ
     vi: Đô thị tự trị Radovis
+    sr_Latn: Opština Radoviš
+    zh: 拉多維什區
+    ccp: "\U00011122\U00011113\U0001112E\U0001111E\U00011128\U0001110C\U00011134"
 '65':
   translations:
     ar: بلدية رانكوفيتسه
@@ -2787,6 +2921,9 @@ ZR:
     uk: Ранковце
     ur: رانکووتسے بلدیہ
     vi: Đô thị tự trị Rankovce
+    sr_Latn: Opština Rankovce
+    zh: 蘭科夫采區
+    ccp: "\U00011122\U0001111A\U00011134\U0001111E\U0001112E\U0001111B\U00011134"
 '66':
   translations:
     ar: بلدية ريسن
@@ -2826,6 +2963,9 @@ ZR:
     uk: Ресен
     ur: ریسن بلدیہ
     vi: Đô thị tự trị Resen
+    sr_Latn: Opština Resan
+    zh: 里森区
+    ccp: "\U00011122\U0001112C\U00011125\U0001112C\U0001111A\U00011134"
 '69':
   translations:
     ar: بلدية سفيتي نيكولا
@@ -2864,6 +3004,9 @@ ZR:
     uk: Светий Николе
     ur: سویتی نیلولے بلدیہ
     vi: Đô thị tự trị Sveti Nikole
+    sr_Latn: Opština Sveti Nikola
+    zh: 聖尼古萊區
+    ccp: "\U00011125\U00011133\U0001111E\U0001112C\U00011111\U00011128 \U0001111A\U00011128\U00011107\U0001112E\U00011123\U00011134"
 '70':
   translations:
     ar: بلدية سوبيتشه
@@ -2902,6 +3045,9 @@ ZR:
     uk: Сопиште
     ur: بلدیہ سوپیشتے
     vi: Đô thị tự trị Sopiste
+    sr_Latn: Opština Sopište
+    zh: 蘇皮什特區
+    ccp: "\U00011125\U0001112E\U0001111B\U00011128\U0001110C\U00011134\U00011111\U0001112C"
 '72':
   translations:
     ar: محافظة ستروغا
@@ -2940,6 +3086,9 @@ ZR:
     uk: Струга
     ur: ستوگا بلدیہ
     vi: Đô thị tự trị Struga
+    sr_Latn: Opština Struga
+    zh: 斯特魯加區
+    ccp: "\U00011111\U00011133\U00011122\U0001112A\U00011109"
 '73':
   translations:
     ar: بلدية ستروميتسا
@@ -2979,6 +3128,9 @@ ZR:
     uk: Струмиця
     ur: سترومیتسا بلدیہ
     vi: Đô thị tự trị Strumica
+    sr_Latn: Opština Strumica
+    zh: 斯特魯米察區
+    ccp: "\U00011111\U00011133\U00011122\U0001112A\U0001111F\U00011128\U00011107"
 '74':
   translations:
     ar: بلدية ستودنيتشاني
@@ -3017,6 +3169,9 @@ ZR:
     uk: Студеничани
     ur: بلدیہ ستودینیچانی
     vi: Đô thị tự trị Studenicani
+    sr_Latn: Opština Studeničani
+    zh: 斯圖登尼查尼區
+    ccp: "\U0001110C\U00011133\U00011111\U0001112A\U0001112A\U00011113\U0001112C\U0001111A\U00011128\U00011107\U0001111A\U00011128"
 '75':
   translations:
     ar: بلدية تيارس
@@ -3055,6 +3210,9 @@ ZR:
     uk: Теарце
     ur: تیارتسے بلدیہ
     vi: Đô thị tự trị Tearce
+    sr_Latn: Opština Tearce
+    zh: 特阿爾塞區
+    ccp: "\U00011111\U00011128\U00011120\U00011122\U00011134\U0001110C\U00011134"
 '76':
   translations:
     ar: بلدية تيتوفو
@@ -3094,6 +3252,9 @@ ZR:
     uk: Тетово (община)
     ur: تیتوو بلدیہ
     vi: Đô thị tự trị Tetovo
+    sr_Latn: Opština Tetovo
+    zh: 特托沃區
+    ccp: "\U00011111\U0001112C\U00011111\U0001112E\U0001111E\U0001112E"
 '78':
   translations:
     ar: بلدية سنتار جوبا
@@ -3132,6 +3293,9 @@ ZR:
     uk: Центр-Жупа
     ur: سینتر ژوپا بلدیہ
     vi: Đô thị tự trị Centar Zupa
+    sr_Latn: Opština Centar Župa
+    zh: 辛塔尔祖帕区
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134 \U0001110E\U0001112A\U0001111B"
 '80':
   translations:
     ar: بلدية تشاشكا
@@ -3172,6 +3336,9 @@ ZR:
     uk: Чашка
     ur: چاشکا بلدیہ
     vi: Đô thị tự trị Caska
+    sr_Latn: Opština Čaška
+    zh: 查什卡区
+    ccp: "\U00011107\U0001110C\U00011134\U00011107"
 '81':
   translations:
     ar: بلدية تشيشينوفو- أبليشيفو
@@ -3207,6 +3374,9 @@ ZR:
     uk: Чешиново-Облешево (община)
     ur: بلدیہ چیشینوو-وبلیشوو
     vi: Đô thị tự trị Cesinovo-Oblesevo
+    sr_Latn: Opština Češinovo-Obleševo
+    zh: 切希诺沃-奥布莱舍沃区
+    ccp: "\U00011125\U0001112C\U0001110C\U00011128\U0001111A\U0001112E\U0001111E\U0001112E-\U00011103\U00011127\U0001111B\U00011134\U00011123\U0001112C\U00011125\U0001112E\U0001111E\U0001112E"
 '82':
   translations:
     ar: بلدية تشوتشر سانديفو
@@ -3246,6 +3416,9 @@ ZR:
     uk: Чучер-Сандево (община)
     ur: بلدیہ چوچر-ساندوو
     vi: Đô thị tự trị Cucer-Sandevo
+    sr_Latn: Opština Čučer-Sandevo
+    zh: 楚塞尔桑德沃区
+    ccp: "\U00011125\U0001112A\U00011125\U0001112C\U00011122\U00011134-\U00011125\U0001111A\U00011134\U00011113\U0001112C\U0001111E\U0001112E"
 '83':
   translations:
     ar: بلدية شتيب
@@ -3284,6 +3457,9 @@ ZR:
     uk: Штип
     ur: بلدیہ شتیپ
     vi: Đô thị tự trị Stip
+    sr_Latn: Opština Štip
+    zh: 什提普區
+    ccp: "\U0001110C\U00011133\U00011111\U00011128\U0001111B\U00011134"
 '10':
   translations:
     bg: Валандово
@@ -3303,6 +3479,9 @@ ZR:
     tr: Valandova Belediyesi
     uk: Валандово
     ur: والاندوو بلدیہ
+    sr_Latn: Opština Valandovo
+    zh: 瓦蘭多沃區
+    ccp: "\U0001111E\U00011123\U0001111A\U00011134\U00011113\U0001112E\U0001111E\U0001112E"
 '13':
   translations:
     bg: Велес
@@ -3323,6 +3502,9 @@ ZR:
     sv: Titov Veles Opština
     uk: Велес
     ur: ویلیس بلدیہ
+    sr_Latn: Opština Veles
+    zh: 韋萊斯區
+    ccp: "\U0001111E\U00011123\U0001112C\U0001110C\U00011134"
 '16':
   translations:
     bg: Врабчище
@@ -3342,6 +3524,9 @@ ZR:
     tr: Vrapçişte Belediyesi
     uk: Врапчиште
     ur: بلدیہ وراپچیشتے
+    sr_Latn: Opština Vrapčište
+    zh: 弗拉普契什泰區
+    ccp: "\U0001111E\U00011133\U00011122\U0001111B\U00011134\U00011125\U00011128\U0001110C\U00011134\U00011111\U0001112C"
 '18':
   translations:
     bg: Гевгели
@@ -3361,6 +3546,9 @@ ZR:
     tr: Gevgeli Belediyesi
     uk: Гевгелія
     ur: گیوگیلیا بلدیہ
+    sr_Latn: Opština Đevđelija
+    zh: 蓋夫蓋利亞區
+    ccp: "\U00011109\U0001112C\U0001111B\U00011134\U00011109\U0001112C\U00011123\U00011128\U0001110E"
 '24':
   translations:
     bg: Демир Капия
@@ -3379,6 +3567,9 @@ ZR:
     tr: Demir Kapı Belediyesi
     uk: Демир-Капія
     ur: دیمیر کاپیا بلدیہ
+    sr_Latn: Opština Demir Kapija
+    zh: 德米尔卡皮雅区
+    ccp: "\U00011113\U0001112C\U0001111F\U00011128\U00011122\U00011134 \U00011107\U0001111B\U00011128\U0001110E"
 '25':
   translations:
     bg: Демир Хисар
@@ -3400,6 +3591,9 @@ ZR:
     tr: Demir Hisar Belediyesi
     uk: Демир-Хисар
     ur: دیمیر حسار بلدیہ
+    sr_Latn: Opština Demir Hisar
+    zh: 德米尔希萨尔区
+    ccp: "\U00011113\U0001112C\U0001111F\U00011128\U00011122\U00011134 \U00011126\U00011128\U00011125\U00011122\U00011134"
 '26':
   translations:
     bg: Дойран
@@ -3421,6 +3615,9 @@ ZR:
     tr: Doyran Belediyesi
     uk: Дойран
     ur: دویران بلدیہ
+    sr_Latn: Opština Dojran
+    zh: 多伊兰区
+    ccp: "\U00011113\U00011127\U0001110C\U00011134\U00011122\U0001111A\U00011134"
 '53':
   translations:
     bg: Могила
@@ -3439,6 +3636,9 @@ ZR:
     sv: Mogila
     uk: Могила (община)
     ur: موگیلا بلدیہ
+    sr_Latn: Opština Mogila
+    zh: 莫吉拉區
+    ccp: "\U0001111F\U0001112E\U00011109\U00011128\U00011123"
 '55':
   translations:
     bg: Новаци
@@ -3456,6 +3656,9 @@ ZR:
     sv: Novaci
     uk: Новаці
     ur: نواتسی بلدیہ
+    sr_Latn: Opština Novaci
+    zh: 諾瓦濟區
+    ccp: "\U0001111A\U0001112E\U0001111E\U00011125\U00011128"
 '59':
   translations:
     bg: Петровец
@@ -3473,6 +3676,9 @@ ZR:
     sv: Petrovec
     uk: Петровець
     ur: پیتروویتس بلدیہ
+    sr_Latn: Opština Petrovec
+    zh: 彼得羅韋茨區
+    ccp: "\U0001111B\U0001112C\U00011111\U00011133\U00011122\U0001112E\U0001111E\U0001112C\U00011107\U00011134"
 '67':
   translations:
     bg: Росоман
@@ -3491,6 +3697,9 @@ ZR:
     sv: Rosoman
     uk: Росоман
     ur: روسومان بلدیہ
+    sr_Latn: Opština Rosoman
+    zh: 羅索曼區
+    ccp: "\U00011122\U0001112E\U00011125\U0001112E\U0001111F\U0001111A\U00011134"
 '71':
   translations:
     bg: Старо Нагоричане
@@ -3509,6 +3718,9 @@ ZR:
     sv: Staro Nagoricane
     uk: Старо-Нагоричане (община)
     ur: بلدیہ ستارو ناگوریچانے
+    sr_Latn: Opština Staro Nagoričano
+    zh: 斯塔羅納戈里查內區
+    ccp: "\U0001110C\U00011133\U00011111\U00011122\U0001112E \U0001111A\U00011109\U0001112E\U00011122\U00011128\U00011107\U0001112C\U0001111A\U00011134"
 '12':
   translations:
     de: Opština Vevčani
@@ -3526,45 +3738,62 @@ ZR:
     sv: Vevčani
     uk: Вевчани (община)
     ur: ویوچانی بلدیہ
+    sr_Latn: Opština Vevčani
+    zh: 維夫查尼區
+    ccp: "\U0001111E\U0001112C\U0001111B\U00011134\U00011107\U0001111A\U00011128"
 '01':
   translations:
     en: Aerodrom
+    ccp: "\U00011103\U00011120\U0001112C\U00011122\U0001112E\U00011113\U00011133\U00011122\U0001112E\U0001111F\U00011134"
 '09':
   translations:
     en: Butel
+    ccp: "\U0001111D\U0001112A\U00011111\U0001112C\U00011123\U00011134"
 '15':
   translations:
     en: Vraneštica
+    ccp: "\U0001111E\U00011133\U00011122\U0001111A\U0001112C\U0001110C\U00011134\U00011111\U00011128\U00011107"
 '17':
   translations:
     en: Gazi Baba
+    ccp: "\U00011109\U0001110E\U00011128 \U0001111D\U0001111D"
 '28':
   translations:
     en: Drugovo
+    ccp: "\U00011113\U00011133\U00011122\U0001112A\U00011109\U0001112E\U0001111E\U0001112E"
 '29':
   translations:
     en: Gjorče Petrov
+    ccp: "\U0001110E\U0001112E\U00011122\U00011134 \U0001111B\U0001112C\U00011111\U00011133\U00011122\U0001112E\U0001111B\U00011134"
 '31':
   translations:
     en: Zajas
+    ccp: "\U0001110E\U0001110E\U0001110C\U00011134"
 '38':
   translations:
     en: Karpoš
+    ccp: "\U00011107\U00011122\U00011134\U0001111B\U0001112E\U0001110C\U00011134"
 '39':
   translations:
     en: Kisela Voda
+    ccp: "\U00011107\U00011128\U00011125\U0001112C\U00011123 \U00011123\U0001112E\U00011113"
 '57':
   translations:
     en: Oslomej
+    ccp: "\U00011103\U0001112E\U0001110C\U00011134\U00011123\U0001112E\U0001111F\U0001112C\U0001110C\U00011134"
 '68':
   translations:
     en: Saraj
+    ccp: "\U00011125\U00011122\U0001110C\U00011134"
 '77':
   translations:
     en: Centar
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011122\U00011134"
 '79':
   translations:
     en: Čair
+    ccp: "\U00011125\U00011128\U00011120\U00011122\U00011134"
 '84':
   translations:
     en: Šuto Orizari
+    ccp: "\U00011125\U0001112A\U00011111\U0001112E \U00011103\U00011127\U00011122\U00011128\U0001110E\U00011122\U00011128"

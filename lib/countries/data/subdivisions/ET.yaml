@@ -62,6 +62,8 @@ AA:
     ur: ادیس ابابا
     vi: Addis Ababa
     zh: 亚的斯亚贝巴
+    sr_Latn: Adis Abeba
+    ccp: "\U00011103\U00011113\U00011128\U0001110C\U00011134 \U00011103\U0001111D\U0001111D"
   geo:
     latitude: 8.9806034
     longitude: 38.7577605
@@ -120,6 +122,9 @@ AF:
     uk: Афар
     ur: افار علاقہ
     vi: Afar (vùng)
+    sr_Latn: Afar
+    zh: 阿法尔州
+    ccp: "\U00011103\U0001111C\U00011122\U00011134"
   geo:
     latitude: 11.7559388
     longitude: 40.958688
@@ -178,6 +183,9 @@ AM:
     uk: Амхара
     ur: امہارا علاقہ
     vi: Amhara (vùng)
+    sr_Latn: Amhara
+    zh: 阿姆哈拉州
+    ccp: "\U00011103\U0001111F\U00011134\U00011126\U00011122"
   geo:
     latitude: 11.3494247
     longitude: 37.9784585
@@ -233,6 +241,9 @@ BE:
     uk: Бенішангул-Гумуз
     ur: بینشانگول-گوموز علاقہ
     vi: Benishangul-Gumuz
+    sr_Latn: Benišangul-Gumuz
+    zh: 本尚古勒-古馬茲州
+    ccp: "\U0001111D\U0001112C\U0001111A\U00011128\U00011125\U00011101\U00011109\U0001112A\U00011123\U00011134-\U00011109\U0001112A\U0001111A\U0001110C\U00011134"
   geo:
     latitude: 10.7802889
     longitude: 35.5657862
@@ -292,6 +303,9 @@ DD:
     uk: Дире-Дауа
     ur: دیرہ داوا
     vi: Dire Dawa
+    sr_Latn: Dire Dava
+    zh: 德雷达瓦
+    ccp: "\U00011113\U00011120\U00011122\U00011134 \U00011113\U00011127\U00011120"
   geo:
     latitude: 9.6008747
     longitude: 41.850142
@@ -349,6 +363,9 @@ GA:
     uk: Гамбела
     ur: گامبیلا علاقہ
     vi: Gambela
+    sr_Latn: Region Gambela
+    zh: 甘貝拉州
+    ccp: "\U00011109\U0001111F\U00011134\U0001111D\U0001112C\U00011123"
   geo:
     latitude: 7.9219687
     longitude: 34.1531947
@@ -404,6 +421,9 @@ HA:
     uk: Харарі
     ur: ہراری علاقہ
     vi: Harari (vùng)
+    sr_Latn: Region Harari
+    zh: 哈勒爾州
+    ccp: "\U00011126\U00011122\U00011122\U00011128"
   geo:
     latitude: 9.314866
     longitude: 42.1967716
@@ -459,6 +479,9 @@ OR:
     uk: Оромія
     ur: اورومیا علاقہ
     vi: Oromia
+    sr_Latn: Oromija
+    zh: 奧羅米亞州
+    ccp: "\U00011103\U00011127\U00011122\U0001112E\U0001111F\U00011128\U00011120"
   geo:
     latitude: 7.546037699999999
     longitude: 40.6346851
@@ -516,6 +539,11 @@ SN:
     uk: Регіон Народів і народностей півдня
     ur: جنوبی اقوام، قومیتیں، اور عوامی علاقہ
     vi: Vùng Các dân tộc Phương Nam
+    sr_Latn: Region južnih nacija
+    zh: 南方各族州
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134\U0001111F\U0001112C\U00011107\U00011134\U00011108\U0001112C
+      \U0001110E\U00011116\U00011134, \U0001110E\U00011116\U00011128\U00011120\U00011127\U00011116
+      \U00011103\U00011133\U00011103 \U0001110E\U00011127\U0001111A\U00011127\U00011109\U00011127\U0001111A\U00011134"
   geo:
     latitude: 6.5156911
     longitude: 36.954107
@@ -573,6 +601,9 @@ SO:
     uk: Сомалі
     ur: صومالی علاقہ
     vi: Vùng Somali
+    sr_Latn: Region Somali
+    zh: 索馬里州
+    ccp: "\U00011125\U00011127\U0001111F\U00011123\U00011128"
   geo:
     latitude: 6.6612293
     longitude: 43.7908453
@@ -631,6 +662,9 @@ TI:
     uk: Тиграй
     ur: تیگراے علاقہ
     vi: Tigray (vùng)
+    sr_Latn: Region Tigraj
+    zh: 提格里州
+    ccp: "\U00011111\U0001112D\U00011109\U00011133\U00011122\U0001112C"
   geo:
     latitude: 14.0323336
     longitude: 38.3165725

@@ -57,6 +57,8 @@ AC:
     ur: اکری
     vi: Acre
     zh: 阿克里州
+    sr_Latn: Akre
+    ccp: "\U00011103\U0001112C\U00011107\U00011127\U00011122\U00011134"
   geo:
     latitude: -9.0237964
     longitude: -70.81199529999999
@@ -123,6 +125,9 @@ AL:
     uk: Алагоас
     ur: الاگواس
     vi: Alagoas
+    sr_Latn: Alagoas
+    zh: 阿拉戈斯州
+    ccp: "\U00011103\U00011123\U00011109\U00011103\U0001112E\U0001110C\U00011134"
   geo:
     latitude: -9.5713058
     longitude: -36.7819505
@@ -188,6 +193,9 @@ AM:
     uk: Амазонас
     ur: ایمازوناس
     vi: Amazonas
+    sr_Latn: Amazonas
+    zh: 亚马孙州
+    ccp: "\U00011103\U0001111F\U0001110E\U00011127\U0001111A\U0001110C\U00011134"
   geo:
     latitude: -3.4168427
     longitude: -65.8560646
@@ -252,6 +260,9 @@ AP:
     uk: Амапа
     ur: اماپا
     vi: Amapá
+    sr_Latn: Amapa
+    zh: 阿马帕
+    ccp: "\U00011103\U0001111F\U00011134\U0001111B"
   geo:
     latitude: 2.0447397
     longitude: -50.78742219999999
@@ -317,6 +328,9 @@ BA:
     uk: Баїя
     ur: باہیا
     vi: Bahia
+    sr_Latn: Baija
+    zh: 巴伊亚
+    ccp: "\U0001111D\U00011126\U00011128\U00011120"
   geo:
     latitude: -12.579738
     longitude: -41.7007272
@@ -381,6 +395,9 @@ CE:
     uk: Сеара
     ur: سئیرا
     vi: Ceará
+    sr_Latn: Seara
+    zh: 塞阿腊
+    ccp: "\U00011125\U00011128\U00011120\U0001112C\U00011122"
   geo:
     latitude: -5.4983977
     longitude: -39.3206241
@@ -442,6 +459,9 @@ DF:
     uk: Федеральний округ у Бразилії
     ur: وفاقی ضلع
     vi: Quận liên bang Brasil
+    sr_Latn: Savezni distrikt Brazila
+    zh: 聯邦區
+    ccp: "\U0001111C\U0001112C\U00011113\U0001112C\U00011122\U00011123\U00011134 \U0001110E\U0001112C\U00011123"
   geo:
     latitude: -15.826691
     longitude: -47.92182039999999
@@ -505,6 +525,10 @@ ES:
     uk: Еспіріту-Санту
     ur: اسپیریتو سانتو
     vi: Espírito Santo
+    sr_Latn: Espirito Santo
+    zh: 圣埃斯皮里图州
+    ccp: "\U00011103\U0001112C\U0001110C\U00011134\U0001111B\U00011128\U00011122\U00011128\U00011111\U0001112E
+      \U00011125\U0001111A\U00011134\U00011111\U0001112E"
   geo:
     latitude: -19.1834229
     longitude: -40.3088626
@@ -569,6 +593,9 @@ GO:
     uk: Гояс
     ur: گوئیاس
     vi: Goiás
+    sr_Latn: Gojas
+    zh: 戈亚斯
+    ccp: "\U00011109\U0001112E\U00011120\U0001110C\U00011134"
   geo:
     latitude: -15.93397
     longitude: -50.1403832
@@ -633,6 +660,9 @@ MA:
     uk: Мараньян
     ur: مارانہاؤ
     vi: Maranhão
+    sr_Latn: Maranjao
+    zh: 马拉尼昂州
+    ccp: "\U0001111F\U00011122\U0001111A\U00011134\U00011126\U00011103\U0001112E"
   geo:
     latitude: -4.9609498
     longitude: -45.2744159
@@ -698,6 +728,9 @@ MG:
     uk: Мінас-Жерайс
     ur: میناس گیرائس
     vi: Minas Gerais
+    sr_Latn: Minas Žerais
+    zh: 米纳斯吉拉斯
+    ccp: "\U0001111F\U0001112D\U0001111A\U0001110C\U00011134 \U0001110E\U0001112C\U00011122\U0001112D\U0001110C\U00011134"
   geo:
     latitude: -18.512178
     longitude: -44.5550308
@@ -762,6 +795,10 @@ MS:
     uk: Мату-Гросу-ду-Сул
     ur: جنوبی ماتو گروسو
     vi: Mato Grosso do Sul
+    sr_Latn: Mato Groso do Sul
+    zh: 南马托格罗索州
+    ccp: "\U0001111F\U00011111\U0001112E \U00011109\U00011133\U00011122\U00011125\U0001112E
+      \U00011113\U0001112E \U00011125\U0001112A\U00011123\U00011134"
   geo:
     latitude: -20.7722295
     longitude: -54.7851531
@@ -826,6 +863,9 @@ MT:
     uk: Мату-Гросу
     ur: ماتو گروسو
     vi: Mato Grosso
+    sr_Latn: Mato Groso
+    zh: 马托格罗索州
+    ccp: "\U0001111F\U00011111\U0001112E \U00011109\U00011133\U00011122\U00011125\U0001112E"
   geo:
     latitude: -12.6818712
     longitude: -56.921099
@@ -890,6 +930,9 @@ PA:
     uk: Пара
     ur: پارا
     vi: Pará
+    sr_Latn: Para
+    zh: 帕拉
+    ccp: "\U0001111B\U00011122"
   geo:
     latitude: -1.9981271
     longitude: -54.9306152
@@ -955,6 +998,9 @@ PB:
     uk: Параїба
     ur: پارائیبا
     vi: Paraíba
+    sr_Latn: Paraiba
+    zh: 帕拉伊巴
+    ccp: "\U0001111B\U00011127\U00011122\U0001112D\U0001111D"
   geo:
     latitude: -7.239960900000001
     longitude: -36.7819505
@@ -1021,6 +1067,9 @@ PE:
     uk: Пернамбуку
     ur: پرنامبوکو
     vi: Pernambuco
+    sr_Latn: Pernambuko
+    zh: 伯南布哥
+    ccp: "\U0001111B\U00011122\U00011134\U0001111A\U0001111F\U00011134\U0001111D\U0001112A\U00011107\U0001112E"
   geo:
     latitude: -8.8137173
     longitude: -36.954107
@@ -1086,6 +1135,9 @@ PI:
     uk: Піауї
     ur: پیاوی
     vi: Piauí
+    sr_Latn: Pjaui
+    zh: 皮奧伊州
+    ccp: "\U0001111B\U0001112D\U00011105\U0001112A\U00011103\U00011128"
   geo:
     latitude: -7.718340100000001
     longitude: -42.72892359999999
@@ -1151,6 +1203,9 @@ PR:
     uk: Парана
     ur: پارانا
     vi: Paraná
+    sr_Latn: Parana
+    zh: 巴拉那州
+    ccp: "\U0001111B\U00011127\U00011122\U0001111A\U00011133\U00011126"
   geo:
     latitude: -25.2520888
     longitude: -52.0215415
@@ -1209,6 +1264,9 @@ RJ:
     uk: Ріо-де-Жанейро
     ur: ریو دے جینیرو
     vi: Rio de Janeiro
+    sr_Latn: Rio de Žaneiro
+    zh: 里約熱內盧州
+    ccp: "\U00011122\U00011103\U0001112E \U00011113\U00011128 \U0001110E\U0001112C\U0001111A\U0001112C\U0001112D\U00011122\U0001112E"
   geo:
     latitude: -22.9068467
     longitude: -43.1728965
@@ -1274,6 +1332,10 @@ RN:
     uk: Ріу-Гранді-ду-Норті
     ur: شمالی ریو گرانڈی
     vi: Rio Grande do Norte
+    sr_Latn: Rio Grande do Norte
+    zh: 北里约格朗德
+    ccp: "\U00011122\U00011103\U0001112E \U00011109\U00011133\U00011122\U0001111A\U00011134\U00011113\U0001112C
+      \U00011113\U0001112E \U0001111A\U00011127\U00011122\U00011134\U00011111\U0001112C"
   geo:
     latitude: -5.402580299999999
     longitude: -36.954107
@@ -1337,6 +1399,9 @@ RO:
     uk: Рондонія
     ur: روندونیا
     vi: Rondônia
+    sr_Latn: Rondonija
+    zh: 朗多尼亚州
+    ccp: "\U00011122\U00011127\U0001111A\U00011133\U00011113\U00011134\U00011113\U0001112E\U0001111A\U00011128\U00011120"
   geo:
     latitude: -11.5057341
     longitude: -63.580611
@@ -1401,6 +1466,9 @@ RR:
     uk: Рорайма
     ur: رورائیما
     vi: Roraima
+    sr_Latn: Roraima
+    zh: 羅賴馬州
+    ccp: "\U00011122\U00011127\U00011122\U0001112D\U0001111F"
   geo:
     latitude: 2.7375971
     longitude: -62.0750998
@@ -1466,6 +1534,10 @@ RS:
     uk: Ріу-Гранді-ду-Сул
     ur: جنوبی ریو گرانڈی
     vi: Rio Grande do Sul
+    sr_Latn: Rio Grande do Sul
+    zh: 南里奥格兰德州
+    ccp: "\U00011122\U00011128\U00011103\U0001112E \U00011109\U00011133\U00011122\U0001111A\U00011134\U00011113\U0001112C
+      \U00011113\U0001112E \U00011125\U0001112A\U00011123\U00011134"
   geo:
     latitude: -30.0346316
     longitude: -51.2176986
@@ -1531,6 +1603,9 @@ SC:
     uk: Санта-Катаріна
     ur: سانتا کاتارینا
     vi: Santa Catarina
+    sr_Latn: Santa Katarina
+    zh: 圣卡塔琳娜州
+    ccp: "\U00011125\U0001111A\U00011134\U00011111 \U00011107\U00011133\U00011120\U00011111\U00011122\U00011128\U0001111A"
   geo:
     latitude: -27.2423392
     longitude: -50.2188556
@@ -1596,6 +1671,9 @@ SE:
     uk: Сержипі
     ur: سرژیپی
     vi: Sergipe
+    sr_Latn: Seržipe
+    zh: 塞尔希培州
+    ccp: "\U00011125\U0001112C\U00011122\U00011134\U00011109\U0001112D\U0001111B\U00011134"
   geo:
     latitude: -10.5740934
     longitude: -37.3856581
@@ -1663,6 +1741,9 @@ SP:
     uk: Сан-Паулу
     ur: ساؤ پاؤلو
     vi: São Paulo
+    sr_Latn: Sao Paulo
+    zh: 圣保罗州
+    ccp: "\U00011125\U00011103\U0001112E \U0001111B\U00011105\U0001112A\U00011123\U0001112E"
   geo:
     latitude: -23.5505199
     longitude: -46.63330939999999
@@ -1726,6 +1807,9 @@ TO:
     uk: Токантінс
     ur: توکانتینس
     vi: Tocantins
+    sr_Latn: Tokantins
+    zh: 托坎廷斯
+    ccp: "\U00011111\U00011127\U00011107\U00011133\U00011120\U0001111A\U00011134\U00011111\U00011128\U0001111A\U00011134"
   geo:
     latitude: -10.17528
     longitude: -48.2982474

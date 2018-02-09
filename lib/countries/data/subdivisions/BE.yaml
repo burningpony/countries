@@ -68,6 +68,8 @@ BRU:
     ur: برسلز
     vi: Bruxelles
     zh: 布魯塞爾首都大區市鎮
+    sr_Latn: Region glavnog grada Brisela
+    ccp: "\U0001111D\U00011133\U00011122\U00011125\U0001112C\U00011123\U00011134\U00011125\U00011134"
   geo:
     latitude: 50.8503396
     longitude: 4.3517103
@@ -132,6 +134,9 @@ VAN:
     uk: Антверпен
     ur: اینٹورپ
     vi: Antwerp
+    sr_Latn: Provincija Antverpen
+    zh: 安特衛普省
+    ccp: "\U00011103\U0001111A\U00011133\U00011111\U00011134\U00011103\U0001112E\U00011120\U0001112C\U00011122\U00011134\U0001111B\U00011134"
   geo:
     latitude: 51.2194475
     longitude: 4.4024643
@@ -197,6 +202,10 @@ VBR:
     uk: Фламандський Брабант
     ur: فلیمش برابنٹ
     vi: Vlaams-Brabant
+    sr_Latn: Flamanski Brabant
+    zh: 弗拉芒-布拉班特省
+    ccp: "\U0001111C\U00011133\U00011123\U0001112C\U0001111F\U00011128\U0001110C\U00011134
+      \U0001111D\U00011133\U00011122\U0001111D\U0001111A\U00011133\U00011111\U00011134"
   geo:
     latitude: 51.3663862
     longitude: 5.615708800000001
@@ -260,6 +269,9 @@ VLI:
     uk: Лімбург
     ur: لمبرگ
     vi: Limburg
+    sr_Latn: Provincija Limburg
+    zh: 林堡省
+    ccp: "\U00011123\U00011128\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011109\U00011134"
   geo:
     latitude: 51.4427238
     longitude: 6.0608726
@@ -326,6 +338,9 @@ VOV:
     uk: Східна Фландрія
     ur: مشرقی فلانڈرز
     vi: Oost-Vlaanderen
+    sr_Latn: Istočna Flandrija
+    zh: 东弗兰德省
+    ccp: "\U0001111B\U0001112A\U00011107\U00011134 \U0001111C\U00011133\U00011123\U0001111A\U00011134\U00011113\U00011122\U00011134\U00011125\U00011134"
   geo:
     latitude: 51.0362101
     longitude: 3.7373124
@@ -393,6 +408,9 @@ VWV:
     uk: Західна Фландрія
     ur: مغربی فلانڈرز
     vi: West-Vlaanderen
+    sr_Latn: Zapadna Flandrija
+    zh: 西弗兰德省
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111C\U00011133\U00011123\U0001111A\U00011134\U00011113\U00011122\U00011134\U00011125\U00011134"
   geo:
     latitude: 51.0536024
     longitude: 3.1457942
@@ -459,6 +477,9 @@ WBR:
     uk: Валлонський Брабант
     ur: والون برابنٹ
     vi: Walloon Brabant
+    sr_Latn: Valonski Brabant
+    zh: 瓦隆-布拉班特省
+    ccp: "\U00011103\U0001112E\U00011120\U00011123\U0001112A\U0001111A\U00011134 \U0001111D\U00011133\U00011122\U0001111D\U0001111A\U00011133\U00011111\U00011134"
   geo:
     latitude: 50.633241
     longitude: 4.524315
@@ -524,6 +545,9 @@ WHT:
     uk: Ено
     ur: ہائنو
     vi: Hainaut
+    sr_Latn: Provincija Eno
+    zh: 埃諾省
+    ccp: "\U00011126\U0001112D\U0001111A\U00011105\U0001112A\U00011116\U00011134"
   geo:
     latitude: 50.5257076
     longitude: 4.062101699999999
@@ -589,6 +613,9 @@ WLG:
     uk: Льєж
     ur: لییج
     vi: Liège
+    sr_Latn: Provincija Lijež
+    zh: 列日省
+    ccp: "\U00011123\U0001112D\U0001110E\U0001112C"
   geo:
     latitude: 50.6325574
     longitude: 5.5796662
@@ -654,6 +681,9 @@ WLX:
     uk: Люксембург
     ur: لکسمبرگ
     vi: Luxembourg
+    sr_Latn: Provincija Luksemburg
+    zh: 盧森堡省
+    ccp: "\U00011123\U0001112A\U00011107\U00011134\U00011125\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011109\U00011134"
   geo:
     latitude: 50.0546886
     longitude: 5.467698299999999
@@ -716,6 +746,9 @@ WNA:
     uk: Намюр
     ur: نامور
     vi: Namur
+    sr_Latn: Provincija Namir
+    zh: 那慕爾省
+    ccp: "\U0001111A\U0001111F\U0001112A\U00011122\U00011134"
   geo:
     latitude: 50.4673883
     longitude: 4.8719854
@@ -775,6 +808,9 @@ WAL:
     uk: Валлонія
     ur: والونیا
     vi: Wallonie
+    sr_Latn: Valonija
+    zh: 瓦隆
+    ccp: "\U00011103\U0001112E\U00011120\U00011123\U0001112E\U0001111A\U00011128\U00011120"
 VLG:
   translations:
     ar: الإقليم الفلامندي
@@ -804,3 +840,5 @@ VLG:
     uk: Фламандській регіон
     ur: فلیمش علاقہ
     vi: Vùng Flemish
+    zh: 弗拉芒大區
+    ccp: "\U0001111C\U00011133\U00011123\U0001111A\U00011134\U00011113\U00011122\U00011134\U00011125\U00011134"

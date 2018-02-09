@@ -54,6 +54,8 @@ AGU:
     ur: آگوسکالینٹس
     vi: Aguascalientes
     zh: 阿瓜斯卡連特斯州
+    sr_Latn: Agvaskalijentes
+    ccp: "\U00011103\U00011109\U0001112A\U00011120\U0001110C\U00011134\U00011107\U00011123\U00011128\U00011120\U0001112C\U0001111A\U00011134\U00011111\U00011128\U0001110C\U00011134"
   geo:
     latitude: 21.8852562
     longitude: -102.2915677
@@ -118,6 +120,9 @@ BCN:
     uk: Баха-Каліфорнія
     ur: باجا کیلیفورنیا
     vi: Baja California
+    sr_Latn: Donja Kalifornija
+    zh: 下加利福尼亞州
+    ccp: "\U0001111D\U0001110E \U00011107\U00011133\U00011120\U00011123\U00011128\U0001111C\U0001112E\U00011122\U00011134\U0001111A\U00011128\U00011120"
   geo:
     latitude: 30.8406338
     longitude: -115.2837585
@@ -181,6 +186,10 @@ BCS:
     uk: Баха-Каліфорнія-Сюр
     ur: باجا کیلیفورنیا سر
     vi: Baja California Sur
+    sr_Latn: Južna Donja Kalifornija
+    zh: 南下加利福尼亞州
+    ccp: "\U0001111D\U0001110E \U00011107\U00011133\U00011120\U00011123\U00011128\U0001111C\U0001112E\U00011122\U00011134\U0001111A\U00011128\U00011120
+      \U00011125\U00011122\U00011134"
   geo:
     latitude: 26.0444446
     longitude: -111.6660725
@@ -244,6 +253,9 @@ CAM:
     uk: Кампече
     ur: کامپیچی
     vi: Campeche
+    sr_Latn: Država Kampeče
+    zh: 坎佩切州
+    ccp: "\U00011107\U00011133\U00011120\U0001111F\U00011134\U0001111B\U0001112C\U0001110C\U0001112C"
   geo:
     latitude: 19.8301251
     longitude: -90.5349087
@@ -309,6 +321,9 @@ CHH:
     uk: Чіуауа
     ur: چہواہوا
     vi: Chihuahua
+    sr_Latn: čivava
+    zh: 奇瓦瓦州
+    ccp: "\U0001110C\U00011128\U00011126\U00011131\U00011126\U00011131"
   geo:
     latitude: 28.6329957
     longitude: -106.0691004
@@ -371,6 +386,9 @@ CHP:
     uk: Чіапас
     ur: چیاپاس
     vi: Chiapas
+    sr_Latn: Čijapas
+    zh: 恰帕斯州
+    ccp: "\U0001110C\U00011128\U00011120\U0001111B\U0001110C\U00011134"
   geo:
     latitude: 16.7569318
     longitude: -93.12923529999999
@@ -442,6 +460,10 @@ CMX:
     uk: Мехіко
     ur: میکسیکو شہر
     vi: Thành phố México
+    sr_Latn: Meksiko Siti
+    zh: 墨西哥城
+    ccp: "\U0001110C\U0001112D\U00011105\U0001112A\U00011113\U00011116\U00011134 \U00011113\U0001112C
+      \U0001111F\U0001112C\U00011107\U00011134\U00011125\U00011128\U00011107\U0001112E"
   geo:
     latitude: 19.2464696
     longitude: -99.1013498
@@ -505,6 +527,9 @@ COA:
     uk: Коауїла
     ur: كواہويلا
     vi: Coahuila
+    sr_Latn: Koavila
+    zh: 科阿韋拉州
+    ccp: "\U00011107\U0001112E\U00011126\U0001112D\U0001112A\U00011123"
   geo:
     latitude: 27.058676
     longitude: -101.7068294
@@ -568,6 +593,9 @@ COL:
     uk: Коліма
     ur: کولیما
     vi: Colima
+    sr_Latn: Država Kolima
+    zh: 科利馬州
+    ccp: "\U00011107\U0001112E\U00011123\U00011128\U0001111F"
   geo:
     latitude: 19.2452342
     longitude: -103.7240868
@@ -631,6 +659,9 @@ DUR:
     uk: Дуранго
     ur: دورانگو
     vi: Durango
+    sr_Latn: Država Durango
+    zh: 杜蘭戈州
+    ccp: "\U00011113\U0001112A\U00011122\U0001110B\U00011134\U00011109\U0001112E"
   geo:
     latitude: 24.0277202
     longitude: -104.6531759
@@ -693,6 +724,9 @@ GRO:
     uk: Ґерреро
     ur: گیریرو
     vi: Guerrero
+    sr_Latn: Gerero
+    zh: 格雷羅州
+    ccp: "\U00011109\U0001112A\U00011120\U0001112C\U00011122\U0001112C\U00011122\U0001112E"
   geo:
     latitude: 17.4391926
     longitude: -99.54509739999999
@@ -756,6 +790,9 @@ GUA:
     uk: Ґуанахуато
     ur: گوانجواتو
     vi: Guanajuato
+    sr_Latn: Država Gvanahuato
+    zh: 瓜納華托州
+    ccp: "\U00011109\U0001112D\U0001112A\U0001111A\U0001110E\U0001112A\U00011120\U00011111\U0001112E"
   geo:
     latitude: 21.0190145
     longitude: -101.2573586
@@ -818,6 +855,9 @@ HID:
     uk: Ідальго
     ur: ہیدالگو (ریاست)
     vi: Hidalgo
+    sr_Latn: Država Idalgo
+    zh: 伊達爾戈州
+    ccp: "\U00011126\U00011128\U00011113\U00011123\U00011134\U00011109\U0001112E"
   geo:
     latitude: 20.0910963
     longitude: -98.7623874
@@ -882,6 +922,9 @@ JAL:
     uk: Халіско
     ur: جلیسکو
     vi: Jalisco
+    sr_Latn: Halisko
+    zh: 哈利斯科州
+    ccp: "\U0001110E\U00011123\U00011128\U0001110C\U00011134\U00011107\U0001112E"
   geo:
     latitude: 20.6595382
     longitude: -103.3494376
@@ -944,6 +987,10 @@ MEX:
     uk: Мехіко²
     ur: ریاست میکسیکو
     vi: México
+    sr_Latn: Meksiko
+    zh: 墨西哥州
+    ccp: "\U0001111F\U0001112C\U00011107\U00011134\U00011125\U00011128\U00011107\U0001112E
+      \U0001110C\U00011133\U00011111\U0001112C\U00011116\U00011134"
   geo:
     latitude: 19.4326077
     longitude: -99.133208
@@ -1006,6 +1053,9 @@ MIC:
     uk: Мічоакан
     ur: میشواکان
     vi: Michoacán
+    sr_Latn: Mičoakan
+    zh: 米却肯州
+    ccp: "\U0001111F\U00011128\U00011107\U0001112E\U00011125\U0001111A\U00011134"
   geo:
     latitude: 19.5665192
     longitude: -101.7068294
@@ -1064,6 +1114,9 @@ MOR:
     uk: Морелос
     ur: موریلوس
     vi: Morelos
+    sr_Latn: Morelos
+    zh: 莫雷洛斯州
+    ccp: "\U0001111F\U0001112E\U00011122\U00011134\U00011123\U0001112C\U0001110C\U00011134"
   geo:
     latitude: 18.6813049
     longitude: -99.1013498
@@ -1127,6 +1180,9 @@ NAY:
     uk: Наяріт
     ur: نایاریت
     vi: Nayarit
+    sr_Latn: Najarit
+    zh: 納亞里特州
+    ccp: "\U0001111A\U0001112C\U00011120\U00011122\U00011128\U00011116\U00011134"
   geo:
     latitude: 21.7513844
     longitude: -104.8454619
@@ -1189,6 +1245,9 @@ NLE:
     uk: Нуево-Леон
     ur: نیوو لیون
     vi: Nuevo León
+    sr_Latn: Novi Leon
+    zh: 新萊昂州
+    ccp: "\U0001111A\U00011131\U00011120\U0001112C\U0001111E\U0001112E \U00011123\U00011128\U00011120\U00011127\U0001111A\U00011134"
   geo:
     latitude: 25.592172
     longitude: -99.99619469999999
@@ -1257,6 +1316,9 @@ OAX:
     uk: Оахака
     ur: اوکساکا
     vi: Oaxaca
+    sr_Latn: Oahaka
+    zh: 瓦哈卡州
+    ccp: "\U00011103\U0001112E\U00011120\U00011107\U00011134\U00011125\U00011107"
   geo:
     latitude: 17.0594169
     longitude: -96.7216219
@@ -1320,6 +1382,9 @@ PUE:
     uk: Пуебла
     ur: پوئبلا
     vi: Puebla
+    sr_Latn: Država Puebla
+    zh: 普埃布拉州
+    ccp: "\U0001111B\U0001112A\U00011120\U0001112C\U0001111B\U00011134\U00011123"
   geo:
     latitude: 19.0412967
     longitude: -98.20619959999999
@@ -1383,6 +1448,9 @@ QUE:
     uk: Керетаро
     ur: کوارتارو
     vi: Querétaro
+    sr_Latn: Keretaro
+    zh: 克雷塔羅州
+    ccp: "\U00011107\U0001112A\U00011120\U0001112C\U00011122\U0001112C\U00011111\U00011122\U0001112E"
   geo:
     latitude: 20.5887932
     longitude: -100.3898881
@@ -1445,6 +1513,10 @@ ROO:
     uk: Кінтана-Роо
     ur: کوینتانا رو
     vi: Quintana Roo
+    sr_Latn: Kintana Ro
+    zh: 金塔納羅奧州
+    ccp: "\U00011107\U0001112D\U0001112A\U00011103\U00011128\U0001111A\U00011134\U00011111\U0001111A
+      \U00011122\U0001112B"
   geo:
     latitude: 19.1817393
     longitude: -88.4791376
@@ -1510,6 +1582,9 @@ SIN:
     uk: Сіналоа
     ur: سینالوا
     vi: Sinaloa
+    sr_Latn: Sinaloa
+    zh: 錫那羅亞州
+    ccp: "\U00011125\U00011128\U0001111A\U00011123\U00011131"
   geo:
     latitude: 25.825701
     longitude: -108.214302
@@ -1572,6 +1647,10 @@ SLP:
     uk: Сан-Луїс-Потосі
     ur: سان لوئیس پوتوسی
     vi: San Luis Potosí
+    sr_Latn: Država San Luis Potosi
+    zh: 聖路易斯波托西州
+    ccp: "\U00011125\U0001111A\U00011134 \U00011123\U0001112A\U00011103\U00011128\U0001110C\U00011134
+      \U0001111B\U0001112E\U00011111\U0001112E\U00011125\U00011128"
   geo:
     latitude: 22.1564699
     longitude: -100.9855409
@@ -1635,6 +1714,9 @@ SON:
     uk: Сонора
     ur: سونورا
     vi: Sonora
+    sr_Latn: Sonora
+    zh: 索諾拉州
+    ccp: "\U00011125\U0001112E\U0001111A\U0001112E\U00011122"
   geo:
     latitude: 29.2972247
     longitude: -110.3308814
@@ -1699,6 +1781,9 @@ TAB:
     uk: Табаско
     ur: تاباسکو
     vi: Tabasco
+    sr_Latn: Tabasko
+    zh: 塔巴斯科州
+    ccp: "\U00011111\U0001111D\U0001110C\U00011134\U00011107\U0001112E"
   geo:
     latitude: 17.8409173
     longitude: -92.6189273
@@ -1762,6 +1847,9 @@ TAM:
     uk: Тамауліпас
     ur: تاماولیپاس
     vi: Tamaulipas
+    sr_Latn: Tamaulipas
+    zh: 塔毛利帕斯州
+    ccp: "\U00011111\U0001111F\U00011105\U0001112A\U00011123\U00011128\U0001111B\U0001110C\U00011134"
   geo:
     latitude: 24.26694
     longitude: -98.8362755
@@ -1825,6 +1913,9 @@ TLA:
     uk: Тласкала
     ur: تلاکسکالا
     vi: Tlaxcala
+    sr_Latn: Država Tlaskala
+    zh: 特拉斯卡拉州
+    ccp: "\U00011123\U00011107\U00011134\U00011107\U00011123"
   geo:
     latitude: 19.3181521
     longitude: -98.2375146
@@ -1888,6 +1979,9 @@ VER:
     uk: Веракрус
     ur: ویراکروز
     vi: Veracruz
+    sr_Latn: Država Verakruz
+    zh: 韋拉克魯斯州
+    ccp: "\U0001111E\U00011122\U0001111D\U00011133\U00011122\U0001112A\U0001110C\U00011134"
   geo:
     latitude: 19.173773
     longitude: -96.1342241
@@ -1951,6 +2045,9 @@ YUC:
     uk: Юкатан
     ur: یوکتان
     vi: Yucatán
+    sr_Latn: Jukatan
+    zh: 尤卡坦州
+    ccp: "\U00011103\U00011128\U00011105\U0001112A\U00011107\U00011111\U0001111A\U00011134"
   geo:
     latitude: 20.7098786
     longitude: -89.0943377
@@ -2014,6 +2111,9 @@ ZAC:
     uk: Сакатекас
     ur: زاکاٹیکاس
     vi: Zacatecas
+    sr_Latn: Država Zakatekas
+    zh: 薩卡特卡斯州
+    ccp: "\U0001110E\U00011107\U00011116\U00011134\U00011107\U0001110C\U00011134"
   geo:
     latitude: 22.7709249
     longitude: -102.5832539
@@ -2025,3 +2125,5 @@ ZAC:
 DIF:
   translations:
     en: Mexico City
+    ccp: "\U0001111F\U0001112C\U00011107\U00011134\U00011125\U00011128\U00011107\U0001112E
+      \U00011125\U00011128\U00011111\U00011128"

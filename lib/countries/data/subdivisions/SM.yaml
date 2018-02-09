@@ -46,6 +46,8 @@
     ur: آکواویوا
     vi: Acquaviva
     zh: 阿夸维瓦
+    sr_Latn: Akvaviva
+    ccp: "\U00011103\U0001112C\U00011107\U0001112A\U00011120\U0001111E\U00011128\U0001111E"
   geo:
     latitude: 43.945153
     longitude: 12.4179988
@@ -102,6 +104,9 @@
     uk: Кʼєзануова
     ur: کیئزانووا
     vi: Chiesanuova
+    sr_Latn: Kjezanuova
+    zh: 基埃萨努欧瓦
+    ccp: "\U0001110C\U00011128\U00011125\U0001112C\U0001111A\U0001112F\U0001111E"
   geo:
     latitude: 43.91429050000001
     longitude: 12.4208642
@@ -156,6 +161,9 @@
     uk: Доманьяно
     ur: دوماجنانو
     vi: Domagnano
+    sr_Latn: Domanjano
+    zh: 多玛尼亚诺
+    ccp: "\U00011113\U00011127\U0001111F\U00011107\U00011134\U0001111A\U0001111A\U0001112E"
   geo:
     latitude: 43.9501929
     longitude: 12.4681537
@@ -211,6 +219,9 @@
     uk: Фаетано
     ur: فیٹانو
     vi: Faetano
+    sr_Latn: Faetano
+    zh: 法尔齐亚诺
+    ccp: "\U0001111C\U00011120\U0001112C\U00011116\U0001111A\U0001112E"
   geo:
     latitude: 43.9257086
     longitude: 12.4993728
@@ -266,6 +277,9 @@
     uk: Фйорентіно
     ur: فیورنتینو
     vi: Fiorentino
+    sr_Latn: Fjorentino
+    zh: 菲奥伦蒂诺
+    ccp: "\U0001111C\U0001112D\U00011120\U0001112E\U00011122\U0001112C\U0001111A\U00011134\U00011111\U00011128\U0001111A\U0001112E"
   geo:
     latitude: 43.9078337
     longitude: 12.4581209
@@ -320,6 +334,9 @@
     uk: Борго-Маджоре
     ur: بورجو ماججیوری
     vi: Borgo Maggiore
+    sr_Latn: Borgo Mađore
+    zh: 博尔戈·马吉欧雷
+    ccp: "\U0001111D\U0001112E\U00011122\U00011134\U00011109\U0001112E \U0001111F\U00011133\U00011120\U00011109\U00011128\U00011120\U0001112E\U00011122\U00011134"
   geo:
     latitude: 43.9574882
     longitude: 12.4552546
@@ -389,6 +406,9 @@
     uk: Сан-Марино
     ur: سان مارینو شہر
     vi: Thành phố San Marino
+    sr_Latn: San Marino
+    zh: 聖馬力諾
+    ccp: "\U00011125\U0001111A\U00011134 \U0001111F\U0001112C\U00011122\U00011128\U0001111A\U0001112E"
   geo:
     latitude: 43.9355907
     longitude: 12.4472806
@@ -444,6 +464,9 @@
     uk: Монтеджардіно
     ur: مونتےجاردینو
     vi: Montegiardino
+    sr_Latn: Monteđardino
+    zh: 蒙泰吉阿迪诺
+    ccp: "\U0001111F\U00011127\U0001111A\U00011134\U00011111\U00011128\U00011109\U00011122\U00011134\U00011113\U00011128\U0001111A\U0001112E"
   geo:
     latitude: 43.9097318
     longitude: 12.4863344
@@ -499,6 +522,9 @@
     uk: Серравалле
     ur: سیراوالی
     vi: Serravalle
+    sr_Latn: Seravale
+    zh: 塞拉瓦莱
+    ccp: "\U00011125\U00011122\U00011134\U0001111E\U0001112C\U00011123\U00011128"
   geo:
     latitude: 43.9690367
     longitude: 12.4774099

@@ -4,6 +4,7 @@ D:
   translations:
     en: Diekirch²
     de: Diekirch²
+    ccp: "\U00011113\U0001112D\U00011107\U00011128\U00011122\U00011134\U0001110C\U00011134"
   geo:
     latitude: 49.8671784
     longitude: 6.159563299999999
@@ -17,6 +18,7 @@ G:
   translations:
     en: Grevenmacher²
     de: Grevenmacher
+    ccp: "\U00011109\U00011133\U00011122\U0001112C\U0001111E\U0001112C\U0001111A\U00011134\U0001111F\U0001110C\U0001112C\U00011122\U00011134"
   geo:
     latitude: 49.680841
     longitude: 6.440759300000001
@@ -31,6 +33,7 @@ L:
   translations:
     en: Luxembourg²
     de: Luxemburg²
+    ccp: "\U00011123\U0001112A\U00011107\U00011134\U00011125\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011107\U00011134"
   geo:
     latitude: 48.845577
     longitude: 2.339852
@@ -68,6 +71,7 @@ LU:
     tr: Lüksemburg kantonu
     ur: لگزمبرگ (صوبہ)
     vi: Luxembourg
+    ccp: "\U00011123\U0001112A\U00011107\U00011134\U00011125\U0001112C\U0001111F\U00011134\U0001111D\U00011122\U00011134\U00011107\U00011134"
 ME:
   translations:
     be: Мерш
@@ -93,6 +97,7 @@ ME:
     tr: Mersch kantonu
     uk: Люксембург
     vi: Mersch
+    ccp: "\U0001111F\U00011122\U00011134\U00011125\U00011134\U0001110C\U00011134"
 RD:
   translations:
     be: кантон Рэданж
@@ -118,6 +123,7 @@ RD:
     tr: Redange kantonu
     uk: Реданж
     vi: Redange
+    ccp: "\U00011122\U0001112C\U00011113\U0001110B\U00011134\U00011109\U0001112C"
 RM:
   translations:
     be: Кантон Рэміх
@@ -145,6 +151,7 @@ RM:
     uk: Реміх
     ur: ریمیش (صوبہ)
     vi: Remich
+    ccp: "\U00011122\U0001112C\U0001111F\U00011128\U0001110C\U00011134"
 CA:
   translations:
     ca: Cantó de Capellen
@@ -169,6 +176,7 @@ CA:
     tr: Capellen kantonu
     uk: Капеллен
     vi: Capellen
+    ccp: "\U00011107\U0001111B\U0001112C\U00011123\U0001112C\U0001111A\U00011134"
 CL:
   translations:
     ca: Cantó de Clervaux
@@ -195,6 +203,7 @@ CL:
     uk: Клерво
     vi: Clervaux
     zh: 克莱沃县
+    ccp: "\U00011107\U00011133\U00011123\U00011122\U00011134\U0001111E\U0001112F\U00011107\U00011134"
 DI:
   translations:
     ca: Cantó de Diekirch
@@ -222,6 +231,8 @@ DI:
     uk: Дікірх
     ur: دیکیرش (صوبہ)
     vi: Diekirch
+    zh: 迪基希县
+    ccp: "\U00011113\U0001112D\U00011107\U00011128\U00011122\U00011134\U0001110C\U00011134"
 EC:
   translations:
     ca: Cantó d’Echternach
@@ -249,6 +260,7 @@ EC:
     uk: Ехтернах
     ur: اشترناخ (صوبہ)
     vi: Echternach
+    ccp: "\U00011103\U00011128\U0001110C\U00011134\U00011111\U00011122\U00011134\U0001111A\U0001110C\U00011134"
 ES:
   translations:
     ca: Cantó d’Esch-sur-Alzette
@@ -276,6 +288,7 @@ ES:
     uk: Еш-сюр-Альзетт
     ur: اش-سور-الزیت (صوبہ)
     vi: Esch-sur-Alzette
+    ccp: "\U00011103\U00011128\U0001110C\U00011134-\U00011125\U00011122\U00011134-\U00011103\U00011123\U00011134\U0001110E\U0001112C\U00011111\U00011128"
 GR:
   translations:
     ca: Cantó de Grevenmacher
@@ -303,6 +316,7 @@ GR:
     uk: Гревенмахер
     ur: گرونماخر (صوبہ)
     vi: Grevenmacher
+    ccp: "\U00011109\U00011133\U00011122\U0001112C\U0001111E\U0001112C\U0001111A\U00011134\U0001111F\U0001110C\U0001112C\U00011122\U00011134"
 VD:
   translations:
     ca: Cantó de Vianden
@@ -329,6 +343,7 @@ VD:
     uk: Віанден
     ur: ویاندن (صوبہ)
     vi: Vianden
+    ccp: "\U0001111E\U0001112D\U0001111A\U00011134\U00011113\U0001112C\U0001111A\U00011134"
 WI:
   translations:
     ca: Cantó de Wiltz
@@ -355,3 +370,4 @@ WI:
     uk: Вільц
     ur: ولتز (صوبہ)
     vi: Wiltz
+    ccp: "\U00011105\U0001112A\U00011103\U00011128\U00011123\U00011134\U00011111\U00011134\U0001110E\U00011134"

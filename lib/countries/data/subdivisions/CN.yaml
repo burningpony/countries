@@ -70,6 +70,8 @@
     ur: بیجنگ
     vi: Bắc Kinh
     zh: 北京市
+    sr_Latn: Peking
+    ccp: "\U0001111D\U0001112C\U0001112D\U0001110E\U00011128\U00011101"
   geo:
     latitude: 39.904211
     longitude: 116.407395
@@ -137,6 +139,9 @@
     uk: Тяньцзінь
     ur: تیانجین
     vi: Thiên Tân
+    sr_Latn: Tjencin
+    zh: 天津市
+    ccp: "\U00011111\U0001112D\U0001111A\U00011134\U0001110E\U00011128\U0001111A\U00011134"
   geo:
     latitude: 39.084158
     longitude: 117.200983
@@ -201,6 +206,9 @@
     uk: Хебей
     ur: ہیبئی
     vi: Hà Bắc
+    sr_Latn: Hebej
+    zh: 河北省
+    ccp: "\U00011126\U0001111D\U0001112C\U0001112D"
   geo:
     latitude: 38.037057
     longitude: 114.468665
@@ -264,6 +272,9 @@
     uk: Шаньсі
     ur: شنسی
     vi: Sơn Tây
+    sr_Latn: Šansi
+    zh: 山西省
+    ccp: "\U00011125\U0001111A\U00011134\U00011125\U00011133\U00011126\U00011128"
   geo:
     latitude: 37.873532
     longitude: 112.562398
@@ -332,6 +343,9 @@
     uk: Внутрішня Монголія
     ur: اندرونی منگولیا
     vi: Nội Mông
+    sr_Latn: Unutrašnja Mongolija
+    zh: 内蒙古自治区
+    ccp: "\U00011103\U00011128\U0001111A\U00011122\U00011134 \U0001111F\U00011127\U00011101\U00011109\U0001112E\U00011123\U00011128\U00011120"
   geo:
     latitude: 40.81739
     longitude: 111.76629
@@ -396,6 +410,9 @@
     uk: Ляонін
     ur: لیاؤننگ
     vi: Liêu Ninh
+    sr_Latn: Ljaoning
+    zh: 辽宁省
+    ccp: "\U00011123\U0001112D\U00011103\U0001112E\U0001111A\U00011128\U00011101"
   geo:
     latitude: 41.836175
     longitude: 123.431383
@@ -459,6 +476,9 @@
     uk: Цзілінь
     ur: جیلن
     vi: Cát Lâm
+    sr_Latn: Đilin
+    zh: 吉林省
+    ccp: "\U0001110E\U00011128\U00011123\U00011128\U0001111A\U00011134"
   geo:
     latitude: 43.837883
     longitude: 126.549572
@@ -522,6 +542,9 @@
     uk: Провінція Хейлунцзян
     ur: ہیلونگجیانگ
     vi: Hắc Long Giang
+    sr_Latn: Hejlungđang
+    zh: 黑龙江省
+    ccp: "\U00011126\U0001112C\U0001112D\U00011123\U00011127\U00011101\U0001110E\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 45.74236699999999
     longitude: 126.661665
@@ -597,6 +620,9 @@
     uk: Шанхай
     ur: شنگھائی
     vi: Thượng Hải
+    sr_Latn: Šangaj
+    zh: 上海市
+    ccp: "\U00011125\U00011101\U00011126\U0001112D"
   geo:
     latitude: 31.230416
     longitude: 121.473701
@@ -661,6 +687,9 @@
     uk: Цзянсу
     ur: جیانگسو
     vi: Giang Tô
+    sr_Latn: Đangsu
+    zh: 江苏省
+    ccp: "\U0001110E\U00011128\U00011120\U0001110B\U00011134\U00011125\U0001112A"
   geo:
     latitude: 32.061707
     longitude: 118.763232
@@ -725,6 +754,9 @@
     uk: Чжецзян
     ur: ژجیانگ
     vi: Chiết Giang
+    sr_Latn: Džeđang
+    zh: 浙江省
+    ccp: "\U0001110F\U0001112C\U0001110E\U00011128\U00011120\U00011101"
   geo:
     latitude: 30.267443
     longitude: 120.152792
@@ -790,6 +822,9 @@
     uk: Аньхой
     ur: انہوئی
     vi: An Huy
+    sr_Latn: Anhuej
+    zh: 安徽省
+    ccp: "\U00011103\U0001111A\U00011134\U00011126\U0001112D\U0001112A"
   geo:
     latitude: 31.861184
     longitude: 117.284923
@@ -849,6 +884,9 @@
     uk: Фуцзянь
     ur: فوجیان
     vi: Phúc Kiến
+    sr_Latn: Fuđen
+    zh: 福建省
+    ccp: "\U0001111C\U0001112A\U0001110E\U00011128\U00011120\U0001111A\U00011134"
   geo:
     latitude: 26.10078
     longitude: 119.295144
@@ -912,6 +950,9 @@
     uk: Цзянсі
     ur: جیانگشی
     vi: Giang Tây
+    sr_Latn: Đangsi
+    zh: 江西省
+    ccp: "\U0001110E\U00011128\U00011120\U0001110B\U00011134\U0001110E\U00011133\U00011126\U00011128"
   geo:
     latitude: 28.675697
     longitude: 115.909228
@@ -975,6 +1016,9 @@
     uk: Шаньдун
     ur: شانڈونگ
     vi: Sơn Đông
+    sr_Latn: Šandung
+    zh: 山东省
+    ccp: "\U00011125\U0001111A\U00011134\U00011113\U00011127\U00011101"
   geo:
     latitude: 36.66853
     longitude: 117.020359
@@ -1039,6 +1083,9 @@
     uk: Хенань
     ur: ہینان
     vi: Hà Nam
+    sr_Latn: Henan
+    zh: 河南省
+    ccp: "\U00011126\U0001112C\U0001111A\U0001111A\U00011134"
   geo:
     latitude: 34.765515
     longitude: 113.753602
@@ -1101,6 +1148,9 @@
     uk: Хубей
     ur: ہوبئی
     vi: Hồ Bắc
+    sr_Latn: Hubej
+    zh: 湖北省
+    ccp: "\U00011126\U0001112A\U0001111D\U0001112C\U0001112D"
   geo:
     latitude: 30.546498
     longitude: 114.341862
@@ -1164,6 +1214,9 @@
     uk: Хунань
     ur: ہونان
     vi: Hồ Nam
+    sr_Latn: Hunan
+    zh: 湖南省
+    ccp: "\U00011126\U0001112A\U0001111A\U0001111A\U00011134"
   geo:
     latitude: 28.112449
     longitude: 112.98381
@@ -1228,6 +1281,9 @@
     uk: Гуандун
     ur: گوانگڈونگ
     vi: Quảng Đông
+    sr_Latn: Guangdung
+    zh: 广东省
+    ccp: "\U00011109\U00011105\U0001112A\U0001110B\U00011134\U00011113\U00011127\U00011101"
   geo:
     latitude: 23.132191
     longitude: 113.266531
@@ -1293,6 +1349,9 @@
     uk: Гуансі-Чжуанський автономний район
     ur: گوانگشی
     vi: Quảng Tây
+    sr_Latn: Guangsi
+    zh: 广西壮族自治区
+    ccp: "\U00011109\U00011105\U0001112A\U0001110B\U00011134\U0001110E\U00011133\U00011126\U00011128"
   geo:
     latitude: 22.815478
     longitude: 108.327546
@@ -1358,6 +1417,9 @@
     uk: Хайнань
     ur: ہائنان
     vi: Hải Nam
+    sr_Latn: Hajnan
+    zh: 海南省
+    ccp: "\U00011126\U0001112D\U0001111A\U0001111A\U00011134"
   geo:
     latitude: 20.017378
     longitude: 110.349229
@@ -1425,6 +1487,9 @@
     uk: Чунцін
     ur: چونگ کینگ
     vi: Trùng Khánh
+    sr_Latn: Čungking
+    zh: 重庆市
+    ccp: "\U00011125\U00011127\U00011101\U00011107\U0001112A\U00011103\U00011128\U00011101"
   geo:
     latitude: 29.56301
     longitude: 106.551557
@@ -1491,6 +1556,9 @@
     uk: Сичуань
     ur: سیچوان
     vi: Tứ Xuyên
+    sr_Latn: Sičuan
+    zh: 四川省
+    ccp: "\U00011125\U00011128\U00011125\U0001112A\U00011120\U0001111A\U00011134"
   geo:
     latitude: 30.651652
     longitude: 104.075931
@@ -1553,6 +1621,9 @@
     uk: Ґуйчжоу
     ur: گوئیژو
     vi: Quý Châu
+    sr_Latn: Guejdžou
+    zh: 贵州省
+    ccp: "\U00011109\U0001112D\U0001112A\U0001110F\U0001112F"
   geo:
     latitude: 26.598194
     longitude: 106.70741
@@ -1618,6 +1689,9 @@
     uk: Юньнань
     ur: یوننان
     vi: Vân Nam
+    sr_Latn: Junan
+    zh: 云南省
+    ccp: "\U00011103\U00011128\U00011120\U0001111A\U0001111A\U00011134"
   geo:
     latitude: 25.045806
     longitude: 102.710002
@@ -1683,6 +1757,9 @@
     uk: Тибетський автономний район
     ur: تبت خود مختار علاقہ
     vi: Khu tự trị Tây Tạng
+    sr_Latn: Tibet
+    zh: 西藏自治区
+    ccp: "\U00011111\U0001111D\U0001112C\U00011116\U00011134"
   geo:
     latitude: 29.646923
     longitude: 91.117212
@@ -1746,6 +1823,9 @@
     uk: Шеньсі
     ur: شانسی
     vi: Thiểm Tây
+    sr_Latn: Šensi
+    zh: 陕西省
+    ccp: "\U00011125\U0001111A\U00011134\U0001110E\U00011133\U00011126\U00011128"
   geo:
     latitude: 34.265472
     longitude: 108.954239
@@ -1809,6 +1889,9 @@
     uk: Ґаньсу
     ur: گانسو
     vi: Cam Túc
+    sr_Latn: Gansu
+    zh: 甘肃省
+    ccp: "\U00011109\U0001111A\U00011134\U00011125\U0001112A"
   geo:
     latitude: 36.059561
     longitude: 103.826447
@@ -1872,6 +1955,9 @@
     uk: Цінхай
     ur: چنگھائی
     vi: Thanh Hải
+    sr_Latn: Ćinghaj
+    zh: 青海省
+    ccp: "\U00011107\U0001112A\U00011103\U00011128\U0001111A\U00011134\U0001110A\U0001112D"
   geo:
     latitude: 36.620938
     longitude: 101.780251
@@ -1938,6 +2024,9 @@
     uk: Нінся-Хуейський автономний район
     ur: نینگشیا
     vi: Ninh Hạ
+    sr_Latn: Ningsja
+    zh: 宁夏回族自治区
+    ccp: "\U0001111A\U0001111A\U00011128\U00011101\U0001110E\U00011133\U00011126\U00011128\U00011120"
   geo:
     latitude: 38.471318
     longitude: 106.258754
@@ -2004,6 +2093,9 @@
     uk: Сіньцзян-Уйгурський автономний район
     ur: سنکیانگ
     vi: Tân Cương
+    sr_Latn: Sikjang
+    zh: 新疆维吾尔自治区
+    ccp: "\U0001110E\U00011128\U00011101\U0001110E\U00011128\U00011120\U0001110B\U00011134"
   geo:
     latitude: 43.793026
     longitude: 87.627704
@@ -2016,6 +2108,7 @@
   unofficial_names: Taiwan *
   translations:
     en: Taiwan
+    ccp: "\U00011111\U0001112D\U00011124\U0001111A\U00011134"
   geo:
     latitude: 23.69781
     longitude: 120.960515
@@ -2030,6 +2123,8 @@
   - Hongkong
   translations:
     en: Hong Kong SAR China
+    ccp: "\U00011126\U00011127\U00011101 \U00011107\U00011127\U00011101 \U00011125\U00011122\U00011134
+      \U0001110C\U00011128\U0001111A"
   geo:
     latitude: 
     longitude: 
@@ -2042,6 +2137,8 @@
   unofficial_names: Aomen (zh) ***
   translations:
     en: Macau SAR China
+    ccp: "\U0001111F\U00011133\U00011120\U00011107\U00011105\U0001112A \U00011125\U00011122\U00011134
+      \U0001110C\U00011128\U0001111A"
   geo:
     latitude: 52.07663429999999
     longitude: 4.313052

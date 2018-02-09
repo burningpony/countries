@@ -46,6 +46,9 @@ MC:
     tr: Monte Carlo
     uk: Монте-Карло
     vi: Monte Carlo
+    sr_Latn: Monte Karlo
+    zh: 蒙特卡洛
+    ccp: "\U0001111F\U00011127\U0001111A\U00011134\U00011111\U0001112C \U00011107\U00011122\U00011134\U00011123\U0001112E"
 MO:
   translations:
     ar: موناكو فيل
@@ -78,6 +81,8 @@ MO:
     tr: Monaco-Ville
     uk: Монако
     ur: موناکو شہر
+    zh: 摩纳哥城
+    ccp: "\U0001111F\U00011127\U0001111A\U00011107\U0001112E-\U0001111E\U00011128\U00011123\U0001112C"
 CO:
   translations:
     be: Ла-Кандамін
@@ -102,6 +107,8 @@ CO:
     tr: La Condamine
     uk: Ла-Кондамін
     ur: لا کونڈامینی
+    zh: 拉康达明
+    ccp: "\U00011123 \U00011107\U00011127\U0001111A\U00011134\U00011113\U0001111F\U0001112D\U0001111A\U00011134"
 MG:
   translations:
     bg: Монегхети
@@ -118,6 +125,8 @@ MG:
     pt: Moneghetti
     ru: Монегетти
     sv: Moneghetti
+    zh: 莫内盖蒂
+    ccp: "\U0001111F\U00011127\U0001111A\U0001112C\U0001110A\U0001112C\U00011111\U00011128"
 CL:
   translations:
     ca: La Còla
@@ -134,6 +143,7 @@ CL:
     tr: La Colle, Monako
     ur: لا کولی، موناکو
     zh: 拉科尔
+    ccp: "\U00011123 \U00011107\U0001112E\U00011123\U00011128"
 FO:
   translations:
     ca: Fòntvielha
@@ -157,6 +167,8 @@ FO:
     sv: Fontvieille (del av en befolkad plats)
     tr: Fontvieille, Monako
     uk: Фонтвілль
+    zh: 芳特维耶
+    ccp: "\U0001111C\U00011127\U0001111A\U00011134\U00011111\U00011134\U0001111E\U00011128\U00011123\U0001112C"
 LA:
   translations:
     ca: Larvot e Molins Bas
@@ -173,6 +185,8 @@ LA:
     ru: Ларвотто
     tr: Larvotto
     ur: لارووٹو
+    zh: 拉沃托
+    ccp: "\U00011123\U00011122\U00011134\U0001111E\U0001112E\U00011111\U0001112E"
 SR:
   translations:
     ca: La Rossa e Sant Roman
@@ -188,6 +202,8 @@ SR:
     ru: Сен-Роман
     sv: Saint-Roman, Monaco
     ur: سینٹ رومن، موناکو
+    zh: 圣罗曼
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011134 \U00011122\U00011127\U0001111F\U0001111A\U00011134"
 JE:
   translations:
     de: Exotischer Garten von Monaco
@@ -199,6 +215,9 @@ JE:
     nl: Jardin Exotique de Monaco
     pl: Jardin exotique de Monaco
     uk: Екзотичний сад Монако
+    zh: 摩納哥熱帶公園
+    ccp: "\U0001110E\U00011122\U00011134\U00011113\U00011128\U0001111A\U00011134 \U00011103\U0001112C\U00011107\U00011134\U0001110E\U0001112E\U00011111\U00011128\U00011107\U00011134
+      \U00011113\U0001112C \U0001111F\U00011127\U0001111A\U00011134\U00011107\U0001112E"
 PH:
   translations:
     de: Port Hercule
@@ -208,27 +227,37 @@ PH:
     it: Port Hercule
     nl: Port Hercules
     sv: Port Hercule
+    ccp: "\U0001111B\U0001112E\U00011122\U00011134\U00011111\U00011134 \U00011126\U00011122\U00011134\U00011107\U00011128\U00011105\U0001112A\U00011123\U0001110C\U00011134"
 GA:
   translations:
     en: La Gare
+    ccp: "\U00011123 \U00011109\U00011122\U0001112C"
 MA:
   translations:
     en: Malbousquet
+    ccp: "\U0001111F\U00011123\U00011134\U0001111D\U0001112F\U00011107\U0001112E\U00011120\U0001112C\U00011116\U00011134"
 MU:
   translations:
     en: Moulins
+    ccp: "\U0001111F\U0001112F\U00011123\U00011128\U0001111A\U00011134"
 SD:
   translations:
     en: Sainte-Dévote Chapel
     es: iglesia de Santa Devota
     fr: église Sainte-Dévote
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011134-\U00011113\U00011128\U0001111E\U0001112E\U00011116\U00011134
+      \U00011107\U0001111B\U0001112C\U00011123\U00011134"
 SO:
   translations:
     en: La Source
+    ccp: "\U00011123 \U00011125\U0001112E\U00011122\U00011134\U0001110C\U00011134"
 SP:
   translations:
     en: Spélugues
+    ccp: "\U0001110C\U00011133\U0001111B\U0001112C\U00011123\U00011128\U00011105\U0001112A\U00011109\U0001110C\U00011134"
 VR:
   translations:
     en: Vallon de la Rousse
     nl: La Rousse
+    ccp: "\U0001111E\U00011123\U00011127\U0001111A\U00011134 \U00011113\U0001112C
+      \U00011123 \U00011122\U0001112F\U0001110C\U00011134"

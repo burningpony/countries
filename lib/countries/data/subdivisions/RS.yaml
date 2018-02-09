@@ -62,6 +62,8 @@
     ur: بلغراد
     vi: Beograd
     zh: 贝尔格莱德
+    sr_Latn: Beograd
+    ccp: "\U0001111D\U00011128\U00011103\U0001112E\U00011109\U00011133\U00011122\U00011116\U00011134"
   geo:
     latitude: 44.786568
     longitude: 20.4489216
@@ -116,6 +118,10 @@
     uk: Північно-Бацький округ
     ur: شمالی باچکا ضلع
     vi: Quận Bắc Backa
+    sr_Latn: Severnobački upravni okrug
+    zh: 北巴奇卡州
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111D\U00011107"
   geo:
     latitude: 45.9803394
     longitude: 19.5907
@@ -170,6 +176,10 @@
     uk: Середньо-Банатський округ
     ur: وسطی بانات ضلع
     vi: Quận Trung Banat
+    sr_Latn: Srednjobanatski upravni okrug
+    zh: 中巴納特州
+    ccp: "\U00011125\U0001112C\U0001111A\U00011134\U00011111\U00011133\U00011122\U00011123\U00011134
+      \U0001111D\U0001111A\U00011116\U00011134"
   geo:
     latitude: 45.4788485
     longitude: 20.6082522
@@ -224,6 +234,10 @@
     uk: Північно-Банатський округ
     ur: شمالی بانات ضلع
     vi: Quận Bắc Banat
+    sr_Latn: Severnobanatski upravni okrug
+    zh: 北巴納特州
+    ccp: "\U00011105\U0001112A\U00011116\U00011133\U00011126\U00011127\U00011122\U00011134
+      \U0001111D\U0001111A\U00011116\U00011134"
   geo:
     latitude: 45.906839
     longitude: 19.9993417
@@ -279,6 +293,9 @@
     uk: Південно-Банатський округ
     ur: جنوبی بانات ضلع
     vi: Quận Nam Banat
+    sr_Latn: Južnobanatski upravni okrug
+    zh: 南巴納特州
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U0001111D\U0001111A\U00011116\U00011134"
   geo:
     latitude: 45.0027457
     longitude: 21.0542509
@@ -332,6 +349,9 @@
     uk: Західно-Бацький округ
     ur: مغربی باچکا ضلع
     vi: Quận Tây Backa
+    sr_Latn: Zapadnobački upravni okrug
+    zh: 西巴奇卡州
+    ccp: "\U0001111B\U00011127\U0001110F\U00011128\U0001111F\U00011134 \U0001111D\U00011107"
   geo:
     latitude: 45.7355385
     longitude: 19.1897364
@@ -387,6 +407,9 @@
     uk: Південно-Бацький округ
     ur: جنوبی باچکا ضلع
     vi: Quận Nam Backa
+    sr_Latn: Južnobački upravni okrug
+    zh: 南巴奇卡州
+    ccp: "\U00011118\U00011127\U0001110A\U00011128\U0001111A\U00011134 \U0001111D\U00011107"
   geo:
     latitude: 45.4890344
     longitude: 19.6976187
@@ -441,6 +464,9 @@
     uk: Сремський округ
     ur: سریم ضلع
     vi: Syrmia
+    sr_Latn: Sremski upravni okrug
+    zh: 斯雷姆州
+    ccp: "\U00011125\U00011133\U00011122\U0001112C\U0001111F\U00011134"
   geo:
     latitude: 45.0029171
     longitude: 19.8013773
@@ -491,6 +517,9 @@
     tr: Maçva İlçesi
     ur: ماچوا ضلع
     vi: Quận Macva
+    sr_Latn: Mačvanski upravni okrug
+    zh: 馬切萬州
+    ccp: "\U0001111F\U00011133\U00011120\U00011107\U00011134\U0001111E"
   geo:
     latitude: 44.5925314
     longitude: 19.5082246
@@ -542,6 +571,9 @@
     tr: Kolubara İlçesi
     ur: کولوبارا ضلع
     vi: Quận Kolubara
+    sr_Latn: Kolubarski upravni okrug
+    zh: 科盧巴拉州
+    ccp: "\U00011107\U0001112E\U00011123\U0001112A\U0001111D\U00011122"
   geo:
     latitude: 44.2674361
     longitude: 19.8980841
@@ -592,6 +624,9 @@
     tr: Podunavlye İlçesi
     ur: پودوناولیے ضلع
     vi: Quận Podunavlje
+    sr_Latn: Podunavski upravni okrug
+    zh: 波杜那瓦州
+    ccp: "\U0001111B\U00011127\U00011113\U0001112A\U0001111A\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 44.4729156
     longitude: 20.9901426
@@ -645,6 +680,9 @@
     tr: Braniçevo İlçesi
     ur: برانیچیوو ضلع
     vi: Quận Branicevo
+    sr_Latn: Braničevski upravni okrug
+    zh: 布蘭尼切夫州
+    ccp: "\U0001111D\U00011133\U00011122\U0001111A\U00011128\U00011125\U0001112C\U0001111E\U0001112E"
   geo:
     latitude: 44.705
     longitude: 21.538333
@@ -696,6 +734,9 @@
     tr: Šumadija İlçesi
     ur: شومادیا ضلع
     vi: Quận Sumadija
+    sr_Latn: Šumadijski upravni okrug
+    zh: 舒馬迪亞州
+    ccp: "\U00011125\U0001112A\U0001111F\U00011113\U00011128\U0001110E"
   geo:
     latitude: 44.20506779999999
     longitude: 20.7856565
@@ -745,6 +786,9 @@
     tr: Pomoravlje District
     ur: پوموراولیے ضلع
     vi: Quận Pomoravlje
+    sr_Latn: Pomoravski upravni okrug
+    zh: 波莫拉夫列州
+    ccp: "\U0001111B\U00011127\U0001111F\U0001112E\U00011122\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 43.95913789999999
     longitude: 21.271353
@@ -797,6 +841,9 @@
     tr: Bor İlçesi
     ur: بور ضلع
     vi: Quận Bor
+    sr_Latn: Borski upravni okrug
+    zh: 博爾州
+    ccp: "\U0001111D\U0001112E\U00011122\U00011134"
   geo:
     latitude: 44.0698918
     longitude: 22.0985086
@@ -846,6 +893,9 @@
     tr: Zayeçar İlçesi
     ur: زایئچار ضلع
     vi: Quận Zajecar
+    sr_Latn: Zaječarski upravni okrug
+    zh: 扎耶查爾州
+    ccp: "\U0001110E\U0001110E\U0001112C\U00011107\U00011122\U00011134"
   geo:
     latitude: 43.9015048
     longitude: 22.2738011
@@ -898,6 +948,9 @@
     tr: Zlatibor District
     ur: زلاتیبور ضلع
     vi: Quận Zlatibor
+    sr_Latn: Zlatiborski upravni okrug
+    zh: 茲拉提波爾州
+    ccp: "\U0001110E\U00011133\U00011123\U00011111\U00011128\U0001111D\U0001112E\U00011122\U00011134"
   geo:
     latitude: 43.6554553
     longitude: 19.6633226
@@ -949,6 +1002,9 @@
     tr: Moravica District
     ur: موراویتسا ضلع
     vi: Quận Moravica
+    sr_Latn: Moravički upravni okrug
+    zh: 莫拉瓦州
+    ccp: "\U0001111F\U0001112E\U00011122\U0001111E\U00011128\U00011107"
   geo:
     latitude: 43.5393662
     longitude: 21.7117215
@@ -1000,6 +1056,9 @@
     tr: Raska District
     ur: راشکا ضلع
     vi: Quận Raska
+    sr_Latn: Raški upravni okrug
+    zh: 拉什卡州
+    ccp: "\U00011122\U0001110C\U00011134\U00011107"
   geo:
     latitude: 43.291944
     longitude: 20.615556
@@ -1050,6 +1109,9 @@
     tr: Rasina District
     ur: راسینا ضلع
     vi: Quận Rasina
+    sr_Latn: Rasinski upravni okrug
+    zh: 拉辛那州
+    ccp: "\U00011122\U00011125\U00011128\U0001111A"
   geo:
     latitude: 43.5789182
     longitude: 21.3484472
@@ -1102,6 +1164,9 @@
     tr: Nišava İlçesi
     ur: نیشاوا ضلع
     vi: Quận Nisava
+    sr_Latn: Nišavski upravni okrug
+    zh: 尼沙瓦州
+    ccp: "\U0001111A\U00011128\U00011125\U0001111E"
   geo:
     latitude: 43.3738902
     longitude: 21.9322331
@@ -1151,6 +1216,9 @@
     tr: Toplica Dstrict
     ur: توپلیتسا ضلع
     vi: Quận Toplica
+    sr_Latn: Toplički upravni okrug
+    zh: 托普利卡州
+    ccp: "\U00011111\U00011127\U0001111B\U00011134\U00011123\U00011128\U00011107"
   geo:
     latitude: 43.1906592
     longitude: 21.3407762
@@ -1200,6 +1268,9 @@
     tr: Pirot İlçesi
     ur: پیروت ضلع
     vi: Quận Pirot
+    sr_Latn: Pirotski upravni okrug
+    zh: 皮羅特州
+    ccp: "\U0001111B\U0001112D\U00011122\U00011127\U00011116\U00011134"
   geo:
     latitude: 43.1557012
     longitude: 22.5856812
@@ -1252,6 +1323,9 @@
     tr: Jablanica İlçesi
     ur: جبلانیکاضلع
     vi: Quận Jablanica
+    sr_Latn: Jablanički upravni okrug
+    zh: 雅布蘭尼卡州
+    ccp: "\U0001110E\U0001111A\U00011134\U00011123\U0001111A\U00011128\U00011107"
   geo:
     latitude: 43.443889
     longitude: 21.271389
@@ -1301,6 +1375,9 @@
     tr: Pčinja İlçesi
     ur: پچینیا ضلع
     vi: Quận Pcinja
+    sr_Latn: Pčinjski upravni okrug
+    zh: 普奇尼亞州
+    ccp: "\U00011125\U00011128\U0001111A\U00011134\U0001110E"
   geo:
     latitude: 42.5836362
     longitude: 22.1430215
@@ -1328,6 +1405,8 @@
     sr: Косовски управни округ
     tr: Kosova İlçesi
     ur: کوسووہ ضلع
+    sr_Latn: Kosovski upravni okrug
+    ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111E\U0001112E"
   geo:
     latitude: 44.016521
     longitude: 21.005859
@@ -1349,6 +1428,8 @@
     sr: Пећки управни округ
     uk: Пецький округ
     ur: پیچ ضلع
+    sr_Latn: Pećki upravni okrug
+    ccp: "\U0001111B\U0001112C\U00011107\U00011134"
   geo:
     latitude: 43.5725
     longitude: 19.8797222
@@ -1373,6 +1454,8 @@
     sr: Призренски управни округ
     uk: Прізренський округ
     ur: پریزرین ضلع
+    sr_Latn: Prizrenski upravni okrug
+    ccp: "\U0001111B\U00011133\U00011122\U0001112D\U0001110C\U00011134\U00011122\U0001112C\U0001111A\U00011134"
   geo:
     latitude: 43.6930556
     longitude: 19.28
@@ -1391,6 +1474,9 @@
     nl: Kosovskomitrovački upravni okrug
     sr: Косовскомитровачки управни округ
     ur: کوسووسکا میتروویتسا ضلع
+    sr_Latn: Kosovskomitrovački upravni okrug
+    ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111B\U00011134\U0001110C\U00011133\U00011107
+      \U0001111F\U00011128\U00011111\U00011133\U00011122\U0001112E\U0001111E\U00011128\U00011107"
   geo:
     latitude: 44.9980615
     longitude: 19.8087171
@@ -1414,6 +1500,8 @@
     ru: Косовско-Поморавский округ
     sr: Косовскопоморавски управни округ
     ur: کوسووہ پوموراولیے ضلع
+    sr_Latn: Kosovskopomoravski upravni okrug
+    ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111E\U0001112E \U0001111B\U00011127\U0001111F\U0001112E\U00011122\U0001111B\U00011134\U0001110E\U0001112C"
   geo:
     latitude: 
     longitude: 
@@ -1471,6 +1559,9 @@ VO:
     uk: Воєводина
     ur: وئوودینا
     vi: Vojvodina
+    sr_Latn: Vojvodina
+    zh: 伏伊伏丁那
+    ccp: "\U0001111E\U0001112E\U0001110C\U00011134\U0001111E\U0001112E\U00011113\U00011128\U0001111A"
 KM:
   translations:
     be: Косава і Мятохія
@@ -1493,3 +1584,6 @@ KM:
     sr: Косово и Метохија
     tr: Kosova ve Metohiya Özerk Bölgesi
     uk: Автономний край Косово і Метохія
+    sr_Latn: Kosovo i Metohija
+    zh: 科索沃和梅托希亚自治省
+    ccp: "\U00011107\U00011127\U00011125\U0001112E\U0001111E\U0001112C-\U0001111F\U0001112C\U00011111\U0001112E\U00011126\U00011128\U0001110E"
